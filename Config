@@ -111,5 +111,13 @@
          "lessonNumber":"13",
          "versionCode":4
       }
-   ]
+   ],
+   "egwHasAlert":false,
+   "appHasAlert":false,
+   "egwAlert":{
+      "title":"",
+      "subtitle":"",
+      "message":"",
+      "alertType":0
+   }
 }
