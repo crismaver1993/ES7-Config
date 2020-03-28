@@ -1,8 +1,8 @@
 {
-   "id":1,
-   "quarter":"1T2020",
-   "latestVersionName":"2.3.1",
-   "latestVersionCode":140,
+   "id":2,
+   "quarter":"2T2020",
+   "latestVersionName":"2.4.0",
+   "latestVersionCode":150,
    "forceUpdate":false,
    "adultLessons":[
       {
@@ -27,69 +27,69 @@
       },
       {
          "lessonNumber":"6",
-         "versionCode":2
+         "versionCode":1
       },
       {
          "lessonNumber":"7",
-         "versionCode":2
+         "versionCode":1
       },
       {
          "lessonNumber":"8",
-         "versionCode":2
+         "versionCode":1
       },
       {
          "lessonNumber":"9",
-         "versionCode":4
+         "versionCode":1
       },
       {
          "lessonNumber":"10",
-         "versionCode":2
+         "versionCode":1
       },
       {
          "lessonNumber":"11",
-         "versionCode":2
+         "versionCode":1
       },
       {
          "lessonNumber":"12",
-         "versionCode":2
+         "versionCode":1
       },
       {
          "lessonNumber":"13",
-         "versionCode":3
+         "versionCode":1
       }
    ],
    "egwLessons":[
       {
          "lessonNumber":"1",
-         "versionCode":2
+         "versionCode":1
       },
       {
          "lessonNumber":"2",
-         "versionCode":3
+         "versionCode":1
       },
       {
          "lessonNumber":"3",
-         "versionCode":3
+         "versionCode":1
       },
       {
          "lessonNumber":"4",
-         "versionCode":3
+         "versionCode":1
       },
       {
          "lessonNumber":"5",
-         "versionCode":3
+         "versionCode":1
       },
       {
          "lessonNumber":"6",
-         "versionCode":3
+         "versionCode":2
       },
       {
          "lessonNumber":"7",
-         "versionCode":4
+         "versionCode":2
       },
       {
          "lessonNumber":"8",
-         "versionCode":4
+         "versionCode":2
       },
       {
          "lessonNumber":"9",
@@ -97,19 +97,19 @@
       },
       {
          "lessonNumber":"10",
-         "versionCode":4
+         "versionCode":2
       },
       {
          "lessonNumber":"11",
-         "versionCode":4
+         "versionCode":2
       },
       {
          "lessonNumber":"12",
-         "versionCode":4
+         "versionCode":2
       },
       {
          "lessonNumber":"13",
-         "versionCode":4
+         "versionCode":3
       }
    ],
    "egwHasAlert":false,
