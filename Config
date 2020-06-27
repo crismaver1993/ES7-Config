@@ -1,8 +1,8 @@
 {
-   "id":2,
-   "quarter":"2T2020",
-   "latestVersionName":"2.4.0",
-   "latestVersionCode":150,
+   "id":3,
+   "quarter":"3T2020",
+   "latestVersionName":"2.5.1",
+   "latestVersionCode":162,
    "forceUpdate":false,
    "adultLessons":[
       {
@@ -55,7 +55,7 @@
       },
       {
          "lessonNumber":"13",
-         "versionCode":1
+         "versionCode":3
       }
    ],
    "egwLessons":[
