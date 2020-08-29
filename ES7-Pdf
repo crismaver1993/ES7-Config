@@ -25,5 +25,60 @@
       "language":"es",
       "image": "https://cldup.com/lt6MI7s0rA.jpg",
       "author": "ACES"
+      },
+      {
+      "id":1,
+      "name":"La gracia de Dios nos da Fe",
+      "age":"",
+      "type":"Intermediarios",
+      "quarter":"3T2020",
+      "isCurrentQuarter":true,
+      "quarterDate":"",
+      "pdfUrl":"https://cldup.com/AYe5ihZuek.pdf",
+      "language":"es",
+      "image": "https://cldup.com/lr7XKDLrjN.jpg",
+      "author": "ACES"
+      },
+      
+      {
+      "id":1,
+      "name":"",
+      "age":"7-9 años",
+      "type":"Primarios",
+      "quarter":"3T2020",
+      "isCurrentQuarter":true,
+      "quarterDate":"",
+      "pdfUrl":"https://cldup.com/QY5IRNrZp4.pdf",
+      "language":"es",
+      "image": "https://cldup.com/KFwLyaYSyk.jpg",
+      "author": "ACES"
+      },
+      
+      {
+      "id":1,
+      "name":"",
+      "age":"4-6 años",
+      "type":"Infantes",
+      "quarter":"3T2020",
+      "isCurrentQuarter":true,
+      "quarterDate":"",
+      "pdfUrl":"https://cldup.com/vFklWV8bsh.pdf",
+      "language":"es",
+      "image": "https://cldup.com/U7thA0TdfH.jpg",
+      "author": "ACES"
+      },
+      
+      {
+      "id":1,
+      "name":"",
+      "age":"0-3 años",
+      "type":"Cuna",
+      "quarter":"3T2020",
+      "isCurrentQuarter":true,
+      "quarterDate":"",
+      "pdfUrl":"https://cldup.com/r3WngoI2wD.pdf",
+      "language":"es",
+      "image": "https://cldup.com/bnjzW5aEtk.jpg",
+      "author": "ACES"
       }
 ]
