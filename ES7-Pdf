@@ -3,11 +3,25 @@
       "id":1,
       "name":"Ser un verbo activo",
       "age":"",
-      "type":"jovenes",
+      "type":"Jóvenes",
       "quarter":"3T2020",
       "isCurrentQuarter":true,
       "quarterDate":"",
       "pdfUrl":"https://cldup.com/hKYgweUu7A.pdf",
-      "language":"es"
-   }
+      "language":"es",
+      "image": "https://cldup.com/Y5r2-dVev1.jpg"
+      },
+      
+      {
+      "id":1,
+      "name":"Volver al futuro",
+      "age":"",
+      "type":"Juveniles",
+      "quarter":"3T2020",
+      "isCurrentQuarter":true,
+      "quarterDate":"",
+      "pdfUrl":"https://cldup.com/IM0sLrOcEs.pdf",
+      "language":"es",
+      "image": "https://cldup.com/lt6MI7s0rA.jpg"
+      }
 ]
