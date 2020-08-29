@@ -5,7 +5,7 @@
       "age":"",
       "type":"jovenes",
       "quarter":"3T2020",
-      "isCurentQuarter":true,
+      "isCurrentQuarter":true,
       "quarterDate":"",
       "pdfUrl":"https://cldup.com/hKYgweUu7A.pdf",
       "language":"es"
