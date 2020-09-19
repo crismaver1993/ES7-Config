@@ -7,55 +7,55 @@
    "adultLessons":[
       {
          "lessonNumber":"1",
-         "versionCode":1
+         "versionCode":3
       },
       {
          "lessonNumber":"2",
-         "versionCode":1
+         "versionCode":3
       },
       {
          "lessonNumber":"3",
-         "versionCode":1
+         "versionCode":4
       },
       {
          "lessonNumber":"4",
-         "versionCode":1
+         "versionCode":3
       },
       {
          "lessonNumber":"5",
-         "versionCode":1
+         "versionCode":3
       },
       {
          "lessonNumber":"6",
-         "versionCode":1
+         "versionCode":3
       },
       {
          "lessonNumber":"7",
-         "versionCode":1
+         "versionCode":3
       },
       {
          "lessonNumber":"8",
-         "versionCode":1
+         "versionCode":3
       },
       {
          "lessonNumber":"9",
-         "versionCode":1
+         "versionCode":3
       },
       {
          "lessonNumber":"10",
-         "versionCode":1
+         "versionCode":3
       },
       {
          "lessonNumber":"11",
-         "versionCode":1
+         "versionCode":3
       },
       {
          "lessonNumber":"12",
-         "versionCode":1
+         "versionCode":8
       },
       {
          "lessonNumber":"13",
-         "versionCode":1
+         "versionCode":3
       }
    ],
    "egwLessons":[
