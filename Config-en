@@ -1,8 +1,8 @@
 {
    "id":3,
-   "quarter":"3T2020",
-   "latestVersionName":"2.5.1",
-   "latestVersionCode":162,
+   "quarter":"4T2020",
+   "latestVersionName":"2.7.0",
+   "latestVersionCode":174,
    "forceUpdate":false,
    "adultLessons":[
       {
