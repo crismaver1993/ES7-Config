@@ -7,7 +7,8 @@
    "latestVersionName":"2.7.0",
    "latestVersionCode":174,
    "forceUpdate":false,
-   "forceGoogleUpdate":false,
+   "googleUpdate":false,
+   "flexibleUpdate":true,
    "adultLessons":[
       {
          "lessonNumber":"1",
