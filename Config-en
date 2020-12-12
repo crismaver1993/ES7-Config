@@ -10,55 +10,81 @@
    "adultLessons":[
       {
          "lessonNumber":"1",
-         "versionCode":5
+         "versionCode":5,
+         "title":"testEN1",
+         "date":""
       },
       {
          "lessonNumber":"2",
-         "versionCode":5
+         "versionCode":5,
+         "title":"testEN1",
+         "date":""
       },
       {
          "lessonNumber":"3",
-         "versionCode":5
+         "versionCode":5,
+         "title":"",
+         "date":""
       },
       {
          "lessonNumber":"4",
-         "versionCode":5
+         "versionCode":5,
+         "title":"",
+         "date":""
       },
       {
          "lessonNumber":"5",
-         "versionCode":5
+         "versionCode":5,
+         "title":"",
+         "date":""
       },
       {
          "lessonNumber":"6",
-         "versionCode":5
+         "versionCode":5,
+         "title":"",
+         "date":""
       },
       {
          "lessonNumber":"7",
-         "versionCode":5
+         "versionCode":5,
+         "title":"",
+         "date":""
       },
       {
          "lessonNumber":"8",
-         "versionCode":5
+         "versionCode":5,
+         "title":"",
+         "date":""
       },
       {
          "lessonNumber":"9",
-         "versionCode":5
+         "versionCode":5,
+         "title":"",
+         "date":""
       },
       {
          "lessonNumber":"10",
-         "versionCode":6
+         "versionCode":6,
+         "title":"",
+         "date":""
       },
       {
          "lessonNumber":"11",
-         "versionCode":5
+         "versionCode":5,
+         "title":"",
+         "date":""
       },
       {
          "lessonNumber":"12",
-         "versionCode":5
+         "versionCode":5,
+         "title":"",
+         "date":""
       },
       {
          "lessonNumber":"13",
-         "versionCode":5
+         "versionCode":5,
+         "title":"",
+         "date":""
       }
    ],
    "egwLessons":[
