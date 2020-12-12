@@ -11,7 +11,7 @@
       },
       {
          "lessonNumber":"2",
-         "versionCode":6
+         "versionCode":5
       },
       {
          "lessonNumber":"3",
@@ -43,7 +43,7 @@
       },
       {
          "lessonNumber":"10",
-         "versionCode":7
+         "versionCode":6
       },
       {
          "lessonNumber":"11",
@@ -61,55 +61,55 @@
    "egwLessons":[
       {
          "lessonNumber":"1",
-         "versionCode":5
+         "versionCode":0
       },
       {
          "lessonNumber":"2",
-         "versionCode":5
+         "versionCode":0
       },
       {
          "lessonNumber":"3",
-         "versionCode":5
+         "versionCode":0
       },
       {
          "lessonNumber":"4",
-         "versionCode":5
+         "versionCode":0
       },
       {
          "lessonNumber":"5",
-         "versionCode":5
+         "versionCode":0
       },
       {
          "lessonNumber":"6",
-         "versionCode":5
+         "versionCode":0
       },
       {
          "lessonNumber":"7",
-         "versionCode":7
+         "versionCode":0
       },
       {
          "lessonNumber":"8",
-         "versionCode":5
+         "versionCode":0
       },
       {
          "lessonNumber":"9",
-         "versionCode":5
+         "versionCode":0
       },
       {
          "lessonNumber":"10",
-         "versionCode":5
+         "versionCode":0
       },
       {
          "lessonNumber":"11",
-         "versionCode":5
+         "versionCode":0
       },
       {
          "lessonNumber":"12",
-         "versionCode":5
+         "versionCode":0
       },
       {
          "lessonNumber":"13",
-         "versionCode":6
+         "versionCode":0
       }
    ],
    "egwHasAlert":false,

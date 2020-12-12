@@ -1,0 +1,126 @@
+[
+   {
+      "id":1,
+      "name":"Caminar en el Espiritu - DIA",
+      "age":"",
+      "type":"Juveniles - DIA",
+      "quarter":"4T2020",
+      "isCurrentQuarter":true,
+      "quarterDate":"",
+      "pdfUrl":"https://cldup.com/-evI-tppUl.pdf",
+      "language":"es",
+      "image": "https://cldup.com/ZfRApKXfFE.png",
+      "author": "ACES"
+      },
+      
+      {
+      "id":1,
+      "name":"FE REAL",
+      "age":"",
+      "type":"Juveniles",
+      "quarter":"4T2020",
+      "isCurrentQuarter":true,
+      "quarterDate":"",
+      "pdfUrl":"https://cldup.com/s_NksFbb0C.pdf",
+      "language":"es",
+      "image": "https://cldup.com/LiunoDCdCH.png",
+      "author": "ACES"
+      },
+      {
+      "id":1,
+      "name":"La Gracia de Dios nos rescata",
+      "age":"",
+      "type":"Intermediarios - DIA",
+      "quarter":"4T2020",
+      "isCurrentQuarter":true,
+      "quarterDate":"",
+      "pdfUrl":"https://cldup.com/Z3eCUMJvZA.pdf",
+      "language":"es",
+      "image": "https://cldup.com/0H7FbYLmyK.png",
+      "author": "ACES"
+      },
+      
+      {
+      "id":1,
+      "name":"La Gracia de Dios nos rescata",
+      "age":"",
+      "type":"Intermediarios - DSA",
+      "quarter":"4T2020",
+      "isCurrentQuarter":true,
+      "quarterDate":"",
+      "pdfUrl":"https://cldup.com/nCqLjo63uK.pdf",
+      "language":"es",
+      "image": "https://cldup.com/0H7FbYLmyK.png",
+      "author": "ACES"
+      },
+      
+      {
+      "id":1,
+      "name":"",
+      "age":"7-9 años",
+      "type":"Primarios",
+      "quarter":"4T2020",
+      "isCurrentQuarter":true,
+      "quarterDate":"",
+      "pdfUrl":"https://cldup.com/3WKlNlZEPY.pdf",
+      "language":"es",
+      "image": "https://cldup.com/WOf5Q3gTxX.png",
+      "author": "ACES"
+      },
+      
+      {
+      "id":1,
+      "name":"",
+      "age":"4-6 años",
+      "type":"Infantes",
+      "quarter":"4T2020",
+      "isCurrentQuarter":true,
+      "quarterDate":"",
+      "pdfUrl":"https://cldup.com/cMwzkxJDjY.pdf",
+      "language":"es",
+      "image": "https://cldup.com/PMT8kJH6sh.png",
+      "author": "ACES"
+      },
+      
+      {
+      "id":1,
+      "name":"",
+      "age":"0-3 años",
+      "type":"Cuna",
+      "quarter":"4T2020",
+      "isCurrentQuarter":true,
+      "quarterDate":"",
+      "pdfUrl":"https://cldup.com/2c-95TJyBI.pdf",
+      "language":"es",
+      "image": "https://cldup.com/CJLjph3OF4.png",
+      "author": "ACES"
+      },
+      
+      {
+      "id":1,
+      "name":"Libertad de Elegir",
+      "age":"",
+      "type":"Cuna",
+      "quarter":"4T2020",
+      "isCurrentQuarter":true,
+      "quarterDate":"",
+      "pdfUrl":"https://cldup.com/fTLF7fNvr9.pdf",
+      "language":"es",
+      "image": "https://cldup.com/YSdo8jOHA1.png",
+      "author": "DSA"
+      },
+      
+      {
+      "id":1,
+      "name":"Misionero Niños",
+      "age":"",
+      "type":"",
+      "quarter":"4T2020",
+      "isCurrentQuarter":true,
+      "quarterDate":"",
+      "pdfUrl":"https://cldup.com/rCqjDAKVnT.pdf",
+      "language":"es",
+      "image": "https://cldup.com/L9N-HfuHF7.png",
+      "author": "IASD"
+      }
+]
