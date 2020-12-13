@@ -1,6 +1,6 @@
 {
    "id":3,
-   "title":"",
+   "title":"La Educación",
    "color":"",
    "quarterText":"",
    "quarter":"4T2020",
@@ -13,92 +13,92 @@
       {
          "lessonNumber":"1",
          "versionCode":5,
-         "title":"testEs1",
-         "date":"",
-         "remoteColor": "#000000"
+         "title":"La educación en el Jardín del Edén ",
+         "date":"26 de Septiembre 26–2 de Octubre",
+         "remoteColor": ""
       },
       {
          "lessonNumber":"2",
          "versionCode":6,
-         "title":"testEs2",
-         "date":"",
+         "title":"La familia",
+         "date":"3–9 de Octubre",
          "remoteColor": ""
       },
       {
          "lessonNumber":"3",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"La Ley como educadora",
+         "date":"10–16 de Octubre",
          "remoteColor": ""
       },
       {
          "lessonNumber":"4",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"Los ojos de Jehová: La cosmovisión bíblica",
+         "date":"17–23 de Octubre",
          "remoteColor": ""
       },
       {
          "lessonNumber":"5",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"Jesús como el gran Maestro",
+         "date":"24–30 de Octubre",
          "remoteColor": ""
       },
       {
          "lessonNumber":"6",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"Más lecciones del gran Maestro",
+         "date":"31 de Octubre–6 de Noviembre",
          "remoteColor": ""
       },
       {
          "lessonNumber":"7",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"La adoración en la educación",
+         "date":"7–13 de Noviembre",
          "remoteColor": ""
       },
       {
          "lessonNumber":"8",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"Educación y redención",
+         "date":"14–20 de Noviembre",
          "remoteColor": ""
       },
       {
          "lessonNumber":"9",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"La iglesia y la educación",
+         "date":"21–27 de Noviembre",
          "remoteColor": ""
       },
       {
          "lessonNumber":"10",
          "versionCode":7,
-         "title":"",
-         "date":"",
+         "title":"La educación artística y científica",
+         "date":"28 de Noviembre–4 de Diciembre ",
          "remoteColor": ""
       },
       {
          "lessonNumber":"11",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"El cristiano y el trabajo",
+         "date":"5–11 de Diciembre",
          "remoteColor": ""
       },
       {
          "lessonNumber":"12",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"El sábado: Cómo experimentar y vivir el carácter de Dios",
+         "date":"12–18 de Diciembre",
          "remoteColor": ""
       },
       {
          "lessonNumber":"13",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"El cielo, la educación y el eterno aprendizaje",
+         "date":"19–25 de Diciembre",
          "remoteColor": ""
       }
    ],
@@ -106,92 +106,92 @@
       {
          "lessonNumber":"1",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"La educación en el Jardín del Edén ",
+         "date":"26 de Septiembre 26–2 de Octubre",
          "remoteColor": ""
       },
       {
          "lessonNumber":"2",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"La familia",
+         "date":"3–9 de Octubre",
          "remoteColor": ""
       },
       {
          "lessonNumber":"3",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"La Ley como educadora",
+         "date":"10–16 de Octubre",
          "remoteColor": ""
       },
       {
          "lessonNumber":"4",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"Los ojos de Jehová: La cosmovisión bíblica",
+         "date":"17–23 de Octubre",
          "remoteColor": ""
       },
       {
          "lessonNumber":"5",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"Jesús como el gran Maestro",
+         "date":"24–30 de Octubre",
          "remoteColor": ""
       },
       {
          "lessonNumber":"6",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"Más lecciones del gran Maestro",
+         "date":"31 de Octubre–6 de Noviembre",
          "remoteColor": ""
       },
       {
          "lessonNumber":"7",
          "versionCode":7,
-         "title":"",
-         "date":"",
+         "title":"La adoración en la educación",
+         "date":"7–13 de Noviembre",
          "remoteColor": ""
       },
       {
          "lessonNumber":"8",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"Educación y redención",
+         "date":"14–20 de Noviembre",
          "remoteColor": ""
       },
       {
          "lessonNumber":"9",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"La iglesia y la educación",
+         "date":"21–27 de Noviembre",
          "remoteColor": ""
       },
       {
          "lessonNumber":"10",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"La educación artística y científica",
+         "date":"28 de Noviembre–4 de Diciembre ",
          "remoteColor": ""
       },
       {
          "lessonNumber":"11",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"El cristiano y el trabajo",
+         "date":"5–11 de Diciembre",
          "remoteColor": ""
       },
       {
          "lessonNumber":"12",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"El sábado: Cómo experimentar y vivir el carácter de Dios",
+         "date":"12–18 de Diciembre",
          "remoteColor": ""
       },
       {
          "lessonNumber":"13",
          "versionCode":6,
-         "title":"",
-         "date":"",
+         "title":"El cielo, la educación y el eterno aprendizaje",
+         "date":"19–25 de Diciembre",
          "remoteColor": ""
       }
    ],
