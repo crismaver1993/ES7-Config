@@ -14,79 +14,92 @@
          "lessonNumber":"1",
          "versionCode":5,
          "title":"testEs1",
-         "date":""
+         "date":"",
+         "color":""
       },
       {
          "lessonNumber":"2",
          "versionCode":6,
          "title":"testEs2",
-         "date":""
+         "date":"",
+         "color":""
       },
       {
          "lessonNumber":"3",
          "versionCode":5,
          "title":"",
-         "date":""
+         "date":"",
+         "color":""
       },
       {
          "lessonNumber":"4",
          "versionCode":5,
          "title":"",
-         "date":""
+         "date":"",
+         "color":""
       },
       {
          "lessonNumber":"5",
          "versionCode":5,
          "title":"",
-         "date":""
+         "date":"",
+         "color":""
       },
       {
          "lessonNumber":"6",
          "versionCode":5,
          "title":"",
-         "date":""
+         "date":"",
+         "color":""
       },
       {
          "lessonNumber":"7",
          "versionCode":5,
          "title":"",
-         "date":""
+         "date":"",
+         "color":""
       },
       {
          "lessonNumber":"8",
          "versionCode":5,
          "title":"",
-         "date":""
+         "date":"",
+         "color":""
       },
       {
          "lessonNumber":"9",
          "versionCode":5,
          "title":"",
-         "date":""
+         "date":"",
+         "color":""
       },
       {
          "lessonNumber":"10",
          "versionCode":7,
          "title":"",
-         "date":""
+         "date":"",
+         "color":""
       },
       {
          "lessonNumber":"11",
          "versionCode":5,
          "title":"",
-         "date":""
+         "date":"",
+         "color":""
       },
       {
          "lessonNumber":"12",
          "versionCode":5,
          "title":"",
-         "date":""
+         "date":"",
+         "color":""
       },
       {
          "lessonNumber":"13",
          "versionCode":5,
          "title":"",
-         "date":""
+         "date":"",
+         "color":""
       }
    ],
    "egwLessons":[
@@ -94,73 +107,85 @@
          "lessonNumber":"1",
          "versionCode":5,
          "title":"",
-         "date":""
+         "date":"",
+         "color":""
       },
       {
          "lessonNumber":"2",
          "versionCode":5,
          "title":"",
-         "date":""
+         "date":"",
+         "color":""
       },
       {
          "lessonNumber":"3",
          "versionCode":5,
          "title":"",
-         "date":""
+         "date":"",
+         "color":""
       },
       {
          "lessonNumber":"4",
          "versionCode":5,
          "title":"",
-         "date":""
+         "date":"",
+         "color":""
       },
       {
          "lessonNumber":"5",
          "versionCode":5,
          "title":"",
-         "date":""
+         "date":"",
+         "color":""
       },
       {
          "lessonNumber":"6",
          "versionCode":5,
          "title":"",
-         "date":""
+         "date":"",
+         "color":""
       },
       {
          "lessonNumber":"7",
          "versionCode":7,
          "title":"",
-         "date":""
+         "date":"",
+         "color":""
       },
       {
          "lessonNumber":"8",
          "versionCode":5,
          "title":"",
-         "date":""
+         "date":"",
+         "color":""
       },
       {
          "lessonNumber":"9",
          "versionCode":5,
          "title":"",
-         "date":""
+         "date":"",
+         "color":""
       },
       {
          "lessonNumber":"10",
          "versionCode":5,
          "title":"",
-         "date":""
+         "date":"",
+         "color":""
       },
       {
          "lessonNumber":"11",
          "versionCode":5,
          "title":"",
-         "date":""
+         "date":"",
+         "color":""
       },
       {
          "lessonNumber":"12",
          "versionCode":5,
          "title":"",
-         "date":""
+         "date":"",
+         "color":""
       },
       {
          "lessonNumber":"13",
