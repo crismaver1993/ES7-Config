@@ -1,6 +1,6 @@
 {
    "id":3,
-   "title":"",
+   "title":"Education",
    "color":"",
    "quarterText":"",
    "quarter":"4T2020",
@@ -12,92 +12,92 @@
       {
          "lessonNumber":"1",
          "versionCode":5,
-         "title":"testEN1",
-         "date":"",
-         "remoteColor": "#000000"
+         "title":"Education in the Garden of Eden",
+         "date":"September 26–October 2",
+         "remoteColor": ""
       },
       {
          "lessonNumber":"2",
          "versionCode":5,
-         "title":"testEN1",
-         "date":"",
+         "title":"The Family",
+         "date":"October 3–9 ",
          "remoteColor": ""
       },
       {
          "lessonNumber":"3",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"The Law as Teacher",
+         "date":"October 10–16",
          "remoteColor": ""
       },
       {
          "lessonNumber":"4",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"\“The Eyes of the Lord\”: The Biblical Worldview",
+         "date":"October 17–23",
          "remoteColor": ""
       },
       {
          "lessonNumber":"5",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"Jesus as the Master Teacher",
+         "date":"October 24–30",
          "remoteColor": ""
       },
       {
          "lessonNumber":"6",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"More Lessons From the Master Teacher",
+         "date":"October 31–November 6",
          "remoteColor": ""
       },
       {
          "lessonNumber":"7",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"Worship in Education",
+         "date":"November 7–13",
          "remoteColor": ""
       },
       {
          "lessonNumber":"8",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"Education and Redemption",
+         "date":"November 14–20",
          "remoteColor": ""
       },
       {
          "lessonNumber":"9",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"The Church and Education",
+         "date":"November 28–December 4",
          "remoteColor": ""
       },
       {
          "lessonNumber":"10",
          "versionCode":6,
-         "title":"",
-         "date":"",
+         "title":"Education in Arts and Sciences",
+         "date":"November 28–December 4",
          "remoteColor": ""
       },
       {
          "lessonNumber":"11",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"The Christian and Work",
+         "date":"December 5–11",
          "remoteColor": ""
       },
       {
          "lessonNumber":"12",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"Sabbath: Experiencing and Living the Character of God",
+         "date":"December 12–18 ",
          "remoteColor": ""
       },
       {
          "lessonNumber":"13",
          "versionCode":5,
-         "title":"",
-         "date":"",
+         "title":"Heaven,  Education, and Eternal Learning",
+         "date":"December 19–25",
          "remoteColor": ""
       }
    ],
