@@ -1,9 +1,9 @@
 {
    "id":3,
-   "title":"Education",
-   "color":"",
-   "quarterText":"",
-   "quarter":"4T2020",
+   "title":"Isaiah",
+   "color":"#001d6c",
+   "quarterText":"1st Quarter 2021",
+   "quarter":"1T2021",
    "latestVersionName":"2.7.0",
    "latestVersionCode":174,
    "googleUpdate":false,
@@ -11,93 +11,93 @@
    "adultLessons":[
       {
          "lessonNumber":"1",
-         "versionCode":5,
-         "title":"Education in the Garden of Eden",
-         "date":"September 26–October 2",
+         "versionCode":1,
+         "title":"Crisis of Identity",
+         "date":"December 26–January 1",
          "remoteColor":""
       },
       {
          "lessonNumber":"2",
-         "versionCode":5,
-         "title":"The Family",
-         "date":"October 3–9 ",
+         "versionCode":1,
+         "title":"Crisis of Leadership",
+         "date":"January 2–8",
          "remoteColor":""
       },
       {
          "lessonNumber":"3",
-         "versionCode":5,
-         "title":"The Law as Teacher",
-         "date":"October 10–16",
+         "versionCode":1,
+         "title":"When Your World Is Falling Apart",
+         "date":"January 9–15",
          "remoteColor":""
       },
       {
          "lessonNumber":"4",
-         "versionCode":5,
-         "title":"\"The Eyes of the Lord\": The Biblical Worldview",
-         "date":"October 17–23",
+         "versionCode":1,
+         "title":"The Hard Way",
+         "date":"January 16–22",
          "remoteColor":""
       },
       {
          "lessonNumber":"5",
-         "versionCode":5,
-         "title":"Jesus as the Master Teacher",
-         "date":"October 24–30",
+         "versionCode":1,
+         "title":"Noble Prince of Peace",
+         "date":"January 23–29",
          "remoteColor":""
       },
       {
          "lessonNumber":"6",
-         "versionCode":5,
-         "title":"More Lessons From the Master Teacher",
-         "date":"October 31–November 6",
+         "versionCode":1,
+         "title":"Playing God",
+         "date":"January 30–February 5",
          "remoteColor":""
       },
       {
          "lessonNumber":"7",
-         "versionCode":5,
-         "title":"Worship in Education",
-         "date":"November 7–13",
+         "versionCode":1,
+         "title":"Defeat of the Assyrians",
+         "date":"February 6–12",
          "remoteColor":""
       },
       {
          "lessonNumber":"8",
-         "versionCode":5,
-         "title":"Education and Redemption",
-         "date":"November 14–20",
+         "versionCode":1,
+         "title":"Comfort My People",
+         "date":"February 13–19",
          "remoteColor":""
       },
       {
          "lessonNumber":"9",
-         "versionCode":5,
-         "title":"The Church and Education",
-         "date":"November 28–December 4",
+         "versionCode":1,
+         "title":"To Serve and to Save",
+         "date":"February 20–26",
          "remoteColor":""
       },
       {
          "lessonNumber":"10",
-         "versionCode":6,
-         "title":"Education in Arts and Sciences",
-         "date":"November 28–December 4",
+         "versionCode":1,
+         "title":"Doing the Unthinkable",
+         "date":"February 27–March 5",
          "remoteColor":""
       },
       {
          "lessonNumber":"11",
-         "versionCode":5,
-         "title":"The Christian and Work",
-         "date":"December 5–11",
+         "versionCode":1,
+         "title":"Waging Love",
+         "date":"March 6–12",
          "remoteColor":""
       },
       {
          "lessonNumber":"12",
-         "versionCode":5,
-         "title":"Sabbath: Experiencing and Living the Character of God",
-         "date":"December 12–18 ",
+         "versionCode":1,
+         "title":"Desire of Nations",
+         "date":"March 13–19",
          "remoteColor":""
       },
       {
          "lessonNumber":"13",
-         "versionCode":5,
-         "title":"Heaven,  Education, and Eternal Learning",
-         "date":"December 19–25",
+         "versionCode":1,
+         "title":"Rebirth of Planet Earth",
+         "date":"March 20–26",
          "remoteColor":""
       }
    ],
