@@ -1,9 +1,9 @@
 {
    "id":3,
-   "title":"La Educación",
-   "color":"",
-   "quarterText":"",
-   "quarter":"4T2020",
+   "title":"Isasías",
+   "color":"#001d6c",
+   "quarterText":"1 Trimestre 2021",
+   "quarter":"1T2021",
    "latestVersionName":"2.7.0",
    "latestVersionCode":174,
    "forceUpdate":false,
@@ -12,187 +12,187 @@
    "adultLessons":[
       {
          "lessonNumber":"1",
-         "versionCode":5,
-         "title":"La educación en el Jardín del Edén ",
-         "date":"26 de Septiembre 26–2 de Octubre",
-         "remoteColor": ""
+         "versionCode":1,
+         "title":"Crisis de identidad",
+         "date":"Diciembre 26–Enero 1",
+         "remoteColor":""
       },
       {
          "lessonNumber":"2",
-         "versionCode":6,
-         "title":"La familia",
-         "date":"3–9 de Octubre",
-         "remoteColor": ""
+         "versionCode":1,
+         "title":"Crisis de liderazgo",
+         "date":"2-8 de Enero",
+         "remoteColor":""
       },
       {
          "lessonNumber":"3",
-         "versionCode":5,
-         "title":"La Ley como educadora",
-         "date":"10–16 de Octubre",
-         "remoteColor": ""
+         "versionCode":1,
+         "title":"Cuando tu mundo se cae a pedazos",
+         "date":"9-15 de Enero",
+         "remoteColor":""
       },
       {
          "lessonNumber":"4",
-         "versionCode":5,
-         "title":"Los ojos de Jehová: La cosmovisión bíblica",
-         "date":"17–23 de Octubre",
-         "remoteColor": ""
+         "versionCode":1,
+         "title":"Editando",
+         "date":"16-22 de Enero",
+         "remoteColor":""
       },
       {
          "lessonNumber":"5",
-         "versionCode":5,
-         "title":"Jesús como el gran Maestro",
-         "date":"24–30 de Octubre",
-         "remoteColor": ""
+         "versionCode":1,
+         "title":"Editando",
+         "date":"23-29 de Enero",
+         "remoteColor":""
       },
       {
          "lessonNumber":"6",
-         "versionCode":5,
-         "title":"Más lecciones del gran Maestro",
-         "date":"31 de Octubre–6 de Noviembre",
-         "remoteColor": ""
+         "versionCode":1,
+         "title":"Editando",
+         "date":"30 de Enero- 5 de Febrero",
+         "remoteColor":""
       },
       {
          "lessonNumber":"7",
-         "versionCode":5,
-         "title":"La adoración en la educación",
-         "date":"7–13 de Noviembre",
-         "remoteColor": ""
+         "versionCode":1,
+         "title":"Editando",
+         "date":"6-12 de Febrero",
+         "remoteColor":""
       },
       {
          "lessonNumber":"8",
-         "versionCode":5,
-         "title":"Educación y redención",
-         "date":"14–20 de Noviembre",
-         "remoteColor": ""
+         "versionCode":1,
+         "title":"Editando",
+         "date":"13-19 de Febrero",
+         "remoteColor":""
       },
       {
          "lessonNumber":"9",
-         "versionCode":5,
-         "title":"La iglesia y la educación",
-         "date":"21–27 de Noviembre",
-         "remoteColor": ""
+         "versionCode":1,
+         "title":"Editando",
+         "date":"20-26 de Febrero",
+         "remoteColor":""
       },
       {
          "lessonNumber":"10",
-         "versionCode":7,
-         "title":"La educación artística y científica",
-         "date":"28 de Noviembre–4 de Diciembre ",
-         "remoteColor": ""
+         "versionCode":1,
+         "title":"Editando",
+         "date":"27 de Febrero- 5 de Marzo",
+         "remoteColor":""
       },
       {
          "lessonNumber":"11",
-         "versionCode":5,
-         "title":"El cristiano y el trabajo",
-         "date":"5–11 de Diciembre",
-         "remoteColor": ""
+         "versionCode":1,
+         "title":"Editando",
+         "date":"6-12 de Marzo",
+         "remoteColor":""
       },
       {
          "lessonNumber":"12",
-         "versionCode":5,
-         "title":"El sábado: Cómo experimentar y vivir el carácter de Dios",
-         "date":"12–18 de Diciembre",
-         "remoteColor": ""
+         "versionCode":1,
+         "title":"Editando",
+         "date":"13-19 de Marzo",
+         "remoteColor":""
       },
       {
          "lessonNumber":"13",
-         "versionCode":5,
-         "title":"El cielo, la educación y el eterno aprendizaje",
-         "date":"19–25 de Diciembre",
-         "remoteColor": ""
+         "versionCode":1,
+         "title":"Editando",
+         "date":"20-26 de Marzo",
+         "remoteColor":""
       }
    ],
    "egwLessons":[
       {
          "lessonNumber":"1",
          "versionCode":5,
-         "title":"La educación en el Jardín del Edén ",
-         "date":"26 de Septiembre 26–2 de Octubre",
-         "remoteColor": ""
+         "title":"Editando",
+         "date":"26 de Diciembre- 1 de Enero",
+         "remoteColor":""
       },
       {
          "lessonNumber":"2",
          "versionCode":5,
-         "title":"La familia",
-         "date":"3–9 de Octubre",
-         "remoteColor": ""
+         "title":"Editando",
+         "date":"2-8 de Enero",
+         "remoteColor":""
       },
       {
          "lessonNumber":"3",
          "versionCode":5,
-         "title":"La Ley como educadora",
-         "date":"10–16 de Octubre",
-         "remoteColor": ""
+         "title":"Editando",
+         "date":"9-15 de Enero",
+         "remoteColor":""
       },
       {
          "lessonNumber":"4",
          "versionCode":5,
-         "title":"Los ojos de Jehová: La cosmovisión bíblica",
-         "date":"17–23 de Octubre",
-         "remoteColor": ""
+         "title":"Editando",
+         "date":"16-22 de Enero",
+         "remoteColor":""
       },
       {
          "lessonNumber":"5",
          "versionCode":5,
-         "title":"Jesús como el gran Maestro",
-         "date":"24–30 de Octubre",
-         "remoteColor": ""
+         "title":"Editando",
+         "date":"23-29 de Enero",
+         "remoteColor":""
       },
       {
          "lessonNumber":"6",
          "versionCode":5,
-         "title":"Más lecciones del gran Maestro",
-         "date":"31 de Octubre–6 de Noviembre",
-         "remoteColor": ""
+         "title":"Editando",
+         "date":"30 de Enero- 5 de Febrero",
+         "remoteColor":""
       },
       {
          "lessonNumber":"7",
          "versionCode":7,
-         "title":"La adoración en la educación",
-         "date":"7–13 de Noviembre",
-         "remoteColor": ""
+         "title":"Editando",
+         "date":"6-12 de Febrero",
+         "remoteColor":""
       },
       {
          "lessonNumber":"8",
          "versionCode":5,
-         "title":"Educación y redención",
-         "date":"14–20 de Noviembre",
-         "remoteColor": ""
+         "title":"Editando",
+         "date":"13-19 de Febrero",
+         "remoteColor":""
       },
       {
          "lessonNumber":"9",
          "versionCode":5,
-         "title":"La iglesia y la educación",
-         "date":"21–27 de Noviembre",
-         "remoteColor": ""
+         "title":"Editando",
+         "date":"20-26 de Febrero",
+         "remoteColor":""
       },
       {
          "lessonNumber":"10",
          "versionCode":5,
-         "title":"La educación artística y científica",
-         "date":"28 de Noviembre–4 de Diciembre ",
-         "remoteColor": ""
+         "title":"Editando",
+         "date":"27 de Febrero-5 de Marzo",
+         "remoteColor":""
       },
       {
          "lessonNumber":"11",
          "versionCode":5,
-         "title":"El cristiano y el trabajo",
-         "date":"5–11 de Diciembre",
-         "remoteColor": ""
+         "title":"Editando",
+         "date":"6-12 de Marzo",
+         "remoteColor":""
       },
       {
          "lessonNumber":"12",
          "versionCode":5,
-         "title":"El sábado: Cómo experimentar y vivir el carácter de Dios",
-         "date":"12–18 de Diciembre",
-         "remoteColor": ""
+         "title":"Editando",
+         "date":"13-19 de Marzo",
+         "remoteColor":""
       },
       {
          "lessonNumber":"13",
          "versionCode":6,
-         "title":"El cielo, la educación y el eterno aprendizaje",
-         "date":"19–25 de Diciembre",
-         "remoteColor": ""
+         "title":"Editando",
+         "date":"20-26 de Marzo",
+         "remoteColor":""
       }
    ],
    "egwHasAlert":false,
