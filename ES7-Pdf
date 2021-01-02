@@ -1,13 +1,42 @@
 [
-   {
+      {
       "id":1,
-      "name":"Caminar en el Espiritu - DIA",
+      "name":"Lección de Infantes - 1er Trimestre 2021",
+      "age":"4-6 años",
+      "type":"Infantes",
+      "quarter":"1T2021",
+      "isCurrentQuarter":true,
+      "quarterDate":"",
+      "pdfUrl":"https://cldup.com/XktpqbAFcx.pdf",
+      "language":"es",
+      "image": "https://cldup.com/uAmrl2RUQA.png",
+      "author": "ACES"
+      },
+      
+       
+       {
+      "id":1,
+      "name":"Manual Auxiliar de Juveniles - 1er Trimestre 2021",
+      "age":"",
+      "type":"Juveniles - DSA",
+      "quarter":"1T2021",
+      "isCurrentQuarter":true,
+      "quarterDate":"",
+      "pdfUrl":"https://cldup.com/uC0u3SbwJe.pdf",
+      "language":"es",
+      "image": "https://cldup.com/jIAacf5e7N.png",
+      "author": "ACES"
+      },
+      
+       {
+      "id":1,
+      "name":" Juveniles - 1er Trimestre 2021- DIA",
       "age":"",
       "type":"Juveniles - DIA",
       "quarter":"4T2020",
-      "isCurrentQuarter":false,
+      "isCurrentQuarter":true,
       "quarterDate":"",
-      "pdfUrl":"https://cldup.com/-evI-tppUl.pdf",
+      "pdfUrl":"https://cldup.com/vVFB0pSDRx.pdf",
       "language":"es",
       "image": "https://cldup.com/ZfRApKXfFE.png",
       "author": "ACES"
@@ -19,40 +48,28 @@
       "age":"",
       "type":"Juveniles",
       "quarter":"4T2020",
-      "isCurrentQuarter":false,
+      "isCurrentQuarter":true,
       "quarterDate":"",
-      "pdfUrl":"https://cldup.com/s_NksFbb0C.pdf",
+      "pdfUrl":"https://cldup.com/SsN5qkzebv.pdf",
       "language":"es",
-      "image": "https://cldup.com/LiunoDCdCH.png",
-      "author": "ACES"
-      },
-      {
-      "id":1,
-      "name":"La Gracia de Dios nos rescata",
-      "age":"",
-      "type":"Intermediarios - DIA",
-      "quarter":"4T2020",
-      "isCurrentQuarter":false,
-      "quarterDate":"",
-      "pdfUrl":"https://cldup.com/Z3eCUMJvZA.pdf",
-      "language":"es",
-      "image": "https://cldup.com/0H7FbYLmyK.png",
+      "image": "https://cldup.com/8gB3u2O2rj.png",
       "author": "ACES"
       },
       
       {
       "id":1,
-      "name":"La Gracia de Dios nos rescata",
+      "name":"Lección de Intermediarios | 1er Trimestre 2021 | Año B",
       "age":"",
-      "type":"Intermediarios - DSA",
+      "type":"Intermediarios - DIA",
       "quarter":"4T2020",
-      "isCurrentQuarter":false,
+      "isCurrentQuarter":true,
       "quarterDate":"",
-      "pdfUrl":"https://cldup.com/nCqLjo63uK.pdf",
+      "pdfUrl":"https://cldup.com/SPXCPjEAe1.pdf",
       "language":"es",
-      "image": "https://cldup.com/0H7FbYLmyK.png",
+      "image": "https://cldup.com/LSWOj-rB8Q.png",
       "author": "ACES"
       },
+      
       
       {
       "id":1,
@@ -65,20 +82,6 @@
       "pdfUrl":"https://cldup.com/3WKlNlZEPY.pdf",
       "language":"es",
       "image": "https://cldup.com/WOf5Q3gTxX.png",
-      "author": "ACES"
-      },
-      
-      {
-      "id":1,
-      "name":"Lección de Infantes - 1er Trimestre 2021",
-      "age":"4-6 años",
-      "type":"Infantes",
-      "quarter":"1T2021",
-      "isCurrentQuarter":true,
-      "quarterDate":"",
-      "pdfUrl":"https://cldup.com/cMwzkxJDjY.pdf",
-      "language":"es",
-      "image": "https://cldup.com/uAmrl2RUQA.png",
       "author": "ACES"
       },
       
