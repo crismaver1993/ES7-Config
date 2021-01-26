@@ -6,7 +6,7 @@
    "quarter":"1T2021",
    "latestVersionName":"2.7.0",
    "latestVersionCode":174,
-   "googleUpdate":false,
+   "googleUpdate":true,
    "flexibleUpdate":true,
    "adultLessons":[
       {
