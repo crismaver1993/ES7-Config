@@ -1,0 +1,123 @@
+{
+   "versionCode":1,
+   "quarter":"1T2021",
+   "language":"es",
+   "sketchList":[
+      {
+         "lessonId":"1",
+         "title": "01. CRISIS DE IDENTIDAD",
+         "url":"https://www.fustero.es/descargar.php?id=2021t101.pdf",
+         "creator":"Fusteros",
+         "updated":true,
+         "type":"Presentación",
+         "img": "https://cldup.com/pnH5RgnhJs.png"
+      },
+      {
+         "lessonId":"2",
+         "title": "02. CRISIS DE LIDERAZGO",
+         "url":"https://www.fustero.es/descargar.php?id=2021t102.pdf",
+         "creator":"Fusteros",
+         "updated":true,
+         "type":"Presentación",
+         "img": "https://cldup.com/pnH5RgnhJs.png"
+      },
+      {
+         "lessonId":"3",
+         "title": "03. CUANDO TU MUNDO SE CAE A PEDAZOS",
+         "url":"https://www.fustero.es/descargar.php?id=2021t103.pdf",
+         "creator":"Fusteros",
+         "updated":true,
+         "type":"Presentación",
+         "img": "https://cldup.com/pnH5RgnhJs.png"
+      },
+      {
+         "lessonId":"4",
+         "title": "04. POR LAS MALAS",
+         "url":"https://www.fustero.es/descargar.php?id=2021t104.pdf",
+         "creator":"Fusteros",
+         "updated":true,
+         "type":"Presentación",
+         "img": "https://cldup.com/pnH5RgnhJs.png"
+      },
+      {
+         "lessonId":"5",
+         "title": "05. NOBLE PRÍNCIPE DE PAZ",
+         "url":"https://www.fustero.es/descargar.php?id=2021t105.pdf",
+         "creator":"Fusteros",
+         "updated":false,
+         "type":"Presentación",
+         "img": "https://cldup.com/pnH5RgnhJs.png"
+      },
+      {
+         "lessonId":"6",
+         "title": "06. JUGAR A SER DIOS",
+         "url":"https://www.fustero.es/descargar.php?id=2021t106.pdf",
+         "creator":"Fusteros",
+         "updated":true,
+         "type":"Presentación",
+         "img": "https://cldup.com/pnH5RgnhJs.png"
+      },
+      {
+         "lessonId":"7",
+         "title": "",
+         "url":"https://www.fustero.es/descargar.php?id=2021t107.pdf",
+         "creator":"Fusteros",
+         "updated":false,
+         "type":"Presentación",
+         "img": "https://cldup.com/pnH5RgnhJs.png"
+      },
+      {
+         "lessonId":"8",
+         "title": "",
+         "url":"https://www.fustero.es/descargar.php?id=2021t108.pdf",
+         "creator":"Fusteros",
+         "updated":false,
+         "type":"Presentación",
+         "img": "https://cldup.com/pnH5RgnhJs.png"
+      },
+      {
+         "lessonId":"9",
+         "title": "",
+         "url":"https://www.fustero.es/descargar.php?id=2021t109.pdf",
+         "creator":"Fusteros",
+         "updated":false,
+         "type":"Presentación",
+         "img": "https://cldup.com/pnH5RgnhJs.png"
+      },
+      {
+         "lessonId":"10",
+         "title": "",
+         "url":"",
+         "creator":"Fusteros",
+         "updated":false,
+         "type":"Presentación",
+         "img": "https://cldup.com/pnH5RgnhJs.png"
+      },
+      {
+         "lessonId":"11",
+         "title": "",
+         "url":"",
+         "creator":"Fusteros",
+         "updated":false,
+         "type":"Presentación",
+         "img": "https://cldup.com/pnH5RgnhJs.png"
+      },
+      {
+         "lessonId":"12",
+         "title": "",
+         "url":"",
+         "creator":"Fusteros",
+         "updated":false,
+         "type":"Presentación",
+         "img": "https://cldup.com/pnH5RgnhJs.png"
+      },
+      {
+         "lessonId":"13",
+         "url":"",
+         "creator":"Fusteros",
+         "updated":false,
+         "type":"Presentación",
+         "img": "https://cldup.com/pnH5RgnhJs.png"
+      }
+   ]
+}

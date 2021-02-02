@@ -7,7 +7,7 @@
    "latestVersionName":"2.7.0",
    "latestVersionCode":174,
    "forceUpdate":false,
-   "googleUpdate":false,
+   "googleUpdate":true,
    "flexibleUpdate":true,
    "adultLessons":[
       {
@@ -26,78 +26,78 @@
       },
       {
          "lessonNumber":"3",
-         "versionCode":1,
+         "versionCode":2,
          "title":"Cuando tu mundo se cae a pedazos",
          "date":"9-15 de Enero",
          "remoteColor":""
       },
       {
          "lessonNumber":"4",
-         "versionCode":1,
-         "title":"Editando",
+         "versionCode":2,
+         "title":"Por las malas",
          "date":"16-22 de Enero",
          "remoteColor":""
       },
       {
          "lessonNumber":"5",
-         "versionCode":1,
-         "title":"Editando",
+         "versionCode":2,
+         "title":"Noble Príncipe De Paz",
          "date":"23-29 de Enero",
          "remoteColor":""
       },
       {
          "lessonNumber":"6",
-         "versionCode":1,
-         "title":"Editando",
+         "versionCode":2,
+         "title":"Jugar a ser Dios",
          "date":"30 de Enero- 5 de Febrero",
          "remoteColor":""
       },
       {
          "lessonNumber":"7",
-         "versionCode":1,
-         "title":"Editando",
+         "versionCode":2,
+         "title":"La derrota de los Asirios",
          "date":"6-12 de Febrero",
          "remoteColor":""
       },
       {
          "lessonNumber":"8",
-         "versionCode":1,
-         "title":"Editando",
+         "versionCode":2,
+         "title":"Consolaos, Pueblo Mío",
          "date":"13-19 de Febrero",
          "remoteColor":""
       },
       {
          "lessonNumber":"9",
-         "versionCode":1,
-         "title":"Editando",
+         "versionCode":2,
+         "title":"Servir Y Salvar",
          "date":"20-26 de Febrero",
          "remoteColor":""
       },
       {
          "lessonNumber":"10",
-         "versionCode":1,
-         "title":"Editando",
+         "versionCode":2,
+         "title":"Lograr Lo Impensable",
          "date":"27 de Febrero- 5 de Marzo",
          "remoteColor":""
       },
       {
          "lessonNumber":"11",
-         "versionCode":1,
-         "title":"Editando",
+         "versionCode":2,
+         "title":"Amor A Cambio",
          "date":"6-12 de Marzo",
          "remoteColor":""
       },
       {
          "lessonNumber":"12",
-         "versionCode":1,
-         "title":"Editando",
+         "versionCode":2,
+         "title":"El deseado de todas las gentes",
          "date":"13-19 de Marzo",
          "remoteColor":""
       },
       {
          "lessonNumber":"13",
-         "versionCode":1,
-         "title":"Editando",
+         "versionCode":2,
+         "title":"El nuevo nacimiento del planeta Tierra",
          "date":"20-26 de Marzo",
          "remoteColor":""
       }
@@ -120,77 +120,77 @@
       {
          "lessonNumber":"3",
          "versionCode":2,
-         "title":"Editando",
+         "title":"Cuando tu mundo se cae a pedazos",
          "date":"9-15 de Enero",
          "remoteColor":""
       },
       {
          "lessonNumber":"4",
-         "versionCode":5,
-         "title":"Editando",
+         "versionCode":2,
+         "title":"Por las malas",
          "date":"16-22 de Enero",
          "remoteColor":""
       },
       {
          "lessonNumber":"5",
-         "versionCode":5,
-         "title":"Editando",
+         "versionCode":2,
+         "title":"Noble Príncipe De Paz",
          "date":"23-29 de Enero",
          "remoteColor":""
       },
       {
          "lessonNumber":"6",
-         "versionCode":5,
+         "versionCode":2,
          "title":"Editando",
          "date":"30 de Enero- 5 de Febrero",
          "remoteColor":""
       },
       {
          "lessonNumber":"7",
-         "versionCode":7,
-         "title":"Editando",
+         "versionCode":2,
+         "title":"La derrota de los Asirios",
          "date":"6-12 de Febrero",
          "remoteColor":""
       },
       {
          "lessonNumber":"8",
-         "versionCode":5,
-         "title":"Editando",
+         "versionCode":2,
+         "title":"Consolaos, Pueblo Mío",
          "date":"13-19 de Febrero",
          "remoteColor":""
       },
       {
          "lessonNumber":"9",
-         "versionCode":5,
-         "title":"Editando",
+         "versionCode":2,
+         "title":"Servir Y Salvar",
          "date":"20-26 de Febrero",
          "remoteColor":""
       },
       {
          "lessonNumber":"10",
-         "versionCode":5,
-         "title":"Editando",
+         "versionCode":2,
+         "title":"Lograr Lo Impensable",
          "date":"27 de Febrero-5 de Marzo",
          "remoteColor":""
       },
       {
          "lessonNumber":"11",
-         "versionCode":5,
-         "title":"Editando",
+         "versionCode":2,
+         "title":"Amor A Cambio",
          "date":"6-12 de Marzo",
          "remoteColor":""
       },
       {
          "lessonNumber":"12",
-         "versionCode":5,
-         "title":"Editando",
+         "versionCode":2,
+         "title":"El deseado de todas las gentes",
          "date":"13-19 de Marzo",
          "remoteColor":""
       },
       {
          "lessonNumber":"13",
-         "versionCode":6,
-         "title":"Editando",
+         "versionCode":2,
+         "title":"El nuevo nacimiento del planeta Tierra",
          "date":"20-26 de Marzo",
          "remoteColor":""
       }

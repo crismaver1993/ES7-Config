@@ -6,7 +6,7 @@
    "quarter":"1T2021",
    "latestVersionName":"2.7.0",
    "latestVersionCode":174,
-   "googleUpdate":false,
+   "googleUpdate":true,
    "flexibleUpdate":true,
    "adultLessons":[
       {
@@ -88,15 +88,15 @@
       },
       {
          "lessonNumber":"12",
-         "versionCode":1,
-         "title":"Editing",
+         "versionCode":2,
+         "title":"Desire of Nations",
          "date":"March 13–19",
          "remoteColor":""
       },
       {
          "lessonNumber":"13",
-         "versionCode":1,
-         "title":"Editing",
+         "versionCode":2,
+         "title":"Rebirth of Planet Earth",
          "date":"March 20–26",
          "remoteColor":""
       }
