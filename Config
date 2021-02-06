@@ -9,6 +9,10 @@
    "forceUpdate":false,
    "googleUpdate":true,
    "flexibleUpdate":true,
+   "missions": {
+   "adult_es": "https://cldup.com/ePoWghRM5e.pdf",
+   "adult_en": "https://am.adventistmission.org/mqa21q1-2020.pdf"
+   },
    "adultLessons":[
       {
          "lessonNumber":"1",
