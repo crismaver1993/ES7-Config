@@ -2,11 +2,15 @@
    "news":[
       {
          "language": "es",
-         "img":"",
+         "cover":"",
          "title":"test",
          "date":"",
          "description":"Test",
-         "link":""
+         "link":"",
+         "img": [
+         "",
+         ""
+         ]
       }
    ]
 }
