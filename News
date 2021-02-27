@@ -1,0 +1,13 @@
+{
+   "version":1,
+   "news":[
+      {
+         "language": "es",
+         "img":"",
+         "title":"test",
+         "date":"",
+         "description":"Test",
+         "link":""
+      }
+   ]
+}
