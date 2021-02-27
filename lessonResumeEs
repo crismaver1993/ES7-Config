@@ -1,5 +1,5 @@
 {
-   "versionCode":1,
+   "versionCode":2,
    "quarter":"1T2021",
    "language":"es",
    "sketchList":[
@@ -59,63 +59,64 @@
       },
       {
          "lessonId":"7",
-         "title": "",
+         "title": "07. LA DERROTA DE LOS ASIRIOS",
          "url":"https://www.fustero.es/descargar.php?id=2021t107.pdf",
          "creator":"Fusteros",
-         "updated":false,
+         "updated":true,
          "type":"Presentación",
          "img": "https://cldup.com/pnH5RgnhJs.png"
       },
       {
          "lessonId":"8",
-         "title": "",
+         "title": "08. “CONSOLAOS, PUEBLO MÍO”",
          "url":"https://www.fustero.es/descargar.php?id=2021t108.pdf",
          "creator":"Fusteros",
-         "updated":false,
+         "updated":true,
          "type":"Presentación",
          "img": "https://cldup.com/pnH5RgnhJs.png"
       },
       {
          "lessonId":"9",
-         "title": "",
+         "title": "09. SERVIR Y SALVAR",
          "url":"https://www.fustero.es/descargar.php?id=2021t109.pdf",
          "creator":"Fusteros",
-         "updated":false,
+         "updated":true,
          "type":"Presentación",
          "img": "https://cldup.com/pnH5RgnhJs.png"
       },
       {
          "lessonId":"10",
-         "title": "",
-         "url":"",
+         "title": "10. LOGRAR LO IMPENSABLE",
+         "url":"https://www.fustero.es/descargar.php?id=2021t110.pdf",
          "creator":"Fusteros",
-         "updated":false,
+         "updated":true,
          "type":"Presentación",
          "img": "https://cldup.com/pnH5RgnhJs.png"
       },
       {
          "lessonId":"11",
-         "title": "",
-         "url":"",
+         "title": "11. AMOR A CAMBIO",
+         "url":"https://www.fustero.es/descargar.php?id=2021t111.pdf",
          "creator":"Fusteros",
-         "updated":false,
+         "updated":true,
          "type":"Presentación",
          "img": "https://cldup.com/pnH5RgnhJs.png"
       },
       {
          "lessonId":"12",
-         "title": "",
-         "url":"",
+         "title": "12. EL DESEADO D ETODAS LAS GENTES",
+         "url":"https://www.fustero.es/descargar.php?id=2021t112.pdf",
          "creator":"Fusteros",
-         "updated":false,
+         "updated":true,
          "type":"Presentación",
          "img": "https://cldup.com/pnH5RgnhJs.png"
       },
       {
          "lessonId":"13",
-         "url":"",
+         "title": "13. EL NUEVO NACIMIENTO DEL PLANETA TIERRA",
+         "url":"https://www.fustero.es/descargar.php?id=2021t113.pdf",
          "creator":"Fusteros",
-         "updated":false,
+         "updated":true,
          "type":"Presentación",
          "img": "https://cldup.com/pnH5RgnhJs.png"
       }
