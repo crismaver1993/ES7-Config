@@ -9,6 +9,7 @@
    "forceUpdate":false,
    "googleUpdate":true,
    "flexibleUpdate":true,
+   "helpVideos"= "",
    "mission": "https://cldup.com/ePoWghRM5e.pdf",
    "adultLessons":[
       {
