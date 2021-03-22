@@ -17,91 +17,91 @@
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#F48BC1"
       },
       {
          "lessonNumber":"2",
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#B2EBF2"
       },
       {
          "lessonNumber":"3",
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#E6758E"
       },
       {
          "lessonNumber":"4",
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#5D7AB5"
       },
       {
          "lessonNumber":"5",
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#7C613D"
       },
       {
          "lessonNumber":"6",
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#880E4F"
       },
       {
          "lessonNumber":"7",
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#4A4D6A"
       },
       {
          "lessonNumber":"8",
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#0D47A1"
       },
       {
          "lessonNumber":"9",
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#B55D83"
       },
       {
          "lessonNumber":"10",
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#24880E"
       },
       {
          "lessonNumber":"11",
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#348CCF"
       },
       {
          "lessonNumber":"12",
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#D1B161"
       },
       {
          "lessonNumber":"13",
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#C061D1"
       }
    ],
    "egwLessons":[
@@ -110,91 +110,91 @@
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#D34F08"
       },
       {
          "lessonNumber":"2",
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#A63F20"
       },
       {
          "lessonNumber":"3",
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#D37329"
       },
       {
          "lessonNumber":"4",
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#DA4F04"
       },
       {
          "lessonNumber":"5",
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#F3501E"
       },
       {
          "lessonNumber":"6",
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#DA4F04"
       },
       {
          "lessonNumber":"7",
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#A63F20"
       },
       {
          "lessonNumber":"8",
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#D34F08"
       },
       {
          "lessonNumber":"9",
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#DA4F04"
       },
       {
          "lessonNumber":"10",
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#A63F20"
       },
       {
          "lessonNumber":"11",
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#D37329"
       },
       {
          "lessonNumber":"12",
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#DA4F04"
       },
       {
          "lessonNumber":"13",
          "versionCode":6,
          "title":"",
          "date":"",
-         "remoteColor":""
+         "remoteColor":"#F3501E"
       }
    ],
    "egwHasAlert":false,
