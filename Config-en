@@ -16,21 +16,21 @@
          "versionCode":6,
          "title":"What Happened?",
          "date":"March 27–April 2",
-         "remoteColor":""
+         "remoteColor":"#4A4D6A"
       },
       {
          "lessonNumber":"2",
          "versionCode":6,
          "title":"Covenant Primer",
          "date":"April 3–9",
-         "remoteColor":""
+         "remoteColor":"#0D47A1"
       },
       {
          "lessonNumber":"3",
          "versionCode":6,
          "title":"All Future Generations",
          "date":"April 10–16",
-         "remoteColor":""
+         "remoteColor":"#880E4F"
       },
       {
          "lessonNumber":"4",
@@ -44,63 +44,63 @@
          "versionCode":6,
          "title":"Children of the Promise",
          "date":"April 24–30",
-         "remoteColor":""
+         "remoteColor":"#E86D6D"
       },
       {
          "lessonNumber":"6",
          "versionCode":6,
          "title":"Abraham’s Seed",
          "date":"May 1–7",
-         "remoteColor":""
+         "remoteColor":"#D5A0FB"
       },
       {
          "lessonNumber":"7",
          "versionCode":6,
          "title":"Covenant at Sinai",
          "date":"May 8–14",
-         "remoteColor":""
+         "remoteColor":"#7C613D"
       },
       {
          "lessonNumber":"8",
          "versionCode":6,
          "title":"Covenant Law",
          "date":"May 15–21",
-         "remoteColor":""
+         "remoteColor":"#328079"
       },
       {
          "lessonNumber":"9",
          "versionCode":6,
          "title":"Covenant Sign",
          "date":"May 22–28",
-         "remoteColor":""
+         "remoteColor":"#5D7AB5"
       },
       {
          "lessonNumber":"10",
          "versionCode":6,
          "title":"The New Covenant",
          "date":"May 29–June 4",
-         "remoteColor":""
+         "remoteColor":"#7C957F"
       },
       {
          "lessonNumber":"11",
          "versionCode":6,
          "title":"New Covenant Sanctuary",
          "date":"June 5–11",
-         "remoteColor":""
+         "remoteColor":"#E6758E"
       },
       {
          "lessonNumber":"12",
          "versionCode":6,
          "title":"Covenant Faith",
          "date":"June 12–18",
-         "remoteColor":""
+         "remoteColor":"#1B5E20"
       },
       {
          "lessonNumber":"13",
          "versionCode":6,
          "title":"The New Covenant Life",
          "date":"June 19–25",
-         "remoteColor":""
+         "remoteColor":"#B2EBF2"
       }
    ],
    "egwLessons":[
