@@ -1,9 +1,9 @@
 {
    "id":3,
-   "title":"Isaiah",
-   "color":"#001d6c",
-   "quarterText":"1st Quarter 2021",
-   "quarter":"1T2021",
+   "title":"The Promise: God's Everlasting Covenant",
+   "color":"#13acc4",
+   "quarterText":"2 Quarter 2021",
+   "quarter":"2T2021",
    "latestVersionName":"2.7.0",
    "latestVersionCode":174,
    "googleUpdate":true,
@@ -13,93 +13,93 @@
    "adultLessons":[
       {
          "lessonNumber":"1",
-         "versionCode":1,
-         "title":"Crisis of Identity",
-         "date":"December 26–January 1",
+         "versionCode":6,
+         "title":"",
+         "date":"",
          "remoteColor":""
       },
       {
          "lessonNumber":"2",
-         "versionCode":1,
-         "title":"Crisis of Leadership",
-         "date":"January 2–8",
+         "versionCode":6,
+         "title":"",
+         "date":"",
          "remoteColor":""
       },
       {
          "lessonNumber":"3",
-         "versionCode":1,
-         "title":"When Your World Is Falling Apart",
-         "date":"January 9–15",
+         "versionCode":6,
+         "title":"",
+         "date":"",
          "remoteColor":""
       },
       {
          "lessonNumber":"4",
-         "versionCode":1,
-         "title":"The Hard Way",
-         "date":"January 16–22",
+         "versionCode":6,
+         "title":"",
+         "date":"",
          "remoteColor":""
       },
       {
          "lessonNumber":"5",
-         "versionCode":1,
-         "title":"Noble Prince of Peace",
-         "date":"January 23–29",
+         "versionCode":6,
+         "title":"",
+         "date":"",
          "remoteColor":""
       },
       {
          "lessonNumber":"6",
-         "versionCode":2,
-         "title":"Playing God",
-         "date":"January 30–February 5",
+         "versionCode":6,
+         "title":"",
+         "date":"",
          "remoteColor":""
       },
       {
          "lessonNumber":"7",
-         "versionCode":2,
-         "title":"Defeat of the Assyrians",
-         "date":"February 6–12",
+         "versionCode":6,
+         "title":"",
+         "date":"",
          "remoteColor":""
       },
       {
          "lessonNumber":"8",
-         "versionCode":2,
-         "title":"\"Comfort My People\"",
-         "date":"February 13–19",
+         "versionCode":6,
+         "title":"",
+         "date":"",
          "remoteColor":""
       },
       {
          "lessonNumber":"9",
-         "versionCode":2,
-         "title":"To Serve and to Save",
-         "date":"February 20–26",
+         "versionCode":6,
+         "title":"",
+         "date":"",
          "remoteColor":""
       },
       {
          "lessonNumber":"10",
-         "versionCode":2,
-         "title":"Doing the Unthinkable",
-         "date":"February 27–March 5",
+         "versionCode":6,
+         "title":"",
+         "date":"",
          "remoteColor":""
       },
       {
          "lessonNumber":"11",
-         "versionCode":2,
-         "title":"Waging Love",
-         "date":"March 6–12",
+         "versionCode":6,
+         "title":"",
+         "date":"",
          "remoteColor":""
       },
       {
          "lessonNumber":"12",
-         "versionCode":2,
-         "title":"Desire of Nations",
-         "date":"March 13–19",
+         "versionCode":6,
+         "title":"",
+         "date":"",
          "remoteColor":""
       },
       {
          "lessonNumber":"13",
-         "versionCode":2,
-         "title":"Rebirth of Planet Earth",
-         "date":"March 20–26",
+         "versionCode":6,
+         "title":"",
+         "date":"",
          "remoteColor":""
       }
    ],
