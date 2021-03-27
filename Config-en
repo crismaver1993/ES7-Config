@@ -1,106 +1,106 @@
 {
    "id":3,
-   "title":"Isaiah",
-   "color":"#001d6c",
-   "quarterText":"1st Quarter 2021",
-   "quarter":"1T2021",
+   "title":"The Promise: God's Everlasting Covenant",
+   "color":"#13acc4",
+   "quarterText":"2 Quarter 2021",
+   "quarter":"2T2021",
    "latestVersionName":"2.7.0",
    "latestVersionCode":174,
    "googleUpdate":true,
    "flexibleUpdate":true,
    "helpVideos": "https://youtube.com/playlist?list=PL_n6OyUJzn1ReRrICR5V5caNTUz3QN4cb",
-   "mission": "https://am.adventistmission.org/mqa21q1-2020.pdf",
+   "mission": "https://cldup.com/8TnwfmI3L5.pdf",
    "adultLessons":[
       {
          "lessonNumber":"1",
-         "versionCode":1,
-         "title":"Crisis of Identity",
-         "date":"December 26–January 1",
-         "remoteColor":""
+         "versionCode":6,
+         "title":"What Happened?",
+         "date":"March 27–April 2",
+         "remoteColor":"#4A4D6A"
       },
       {
          "lessonNumber":"2",
-         "versionCode":1,
-         "title":"Crisis of Leadership",
-         "date":"January 2–8",
-         "remoteColor":""
+         "versionCode":6,
+         "title":"Covenant Primer",
+         "date":"April 3–9",
+         "remoteColor":"#0D47A1"
       },
       {
          "lessonNumber":"3",
-         "versionCode":1,
-         "title":"When Your World Is Falling Apart",
-         "date":"January 9–15",
-         "remoteColor":""
+         "versionCode":6,
+         "title":"All Future Generations",
+         "date":"April 10–16",
+         "remoteColor":"#880E4F"
       },
       {
          "lessonNumber":"4",
-         "versionCode":1,
-         "title":"The Hard Way",
-         "date":"January 16–22",
+         "versionCode":6,
+         "title":"An Everlasting Covenant",
+         "date":"April 17–23",
          "remoteColor":""
       },
       {
          "lessonNumber":"5",
-         "versionCode":1,
-         "title":"Noble Prince of Peace",
-         "date":"January 23–29",
-         "remoteColor":""
+         "versionCode":6,
+         "title":"Children of the Promise",
+         "date":"April 24–30",
+         "remoteColor":"#E86D6D"
       },
       {
          "lessonNumber":"6",
-         "versionCode":2,
-         "title":"Playing God",
-         "date":"January 30–February 5",
-         "remoteColor":""
+         "versionCode":6,
+         "title":"Abraham’s Seed",
+         "date":"May 1–7",
+         "remoteColor":"#D5A0FB"
       },
       {
          "lessonNumber":"7",
-         "versionCode":2,
-         "title":"Defeat of the Assyrians",
-         "date":"February 6–12",
-         "remoteColor":""
+         "versionCode":6,
+         "title":"Covenant at Sinai",
+         "date":"May 8–14",
+         "remoteColor":"#7C613D"
       },
       {
          "lessonNumber":"8",
-         "versionCode":2,
-         "title":"\"Comfort My People\"",
-         "date":"February 13–19",
-         "remoteColor":""
+         "versionCode":6,
+         "title":"Covenant Law",
+         "date":"May 15–21",
+         "remoteColor":"#328079"
       },
       {
          "lessonNumber":"9",
-         "versionCode":2,
-         "title":"To Serve and to Save",
-         "date":"February 20–26",
-         "remoteColor":""
+         "versionCode":6,
+         "title":"Covenant Sign",
+         "date":"May 22–28",
+         "remoteColor":"#5D7AB5"
       },
       {
          "lessonNumber":"10",
-         "versionCode":2,
-         "title":"Doing the Unthinkable",
-         "date":"February 27–March 5",
-         "remoteColor":""
+         "versionCode":6,
+         "title":"The New Covenant",
+         "date":"May 29–June 4",
+         "remoteColor":"#7C957F"
       },
       {
          "lessonNumber":"11",
-         "versionCode":2,
-         "title":"Waging Love",
-         "date":"March 6–12",
-         "remoteColor":""
+         "versionCode":6,
+         "title":"New Covenant Sanctuary",
+         "date":"June 5–11",
+         "remoteColor":"#E6758E"
       },
       {
          "lessonNumber":"12",
-         "versionCode":2,
-         "title":"Desire of Nations",
-         "date":"March 13–19",
-         "remoteColor":""
+         "versionCode":6,
+         "title":"Covenant Faith",
+         "date":"June 12–18",
+         "remoteColor":"#1B5E20"
       },
       {
          "lessonNumber":"13",
-         "versionCode":2,
-         "title":"Rebirth of Planet Earth",
-         "date":"March 20–26",
-         "remoteColor":""
+         "versionCode":6,
+         "title":"The New Covenant Life",
+         "date":"June 19–25",
+         "remoteColor":"#B2EBF2"
       }
    ],
    "egwLessons":[
