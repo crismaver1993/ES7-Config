@@ -13,14 +13,14 @@
    "adultLessons":[
       {
          "lessonNumber":"1",
-         "versionCode":6,
+         "versionCode":7,
          "title":"What Happened?",
          "date":"March 27–April 2",
          "remoteColor":"#4A4D6A"
       },
       {
          "lessonNumber":"2",
-         "versionCode":6,
+         "versionCode":7,
          "title":"Covenant Primer",
          "date":"April 3–9",
          "remoteColor":"#0D47A1"
@@ -41,7 +41,7 @@
       },
       {
          "lessonNumber":"5",
-         "versionCode":6,
+         "versionCode":7,
          "title":"Children of the Promise",
          "date":"April 24–30",
          "remoteColor":"#E86D6D"
