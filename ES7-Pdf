@@ -1,214 +1,114 @@
 [
-      {
+     {
       "id":1,
-      "name":"Lección de Infantes - 1er Trimestre 2021",
-      "age":"4-6 años",
-      "type":"Infantes",
-      "quarter":"1T2021",
+      "name":"Lección de Menores - 2 Trimestre 2021",
+      "age":"10-12 años",
+      "type":"Menores",
+      "quarter":"2T2021",
       "isCurrentQuarter":true,
       "quarterDate":"",
-      "pdfUrl":"https://cldup.com/XktpqbAFcx.pdf",
+      "pdfUrl":"https://cldup.com/RJAUJNCv38.pdf",
       "language":"es",
-      "image": "https://cldup.com/uAmrl2RUQA.png",
-      "author": "ACES"
+      "image": "https://cldup.com/6HHBi4qsFA.webp",
+      "author": "DIA"
       },
-      
-       
-       {
+     
+      {
       "id":1,
-      "name":"Manual Auxiliar de Juveniles - 1er Trimestre 2021",
+      "name":"Misionero niños -2 Trimestre 2021",
       "age":"",
-      "type":"Juveniles - DSA",
-      "quarter":"1T2021",
+      "type":"",
+      "quarter":"2T2021",
       "isCurrentQuarter":true,
-      "quarterDate":"",
-      "pdfUrl":"https://cldup.com/uC0u3SbwJe.pdf",
+      "quarterDate":"2T2021",
+      "pdfUrl":"https://cldup.com/Rk3qACPI0C.pdf",
       "language":"es",
-      "image": "https://cldup.com/jIAacf5e7N.png",
-      "author": "ACES"
+      "image": "https://cldup.com/jBqy8GX8wT.webp",
+      "author": "IASD"
       },
       
-       {
+      {
       "id":1,
-      "name":" Juveniles - 1er Trimestre 2021- DIA",
+      "name":"Fe Real- 2T2021",
       "age":"",
-      "type":"Juveniles - DIA",
-      "quarter":"1T2021",
+      "type":"",
+      "quarter":"2T2021",
       "isCurrentQuarter":true,
       "quarterDate":"",
-      "pdfUrl":"https://cldup.com/vVFB0pSDRx.pdf",
+      "pdfUrl":"https://cldup.com/Jb7wL1ctsN.pdf",
       "language":"es",
-      "image": "https://cldup.com/ZfRApKXfFE.png",
-      "author": "ACES"
+      "image": "https://cldup.com/XJIvYnjuRx.webp",
+      "author": "IASD"
       },
       
       {
       "id":1,
-      "name":"FE REAL",
-      "age":"",
-      "type":"Juveniles",
-      "quarter":"1T2021",
+      "name":"Primarios- 2T2021",
+      "age":"6-9 años",
+      "type":"",
+      "quarter":"2T2021",
       "isCurrentQuarter":true,
-      "quarterDate":"",
-      "pdfUrl":"https://cldup.com/SsN5qkzebv.pdf",
+      "quarterDate":"2T2021",
+      "pdfUrl":"https://cldup.com/CNZdA4pblX.pdf",
       "language":"es",
-      "image": "https://cldup.com/8gB3u2O2rj.png",
-      "author": "ACES"
+      "image": "https://cldup.com/j9X7NUR3Ma.webp",
+      "author": "IASD"
       },
       
       {
       "id":1,
-      "name":"Lección de Intermediarios | 1er Trimestre 2021 | Año B",
-      "age":"",
-      "type":"Intermediarios - DIA",
-      "quarter":"1T2021",
+      "name":"Infantes -2 Trimestre 2021",
+      "age":"3-5 años",
+      "type":"",
+      "quarter":"2T2021",
       "isCurrentQuarter":true,
       "quarterDate":"",
-      "pdfUrl":"https://cldup.com/SPXCPjEAe1.pdf",
+      "pdfUrl":"https://cldup.com/Qvb1XXjEIg.pdf",
       "language":"es",
-      "image": "https://cldup.com/LSWOj-rB8Q.png",
-      "author": "ACES"
-      },
-      
-      
-      {
-      "id":1,
-      "name":"Lección de Primarios | 1er Trimestre 2021 | Año B",
-      "age":"7-9 años",
-      "type":"Primarios",
-      "quarter":"1T2021",
-      "isCurrentQuarter":true,
-      "quarterDate":"",
-      "pdfUrl":"https://cldup.com/U1L3-M4mm5.pdf",
-      "language":"es",
-      "image": "https://cldup.com/SiTIx1pNCU.png",
-      "author": "ACES"
+      "image": "https://cldup.com/OhVAshPmwe.webp",
+      "author": "IASD"
       },
       
       {
       "id":1,
-      "name":"Lección de Cuna | 1er Trimestre 2021 | Año B",
+      "name":"Cuna - 2 trimestre 2021",
       "age":"0-3 años",
-      "type":"Cuna",
-      "quarter":"1T2021",
-      "isCurrentQuarter":true,
-      "quarterDate":"",
-      "pdfUrl":"https://cldup.com/3XWTn1EHVw.pdf",
-      "language":"es",
-      "image": "https://cldup.com/TKEnqiVhFZ.png",
-      "author": "ACES"
-      },
-      
-         {
-      "id":1,
-      "name":"Llave Maestra Juveniles | 1er Trimestre 2021",
-      "age":"",
       "type":"",
-      "quarter":"1T2021",
+      "quarter":"2T2021",
       "isCurrentQuarter":true,
       "quarterDate":"",
-      "pdfUrl":"https://cldup.com/U7d1sgZWSB.pdf",
+      "pdfUrl":"https://cldup.com/7EDSr5HCau.pdf",
       "language":"es",
-      "image": "https://cldup.com/B3PU8mQIwT.png",
-      "author": "IASD"
-      },
-      
-         {
-      "id":1,
-      "name":"Llave Maestra Intermediarios | 1er Trimestre 2021",
-      "age":"",
-      "type":"",
-      "quarter":"1T2021",
-      "isCurrentQuarter":true,
-      "quarterDate":"",
-      "pdfUrl":"https://cldup.com/u6ao5UTZbz.pdf",
-      "language":"es",
-      "image": "https://cldup.com/jnBaGQYj1b.png",
-      "author": "IASD"
-      },
-         {
-      "id":1,
-      "name":"Llave Maestra - Primarios | 1er Trimestre 2021",
-      "age":"",
-      "type":"",
-      "quarter":"1T2021",
-      "isCurrentQuarter":true,
-      "quarterDate":"",
-      "pdfUrl":"https://cldup.com/X8-CMm-8sO.pdf",
-      "language":"es",
-      "image": "https://cldup.com/VZ_f7BMgHy.png",
-      "author": "IASD"
-      },
-      
-         {
-      "id":1,
-      "name":"Llave Maestra Cuna - Infantes | 1er Trimestre 2021",
-      "age":"",
-      "type":"",
-      "quarter":"1T2021",
-      "isCurrentQuarter":true,
-      "quarterDate":"",
-      "pdfUrl":"https://cldup.com/1biHDXrOks.pdf",
-      "language":"es",
-      "image": "https://cldup.com/uVOe1FjpVx.png",
-      "author": "IASD"
-      },
-         {
-      "id":1,
-      "name":"",
-      "age":"",
-      "type":"",
-      "quarter":"1T2021",
-      "isCurrentQuarter":true,
-      "quarterDate":"",
-      "pdfUrl":"",
-      "language":"es",
-      "image": "",
-      "author": "IASD"
-      },
-      
-        {
-      "id":1,
-      "name":"Misionero Niños",
-      "age":"",
-      "type":"",
-      "quarter":"1T2020",
-      "isCurrentQuarter":true,
-      "quarterDate":"",
-      "pdfUrl":"https://cldup.com/6QkopuYzJP.pdf",
-      "language":"es",
-      "image": "https://cldup.com/Qs6fKGURm1.png",
+      "image": "https://cldup.com/9rzpH9JUCL.webp",
       "author": "IASD"
       },
       
       {
       "id":1,
-      "name":"Misionero Niños",
+      "name":"Cuadernos de Actividades",
       "age":"",
       "type":"",
-      "quarter":"1T2020",
+      "quarter":"2T2021",
       "isCurrentQuarter":true,
       "quarterDate":"",
-      "pdfUrl":"https://cldup.com/6QkopuYzJP.pdf",
+      "pdfUrl":"https://cldup.com/oeIO76_1ey.pdf",
       "language":"es",
-      "image": "https://cldup.com/Qs6fKGURm1.png",
-      "author": "IASD"
+      "image": "https://cldup.com/pSBoxb7vXN.png",
+      "author": "DSA"
       },
-      
       {
       "id":1,
-      "name":"Misionero Adultos",
+      "name":"Libro de Adoración Infantil",
       "age":"",
       "type":"",
-      "quarter":"1T2020",
+      "quarter":"2T2021",
       "isCurrentQuarter":true,
       "quarterDate":"",
-      "pdfUrl":"https://cldup.com/ePoWghRM5e.pdf",
+      "pdfUrl":"https://cldup.com/HhHDCThIE6.pdf",
       "language":"es",
-      "image": "https://cldup.com/kF0PptfjIZ.png",
-      "author": "IASD"
+      "image": "https://cldup.com/d9jux7LjAk.png",
+      "author": "DSA"
       }
-      
      
       
       
