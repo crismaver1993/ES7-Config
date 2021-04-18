@@ -63,7 +63,7 @@
       },
       {
          "lessonNumber":"8",
-         "versionCode":6,
+         "versionCode":7,
          "title":"La ley del Pacto",
          "date":"15-21 de Mayo",
          "remoteColor":"#0D47A1"
@@ -178,7 +178,7 @@
       {
          "lessonNumber":"11",
          "versionCode":7,
-         "title":"El Santuario del Nuevo Pacto(EDITANDO)",
+         "title":"El Santuario del Nuevo Pacto",
          "date":"5-11 de Junio",
          "remoteColor":"#D37329"
       },
