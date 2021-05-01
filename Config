@@ -98,7 +98,7 @@
       },
       {
          "lessonNumber":"13",
-         "versionCode":6,
+         "versionCode":7,
          "title":"La vida del Nuevo Pacto",
          "date":"19-25 de Junio",
          "remoteColor":"#C061D1"
@@ -157,7 +157,7 @@
       {
          "lessonNumber":"8",
          "versionCode":6,
-         "title":"La ley del Pacto(EDITANDO)",
+         "title":"La ley del Pacto",
          "date":"15-21 de Mayo",
          "remoteColor":"#D34F08"
       },
@@ -184,8 +184,8 @@
       },
       {
          "lessonNumber":"12",
-         "versionCode":6,
-         "title":"La fe del Pacto(EDITANDO)",
+         "versionCode":7,
+         "title":"La fe del Pacto",
          "date":"12-18 de Junio",
          "remoteColor":"#DA4F04"
       },
