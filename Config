@@ -156,7 +156,7 @@
       },
       {
          "lessonNumber":"8",
-         "versionCode":6,
+         "versionCode":7,
          "title":"La ley del Pacto",
          "date":"15-21 de Mayo",
          "remoteColor":"#D34F08"
@@ -184,7 +184,7 @@
       },
       {
          "lessonNumber":"12",
-         "versionCode":7,
+         "versionCode":8,
          "title":"La fe del Pacto",
          "date":"12-18 de Junio",
          "remoteColor":"#DA4F04"
