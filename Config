@@ -98,10 +98,10 @@
       },
       {
          "lessonNumber":"13",
-         "versionCode":8,
-         "title":"El descanso supremo (3T2021)",
-         "date":"18-24 de Septiembre",
-         "remoteColor":"#C061D1"
+         "versionCode":6,
+         "title":"Editando",
+         "date":"",
+         "remoteColor":"#a0a0a3"
       }
    ],
    "egwLessons":[
@@ -191,7 +191,7 @@
       },
       {
          "lessonNumber":"13",
-         "versionCode":8,
+         "versionCode":7,
          "title":"Editando",
          "date":"",
          "remoteColor":"#794fd1"
