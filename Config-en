@@ -16,91 +16,91 @@
          "versionCode":8,
          "title":"Living in a 24-7 Society (3Q2021)",
          "date":"June 26–July 2",
-         "remoteColor":"#ff82d1"
+         "remoteColor":"#de615d"
       },
       {
          "lessonNumber":"2",
          "versionCode":8,
          "title":"Restless and Rebellious (3Q2021)",
          "date":"July 3–9",
-         "remoteColor":"#ff82d1"
+         "remoteColor":"#de975d"
       },
       {
          "lessonNumber":"3",
          "versionCode":8,
          "title":"The Roots of Restlessness (3Q2021)",
          "date":"July 10–16",
-         "remoteColor":"#ff82d1"
+         "remoteColor":"#decf5d"
       },
       {
          "lessonNumber":"4",
          "versionCode":8,
          "title":"The Cost of Rest (3Q2021)",
          "date":"July 17–23",
-         "remoteColor":"#ff82d1"
+         "remoteColor":"#a4de5d"
       },
       {
          "lessonNumber":"5",
          "versionCode":8,
          "title":"Come to Me (3Q2021)",
          "date":"July 24–30",
-         "remoteColor":"#ff82d1"
+         "remoteColor":"#79de5d"
       },
       {
          "lessonNumber":"6",
          "versionCode":8,
          "title":"Finding Rest in Family Ties (3Q2021)",
          "date":"July 31–August 6",
-         "remoteColor":"#ff82d1"
+         "remoteColor":"#5dde9b"
       },
       {
          "lessonNumber":"7",
          "versionCode":6,
          "title":"Editing",
          "date":"-",
-         "remoteColor":"#7C613D"
+         "remoteColor":"#a0a0a3"
       },
       {
          "lessonNumber":"8",
          "versionCode":7,
          "title":"Editing",
          "date":"-",
-         "remoteColor":"#328079"
+         "remoteColor":"#a0a0a3"
       },
       {
          "lessonNumber":"9",
          "versionCode":8,
          "title":"The Rhythms of Rest (3Q2021)",
          "date":"August 21–27",
-         "remoteColor":"#ff82d1"
+         "remoteColor":"#5dbede"
       },
       {
          "lessonNumber":"10",
          "versionCode":6,
          "title":"Editing",
          "date":"-",
-         "remoteColor":"#7C957F"
+         "remoteColor":"#a0a0a3"
       },
       {
          "lessonNumber":"11",
          "versionCode":6,
          "title":"Editing",
          "date":"-",
-         "remoteColor":"#E6758E"
+         "remoteColor":"#a0a0a3"
       },
       {
          "lessonNumber":"12",
          "versionCode":6,
          "title":"Editing",
          "date":"-",
-         "remoteColor":"#1B5E20"
+         "remoteColor":"#a0a0a3"
       },
       {
          "lessonNumber":"13",
-         "versionCode":6,
-         "title":"The New Covenant Life",
-         "date":"June 19–25",
-         "remoteColor":"#B2EBF2"
+         "versionCode":8,
+         "title":"The Ultimate Rest",
+         "date":"September 18–24",
+         "remoteColor":"#a05dde"
       }
    ],
    "egwLessons":[
