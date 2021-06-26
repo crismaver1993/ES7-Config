@@ -107,14 +107,14 @@
    "egwLessons":[
       {
          "lessonNumber":"1",
-         "versionCode":8,
+         "versionCode":9,
          "title":"Cómo vivir en una sociedad 24/7 (3T2021)",
          "date":"26 de Junio - 2 de Julio",
          "remoteColor":"#4fa6d1"
       },
       {
         "lessonNumber":"2",
-         "versionCode":8,
+         "versionCode":9,
          "title":"Sin descanso y rebeldes (3T2021)",
          "date":"3-9 de Julio",
          "remoteColor":"#a14fd1"
