@@ -124,7 +124,7 @@
          "versionCode":6,
          "title":"Editando",
          "date":"",
-         "remoteColor":"#794fd1"
+         "remoteColor":"#bfbbbb"
       },
       {
          "lessonNumber":"4",
@@ -152,14 +152,14 @@
          "versionCode":7,
          "title":"Editando",
          "date":"",
-         "remoteColor":"#794fd1"
+         "remoteColor":"#bfbbbb"
       },
       {
          "lessonNumber":"8",
          "versionCode":7,
          "title":"Editando",
          "date":"",
-         "remoteColor":"#794fd1"
+         "remoteColor":"#bfbbbb"
       },
       {
          "lessonNumber":"9",
@@ -173,14 +173,14 @@
          "versionCode":7,
          "title":"Editando",
          "date":"",
-         "remoteColor":"#794fd1"
+         "remoteColor":"#bfbbbb"
       },
       {
          "lessonNumber":"11",
          "versionCode":7,
          "title":"Editando",
          "date":"",
-         "remoteColor":"#794fd1"
+         "remoteColor":"#bfbbbb"
       },
       {
          "lessonNumber":"12",
@@ -191,10 +191,10 @@
       },
       {
          "lessonNumber":"13",
-         "versionCode":7,
+         "versionCode":8,
          "title":"Editando",
          "date":"",
-         "remoteColor":"#794fd1"
+         "remoteColor":"#bfbbbb"
       }
    ],
    "egwHasAlert":false,
