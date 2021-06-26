@@ -1,11 +1,11 @@
 {
    "id":3,
-   "title":"The Promise: God's Everlasting Covenant",
-   "color":"#13acc4",
-   "quarterText":"2 Quarter 2021",
-   "quarter":"2T2021",
-   "latestVersionName":"2.7.0",
-   "latestVersionCode":174,
+   "title":"Rest in Christ",
+   "color":"#13c486",
+   "quarterText":"3 Quarter 2021",
+   "quarter":"3T2021",
+   "latestVersionName":"2.9.3",
+   "latestVersionCode":191,
    "googleUpdate":true,
    "flexibleUpdate":true,
    "helpVideos": "https://youtube.com/playlist?list=PL_n6OyUJzn1ReRrICR5V5caNTUz3QN4cb",
@@ -13,42 +13,42 @@
    "adultLessons":[
       {
          "lessonNumber":"1",
-         "versionCode":8,
+         "versionCode":9,
          "title":"Living in a 24-7 Society (3Q2021)",
          "date":"June 26–July 2",
          "remoteColor":"#de615d"
       },
       {
          "lessonNumber":"2",
-         "versionCode":8,
+         "versionCode":9,
          "title":"Restless and Rebellious (3Q2021)",
          "date":"July 3–9",
          "remoteColor":"#de975d"
       },
       {
          "lessonNumber":"3",
-         "versionCode":8,
+         "versionCode":9,
          "title":"The Roots of Restlessness (3Q2021)",
          "date":"July 10–16",
          "remoteColor":"#decf5d"
       },
       {
          "lessonNumber":"4",
-         "versionCode":8,
+         "versionCode":9,
          "title":"The Cost of Rest (3Q2021)",
          "date":"July 17–23",
          "remoteColor":"#a4de5d"
       },
       {
          "lessonNumber":"5",
-         "versionCode":8,
+         "versionCode":9,
          "title":"Come to Me (3Q2021)",
          "date":"July 24–30",
          "remoteColor":"#79de5d"
       },
       {
          "lessonNumber":"6",
-         "versionCode":8,
+         "versionCode":9,
          "title":"Finding Rest in Family Ties (3Q2021)",
          "date":"July 31–August 6",
          "remoteColor":"#5dde9b"
@@ -69,7 +69,7 @@
       },
       {
          "lessonNumber":"9",
-         "versionCode":8,
+         "versionCode":9,
          "title":"The Rhythms of Rest (3Q2021)",
          "date":"August 21–27",
          "remoteColor":"#5dbede"
@@ -97,7 +97,7 @@
       },
       {
          "lessonNumber":"13",
-         "versionCode":8,
+         "versionCode":9,
          "title":"The Ultimate Rest",
          "date":"September 18–24",
          "remoteColor":"#a05dde"
