@@ -1,9 +1,9 @@
 {
    "id":3,
-   "title":"LA PROMESA: EL PACTO ETERNO DE DIOS",
-   "color":"#13acc4",
-   "quarterText":"2 Trimestre 2021",
-   "quarter":"2T2021",
+   "title":"DESCANSO EN CRISTO",
+   "color":"#13c436",
+   "quarterText":"3 Trimestre 2021",
+   "quarter":"3T2021",
    "latestVersionName":"2.9.3",
    "latestVersionCode":191,
    "forceUpdate":false,
@@ -14,49 +14,49 @@
    "adultLessons":[
       {
          "lessonNumber":"1",
-         "versionCode":8,
+         "versionCode":9,
          "title":"Cómo vivir en una sociedad 24/7 (3T2021)",
          "date":"26 de Junio - 2 de Julio",
          "remoteColor":"#d65858"
       },
       {
          "lessonNumber":"2",
-         "versionCode":8,
+         "versionCode":9,
          "title":"Sin descanso y rebeldes (3T2021)",
          "date":"3-9 de Julio",
          "remoteColor":"#d68458"
       },
       {
          "lessonNumber":"3",
-         "versionCode":8,
+         "versionCode":9,
          "title":"Las raíces del descontento (3T2021)",
          "date":"10-16 de Julio",
          "remoteColor":"#d6ac58"
       },
       {
          "lessonNumber":"4",
-         "versionCode":8,
+         "versionCode":9,
          "title":"El costo del descanso (3T2021)",
          "date":"17-23 de Julio",
          "remoteColor":"#a6d658"
       },
       {
          "lessonNumber":"5",
-         "versionCode":8,
+         "versionCode":9,
          "title":"Venid a mí… (3T2021)",
          "date":"24-30 de Julio",
          "remoteColor":"#5cd658"
       },
       {
          "lessonNumber":"6",
-         "versionCode":8,
+         "versionCode":9,
          "title":"Cómo hallar descanso en los lazos familiares (3T2021)",
          "date":"31 de Julio-6 de Agosto",
          "remoteColor":"#58d6a2"
       },
       {
          "lessonNumber":"7",
-         "versionCode":8,
+         "versionCode":9,
          "title":"El descanso, las relaciones y la salud (3T2021)",
          "date":"7-13 de Agosto",
          "remoteColor":"#58ccd6"
@@ -70,7 +70,7 @@
       },
       {
          "lessonNumber":"9",
-         "versionCode":8,
+         "versionCode":9,
          "title":"Los ritmos del descanso (3T2021)",
          "date":"21-27 de Agosto",
          "remoteColor":"#5897d6"
@@ -91,7 +91,7 @@
       },
       {
          "lessonNumber":"12",
-         "versionCode":8,
+         "versionCode":9,
          "title":"El profeta sin descanso (3T2021)",
          "date":"11-17 de Septiembre",
          "remoteColor":"#8858d6"
@@ -107,14 +107,14 @@
    "egwLessons":[
       {
          "lessonNumber":"1",
-         "versionCode":8,
+         "versionCode":9,
          "title":"Cómo vivir en una sociedad 24/7 (3T2021)",
          "date":"26 de Junio - 2 de Julio",
          "remoteColor":"#4fa6d1"
       },
       {
         "lessonNumber":"2",
-         "versionCode":8,
+         "versionCode":9,
          "title":"Sin descanso y rebeldes (3T2021)",
          "date":"3-9 de Julio",
          "remoteColor":"#a14fd1"
@@ -128,24 +128,24 @@
       },
       {
          "lessonNumber":"4",
-         "versionCode":7,
-         "title":"Editando",
-         "date":"",
-         "remoteColor":"#794fd1"
+         "versionCode":9,
+         "title":"El costo del descanso (3T2021)",
+         "date":"17-23 de Julio",
+         "remoteColor":"#a6d658"
       },
       {
          "lessonNumber":"5",
-         "versionCode":7,
-         "title":"Editando",
-         "date":"",
-         "remoteColor":"#794fd1"
+         "versionCode":9,
+         "title":"Venid a mí… (3T2021)",
+         "date":"24-30 de Julio",
+         "remoteColor":"#5cd658"
       },
       {
          "lessonNumber":"6",
-         "versionCode":7,
-         "title":"Editando",
-         "date":"",
-         "remoteColor":"#794fd1"
+         "versionCode":9,
+         "title":"Cómo hallar descanso en los lazos familiares (3T2021)",
+         "date":"31 de Julio-6 de Agosto",
+         "remoteColor":"#58d6a2"
       },
       {
          "lessonNumber":"7",
@@ -163,10 +163,10 @@
       },
       {
          "lessonNumber":"9",
-         "versionCode":7,
-         "title":"Editando",
-         "date":"",
-         "remoteColor":"#794fd1"
+         "versionCode":9,
+         "title":"Los ritmos del descanso (3T2021)",
+         "date":"21-27 de Agosto",
+         "remoteColor":"#5897d6"
       },
       {
          "lessonNumber":"10",
@@ -184,10 +184,10 @@
       },
       {
          "lessonNumber":"12",
-         "versionCode":8,
-         "title":"Editando",
-         "date":"",
-         "remoteColor":"#794fd1"
+         "versionCode":9,
+         "title":"El profeta sin descanso (3T2021)",
+         "date":"11-17 de Septiembre",
+         "remoteColor":"#8858d6"
       },
       {
          "lessonNumber":"13",
