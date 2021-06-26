@@ -107,93 +107,93 @@
    "egwLessons":[
       {
          "lessonNumber":"1",
-         "versionCode":6,
-         "title":"¿Qué ocurrió?",
-         "date":"27 de Marzo - 2 de Abril",
-         "remoteColor":"#D34F08"
+         "versionCode":8,
+         "title":"Cómo vivir en una sociedad 24/7 (3T2021)",
+         "date":"26 de Junio - 2 de Julio",
+         "remoteColor":"#794fd1"
       },
       {
          "lessonNumber":"2",
          "versionCode":6,
-         "title":"Conceptos básicos del Pacto",
-         "date":"3-9 de Abril",
+         "title":"Editando",
+         "date":"",
          "remoteColor":"#A63F20"
       },
       {
          "lessonNumber":"3",
          "versionCode":6,
-         "title":"Por siglos perpetuos",
-         "date":"10-16 de Abril",
+         "title":"Editando",
+         "date":"",
          "remoteColor":"#D37329"
       },
       {
          "lessonNumber":"4",
          "versionCode":7,
-         "title":"Un pacto eterno",
-         "date":"17-23 de Abril",
+         "title":"Editando",
+         "date":"",
          "remoteColor":"#DA4F04"
       },
       {
          "lessonNumber":"5",
          "versionCode":7,
-         "title":"Hijos de la promesa",
-         "date":"24-30 de Abril",
+         "title":"Editando",
+         "date":"",
          "remoteColor":"#F3501E"
       },
       {
          "lessonNumber":"6",
          "versionCode":7,
-         "title":"La simiente de Abraham",
-         "date":"1-7 de Mayo",
+         "title":"Editando",
+         "date":"",
          "remoteColor":"#DA4F04"
       },
       {
          "lessonNumber":"7",
          "versionCode":7,
-         "title":"El Pacto en el Sinaí(EDITANDO)",
-         "date":"8-14 de Mayo",
+         "title":"Editando",
+         "date":"",
          "remoteColor":"#A63F20"
       },
       {
          "lessonNumber":"8",
          "versionCode":7,
-         "title":"La ley del Pacto",
-         "date":"15-21 de Mayo",
+         "title":"Editando",
+         "date":"",
          "remoteColor":"#D34F08"
       },
       {
          "lessonNumber":"9",
          "versionCode":7,
-         "title":"La señal del Pacto",
-         "date":"22-28 de Mayo",
+         "title":"Editando",
+         "date":"",
          "remoteColor":"#DA4F04"
       },
       {
          "lessonNumber":"10",
          "versionCode":7,
-         "title":"El Nuevo Pacto",
-         "date":"29 de Mayo- 4 de Junio",
+         "title":"Editando",
+         "date":"",
          "remoteColor":"#A63F20"
       },
       {
          "lessonNumber":"11",
          "versionCode":7,
-         "title":"El Santuario del Nuevo Pacto",
-         "date":"5-11 de Junio",
+         "title":"Editando",
+         "date":"",
          "remoteColor":"#D37329"
       },
       {
          "lessonNumber":"12",
          "versionCode":8,
-         "title":"La fe del Pacto",
-         "date":"12-18 de Junio",
+         "title":"Editando",
+         "date":"",
          "remoteColor":"#DA4F04"
       },
       {
          "lessonNumber":"13",
          "versionCode":8,
-         "title":"La vida del Nuevo Pacto",
-         "date":"19-25 de Junio",
+         "title":"Editando",
+         "date":"",
          "remoteColor":"#F3501E"
       }
    ],
