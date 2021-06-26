@@ -110,91 +110,91 @@
          "versionCode":8,
          "title":"Cómo vivir en una sociedad 24/7 (3T2021)",
          "date":"26 de Junio - 2 de Julio",
-         "remoteColor":"#794fd1"
+         "remoteColor":"#4fa6d1"
       },
       {
-         "lessonNumber":"2",
-         "versionCode":6,
-         "title":"Editando",
-         "date":"",
-         "remoteColor":"#A63F20"
+        "lessonNumber":"2",
+         "versionCode":8,
+         "title":"Sin descanso y rebeldes (3T2021)",
+         "date":"3-9 de Julio",
+         "remoteColor":"#a14fd1"
       },
       {
          "lessonNumber":"3",
          "versionCode":6,
          "title":"Editando",
          "date":"",
-         "remoteColor":"#D37329"
+         "remoteColor":"#794fd1"
       },
       {
          "lessonNumber":"4",
          "versionCode":7,
          "title":"Editando",
          "date":"",
-         "remoteColor":"#DA4F04"
+         "remoteColor":"#794fd1"
       },
       {
          "lessonNumber":"5",
          "versionCode":7,
          "title":"Editando",
          "date":"",
-         "remoteColor":"#F3501E"
+         "remoteColor":"#794fd1"
       },
       {
          "lessonNumber":"6",
          "versionCode":7,
          "title":"Editando",
          "date":"",
-         "remoteColor":"#DA4F04"
+         "remoteColor":"#794fd1"
       },
       {
          "lessonNumber":"7",
          "versionCode":7,
          "title":"Editando",
          "date":"",
-         "remoteColor":"#A63F20"
+         "remoteColor":"#794fd1"
       },
       {
          "lessonNumber":"8",
          "versionCode":7,
          "title":"Editando",
          "date":"",
-         "remoteColor":"#D34F08"
+         "remoteColor":"#794fd1"
       },
       {
          "lessonNumber":"9",
          "versionCode":7,
          "title":"Editando",
          "date":"",
-         "remoteColor":"#DA4F04"
+         "remoteColor":"#794fd1"
       },
       {
          "lessonNumber":"10",
          "versionCode":7,
          "title":"Editando",
          "date":"",
-         "remoteColor":"#A63F20"
+         "remoteColor":"#794fd1"
       },
       {
          "lessonNumber":"11",
          "versionCode":7,
          "title":"Editando",
          "date":"",
-         "remoteColor":"#D37329"
+         "remoteColor":"#794fd1"
       },
       {
          "lessonNumber":"12",
          "versionCode":8,
          "title":"Editando",
          "date":"",
-         "remoteColor":"#DA4F04"
+         "remoteColor":"#794fd1"
       },
       {
          "lessonNumber":"13",
          "versionCode":8,
          "title":"Editando",
          "date":"",
-         "remoteColor":"#F3501E"
+         "remoteColor":"#794fd1"
       }
    ],
    "egwHasAlert":false,
