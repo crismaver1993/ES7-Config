@@ -84,10 +84,10 @@
       },
       {
          "lessonNumber":"11",
-         "versionCode":7,
-         "title":"Editando",
-         "date":"-",
-         "remoteColor":"#a0a0a3"
+         "versionCode":9,
+         "title":"Anhelo de más",
+         "date":"4-10 de Septiembre",
+         "remoteColor":"#18b581"
       },
       {
          "lessonNumber":"12",
@@ -98,10 +98,10 @@
       },
       {
          "lessonNumber":"13",
-         "versionCode":6,
-         "title":"Editando",
-         "date":"",
-         "remoteColor":"#a0a0a3"
+         "versionCode":9,
+         "title":"The Ultimate Rest",
+         "date":"September 18–24",
+         "remoteColor":"#b51844"
       }
    ],
    "egwLessons":[
