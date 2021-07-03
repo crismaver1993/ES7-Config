@@ -85,7 +85,7 @@
       {
          "lessonNumber":"11",
          "versionCode":9,
-         "title":"Anhelo de más",
+         "title":"Anhelo de más (3T2021)",
          "date":"4-10 de Septiembre",
          "remoteColor":"#18b581"
       },
@@ -99,7 +99,7 @@
       {
          "lessonNumber":"13",
          "versionCode":9,
-         "title":"El descanso supremo",
+         "title":"El descanso supremo (3T2021)",
          "date":"September 18–24",
          "remoteColor":"#b51844"
       }
@@ -156,10 +156,10 @@
       },
       {
          "lessonNumber":"8",
-         "versionCode":7,
-         "title":"Editando",
-         "date":"",
-         "remoteColor":"#bfbbbb"
+         "versionCode":9,
+         "title":"Libres para descansar (3T2021)",
+         "date":"14-20 de Agosto",
+         "remoteColor":"#31a322"
       },
       {
          "lessonNumber":"9",
