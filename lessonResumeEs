@@ -1,12 +1,12 @@
 {
    "versionCode":2,
-   "quarter":"2T2021",
+   "quarter":"3T2021",
    "language":"es",
    "sketchList":[
       {
          "lessonId":"1",
-         "title": "01. ¿QUÉ OCURRIÓ?",
-         "url":"https://www.fustero.es/descargar.php?id=2021t201.pdf",
+         "title": "01. CÓMO VIVIR EN UNA SOCIEDAD 24/7",
+         "url":"https://www.fustero.es/descargar.php?id=2021t301.pdf",
          "creator":"Fusteros",
          "updated":true,
          "type":"Presentación",
@@ -14,8 +14,8 @@
       },
       {
          "lessonId":"2",
-         "title": "02. CONCEPTOS BÁSICOS DEL PACTO",
-         "url":"https://www.fustero.es/descargar.php?id=2021t202.pdf",
+         "title": "02. SIN DESCANSO Y REBELDES",
+         "url":"https://www.fustero.es/descargar.php?id=2021t302.pdf",
          "creator":"Fusteros",
          "updated":true,
          "type":"Presentación",
@@ -24,7 +24,7 @@
       {
          "lessonId":"3",
          "title": "03. ",
-         "url":"https://www.fustero.es/descargar.php?id=2021t203.pdf",
+         "url":"https://www.fustero.es/descargar.php?id=2021t303.pdf",
          "creator":"Fusteros",
          "updated":true,
          "type":"Presentación",
@@ -33,7 +33,7 @@
       {
          "lessonId":"4",
          "title": "04. ",
-         "url":"https://www.fustero.es/descargar.php?id=2021t204.pdf",
+         "url":"https://www.fustero.es/descargar.php?id=2021t304.pdf",
          "creator":"Fusteros",
          "updated":true,
          "type":"Presentación",
@@ -42,81 +42,81 @@
       {
          "lessonId":"5",
          "title": "05. ",
-         "url":"https://www.fustero.es/descargar.php?id=2021t205.pdf",
+         "url":"https://www.fustero.es/descargar.php?id=2021t305.pdf",
          "creator":"Fusteros",
-         "updated":true,
+         "updated":false,
          "type":"Presentación",
          "img": "https://cldup.com/pnH5RgnhJs.png"
       },
       {
          "lessonId":"6",
          "title": "06. ",
-         "url":"https://www.fustero.es/descargar.php?id=2021t206.pdf",
+         "url":"https://www.fustero.es/descargar.php?id=2021t306.pdf",
          "creator":"Fusteros",
-         "updated":true,
+         "updated":false,
          "type":"Presentación",
          "img": "https://cldup.com/pnH5RgnhJs.png"
       },
       {
          "lessonId":"7",
          "title": "07. ",
-         "url":"https://www.fustero.es/descargar.php?id=2021t207.pdf",
+         "url":"https://www.fustero.es/descargar.php?id=2021t307.pdf",
          "creator":"Fusteros",
-         "updated":true,
+         "updated":false,
          "type":"Presentación",
          "img": "https://cldup.com/pnH5RgnhJs.png"
       },
       {
          "lessonId":"8",
          "title": "08. ",
-         "url":"https://www.fustero.es/descargar.php?id=2021t208.pdf",
+         "url":"https://www.fustero.es/descargar.php?id=2021t308.pdf",
          "creator":"Fusteros",
-         "updated":true,
+         "updated":false,
          "type":"Presentación",
          "img": "https://cldup.com/pnH5RgnhJs.png"
       },
       {
          "lessonId":"9",
          "title": "09. ",
-         "url":"https://www.fustero.es/descargar.php?id=2021t209.pdf",
+         "url":"https://www.fustero.es/descargar.php?id=2021t309.pdf",
          "creator":"Fusteros",
-         "updated":true,
+         "updated":false,
          "type":"Presentación",
          "img": "https://cldup.com/pnH5RgnhJs.png"
       },
       {
          "lessonId":"10",
          "title": "10. ",
-         "url":"https://www.fustero.es/descargar.php?id=2021t210.pdf",
+         "url":"https://www.fustero.es/descargar.php?id=2021t310.pdf",
          "creator":"Fusteros",
-         "updated":true,
+         "updated":false,
          "type":"Presentación",
          "img": "https://cldup.com/pnH5RgnhJs.png"
       },
       {
          "lessonId":"11",
          "title": "11. ",
-         "url":"https://www.fustero.es/descargar.php?id=2021t211.pdf",
+         "url":"https://www.fustero.es/descargar.php?id=2021t311.pdf",
          "creator":"Fusteros",
-         "updated":true,
+         "updated":false,
          "type":"Presentación",
          "img": "https://cldup.com/pnH5RgnhJs.png"
       },
       {
          "lessonId":"12",
          "title": "12. ",
-         "url":"https://www.fustero.es/descargar.php?id=2021t212.pdf",
+         "url":"https://www.fustero.es/descargar.php?id=2021t312.pdf",
          "creator":"Fusteros",
-         "updated":true,
+         "updated":false,
          "type":"Presentación",
          "img": "https://cldup.com/pnH5RgnhJs.png"
       },
       {
          "lessonId":"13",
          "title": "13. ",
-         "url":"https://www.fustero.es/descargar.php?id=2021t213.pdf",
+         "url":"https://www.fustero.es/descargar.php?id=2021t313.pdf",
          "creator":"Fusteros",
-         "updated":true,
+         "updated":false,
          "type":"Presentación",
          "img": "https://cldup.com/pnH5RgnhJs.png"
       }
