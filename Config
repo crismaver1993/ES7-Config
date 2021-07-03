@@ -149,10 +149,10 @@
       },
       {
          "lessonNumber":"7",
-         "versionCode":7,
-         "title":"Editando",
-         "date":"",
-         "remoteColor":"#bfbbbb"
+         "versionCode":9,
+         "title":"El descanso, las relaciones y la salud (3T2021)",
+         "date":"7-13 de Agosto",
+         "remoteColor":"#58ccd6"
       },
       {
          "lessonNumber":"8",
@@ -168,19 +168,19 @@
          "date":"21-27 de Agosto",
          "remoteColor":"#5897d6"
       },
-      {
+     {
          "lessonNumber":"10",
-         "versionCode":7,
-         "title":"Editando",
-         "date":"",
-         "remoteColor":"#bfbbbb"
+         "versionCode":9,
+         "title":"El descanso sabático (3T2021)",
+         "date":"28 de Agosto-3 de Septiembre",
+         "remoteColor":"#40bfff"
       },
       {
          "lessonNumber":"11",
-         "versionCode":7,
-         "title":"Editando",
-         "date":"",
-         "remoteColor":"#bfbbbb"
+         "versionCode":9,
+         "title":"Anhelo de más",
+         "date":"4-10 de Septiembre",
+         "remoteColor":"#18b581"
       },
       {
          "lessonNumber":"12",
