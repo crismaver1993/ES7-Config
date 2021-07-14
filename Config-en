@@ -62,7 +62,7 @@
       },
       {
          "lessonNumber":"8",
-         "versionCode":9
+         "versionCode":9,
          "title":"Free to Rest (3Q2021)",
          "date":"August 14–20",
          "remoteColor":"#31a322"
@@ -78,27 +78,27 @@
          "lessonNumber":"10",
          "versionCode":9,
          "title":"Sabbath Rest",
-         "date":"August 28–September 3",
+         "date":"August 28–September 3 (3Q2021)",
          "remoteColor":"#89ff40"
       },
       {
          "lessonNumber":"11",
          "versionCode":9,
-         "title":"Longing for More",
+         "title":"Longing for More (3Q2021)",
          "date":"September 4–10",
          "remoteColor":"#a32256"
       },
       {
          "lessonNumber":"12",
          "versionCode":9,
-         "title":"The Restless Prophet",
+         "title":"The Restless Prophet (3Q2021)",
          "date":"September 11–17",
          "remoteColor":"#b51844"
       },
       {
          "lessonNumber":"13",
          "versionCode":9,
-         "title":"The Ultimate Rest",
+         "title":"The Ultimate Rest (3Q2021)",
          "date":"September 18–24",
          "remoteColor":"#a05dde"
       }
