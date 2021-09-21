@@ -2,8 +2,8 @@
    "id":3,
    "title":"Rest in Christ",
    "color":"#13c486",
-   "quarterText":"3 Quarter 2021",
-   "quarter":"3T2021",
+   "quarterText":"4 Quarter 2021",
+   "quarter":"4T2021",
    "latestVersionName":"2.9.3",
    "latestVersionCode":191,
    "googleUpdate":true,
@@ -13,7 +13,7 @@
    "adultLessons":[
       {
          "lessonNumber":"1",
-         "versionCode":9,
+         "versionCode":1,
          "title":"Living in a 24-7 Society (3Q2021)",
          "date":"June 26–July 2",
          "remoteColor":"#de615d"
