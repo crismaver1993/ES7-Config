@@ -2,8 +2,8 @@
    "id":3,
    "title":"DESCANSO EN CRISTO",
    "color":"#13c436",
-   "quarterText":"3 Trimestre 2021",
-   "quarter":"3T2021",
+   "quarterText":"4 Trimestre 2021",
+   "quarter":"4T2021",
    "latestVersionName":"2.9.3",
    "latestVersionCode":191,
    "forceUpdate":false,
@@ -14,7 +14,7 @@
    "adultLessons":[
       {
          "lessonNumber":"1",
-         "versionCode":9,
+         "versionCode":1,
          "title":"Cómo vivir en una sociedad 24/7 (3T2021)",
          "date":"26 de Junio - 2 de Julio",
          "remoteColor":"#d65858"
