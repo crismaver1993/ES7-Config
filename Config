@@ -1,1 +1,208 @@
-
+{
+   "color":"#8a3ddb",
+   "flexibleUpdate":true,
+   "googleUpdate":true,
+   "helpVideos":"https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
+   "id":3,
+   "forceUpdate":false,
+   "latestVersionCode":31,
+   "latestVersionName":"2.9.3",
+   "mission":"https://cldup.com/ZXmG9EC4bj.pdf",
+   "quarter":"4T2021",
+   "quarterText":"4 Trimestre 2021",
+   "title":"LA VERDAD PRESENTE, EN DEUTERONOMIO",
+   "adultLessons":[
+      {
+         "date":"25 de Septiembre - 2 de octubre",
+         "lessonNumber":"1",
+         "remoteColor":"#28c413",
+         "title":"PREÁMBULO DE DEUTERONOMIO",
+         "versionCode":1
+      },
+      {
+         "date":"23-30 de octubre",
+         "lessonNumber":"5",
+         "remoteColor":"#64468c",
+         "title":"EL EXTRANJERO DENTRO DE TUS PUERTAS",
+         "versionCode":1
+      },
+      {
+         "date":"16 -23 de octubre",
+         "lessonNumber":"4",
+         "remoteColor":"#900C3F",
+         "title":"AMARÁS AL SEÑOR TU DIOS",
+         "versionCode":1
+      },
+      {
+         "date":"30 de octubre - 5 de noviembre",
+         "lessonNumber":"6",
+         "remoteColor":"#468c8a",
+         "title":"PORQUE ¿QUÉ NACIÓN GRANDE HAY...?",
+         "versionCode":1
+      },
+      {
+         "date":"2-9 de octubre",
+         "lessonNumber":"2",
+         "remoteColor":"#FFBF00",
+         "title":"LA LECCIÓN DE HISTORIA DE MOISÉS",
+         "versionCode":1
+      },
+      {
+         "date":" 27 de noviembre - 3 de diciembre",
+         "lessonNumber":"10",
+         "remoteColor":"#F7D402",
+         "title":"ACUÉRDATE, NO OLVIDES",
+         "versionCode":1
+      },
+      {
+         "date":"13- 19 de noviembre",
+         "lessonNumber":"8",
+         "remoteColor":"#F48BC1",
+         "title":"ESCOGE, PUES, LA VIDA",
+         "versionCode":1
+      },
+      {
+         "date":"9-15 de octubre",
+         "lessonNumber":"3",
+         "remoteColor":"#FF5733",
+         "title":"EL PACTO PERPETUO",
+         "versionCode":1
+      },
+      {
+         "date":"20-26 de noviembre",
+         "lessonNumber":"9",
+         "remoteColor":"#D2655E",
+         "title":"CUANDO TE CONVIRTIERES CON TODO TU CORAZÓN",
+         "versionCode":1
+      },
+      {
+         "date":"6 -12 de noviembre",
+         "lessonNumber":"7",
+         "remoteColor":"#cf7a67",
+         "title":"LA LEY Y LA GRACIA",
+         "versionCode":1
+      },
+      {
+         "date":"4-10 de diciembre",
+         "lessonNumber":"11",
+         "remoteColor":"#de37d6",
+         "title":"DEUTERONOMIO EN EL RESTO DEL ANTIGUO TESTAMENTO",
+         "versionCode":1
+      },
+      {
+         "date":"18-25 de diciembre",
+         "lessonNumber":"13",
+         "remoteColor":"#594dc9",
+         "title":"LA RESURRECCIÓN DE MOISÉS",
+         "versionCode":1
+      },
+      {
+         "date":"11-17 de diciembre",
+         "lessonNumber":"12",
+         "remoteColor":"#803bf7",
+         "title":"DEUTERONOMIO EN EL NUEVO TESTAMENTO",
+         "versionCode":1
+      }
+   ],
+   "egwLessons":[
+      {
+         "lessonNumber":"1",
+         "versionCode":9,
+         "title":"Editando",
+         "date":"26 de Junio - 2 de Julio",
+         "remoteColor":"#4fa6d1"
+      },
+      {
+         "lessonNumber":"2",
+         "versionCode":9,
+         "title":"Editando",
+         "date":"3-9 de Julio",
+         "remoteColor":"#a14fd1"
+      },
+      {
+         "lessonNumber":"3",
+         "versionCode":9,
+         "title":"Editando",
+         "date":"10-16 de Julio",
+         "remoteColor":"#d6ac58"
+      },
+      {
+         "lessonNumber":"4",
+         "versionCode":9,
+         "title":"Editando",
+         "date":"17-23 de Julio",
+         "remoteColor":"#a6d658"
+      },
+      {
+         "lessonNumber":"5",
+         "versionCode":9,
+         "title":"Editando)",
+         "date":"24-30 de Julio",
+         "remoteColor":"#5cd658"
+      },
+      {
+         "lessonNumber":"6",
+         "versionCode":9,
+         "title":"Editando",
+         "date":"31 de Julio-6 de Agosto",
+         "remoteColor":"#58d6a2"
+      },
+      {
+         "lessonNumber":"7",
+         "versionCode":9,
+         "title":"Editando",
+         "date":"7-13 de Agosto",
+         "remoteColor":"#58ccd6"
+      },
+      {
+         "lessonNumber":"8",
+         "versionCode":9,
+         "title":"Editando",
+         "date":"14-20 de Agosto",
+         "remoteColor":"#31a322"
+      },
+      {
+         "lessonNumber":"9",
+         "versionCode":9,
+         "title":"Editando",
+         "date":"21-27 de Agosto",
+         "remoteColor":"#5897d6"
+      },
+      {
+         "lessonNumber":"10",
+         "versionCode":9,
+         "title":"Editando",
+         "date":"28 de Agosto-3 de Septiembre",
+         "remoteColor":"#40bfff"
+      },
+      {
+         "lessonNumber":"11",
+         "versionCode":9,
+         "title":"Editando",
+         "date":"4-10 de Septiembre",
+         "remoteColor":"#18b581"
+      },
+      {
+         "lessonNumber":"12",
+         "versionCode":9,
+         "title":"Editando",
+         "date":"11-17 de Septiembre",
+         "remoteColor":"#8858d6"
+      },
+      {
+         "lessonNumber":"13",
+         "versionCode":9,
+         "title":"Editando",
+         "date":"September 18–24",
+         "remoteColor":"#b51844"
+      }
+   ],
+   "egwHasAlert":false,
+   "appHasAlert":false,
+   "egwAlert":{
+      "title":"",
+      "subtitle":"",
+      "message":"",
+      "alertType":0
+   }
+}
