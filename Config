@@ -20,45 +20,10 @@
          "versionCode":1
       },
       {
-         "date":"23-30 de octubre",
-         "lessonNumber":"5",
-         "remoteColor":"#64468c",
-         "title":"EL EXTRANJERO DENTRO DE TUS PUERTAS",
-         "versionCode":1
-      },
-      {
-         "date":"16 -23 de octubre",
-         "lessonNumber":"4",
-         "remoteColor":"#900C3F",
-         "title":"AMARÁS AL SEÑOR TU DIOS",
-         "versionCode":1
-      },
-      {
-         "date":"30 de octubre - 5 de noviembre",
-         "lessonNumber":"6",
-         "remoteColor":"#468c8a",
-         "title":"PORQUE ¿QUÉ NACIÓN GRANDE HAY...?",
-         "versionCode":1
-      },
-      {
          "date":"2-9 de octubre",
          "lessonNumber":"2",
          "remoteColor":"#FFBF00",
          "title":"LA LECCIÓN DE HISTORIA DE MOISÉS",
-         "versionCode":1
-      },
-      {
-         "date":" 27 de noviembre - 3 de diciembre",
-         "lessonNumber":"10",
-         "remoteColor":"#F7D402",
-         "title":"ACUÉRDATE, NO OLVIDES",
-         "versionCode":1
-      },
-      {
-         "date":"13- 19 de noviembre",
-         "lessonNumber":"8",
-         "remoteColor":"#F48BC1",
-         "title":"ESCOGE, PUES, LA VIDA",
          "versionCode":1
       },
       {
@@ -69,10 +34,24 @@
          "versionCode":1
       },
       {
-         "date":"20-26 de noviembre",
-         "lessonNumber":"9",
-         "remoteColor":"#D2655E",
-         "title":"CUANDO TE CONVIRTIERES CON TODO TU CORAZÓN",
+         "date":"16 -23 de octubre",
+         "lessonNumber":"4",
+         "remoteColor":"#900C3F",
+         "title":"AMARÁS AL SEÑOR TU DIOS",
+         "versionCode":1
+      },
+      {
+         "date":"23-30 de octubre",
+         "lessonNumber":"5",
+         "remoteColor":"#64468c",
+         "title":"EL EXTRANJERO DENTRO DE TUS PUERTAS",
+         "versionCode":1
+      },
+      {
+         "date":"30 de octubre - 5 de noviembre",
+         "lessonNumber":"6",
+         "remoteColor":"#468c8a",
+         "title":"PORQUE ¿QUÉ NACIÓN GRANDE HAY...?",
          "versionCode":1
       },
       {
@@ -83,6 +62,27 @@
          "versionCode":1
       },
       {
+         "date":"13- 19 de noviembre",
+         "lessonNumber":"8",
+         "remoteColor":"#F48BC1",
+         "title":"ESCOGE, PUES, LA VIDA",
+         "versionCode":1
+      },
+      {
+         "date":"20-26 de noviembre",
+         "lessonNumber":"9",
+         "remoteColor":"#D2655E",
+         "title":"CUANDO TE CONVIRTIERES CON TODO TU CORAZÓN",
+         "versionCode":1
+      },
+      {
+         "date":" 27 de noviembre - 3 de diciembre",
+         "lessonNumber":"10",
+         "remoteColor":"#F7D402",
+         "title":"ACUÉRDATE, NO OLVIDES",
+         "versionCode":1
+      },
+      {
          "date":"4-10 de diciembre",
          "lessonNumber":"11",
          "remoteColor":"#de37d6",
@@ -90,17 +90,17 @@
          "versionCode":1
       },
       {
-         "date":"18-25 de diciembre",
-         "lessonNumber":"13",
-         "remoteColor":"#594dc9",
-         "title":"LA RESURRECCIÓN DE MOISÉS",
-         "versionCode":1
-      },
-      {
          "date":"11-17 de diciembre",
          "lessonNumber":"12",
          "remoteColor":"#803bf7",
          "title":"DEUTERONOMIO EN EL NUEVO TESTAMENTO",
+         "versionCode":1
+      },
+      {
+         "date":"18-25 de diciembre",
+         "lessonNumber":"13",
+         "remoteColor":"#594dc9",
+         "title":"LA RESURRECCIÓN DE MOISÉS",
          "versionCode":1
       }
    ],
