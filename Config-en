@@ -1,106 +1,99 @@
 {
    "id":3,
-   "title":"Rest in Christ",
+   "title":"Present Truth in Deuteronomy",
    "color":"#13c486",
-   "quarterText":"4 Quarter 2021",
    "quarter":"4T2021",
-   "latestVersionName":"2.9.3",
+   "quarterText":"4 Quarter 2021",
    "latestVersionCode":191,
-   "googleUpdate":true,
-   "flexibleUpdate":true,
-   "helpVideos": "https://youtube.com/playlist?list=PL_n6OyUJzn1ReRrICR5V5caNTUz3QN4cb",
-   "mission": "https://cldup.com/kP8LliPIiM.pdf",
+   "latestVersionName":"2.9.3",
+   "flexibleUpdate":false,
+   "googleUpdate":false,
+   "helpVideos":"https://youtube.com/playlist?list=PL_n6OyUJzn1ReRrICR5V5caNTUz3QN4cb",
+   "mission":"https://cldup.com/kP8LliPIiM.pdf",
    "adultLessons":[
       {
+         "date":"September 25 – October 1",
          "lessonNumber":"1",
-         "versionCode":1,
-         "title":"Living in a 24-7 Society (3Q2021)",
-         "date":"June 26–July 2",
-         "remoteColor":"#de615d"
+         "remoteColor":"#28c413",
+         "title":"Preamble to Deuteronomy",
+         "versionCode":1
       },
       {
-         "lessonNumber":"2",
-         "versionCode":9,
-         "title":"Restless and Rebellious (3Q2021)",
-         "date":"July 3–9",
-         "remoteColor":"#de975d"
-      },
-      {
-         "lessonNumber":"3",
-         "versionCode":9,
-         "title":"The Roots of Restlessness (3Q2021)",
-         "date":"July 10–16",
-         "remoteColor":"#decf5d"
-      },
-      {
+         "date":"October 16- 23",
          "lessonNumber":"4",
-         "versionCode":9,
-         "title":"The Cost of Rest (3Q2021)",
-         "date":"July 17–23",
-         "remoteColor":"#a4de5d"
+         "remoteColor":"#900C3F",
+         "title":"To Love the Lord Your God",
+         "versionCode":1
       },
       {
-         "lessonNumber":"5",
-         "versionCode":9,
-         "title":"Come to Me (3Q2021)",
-         "date":"July 24–30",
-         "remoteColor":"#79de5d"
-      },
-      {
-         "lessonNumber":"6",
-         "versionCode":9,
-         "title":"Finding Rest in Family Ties (3Q2021)",
-         "date":"July 31–August 6",
-         "remoteColor":"#5dde9b"
-      },
-      {
-         "lessonNumber":"7",
-         "versionCode":9,
-         "title":"Rest, Relationships, and Healing (3Q2021)",
-         "date":"August 7–13",
-         "remoteColor":"#40bfff"
-      },
-      {
-         "lessonNumber":"8",
-         "versionCode":9,
-         "title":"Free to Rest (3Q2021)",
-         "date":"August 14–20",
-         "remoteColor":"#31a322"
-      },
-      {
-         "lessonNumber":"9",
-         "versionCode":9,
-         "title":"The Rhythms of Rest (3Q2021)",
-         "date":"August 21–27",
-         "remoteColor":"#5dbede"
-      },
-      {
+         "date":"November 27–December 3",
          "lessonNumber":"10",
-         "versionCode":9,
-         "title":"Sabbath Rest",
-         "date":"August 28–September 3 (3Q2021)",
-         "remoteColor":"#89ff40"
+         "remoteColor":"#F7D402",
+         "title":"Remember, Do Not Forget",
+         "versionCode":1
       },
       {
-         "lessonNumber":"11",
-         "versionCode":9,
-         "title":"Longing for More (3Q2021)",
-         "date":"September 4–10",
-         "remoteColor":"#a32256"
-      },
-      {
-         "lessonNumber":"12",
-         "versionCode":9,
-         "title":"The Restless Prophet (3Q2021)",
-         "date":"September 11–17",
-         "remoteColor":"#b51844"
-      },
-      {
+         "date":"December 18–24",
          "lessonNumber":"13",
-         "versionCode":9,
-         "title":"The Ultimate Rest (3Q2021)",
-         "date":"September 18–24",
-         "remoteColor":"#a05dde"
+         "remoteColor":"#CF010B",
+         "title":"The Resurrection of Moses",
+         "versionCode":1
+      },
+      {
+         "date":"October 30–November 5",
+         "lessonNumber":"6",
+         "remoteColor":"#328079",
+         "title":"For What Nation Is There So Great?",
+         "versionCode":1
+      },
+      {
+         "date":"October 23-29 ",
+         "lessonNumber":"5",
+         "remoteColor":"#64468c",
+         "title":"The Stranger in Your Gates",
+         "versionCode":1
+      },
+      {
+         "date":"October 9 - 15",
+         "lessonNumber":"3",
+         "remoteColor":"#28c413",
+         "title":"<p><strong>The Everlasting Covenant\n</strong></p>",
+         "versionCode":1
+      },
+      {
+         "date":"December 4 - 10",
+         "lessonNumber":"11",
+         "remoteColor":"#FF5733",
+         "title":"<p><strong>Deuteronomy in the Later Writings</strong></p>",
+         "versionCode":1
+      },
+      {
+         "date":"October 2–8",
+         "lessonNumber":"2",
+         "remoteColor":"#B2EBF2",
+         "title":"<p>Moses’ History Lesson</p><p><br></p>",
+         "versionCode":1
+      },
+      {
+         "date":"November 6-12",
+         "lessonNumber":"7",
+         "remoteColor":"#07B1B1",
+         "title":"<p><strong>Law and Grace</strong></p>",
+         "versionCode":1
+      },
+      {
+         "date":"November 20-26 ",
+         "lessonNumber":"9",
+         "remoteColor":"#5D7AB5",
+         "title":"<p>Turn Their Hearts</p>",
+         "versionCode":1
+      },
+      {
+         "date":"December 11–17",
+         "lessonNumber":"12",
+         "remoteColor":"#803bf7",
+         "title":"<p>Deuteronomy in the New Testament<br></p>",
+         "versionCode":1
       }
    ],
    "egwLessons":[
@@ -157,8 +150,8 @@
          "versionCode":0
       }
    ],
-   "egwHasAlert":false,
    "appHasAlert":false,
+   "egwHasAlert":false,
    "egwAlert":{
       "title":"",
       "subtitle":"",
