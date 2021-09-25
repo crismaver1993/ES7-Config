@@ -6,6 +6,7 @@
    "quarterText":"4 Quarter 2021",
    "latestVersionCode":191,
    "latestVersionName":"2.9.3",
+   "forceUpdate":false,
    "flexibleUpdate":false,
    "googleUpdate":false,
    "helpVideos":"https://youtube.com/playlist?list=PL_n6OyUJzn1ReRrICR5V5caNTUz3QN4cb",
