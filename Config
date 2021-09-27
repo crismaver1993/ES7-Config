@@ -109,92 +109,92 @@
          "lessonNumber":"1",
          "versionCode":9,
          "title":"Editando",
-         "date":"26 de Junio - 2 de Julio",
-         "remoteColor":"#4fa6d1"
+         "date":"",
+         "remoteColor":"#212121"
       },
       {
          "lessonNumber":"2",
          "versionCode":9,
          "title":"Editando",
-         "date":"3-9 de Julio",
-         "remoteColor":"#a14fd1"
+         "date":"",
+         "remoteColor":"#212121"
       },
       {
          "lessonNumber":"3",
          "versionCode":9,
          "title":"Editando",
-         "date":"10-16 de Julio",
-         "remoteColor":"#d6ac58"
+         "date":"",
+         "remoteColor":"#212121"
       },
       {
          "lessonNumber":"4",
          "versionCode":9,
          "title":"Editando",
-         "date":"17-23 de Julio",
-         "remoteColor":"#a6d658"
+         "date":"",
+         "remoteColor":"#212121"
       },
       {
          "lessonNumber":"5",
          "versionCode":9,
          "title":"Editando)",
-         "date":"24-30 de Julio",
-         "remoteColor":"#5cd658"
+         "date":"",
+         "remoteColor":"#212121"
       },
       {
          "lessonNumber":"6",
          "versionCode":9,
          "title":"Editando",
-         "date":"31 de Julio-6 de Agosto",
-         "remoteColor":"#58d6a2"
+         "date":"",
+         "remoteColor":"#212121"
       },
       {
          "lessonNumber":"7",
          "versionCode":9,
          "title":"Editando",
-         "date":"7-13 de Agosto",
-         "remoteColor":"#58ccd6"
+         "date":"",
+         "remoteColor":"#212121"
       },
       {
          "lessonNumber":"8",
          "versionCode":9,
          "title":"Editando",
-         "date":"14-20 de Agosto",
-         "remoteColor":"#31a322"
+         "date":"",
+         "remoteColor":"#212121"
       },
       {
          "lessonNumber":"9",
          "versionCode":9,
          "title":"Editando",
-         "date":"21-27 de Agosto",
-         "remoteColor":"#5897d6"
+         "date":"",
+         "remoteColor":"#212121"
       },
       {
          "lessonNumber":"10",
          "versionCode":9,
          "title":"Editando",
-         "date":"28 de Agosto-3 de Septiembre",
-         "remoteColor":"#40bfff"
+         "date":"",
+         "remoteColor":"#212121"
       },
       {
          "lessonNumber":"11",
          "versionCode":9,
          "title":"Editando",
-         "date":"4-10 de Septiembre",
-         "remoteColor":"#18b581"
+         "date":"",
+         "remoteColor":"#212121"
       },
       {
          "lessonNumber":"12",
          "versionCode":9,
          "title":"Editando",
-         "date":"11-17 de Septiembre",
-         "remoteColor":"#8858d6"
+         "date":"",
+         "remoteColor":"#212121"
       },
       {
          "lessonNumber":"13",
          "versionCode":9,
          "title":"Editando",
-         "date":"September 18–24",
-         "remoteColor":"#b51844"
+         "date":"",
+         "remoteColor":"#212121"
       }
    ],
    "egwHasAlert":false,
