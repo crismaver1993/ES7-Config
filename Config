@@ -105,96 +105,96 @@
       }
    ],
    "egwLessons":[
-      {
+     {
+         "date":"25 de Septiembre - 2 de octubre",
          "lessonNumber":"1",
-         "versionCode":9,
-         "title":"Editando",
-         "date":"",
-         "remoteColor":"#212121"
+         "remoteColor":"#0B2F3A",
+         "title":"PREÁMBULO DE DEUTERONOMIO",
+         "versionCode":1
       },
       {
+         "date":"2-9 de octubre",
          "lessonNumber":"2",
-         "versionCode":9,
-         "title":"Editando",
-         "date":"",
-         "remoteColor":"#212121"
+         "remoteColor":"#0B3B0B",
+         "title":"LA LECCIÓN DE HISTORIA DE MOISÉS",
+         "versionCode":1
       },
       {
+         "date":"9-15 de octubre",
          "lessonNumber":"3",
-         "versionCode":9,
-         "title":"Editando",
-         "date":"",
-         "remoteColor":"#212121"
+         "remoteColor":"#0B6138",
+         "title":"EL PACTO PERPETUO",
+         "versionCode":1
       },
       {
+         "date":"16 -23 de octubre",
          "lessonNumber":"4",
-         "versionCode":9,
-         "title":"Editando",
-         "date":"",
-         "remoteColor":"#212121"
+         "remoteColor":"#0B3B0B",
+         "title":"AMARÁS AL SEÑOR TU DIOS",
+         "versionCode":1
       },
       {
+         "date":"23-30 de octubre",
          "lessonNumber":"5",
-         "versionCode":9,
-         "title":"Editando)",
-         "date":"",
-         "remoteColor":"#212121"
+         "remoteColor":"#0B6138",
+         "title":"EL EXTRANJERO DENTRO DE TUS PUERTAS",
+         "versionCode":1
       },
       {
+         "date":"30 de octubre - 5 de noviembre",
          "lessonNumber":"6",
-         "versionCode":9,
-         "title":"Editando",
-         "date":"",
-         "remoteColor":"#212121"
+         "remoteColor":"#084B8A",
+         "title":"PORQUE ¿QUÉ NACIÓN GRANDE HAY...?",
+         "versionCode":1
       },
       {
+         "date":"6 -12 de noviembre",
          "lessonNumber":"7",
-         "versionCode":9,
-         "title":"Editando",
-         "date":"",
-         "remoteColor":"#212121"
+         "remoteColor":"#0B615E",
+         "title":"LA LEY Y LA GRACIA",
+         "versionCode":1
       },
       {
+         "date":"13- 19 de noviembre",
          "lessonNumber":"8",
-         "versionCode":9,
-         "title":"Editando",
-         "date":"",
-         "remoteColor":"#212121"
+         "remoteColor":"#08298A",
+         "title":"ESCOGE, PUES, LA VIDA",
+         "versionCode":1
       },
       {
+         "date":"20-26 de noviembre",
          "lessonNumber":"9",
-         "versionCode":9,
-         "title":"Editando",
-         "date":"",
-         "remoteColor":"#212121"
+         "remoteColor":"#0080FF",
+         "title":"CUANDO TE CONVIRTIERES CON TODO TU CORAZÓN",
+         "versionCode":1
       },
       {
+         "date":" 27 de noviembre - 3 de diciembre",
          "lessonNumber":"10",
-         "versionCode":9,
-         "title":"Editando",
-         "date":"",
-         "remoteColor":"#212121"
+         "remoteColor":"#0080FF",
+         "title":"ACUÉRDATE, NO OLVIDES",
+         "versionCode":1
       },
       {
+         "date":"4-10 de diciembre",
          "lessonNumber":"11",
-         "versionCode":9,
-         "title":"Editando",
-         "date":"",
-         "remoteColor":"#212121"
+         "remoteColor":"#045FB4",
+         "title":"DEUTERONOMIO EN EL RESTO DEL ANTIGUO TESTAMENTO",
+         "versionCode":1
       },
       {
+         "date":"11-17 de diciembre",
          "lessonNumber":"12",
-         "versionCode":9,
-         "title":"Editando",
-         "date":"",
-         "remoteColor":"#212121"
+         "remoteColor":"#819FF7",
+         "title":"DEUTERONOMIO EN EL NUEVO TESTAMENTO",
+         "versionCode":1
       },
       {
+         "date":"18-25 de diciembre",
          "lessonNumber":"13",
-         "versionCode":9,
-         "title":"Editando",
-         "date":"",
-         "remoteColor":"#212121"
+         "remoteColor":"#045FB4",
+         "title":"LA RESURRECCIÓN DE MOISÉS",
+         "versionCode":1
       }
    ],
    "egwHasAlert":false,
