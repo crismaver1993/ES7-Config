@@ -12,21 +12,9 @@
       "image":"https://cldup.com/G4uyQKgXFm.png",
       "author":"DIA"
    },
+
    {
       "id":2,
-      "name":"Lección de Menores/Intermediarios",
-      "age":"10-12 años",
-      "type":"",
-      "quarter":"3T2021",
-      "isCurrentQuarter":false,
-      "quarterDate":"",
-      "pdfUrl":"https://cldup.com/KCfNCrLdrT.pdf",
-      "language":"es",
-      "image":"https://cldup.com/gZag-H-EWA.png",
-      "author":"DSA"
-   },
-   {
-      "id":3,
       "name":"Lección Fe Real - Alumno",
       "age":"13-14 años",
       "type":"",
@@ -38,60 +26,10 @@
       "image":"https://cldup.com/nbMuM2715K.png",
       "author":"DIA"
    },
+
+ 
    {
-      "id":4,
-      "name":"Lección Fe Real - Maestro",
-      "age":"13-14 años",
-      "type":"",
-      "quarter":"3T2021",
-      "isCurrentQuarter":false,
-      "quarterDate":"3T2021",
-      "pdfUrl":"https://cldup.com/cMJs6AvrKV.pdf",
-      "language":"es",
-      "image":"https://cldup.com/eX6Z1RPOrt.png",
-      "author":"DIA"
-   },
-   {
-      "id":5,
-      "name":"Lección Jóvenes/Juvenil- Alumno",
-      "age":"",
-      "type":"",
-      "quarter":"3T2021",
-      "isCurrentQuarter":false,
-      "quarterDate":"",
-      "pdfUrl":"https://cldup.com/puSJFyLOte.pdf",
-      "language":"es",
-      "image":"https://cldup.com/VY7Mknz9uU.png",
-      "author":"DIA"
-   },
-   {
-      "id":6,
-      "name":"Lección Jóvenes/Juvenil- Maestro",
-      "age":"",
-      "type":"",
-      "quarter":"3T2021",
-      "isCurrentQuarter":false,
-      "quarterDate":"",
-      "pdfUrl":"https://cldup.com/2PQ7iKNV0w.pdf",
-      "language":"es",
-      "image":"https://cldup.com/VY7Mknz9uU.png",
-      "author":"DIA"
-   },
-   {
-      "id":7,
-      "name":"Lección de Primarios-Maestro",
-      "age":"(6-9 años)",
-      "type":"",
-      "quarter":"3T2021",
-      "isCurrentQuarter":false,
-      "quarterDate":"",
-      "pdfUrl":"https://cldup.com/BKdeFEAjux.pdf",
-      "language":"es",
-      "image":"https://cldup.com/4C-Ve2xWA7.png",
-      "author":"DSA"
-   },
-   {
-      "id":8,
+      "id":3,
       "name":"Lección de Primarios-Alumno",
       "age":"(6-9 años)",
       "type":"",
@@ -104,7 +42,7 @@
       "author":"DIA"
    },
    {
-      "id":9,
+      "id":4,
       "name":"Lección de Infantes-Alumno",
       "age":"3 a 5 Años",
       "type":"",
@@ -116,22 +54,10 @@
       "image":"https://cldup.com/7aQUMY5cuH.png",
       "author":"DSA"
    },
-   {
-      "id":10,
-      "name":"Lección de Infantes-Maestro",
-      "age":"3 a 5 Años",
-      "type":"",
-      "quarter":"3T2021",
-      "isCurrentQuarter":false,
-      "quarterDate":"",
-      "pdfUrl":"https://cldup.com/VwcV4F_h6D.pdf",
-      "language":"es",
-      "image":"https://cldup.com/Rh-GafF7yC.png",
-      "author":"DSA"
-   },
+  
    
     {
-      "id":11,
+      "id":5,
       "name":"Llave Maestra",
       "age":"10-12 años",
       "type":"",
@@ -146,7 +72,7 @@
    
    
     {
-      "id":12,
+      "id":6,
       "name":"Juveniles",
       "age":"13-16 años",
       "type":"",
@@ -160,7 +86,7 @@
    },
    
     {
-      "id":13,
+      "id":7,
       "name":"Cuna",
       "age":"0-3 años",
       "type":"",
