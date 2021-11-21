@@ -1,0 +1,133 @@
+{
+  "data": [
+    {
+      "adultLessons": [
+        {
+          "date": "September 25 – October 1",
+          "id": 14,
+          "lessonNumber": "1",
+          "remoteColor": "#28c413",
+          "title": "<p>Preamble to Deuteronomy<br></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "October 16- 23",
+          "id": 16,
+          "lessonNumber": "4",
+          "remoteColor": "#900C3F",
+          "title": "<p>To Love the Lord Your God</p>",
+          "versionCode": 1
+        },
+        {
+          "date": "November 27–December 3",
+          "id": 20,
+          "lessonNumber": "10",
+          "remoteColor": "#F7D402",
+          "title": "<p>Remember, Do Not Forget</p>",
+          "versionCode": 1
+        },
+        {
+          "date": "December 18–24",
+          "id": 21,
+          "lessonNumber": "13",
+          "remoteColor": "#CF010B",
+          "title": "<p>The Resurrection of Moses</p>",
+          "versionCode": 1
+        },
+        {
+          "date": "October 30–November 5",
+          "id": 22,
+          "lessonNumber": "6",
+          "remoteColor": "#328079",
+          "title": "<p>For What Nation Is There So<br>Great?<br></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "October 23-29 ",
+          "id": 25,
+          "lessonNumber": "5",
+          "remoteColor": "#64468c",
+          "title": "<p>The Stranger in Your Gates<br></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "October 9 - 15",
+          "id": 26,
+          "lessonNumber": "3",
+          "remoteColor": "#28c413",
+          "title": "<p><strong>The Everlasting Covenant\n</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "December 4 - 10",
+          "id": 27,
+          "lessonNumber": "11",
+          "remoteColor": "#FF5733",
+          "title": "<p><strong>Deuteronomy in the Later Writings</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "October 2–8",
+          "id": 28,
+          "lessonNumber": "2",
+          "remoteColor": "#B2EBF2",
+          "title": "<p>Moses’ History Lesson</p><p><br></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "November 6-12",
+          "id": 31,
+          "lessonNumber": "7",
+          "remoteColor": "#07B1B1",
+          "title": "<p><strong>Law and Grace</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "November 20-26 ",
+          "id": 32,
+          "lessonNumber": "9",
+          "remoteColor": "#5D7AB5",
+          "title": "<p>Turn Their Hearts</p>",
+          "versionCode": 1
+        },
+        {
+          "date": "December 11–17",
+          "id": 37,
+          "lessonNumber": "12",
+          "remoteColor": "#803bf7",
+          "title": "<p>Deuteronomy in the New Testament<br></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "November 13–19",
+          "id": 38,
+          "lessonNumber": "8",
+          "remoteColor": "#FF5733 ",
+          "title": "<p><strong>Choose Life\n</strong></p>",
+          "versionCode": 1
+        }
+      ],
+      "appHasAlert": false,
+      "color": "#13c486",
+      "egwHasAlert": false,
+      "egwLessons": [],
+      "flexibleUpdate": false,
+      "forceUpdate": false,
+      "googleUpdate": false,
+      "helpVideos": "https://youtube.com/playlist?list=PL_n6OyUJzn1ReRrICR5V5caNTUz3QN4cb",
+      "id": 3,
+      "idEs": 3,
+      "language": "en",
+      "latestVersionCode": 191,
+      "latestVersionName": "2.9.3",
+      "mission": "https://cldup.com/kP8LliPIiM.pdf",
+      "published": true,
+      "quarter": "4T2021",
+      "quarterNumber": 4,
+      "quarterText": "4 Quarter 2021",
+      "title": "Present Truth in Deuteronomy"
+    }
+  ],
+  "message": "Consulta con éxito",
+  "success": true
+}
