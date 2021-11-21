@@ -1,0 +1,238 @@
+{
+   "data":[
+      {
+         "adultLessons":[
+            {
+               "date":"25 de Septiembre - 2 de octubre",
+               "id":12,
+               "lessonNumber":"1",
+               "remoteColor":" #28c413 ",
+               "title":"<p>PREÁMBULO DE DEUTERONOMIO<br></p>",
+               "versionCode":1
+            },
+            {
+               "date":"23-30 de octubre",
+               "id":13,
+               "lessonNumber":"5",
+               "remoteColor":"#64468c",
+               "title":"<p>EL EXTRANJERO DENTRO DE TUS PUERTAS<br></p>",
+               "versionCode":1
+            },
+            {
+               "date":"16 -23 de octubre",
+               "id":15,
+               "lessonNumber":"4",
+               "remoteColor":"#900C3F",
+               "title":"<p>AMARÁS AL SEÑOR TU DIOS</p>",
+               "versionCode":1
+            },
+            {
+               "date":"30 de octubre - 5 de noviembre",
+               "id":17,
+               "lessonNumber":"6",
+               "remoteColor":"#468c8a",
+               "title":"<p>“PORQUE ¿QUÉ NACIÓN GRANDE HAY...?”<br></p>",
+               "versionCode":1
+            },
+            {
+               "date":"2-9 de octubre",
+               "id":18,
+               "lessonNumber":"2",
+               "remoteColor":"#FFBF00",
+               "title":"<p>LA LECCIÓN DE HISTORIA DE MOISÉS<br></p>",
+               "versionCode":1
+            },
+            {
+               "date":" 27 de noviembre - 3 de diciembre",
+               "id":19,
+               "lessonNumber":"10",
+               "remoteColor":"#F7D402",
+               "title":"<p>ACUÉRDATE, NO OLVIDES</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>",
+               "versionCode":1
+            },
+            {
+               "date":"13- 19 de noviembre",
+               "id":23,
+               "lessonNumber":"8",
+               "remoteColor":"#F48BC1",
+               "title":"<p>“ESCOGE, PUES, LA VIDA”<br></p>",
+               "versionCode":1
+            },
+            {
+               "date":"9-15 de octubre",
+               "id":24,
+               "lessonNumber":"3",
+               "remoteColor":"#FF5733 ",
+               "title":"<p>EL PACTO PERPETUO</p>",
+               "versionCode":1
+            },
+            {
+               "date":"20-26 de noviembre",
+               "id":29,
+               "lessonNumber":"9",
+               "remoteColor":"#D2655E",
+               "title":"<p>CUANDO TE CONVIRTIERES CON TODO TU CORAZÓN</p><p>\n</p>",
+               "versionCode":1
+            },
+            {
+               "date":"6 -12 de noviembre",
+               "id":33,
+               "lessonNumber":"7",
+               "remoteColor":"#cf7a67",
+               "title":"<p>LA LEY Y LA GRACIA</p>",
+               "versionCode":1
+            },
+            {
+               "date":"4-10 de diciembre",
+               "id":34,
+               "lessonNumber":"11",
+               "remoteColor":"#de37d6",
+               "title":"<p>DEUTERONOMIO EN EL RESTO DEL ANTIGUO TESTAMENTO<br></p>",
+               "versionCode":1
+            },
+            {
+               "date":"18-25 de diciembre",
+               "id":35,
+               "lessonNumber":"13",
+               "remoteColor":"#594dc9",
+               "title":"<p>LA RESURRECCIÓN DE MOISÉS<br></p>",
+               "versionCode":1
+            },
+            {
+               "date":"11-17 de diciembre",
+               "id":36,
+               "lessonNumber":"12",
+               "remoteColor":"#803bf7",
+               "title":"<p>DEUTERONOMIO EN EL NUEVO TESTAMENTO<br></p>",
+               "versionCode":1
+            }
+         ],
+         "appHasAlert":false,
+         "color":"#d1d5d5",
+         "egwHasAlert":false,
+         "egwLessons":[
+            {
+               "date":"2-9 de Octubre",
+               "id":39,
+               "lessonNumber":"2",
+               "remoteColor":"#045FB4",
+               "title":"<p>LA LECCIÓN DE HISTORIA DE MOISÉS</p>",
+               "versionCode":1
+            },
+            {
+               "date":"25 de Septiembre - 1 de Octubre",
+               "id":40,
+               "lessonNumber":"1",
+               "remoteColor":"#819FF7",
+               "title":"<p>PREÁMBULO DE DEUTERONOMIO<br></p>",
+               "versionCode":1
+            },
+            {
+               "date":"16-23 de Octubre",
+               "id":41,
+               "lessonNumber":"4",
+               "remoteColor":"#045FB4",
+               "title":"<p>AMARÁS AL SEÑOR TU DIOS</p>",
+               "versionCode":1
+            },
+            {
+               "date":"23-29 de Octubre",
+               "id":42,
+               "lessonNumber":"5",
+               "remoteColor":"#0080FF",
+               "title":"<p>EL EXTRANJERO DENTRO DE TUS PUERTAS<br><br></p>",
+               "versionCode":1
+            },
+            {
+               "date":"30 de Octubre- 5 de Noviembre",
+               "id":43,
+               "lessonNumber":"6",
+               "remoteColor":"#0174DF",
+               "title":"<p>PORQUE ¿QUÉ NACIÓN GRANDE HAY...?<br></p>",
+               "versionCode":1
+            },
+            {
+               "date":"6-12 de Noviembre",
+               "id":44,
+               "lessonNumber":"7",
+               "remoteColor":"#08298A",
+               "title":"<p>LA LEY Y LA GRACIA<br><br></p>",
+               "versionCode":1
+            },
+            {
+               "date":"13-19 de Noviembre",
+               "id":45,
+               "lessonNumber":"8",
+               "remoteColor":"#0B615E",
+               "title":"<p>ESCOGE, PUES, LA VIDA<br></p>",
+               "versionCode":1
+            },
+            {
+               "date":"20-26 de Noviembre",
+               "id":46,
+               "lessonNumber":"9",
+               "remoteColor":"#084B8A",
+               "title":"<p>CUANDO TE CONVIRTIERES CON TODO TU CORAZÓN<br></p>",
+               "versionCode":1
+            },
+            {
+               "date":"27 de Noviembre - 3 de Diciembre",
+               "id":47,
+               "lessonNumber":"10",
+               "remoteColor":"#0B6138",
+               "title":"<p>ACUÉRDATE, NO OLVIDES<br></p>",
+               "versionCode":1
+            },
+            {
+               "date":"4-10 de Diciembre",
+               "id":48,
+               "lessonNumber":"11",
+               "remoteColor":"#0B6138",
+               "title":"<p>DEUTERONOMIO EN EL RESTO DEL ANTIGUO TESTAMENTO<br></p>",
+               "versionCode":1
+            },
+            {
+               "date":"11-17 de Diciembre",
+               "id":49,
+               "lessonNumber":"12",
+               "remoteColor":"#0B3B0B",
+               "title":"<p>DEUTERONOMIO EN EL NUEVO TESTAMENTO<br></p>",
+               "versionCode":1
+            },
+            {
+               "date":"18-25 de Diciembre",
+               "id":50,
+               "lessonNumber":"13",
+               "remoteColor":"#0B3B0B",
+               "title":"<p>LA RESURRECCIÓN DE MOISÉS<br></p>",
+               "versionCode":1
+            },
+            {
+               "date":"9-15 de Octubre",
+               "id":51,
+               "lessonNumber":"3",
+               "remoteColor":"#0B2F3A",
+               "title":"<p>EL PACTO PERPETUO<br></p>",
+               "versionCode":1
+            }
+         ],
+         "flexibleUpdate":true,
+         "forceUpdate":false,
+         "googleUpdate":true,
+         "helpVideos":"https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
+         "id":3,
+         "idEs":2,
+         "language":"es",
+         "latestVersionCode":31,
+         "latestVersionName":"2.9.3",
+         "mission":"https://cldup.com/ZXmG9EC4bj.pdf",
+         "published":true,
+         "quarter":"4T2021",
+         "quarterNumber":4,
+         "quarterText":"4 Trimestre 2021",
+         "title":"LA VERDAD PRESENTE, EN DEUTERONOMIO"
+      }
+   ],
+   "message":"Consulta con éxito",
+   "success":true
+}
