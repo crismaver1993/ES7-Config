@@ -11,19 +11,19 @@
                "versionCode":16
             },
             {
+               "date":"January 1–7",
+               "id":64,
+               "lessonNumber":"2",
+               "remoteColor":"#33afff",
+               "title":"<p>The Message of Hebrews<br></p>",
+               "versionCode":16
+            },
+            {
                "date":"January 8–14",
                "id":56,
                "lessonNumber":"3",
                "remoteColor":"#468c8a",
                "title":"<p>The Promised Son<br><br></p>",
-               "versionCode":16
-            },
-            {
-               "date":"January 29–February 4",
-               "id":57,
-               "lessonNumber":"6",
-               "remoteColor":"#468c8a",
-               "title":"<p>Jesus, the Faithful Priest<br></p>",
                "versionCode":16
             },
             {
@@ -35,27 +35,19 @@
                "versionCode":16
             },
             {
-               "date":"February 26–March 4",
-               "id":61,
-               "lessonNumber":"10",
-               "remoteColor":"#802e77",
-               "title":"<p>Jesus Opens the Way Through the Veil</p>",
-               "versionCode":16
-            },
-            {
-               "date":"January 1–7",
-               "id":64,
-               "lessonNumber":"2",
-               "remoteColor":"#33afff",
-               "title":"<p>The Message of Hebrews<br></p>",
-               "versionCode":16
-            },
-            {
                "date":"January 22–28",
                "id":71,
                "lessonNumber":"5",
                "remoteColor":"#0c8243",
                "title":"<p>Jesus, the Giver of Rest<br></p>",
+               "versionCode":16
+            },
+            {
+               "date":"January 29–February 4",
+               "id":57,
+               "lessonNumber":"6",
+               "remoteColor":"#468c8a",
+               "title":"<p>Jesus, the Faithful Priest<br></p>",
                "versionCode":16
             },
             {
@@ -83,6 +75,14 @@
                "versionCode":16
             },
             {
+               "date":"February 26–March 4",
+               "id":61,
+               "lessonNumber":"10",
+               "remoteColor":"#802e77",
+               "title":"<p>Jesus Opens the Way Through the Veil</p>",
+               "versionCode":16
+            },
+            {
                "date":"March 5–11",
                "id":76,
                "lessonNumber":"11",
@@ -91,19 +91,19 @@
                "versionCode":16
             },
             {
-               "date":"March 19–25",
-               "id":77,
-               "lessonNumber":"13",
-               "remoteColor":"#ab0d23",
-               "title":"<p>Let Brotherly Love Continue<br></p>",
-               "versionCode":16
-            },
-            {
                "date":"March 12–18",
                "id":79,
                "lessonNumber":"12",
                "remoteColor":"#82320c",
                "title":"<p>Receiving an Unshakable Kingdom<br></p>",
+               "versionCode":16
+            },
+            {
+               "date":"March 19–25",
+               "id":77,
+               "lessonNumber":"13",
+               "remoteColor":"#ab0d23",
+               "title":"<p>Let Brotherly Love Continue<br></p>",
                "versionCode":16
             }
          ],
@@ -120,19 +120,19 @@
                "versionCode":1
             },
             {
+               "date":"January 1–7",
+               "id":64,
+               "lessonNumber":"2",
+               "remoteColor":"#33afff",
+               "title":"<p>The Message of Hebrews<br></p>",
+               "versionCode":1
+            },
+            {
                "date":"January 8–14",
                "id":56,
                "lessonNumber":"3",
                "remoteColor":"#468c8a",
                "title":"<p>The Promised Son<br><br></p>",
-               "versionCode":1
-            },
-            {
-               "date":"January 29–February 4",
-               "id":57,
-               "lessonNumber":"6",
-               "remoteColor":"#468c8a",
-               "title":"<p>Jesus, the Faithful Priest<br></p>",
                "versionCode":1
             },
             {
@@ -144,27 +144,19 @@
                "versionCode":1
             },
             {
-               "date":"February 26–March 4",
-               "id":61,
-               "lessonNumber":"10",
-               "remoteColor":"#802e77",
-               "title":"<p>Jesus Opens the Way Through the Veil</p>",
-               "versionCode":1
-            },
-            {
-               "date":"January 1–7",
-               "id":64,
-               "lessonNumber":"2",
-               "remoteColor":"#33afff",
-               "title":"<p>The Message of Hebrews<br></p>",
-               "versionCode":1
-            },
-            {
                "date":"January 22–28",
                "id":71,
                "lessonNumber":"5",
-               "remoteColor":"",
+               "remoteColor":"#0c8243",
                "title":"<p>Jesus, the Giver of Rest<br></p>",
+               "versionCode":1
+            },
+            {
+               "date":"January 29–February 4",
+               "id":57,
+               "lessonNumber":"6",
+               "remoteColor":"#468c8a",
+               "title":"<p>Jesus, the Faithful Priest<br></p>",
                "versionCode":1
             },
             {
@@ -192,6 +184,14 @@
                "versionCode":1
             },
             {
+               "date":"February 26–March 4",
+               "id":61,
+               "lessonNumber":"10",
+               "remoteColor":"#802e77",
+               "title":"<p>Jesus Opens the Way Through the Veil</p>",
+               "versionCode":1
+            },
+            {
                "date":"March 5–11",
                "id":76,
                "lessonNumber":"11",
@@ -200,19 +200,19 @@
                "versionCode":1
             },
             {
-               "date":"March 19–25",
-               "id":77,
-               "lessonNumber":"13",
-               "remoteColor":"#ab0d23",
-               "title":"<p>Let Brotherly Love Continue<br></p>",
-               "versionCode":1
-            },
-            {
                "date":"March 12–18",
                "id":79,
                "lessonNumber":"12",
                "remoteColor":"#82320c",
                "title":"<p>Receiving an Unshakable Kingdom<br></p>",
+               "versionCode":1
+            },
+            {
+               "date":"March 19–25",
+               "id":77,
+               "lessonNumber":"13",
+               "remoteColor":"#ab0d23",
+               "title":"<p>Let Brotherly Love Continue<br></p>",
                "versionCode":1
             }
          ],
@@ -223,8 +223,8 @@
          "id":3,
          "idEs":4,
          "language":"en",
-         "latestVersionCode":16,
-         "latestVersionName":"2.9.3",
+         "latestVersionCode":201,
+         "latestVersionName":"2.10.0",
          "mission":"https://cldup.com/k8Q4Z8qJ0w.pdf",
          "published":true,
          "quarter":"1T2022",
