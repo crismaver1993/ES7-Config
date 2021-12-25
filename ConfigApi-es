@@ -3,46 +3,6 @@
       {
          "adultLessons":[
             {
-               "date":"15-21 de enero",
-               "id":53,
-               "lessonNumber":"4",
-               "remoteColor":"#900C3F",
-               "title":"<p>JESÚS, NUESTRO HERMANO&nbsp;FIEL</p>",
-               "versionCode":16
-            },
-            {
-               "date":"8–14 de enero",
-               "id":58,
-               "lessonNumber":"3",
-               "remoteColor":"#468c8a",
-               "title":"<p>JESÚS, EL HIJO PROMETIDO<br></p>",
-               "versionCode":16
-            },
-            {
-               "date":"29 de enero–4 de febrero",
-               "id":59,
-               "lessonNumber":"6",
-               "remoteColor":"#468c8a",
-               "title":"<p>JESÚS, EL SACERDOTE FIEL<br></p>",
-               "versionCode":16
-            },
-            {
-               "date":"26 de febrero-4 de marzo",
-               "id":62,
-               "lessonNumber":"10",
-               "remoteColor":"#802e77",
-               "title":"<p>JESÚS ABRE EL CAMINO A TRAVÉS DEL VELO</p>",
-               "versionCode":16
-            },
-            {
-               "date":"5-11 de febrero",
-               "id":63,
-               "lessonNumber":"7",
-               "remoteColor":"#1a5fb2",
-               "title":"<p style=\"text-align: center; \"><strong style=\"color: rgb(31, 73, 125);\">JESÚS, EL ANCLA DEL ALMA</strong></p>",
-               "versionCode":16
-            },
-            {
                "date":"25 de diciembre - 1 de enero",
                "id":65,
                "lessonNumber":"1",
@@ -59,11 +19,43 @@
                "versionCode":16
             },
             {
-               "date":"5-11 de marzo",
-               "id":67,
-               "lessonNumber":"11",
-               "remoteColor":"#1ab278",
-               "title":"<p>JESÚS, EL AUTOR Y CONSUMADOR DE LA FE</p>",
+               "date":"8–14 de enero",
+               "id":58,
+               "lessonNumber":"3",
+               "remoteColor":"#468c8a",
+               "title":"<p>JESÚS, EL HIJO PROMETIDO<br></p>",
+               "versionCode":16
+            },
+            {
+               "date":"15-21 de enero",
+               "id":53,
+               "lessonNumber":"4",
+               "remoteColor":"#900C3F",
+               "title":"<p>JESÚS, NUESTRO HERMANO&nbsp;FIEL</p>",
+               "versionCode":16
+            },
+            {
+               "date":"22 de enero - 29 de enero",
+               "id":74,
+               "lessonNumber":"5",
+               "remoteColor":"",
+               "title":"<p>JESÚS, EL DADOR DEL<br>DESCANSO<br></p>",
+               "versionCode":16
+            },
+            {
+               "date":"29 de enero–4 de febrero",
+               "id":59,
+               "lessonNumber":"6",
+               "remoteColor":"#468c8a",
+               "title":"<p>JESÚS, EL SACERDOTE FIEL<br></p>",
+               "versionCode":16
+            },
+            {
+               "date":"5-11 de febrero",
+               "id":63,
+               "lessonNumber":"7",
+               "remoteColor":"#1a5fb2",
+               "title":"<p style=\"text-align: center; \"><strong style=\"color: rgb(31, 73, 125);\">JESÚS, EL ANCLA DEL ALMA</strong></p>",
                "versionCode":16
             },
             {
@@ -83,19 +75,27 @@
                "versionCode":16
             },
             {
+               "date":"26 de febrero-4 de marzo",
+               "id":62,
+               "lessonNumber":"10",
+               "remoteColor":"#802e77",
+               "title":"<p>JESÚS ABRE EL CAMINO A TRAVÉS DEL VELO</p>",
+               "versionCode":16
+            },
+            {
+               "date":"5-11 de marzo",
+               "id":67,
+               "lessonNumber":"11",
+               "remoteColor":"#1ab278",
+               "title":"<p>JESÚS, EL AUTOR Y CONSUMADOR DE LA FE</p>",
+               "versionCode":16
+            },
+            {
                "date":"12-18 de Marzo",
                "id":70,
                "lessonNumber":"12",
                "remoteColor":"#2ECCFA",
                "title":"<p>RECIBIR UN REINO INCONMOVIBLE</p>",
-               "versionCode":16
-            },
-            {
-               "date":"22 de enero - 29 de enero",
-               "id":74,
-               "lessonNumber":"5",
-               "remoteColor":"",
-               "title":"<p>JESÚS, EL DADOR DEL<br>DESCANSO<br></p>",
                "versionCode":16
             },
             {
@@ -111,46 +111,6 @@
          "color":"#3fcc14",
          "egwHasAlert":false,
          "egwLessons":[
-            {
-               "date":"15-21 de enero",
-               "id":53,
-               "lessonNumber":"4",
-               "remoteColor":"#900C3F",
-               "title":"ESTAMOS EDITANDO",
-               "versionCode":1
-            },
-            {
-               "date":"8–14 de enero",
-               "id":58,
-               "lessonNumber":"3",
-               "remoteColor":"#468c8a",
-               "title":"ESTAMOS EDITANDO",
-               "versionCode":1
-            },
-            {
-               "date":"29 de enero–4 de febrero",
-               "id":59,
-               "lessonNumber":"6",
-               "remoteColor":"#468c8a",
-               "title":"ESTAMOS EDITANDO",
-               "versionCode":1
-            },
-            {
-               "date":"26 de febrero-4 de marzo",
-               "id":62,
-               "lessonNumber":"10",
-               "remoteColor":"#802e77",
-               "title":"ESTAMOS EDITANDO",
-               "versionCode":1
-            },
-            {
-               "date":"5-11 de febrero",
-               "id":63,
-               "lessonNumber":"7",
-               "remoteColor":"#1a5fb2",
-               "title":"ESTAMOS EDITANDO",
-               "versionCode":1
-            },
             {
                "date":"25 de diciembre - 1 de enero",
                "id":65,
@@ -168,10 +128,42 @@
                "versionCode":1
             },
             {
-               "date":"5-11 de marzo",
-               "id":67,
-               "lessonNumber":"11",
-               "remoteColor":"#1ab278",
+               "date":"8–14 de enero",
+               "id":58,
+               "lessonNumber":"3",
+               "remoteColor":"#468c8a",
+               "title":"ESTAMOS EDITANDO",
+               "versionCode":1
+            },
+            {
+               "date":"15-21 de enero",
+               "id":53,
+               "lessonNumber":"4",
+               "remoteColor":"#900C3F",
+               "title":"ESTAMOS EDITANDO",
+               "versionCode":1
+            },
+            {
+               "date":"22 de enero - 29 de enero",
+               "id":74,
+               "lessonNumber":"5",
+               "remoteColor":"",
+               "title":"ESTAMOS EDITANDO",
+               "versionCode":1
+            },
+            {
+               "date":"29 de enero–4 de febrero",
+               "id":59,
+               "lessonNumber":"6",
+               "remoteColor":"#468c8a",
+               "title":"ESTAMOS EDITANDO",
+               "versionCode":1
+            },
+            {
+               "date":"5-11 de febrero",
+               "id":63,
+               "lessonNumber":"7",
+               "remoteColor":"#1a5fb2",
                "title":"ESTAMOS EDITANDO",
                "versionCode":1
             },
@@ -192,18 +184,26 @@
                "versionCode":1
             },
             {
-               "date":"12-18 de Marzo",
-               "id":70,
-               "lessonNumber":"12",
-               "remoteColor":"#2ECCFA",
+               "date":"26 de febrero-4 de marzo",
+               "id":62,
+               "lessonNumber":"10",
+               "remoteColor":"#802e77",
                "title":"ESTAMOS EDITANDO",
                "versionCode":1
             },
             {
-               "date":"22 de enero - 29 de enero",
-               "id":74,
-               "lessonNumber":"5",
-               "remoteColor":"",
+               "date":"5-11 de marzo",
+               "id":67,
+               "lessonNumber":"11",
+               "remoteColor":"#1ab278",
+               "title":"ESTAMOS EDITANDO",
+               "versionCode":1
+            },
+            {
+               "date":"12-18 de Marzo",
+               "id":70,
+               "lessonNumber":"12",
+               "remoteColor":"#2ECCFA",
                "title":"ESTAMOS EDITANDO",
                "versionCode":1
             },
@@ -216,15 +216,15 @@
                "versionCode":1
             }
          ],
-         "flexibleUpdate":false,
+         "flexibleUpdate":true,
          "forceUpdate":false,
-         "googleUpdate":false,
+         "googleUpdate":true,
          "helpVideos":"https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
          "id":3,
          "idEs":5,
          "language":"es",
-         "latestVersionCode":16,
-         "latestVersionName":"2.9.3",
+         "latestVersionCode":201,
+         "latestVersionName":"2.10.0",
          "mission":"https://cldup.com/MZsg2lrisL.pdf",
          "published":true,
          "quarter":"1T2022",
