@@ -216,9 +216,9 @@
                "versionCode":1
             }
          ],
-         "flexibleUpdate":false,
+         "flexibleUpdate":true,
          "forceUpdate":false,
-         "googleUpdate":false,
+         "googleUpdate":true,
          "helpVideos":"https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
          "id":3,
          "idEs":4,
