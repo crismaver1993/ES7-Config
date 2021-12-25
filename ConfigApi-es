@@ -38,7 +38,7 @@
                "date":"22 de enero - 29 de enero",
                "id":74,
                "lessonNumber":"5",
-               "remoteColor":"",
+               "remoteColor":"#1565a8",
                "title":"<p>JESÚS, EL DADOR DEL<br>DESCANSO<br></p>",
                "versionCode":16
             },
@@ -115,7 +115,7 @@
                "date":"25 de diciembre - 1 de enero",
                "id":65,
                "lessonNumber":"1",
-               "remoteColor":"#335bff",
+               "remoteColor":"#c5c8c7",
                "title":"ESTAMOS EDITANDO",
                "versionCode":1
             },
@@ -131,7 +131,7 @@
                "date":"8–14 de enero",
                "id":58,
                "lessonNumber":"3",
-               "remoteColor":"#468c8a",
+               "remoteColor":"#c5c8c7",
                "title":"ESTAMOS EDITANDO",
                "versionCode":1
             },
@@ -139,7 +139,7 @@
                "date":"15-21 de enero",
                "id":53,
                "lessonNumber":"4",
-               "remoteColor":"#900C3F",
+               "remoteColor":"#c5c8c7",
                "title":"ESTAMOS EDITANDO",
                "versionCode":1
             },
@@ -147,7 +147,7 @@
                "date":"22 de enero - 29 de enero",
                "id":74,
                "lessonNumber":"5",
-               "remoteColor":"",
+               "remoteColor":"#c5c8c7",
                "title":"ESTAMOS EDITANDO",
                "versionCode":1
             },
@@ -155,7 +155,7 @@
                "date":"29 de enero–4 de febrero",
                "id":59,
                "lessonNumber":"6",
-               "remoteColor":"#468c8a",
+               "remoteColor":"#c5c8c7",
                "title":"ESTAMOS EDITANDO",
                "versionCode":1
             },
@@ -163,7 +163,7 @@
                "date":"5-11 de febrero",
                "id":63,
                "lessonNumber":"7",
-               "remoteColor":"#1a5fb2",
+               "remoteColor":"#c5c8c7",
                "title":"ESTAMOS EDITANDO",
                "versionCode":1
             },
@@ -171,7 +171,7 @@
                "date":"12-18 de febrero",
                "id":68,
                "lessonNumber":"8",
-               "remoteColor":"#7c2a84",
+               "remoteColor":"#c5c8c7",
                "title":"ESTAMOS EDITANDO",
                "versionCode":1
             },
@@ -179,7 +179,7 @@
                "date":"19-25 de febrero",
                "id":69,
                "lessonNumber":"9",
-               "remoteColor":"#0dab3a",
+               "remoteColor":"#c5c8c7",
                "title":"ESTAMOS EDITANDO",
                "versionCode":1
             },
@@ -187,7 +187,7 @@
                "date":"26 de febrero-4 de marzo",
                "id":62,
                "lessonNumber":"10",
-               "remoteColor":"#802e77",
+               "remoteColor":"#c5c8c7",
                "title":"ESTAMOS EDITANDO",
                "versionCode":1
             },
@@ -195,7 +195,7 @@
                "date":"5-11 de marzo",
                "id":67,
                "lessonNumber":"11",
-               "remoteColor":"#1ab278",
+               "remoteColor":"#c5c8c7",
                "title":"ESTAMOS EDITANDO",
                "versionCode":1
             },
@@ -203,7 +203,7 @@
                "date":"12-18 de Marzo",
                "id":70,
                "lessonNumber":"12",
-               "remoteColor":"#2ECCFA",
+               "remoteColor":"#c5c8c7",
                "title":"ESTAMOS EDITANDO",
                "versionCode":1
             },
@@ -211,7 +211,7 @@
                "date":"19-26 de Marzo",
                "id":78,
                "lessonNumber":"13",
-               "remoteColor":"#2ECCFA",
+               "remoteColor":"#c5c8c7",
                "title":"ESTAMOS EDITANDO",
                "versionCode":1
             }
