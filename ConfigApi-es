@@ -115,25 +115,25 @@
                "date":"25-31 de diciembre",
                "id":65,
                "lessonNumber":"1",
-               "remoteColor":"#c5c8c7",
-               "title":"ESTAMOS EDITANDO",
-               "versionCode":1
+               "remoteColor":"#8ce323",
+               "title":"LA CARTA A LOS HEBREOS Y A NOSOTROS",
+               "versionCode":16
             },
             {
                "date":"1-7 de enero",
                "id":66,
                "lessonNumber":"2",
-               "remoteColor":"#9e186b",
-               "title":"ESTAMOS EDITANDO",
-               "versionCode":1
+               "remoteColor":"#5b9e0a",
+               "title":"EL MENSAJE DE HEBREOS",
+               "versionCode":16
             },
             {
                "date":"8–14 de enero",
                "id":58,
                "lessonNumber":"3",
-               "remoteColor":"#c5c8c7",
-               "title":"ESTAMOS EDITANDO",
-               "versionCode":1
+               "remoteColor":"#75cd0b",
+               "title":"JESÚS, EL HIJO PROMETIDO",
+               "versionCode":16
             },
             {
                "date":"15-21 de enero",
