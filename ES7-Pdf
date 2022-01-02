@@ -4,12 +4,12 @@
       "name":"Lección de Menores/Intermediarios",
       "age":"10-12 años",
       "type":"",
-      "quarter":"4T2021",
+      "quarter":"1T2022",
       "isCurrentQuarter":true,
       "quarterDate":"",
-      "pdfUrl":"https://cldup.com/XYvKZSytSK.pdf",
+      "pdfUrl":"https://cldup.com/If1-vx9cvB.pdf",
       "language":"es",
-      "image":"https://cldup.com/G4uyQKgXFm.png",
+      "image":"https://cldup.com/M1Tl_hKw4Z.png",
       "author":"DIA"
    },
 
@@ -18,12 +18,12 @@
       "name":"Lección Fe Real - Alumno",
       "age":"13-14 años",
       "type":"",
-      "quarter":"4T2021",
+      "quarter":"1T2022",
       "isCurrentQuarter":true,
-      "quarterDate":"4T2021",
-      "pdfUrl":"https://cldup.com/n-HMYrCbpf.pdf",
+      "quarterDate":"1T2022",
+      "pdfUrl":"https://cldup.com/dTeTZVMZo5.pdf",
       "language":"es",
-      "image":"https://cldup.com/nbMuM2715K.png",
+      "image":"https://cldup.com/d9nW9ALokl.png",
       "author":"DIA"
    },
 
@@ -33,10 +33,10 @@
       "name":"Lección de Primarios-Alumno",
       "age":"(6-9 años)",
       "type":"",
-      "quarter":"4T2021",
+      "quarter":"1T2022",
       "isCurrentQuarter":true,
       "quarterDate":"",
-      "pdfUrl":"https://cldup.com/lVaZvx_s9D.pdf",
+      "pdfUrl":"https://cldup.com/n6lQSoRqhO.pdf",
       "language":"es",
       "image":"https://cldup.com/QvpqDziwA1.png",
       "author":"DIA"
@@ -46,42 +46,27 @@
       "name":"Lección de Infantes-Alumno",
       "age":"3 a 5 Años",
       "type":"",
-      "quarter":"4T2021",
+      "quarter":"1T2022",
       "isCurrentQuarter":true,
-      "quarterDate":"4T2021",
-      "pdfUrl":"https://cldup.com/mSTb2A2vYW.pdf",
+      "quarterDate":"1T2022",
+      "pdfUrl":"https://cldup.com/V5y-XFlG7d.pdf",
       "language":"es",
-      "image":"https://cldup.com/7aQUMY5cuH.png",
+      "image":"https://cldup.com/vu5KLgGCcW.png",
       "author":"DSA"
    },
   
-   
-    {
-      "id":5,
-      "name":"Llave Maestra",
-      "age":"10-12 años",
-      "type":"",
-      "quarter":"4T2021",
-      "isCurrentQuarter":true,
-      "quarterDate":"",
-      "pdfUrl":"https://cldup.com/ZOpPuVAzMJ.pdf",
-      "language":"es",
-      "image":"https://cldup.com/giyj0SJjAm.png",
-      "author":"DIA"
-   },
-   
    
     {
       "id":6,
       "name":"Juveniles",
       "age":"13-16 años",
       "type":"",
-      "quarter":"4T2021",
+      "quarter":"1T2022",
       "isCurrentQuarter":true,
       "quarterDate":"",
-      "pdfUrl":"https://cldup.com/wN_T9p0bSb.pdf",
+      "pdfUrl":"https://cldup.com/c8nj_9fG0j.pdf",
       "language":"es",
-      "image":"https://cldup.com/0K1-E_2MLl.png",
+      "image":"https://cldup.com/7NeAP5XFhI.png",
       "author":"DIA"
    },
    
@@ -90,12 +75,12 @@
       "name":"Cuna",
       "age":"0-3 años",
       "type":"",
-      "quarter":"4T2021",
+      "quarter":"1T2022",
       "isCurrentQuarter":true,
       "quarterDate":"",
-      "pdfUrl":"https://cldup.com/gItlRYiv5Q.pdf",
+      "pdfUrl":"https://cldup.com/lD61W402GV.pdf",
       "language":"es",
-      "image":"https://cldup.com/7ir_67NoGT.png",
+      "image":"https://cldup.com/JJIeDbXZa0.png",
       "author":"DIA"
    }
 ]
