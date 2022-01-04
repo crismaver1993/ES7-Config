@@ -163,57 +163,57 @@
                "date":"5-11 de febrero",
                "id":63,
                "lessonNumber":"7",
-               "remoteColor":"#c5c8c7",
-               "title":"ESTAMOS EDITANDO",
-               "versionCode":1
+               "remoteColor":"#8ce323",
+               "title":"<p>JESÚS, EL ANCLA DEL ALMA</p>",
+               "versionCode":16
             },
             {
                "date":"12-18 de febrero",
                "id":68,
                "lessonNumber":"8",
-               "remoteColor":"#c5c8c7",
-               "title":"ESTAMOS EDITANDO",
-               "versionCode":1
+               "remoteColor":"#5b9e0a",
+               "title":"<p>JESÚS, EL MEDIADOR DEL NUEVO PACTO<br></p>",
+               "versionCode":16
             },
             {
                "date":"19-25 de febrero",
                "id":69,
                "lessonNumber":"9",
-               "remoteColor":"#c5c8c7",
-               "title":"ESTAMOS EDITANDO",
-               "versionCode":1
+               "remoteColor":"#75cd0b",
+               "title":"<p>JESÚS, EL SACRIFICIO PERFECTO<br></p>",
+               "versionCode":16
             },
             {
                "date":"26 de febrero-4 de marzo",
                "id":62,
                "lessonNumber":"10",
-               "remoteColor":"#c5c8c7",
-               "title":"ESTAMOS EDITANDO",
-               "versionCode":1
+               "remoteColor":"#2e8509",
+               "title":"<p>JESÚS ABRE EL CAMINO A TRAVÉS DEL VELO</p>",
+               "versionCode":16
             },
             {
                "date":"5-11 de marzo",
                "id":67,
                "lessonNumber":"11",
-               "remoteColor":"#c5c8c7",
-               "title":"ESTAMOS EDITANDO",
-               "versionCode":1
+               "remoteColor":"#75cd0b",
+               "title":"<p>JESÚS, EL AUTOR Y CONSUMADOR DE LA FE</p>",
+               "versionCode":16
             },
             {
-               "date":"12-18 de Marzo",
+               "date":"12-18 de marzo",
                "id":70,
                "lessonNumber":"12",
-               "remoteColor":"#c5c8c7",
-               "title":"ESTAMOS EDITANDO",
-               "versionCode":1
+               "remoteColor":"#5b9e0a",
+               "title":"<p>RECIBIR UN REINO INCONMOVIBLE</p>",
+               "versionCode":16
             },
             {
-               "date":"19-26 de Marzo",
+               "date":"19-25 de marzo",
                "id":78,
                "lessonNumber":"13",
-               "remoteColor":"#c5c8c7",
-               "title":"ESTAMOS EDITANDO",
-               "versionCode":1
+               "remoteColor":"#8ce323",
+               "title":"<p>PERMANEZCA EL AMOR FRATERNAL</p>",
+               "versionCode":16
             }
          ],
          "flexibleUpdate":true,
