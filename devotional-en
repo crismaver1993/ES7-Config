@@ -10,6 +10,7 @@
          "description":"",
          "creator":"",
          "featured":false,
+         "visible": true,
          "year":""
       },
       {
@@ -20,6 +21,7 @@
          "description":"",
          "creator":"",
          "featured":false,
+         "visible": true,
          "year":""
       },
       {
@@ -30,6 +32,7 @@
          "description":"",
          "creator":"",
          "featured":false,
+         "visible": true,
          "year":""
       },
       {
@@ -40,6 +43,7 @@
          "description":"",
          "creator":"",
          "featured":false,
+         "visible": true,
          "year":""
       }
    ]
