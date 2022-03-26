@@ -3,237 +3,238 @@
       {
          "adultLessons":[
             {
-               "date":"25-31 de diciembre",
-               "id":65,
+               "date":"26 de marzo- 1 de abril",
+               "id":92,
                "lessonNumber":"1",
-               "remoteColor":"#335bff",
-               "title":"<p>LA CARTA A LOS HEBREOS Y A NOSOTROS<br></p>",
-               "versionCode":16
+               "remoteColor":"#6ce10f",
+               "title":"<p>LA CREACIÓN<br></p>",
+               "versionCode":1
             },
             {
-               "date":"1-7 de enero",
-               "id":66,
+               "date":"2-8 de abril",
+               "id":93,
                "lessonNumber":"2",
-               "remoteColor":"#9e186b",
-               "title":"<p>EL MENSAJE DE HEBREOS<br></p>",
-               "versionCode":16
+               "remoteColor":"#0f88e1",
+               "title":"<p>LA CAÍDA<br></p>",
+               "versionCode":1
             },
             {
-               "date":"8–14 de enero",
-               "id":58,
+               "date":"9-15 de abril",
+               "id":105,
                "lessonNumber":"3",
-               "remoteColor":"#468c8a",
-               "title":"<p>JESÚS, EL HIJO PROMETIDO<br></p>",
-               "versionCode":16
+               "remoteColor":"#6c11cd",
+               "title":"<p>CAÍN Y SU LEGADO</p>",
+               "versionCode":1
             },
             {
-               "date":"15-21 de enero",
-               "id":53,
+               "date":"16-22 de abril",
+               "id":90,
                "lessonNumber":"4",
-               "remoteColor":"#900C3F",
-               "title":"<p>JESÚS, NUESTRO HERMANO&nbsp;FIEL</p>",
-               "versionCode":16
+               "remoteColor":"#283747",
+               "title":"<p>EL DILUVIO</p>",
+               "versionCode":1
             },
             {
-               "date":"22-28 de enero",
-               "id":74,
+               "date":" 23 - 29 de abril",
+               "id":98,
                "lessonNumber":"5",
-               "remoteColor":"#1565a8",
-               "title":"<p>JESÚS, EL DADOR DEL<br>DESCANSO<br></p>",
-               "versionCode":16
+               "remoteColor":"#b0cd11",
+               "title":"<p>TODAS LAS NACIONES Y BABEL</p>",
+               "versionCode":1
             },
             {
-               "date":"29 de enero–4 de febrero",
-               "id":59,
+               "date":"30 de abril-6 de mayo ",
+               "id":91,
                "lessonNumber":"6",
                "remoteColor":"#468c8a",
-               "title":"<p>JESÚS, EL SACERDOTE FIEL<br></p>",
-               "versionCode":16
+               "title":"<p>LAS RAÍCES DE ABRAHAM<br></p>",
+               "versionCode":1
             },
             {
-               "date":"5-11 de febrero",
-               "id":63,
+               "date":" 7-13 de mayo",
+               "id":94,
                "lessonNumber":"7",
-               "remoteColor":"#1a5fb2",
-               "title":"<p>JESÚS, EL ANCLA DEL ALMA</p>",
-               "versionCode":16
+               "remoteColor":"#7c0ff0",
+               "title":"<p>EL PACTO CON ABRAHAM</p>",
+               "versionCode":1
             },
             {
-               "date":"12-18 de febrero",
-               "id":68,
+               "date":"14-20 de mayo",
+               "id":112,
                "lessonNumber":"8",
-               "remoteColor":"#7c2a84",
-               "title":"<p>JESÚS, EL MEDIADOR DEL NUEVO PACTO<br></p>",
-               "versionCode":17
+               "remoteColor":"#6ce10f",
+               "title":"<p>LA PROMESA\n</p>",
+               "versionCode":1
             },
             {
-               "date":"19-25 de febrero",
-               "id":69,
+               "date":"21-27 de mayo",
+               "id":100,
                "lessonNumber":"9",
-               "remoteColor":"#0dab3a",
-               "title":"<p>JESÚS, EL SACRIFICIO PERFECTO<br></p>",
-               "versionCode":16
+               "remoteColor":"#3611cd",
+               "title":"<p>JACOB, EL SUPLANTADOR</p>",
+               "versionCode":1
             },
             {
-               "date":"26 de febrero-4 de marzo",
-               "id":62,
+               "date":"28 de mayo - 3 de junio",
+               "id":97,
                "lessonNumber":"10",
-               "remoteColor":"#802e77",
-               "title":"<p>JESÚS ABRE EL CAMINO A TRAVÉS DEL VELO</p>",
-               "versionCode":16
+               "remoteColor":"#6ce10f",
+               "title":"<p>JACOB-ISRAEL</p>",
+               "versionCode":1
             },
             {
-               "date":"5-11 de marzo",
-               "id":67,
+               "date":"4-10 de junio",
+               "id":102,
                "lessonNumber":"11",
-               "remoteColor":"#1ab278",
-               "title":"<p>JESÚS, EL AUTOR Y CONSUMADOR DE LA FE</p>",
-               "versionCode":16
+               "remoteColor":"#cd116f",
+               "title":"<p>JOSÉ, EXPERTO EN SUEÑOS</p>",
+               "versionCode":1
             },
             {
-               "date":"12-18 de marzo",
-               "id":70,
+               "date":"11-17 de junio",
+               "id":96,
                "lessonNumber":"12",
-               "remoteColor":"#2ECCFA",
-               "title":"<p>RECIBIR UN REINO INCONMOVIBLE</p>",
-               "versionCode":16
+               "remoteColor":"#0489B1",
+               "title":"<p>JOSÉ, PRINCIPE DE EGIPTO</p>",
+               "versionCode":1
             },
             {
-               "date":"19-25 de marzo",
-               "id":78,
+               "date":"18-24 de junio",
+               "id":95,
                "lessonNumber":"13",
-               "remoteColor":"#2ECCFA",
-               "title":"<p>PERMANEZCA EL AMOR FRATERNAL</p>",
-               "versionCode":16
+               "remoteColor":"#0489B1",
+               "title":"<p>ISAREL EN EGIPTO</p>",
+               "versionCode":1
             }
          ],
          "appHasAlert":false,
-         "color":"#3fcc14",
+         "color":"#1565a8",
          "egwHasAlert":false,
          "egwLessons":[
             {
-               "date":"25-31 de diciembre",
-               "id":65,
+               "date":"26 de marzo-1 de abril",
+               "id":121,
                "lessonNumber":"1",
-               "remoteColor":"#8ce323",
-               "title":"LA CARTA A LOS HEBREOS Y A NOSOTROS",
-               "versionCode":16
+               "remoteColor":"#f0a50f",
+               "title":"<p>LA CREACIÓN<br></p>",
+               "versionCode":1
             },
             {
-               "date":"1-7 de enero",
-               "id":66,
+               "date":"2-8 de abril",
+               "id":122,
                "lessonNumber":"2",
-               "remoteColor":"#5b9e0a",
-               "title":"EL MENSAJE DE HEBREOS",
-               "versionCode":16
+               "remoteColor":"#a20ff0",
+               "title":"<p>LA CAÍDA<br></p>",
+               "versionCode":1
             },
             {
-               "date":"8–14 de enero",
-               "id":58,
+               "date":"9-15 de abril",
+               "id":123,
                "lessonNumber":"3",
-               "remoteColor":"#75cd0b",
-               "title":"JESÚS, EL HIJO PROMETIDO",
-               "versionCode":16
+               "remoteColor":"#0f79f0",
+               "title":"<p>CAÍN Y SU LEGADO<br></p>",
+               "versionCode":1
             },
             {
-               "date":"15-21 de enero",
-               "id":53,
+               "date":"16 - 22 de abril",
+               "id":114,
                "lessonNumber":"4",
-               "remoteColor":"#75cd0b",
-               "title":"<p>JESÚS, NUESTRO HERMANO&nbsp;FIEL</p>",
-               "versionCode":16
+               "remoteColor":"#EF7C8E",
+               "title":"<p>EL DILUVIO</p>",
+               "versionCode":1
             },
             {
-               "date":"22-28 de enero",
-               "id":74,
+               "date":"23 -29 de abril",
+               "id":115,
                "lessonNumber":"5",
-               "remoteColor":"#4dde10",
-               "title":"<p>JESÚS, EL DADOR DEL<br>DESCANSO<br></p>",
-               "versionCode":16
+               "remoteColor":"#FAE8E0",
+               "title":"<p>TODAS LAS NACIONES Y BABEL</p>",
+               "versionCode":1
             },
             {
-               "date":"29 de enero–4 de febrero",
-               "id":59,
+               "date":"30 de abril - 06 de mayo",
+               "id":116,
                "lessonNumber":"6",
-               "remoteColor":"#2e8509",
-               "title":"<p>JESÚS, EL SACERDOTE FIEL<br></p>",
-               "versionCode":16
+               "remoteColor":"#B6E2D3",
+               "title":"<p>LAS RAÍCES DE ABRAHAM</p>",
+               "versionCode":1
             },
             {
-               "date":"5-11 de febrero",
-               "id":63,
+               "date":"07 - 13 de mayo",
+               "id":117,
                "lessonNumber":"7",
-               "remoteColor":"#8ce323",
-               "title":"<p>JESÚS, EL ANCLA DEL ALMA</p>",
-               "versionCode":16
+               "remoteColor":"#D8A7B1",
+               "title":"<p>EL PACTO CON ABRAHAM</p>",
+               "versionCode":1
             },
             {
-               "date":"12-18 de febrero",
-               "id":68,
+               "date":"14 - 20 de mayo",
+               "id":118,
                "lessonNumber":"8",
-               "remoteColor":"#5b9e0a",
-               "title":"<p>JESÚS, EL MEDIADOR DEL NUEVO PACTO<br></p>",
-               "versionCode":16
+               "remoteColor":"#887BB0",
+               "title":"<p>LA PROMESA</p>",
+               "versionCode":1
             },
             {
-               "date":"19-25 de febrero",
-               "id":69,
+               "date":"21-27 de mayo",
+               "id":124,
                "lessonNumber":"9",
-               "remoteColor":"#75cd0b",
-               "title":"<p>JESÚS, EL SACRIFICIO PERFECTO<br></p>",
-               "versionCode":16
+               "remoteColor":"#f00f68",
+               "title":"<p>JACOB, EL SUPLANTADOR<br></p>",
+               "versionCode":1
             },
             {
-               "date":"26 de febrero-4 de marzo",
-               "id":62,
+               "date":"28 de mayo - 3 de junio",
+               "id":125,
                "lessonNumber":"10",
-               "remoteColor":"#2e8509",
-               "title":"<p>JESÚS ABRE EL CAMINO A TRAVÉS DEL VELO</p>",
-               "versionCode":16
+               "remoteColor":"#0f31f0",
+               "title":"<p>JACOB-ISRAEL<br></p>",
+               "versionCode":1
             },
             {
-               "date":"5-11 de marzo",
-               "id":67,
+               "date":"4-10 de junio",
+               "id":126,
                "lessonNumber":"11",
-               "remoteColor":"#75cd0b",
-               "title":"<p>JESÚS, EL AUTOR Y CONSUMADOR DE LA FE</p>",
-               "versionCode":16
+               "remoteColor":"#0ff08a",
+               "title":"<p>JOSÉ, EXPERTO EN SUEÑOS<br><br></p>",
+               "versionCode":1
             },
             {
-               "date":"12-18 de marzo",
-               "id":70,
+               "date":"11-17 de junio",
+               "id":127,
                "lessonNumber":"12",
-               "remoteColor":"#5b9e0a",
-               "title":"<p>RECIBIR UN REINO INCONMOVIBLE</p>",
-               "versionCode":16
+               "remoteColor":"#f0d10f",
+               "title":"<p>JOSÉ, PRÍNCIPE DE EGIPTO<br></p>",
+               "versionCode":1
             },
             {
-               "date":"19-25 de marzo",
-               "id":78,
+               "date":"18-24 de junio",
+               "id":128,
                "lessonNumber":"13",
-               "remoteColor":"#8ce323",
-               "title":"<p>PERMANEZCA EL AMOR FRATERNAL</p>",
-               "versionCode":16
+               "remoteColor":"#0fa2f0",
+               "title":"<p>ISRAEL EN EGIPTO<br></p>",
+               "versionCode":1
             }
          ],
          "flexibleUpdate":true,
-         "forceUpdate":true,
+         "forceUpdate":false,
          "googleUpdate":true,
          "helpVideos":"https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
          "id":3,
-         "idEs":5,
+         "idEs":6,
          "language":"es",
-         "latestVersionCode":202,
-         "latestVersionName":"2.10.1",
-         "mission":"https://cldup.com/MZsg2lrisL.pdf",
+         "latestVersionCode":207,
+         "latestVersionName":"2.10.5",
+         "mission":"https://cldup.com/ZXmG9EC4bj.pdf",
          "published":true,
-         "quarter":"1T2022",
-         "quarterNumber":1,
-         "quarterText":"1 Trimestre 2022",
-         "title":"En estos últimos días: el mensaje de Hebreos",
+         "quarter":"2T2022",
+         "quarterNumber":2,
+         "quarterText":"2 Trimestre 2022",
+         "title":"EL GENESIS",
          "year":2022
       }
    ],
    "message":"Consulta con éxito",
    "success":true
 }
+
