@@ -9,8 +9,8 @@
    "id":3,
    "idEs":5,
    "language":"es",
-   "latestVersionCode":202,
-   "latestVersionName":"2.10.1",
+   "latestVersionCode":207,
+   "latestVersionName":"2.10.5",
    "mission":"https://cldup.com/MZsg2lrisL.pdf",
    "published":true,
    "quarter":"1T2022",
@@ -30,7 +30,7 @@
          "id":65,
          "lessonNumber":"1",
          "remoteColor":"#335bff",
-         "title":"<p>LA CARTA A LOS HEBREOS Y A NOSOTROS<br></p>",
+         "title":"ACTUALIZA TU APP",
          "versionCode":16
       },
       {
@@ -200,7 +200,7 @@
          "id":69,
          "lessonNumber":"9",
          "remoteColor":"#75cd0b",
-         "title":"<p>JESÚS, EL SACRIFICIO PERFECTO<br></p>",
+         "title":"ACTUALIZA TU APP",
          "versionCode":16
       },
       {
@@ -208,7 +208,7 @@
          "id":62,
          "lessonNumber":"10",
          "remoteColor":"#2e8509",
-         "title":"<p>JESÚS ABRE EL CAMINO A TRAVÉS DEL VELO</p>",
+         "title":"ACTUALIZA TU APP",
          "versionCode":16
       },
       {
@@ -216,7 +216,7 @@
          "id":67,
          "lessonNumber":"11",
          "remoteColor":"#75cd0b",
-         "title":"<p>JESÚS, EL AUTOR Y CONSUMADOR DE LA FE</p>",
+         "title":"ACTUALIZA TU APP",
          "versionCode":16
       },
       {
@@ -224,7 +224,7 @@
          "id":70,
          "lessonNumber":"12",
          "remoteColor":"#5b9e0a",
-         "title":"<p>RECIBIR UN REINO INCONMOVIBLE</p>",
+         "title":"ACTUALIZA TU APP",
          "versionCode":16
       },
       {
@@ -232,7 +232,7 @@
          "id":78,
          "lessonNumber":"13",
          "remoteColor":"#8ce323",
-         "title":"<p>PERMANEZCA EL AMOR FRATERNAL</p>",
+         "title":"ACTUALIZA TU APP",
          "versionCode":16
       }
    ]
