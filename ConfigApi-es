@@ -1,240 +1,185 @@
 {
-   "data":[
-      {
-         "adultLessons":[
-            {
-               "date":"26 de marzo- 1 de abril",
-               "id":92,
-               "lessonNumber":"1",
-               "remoteColor":"#6ce10f",
-               "title":"<p>LA CREACIÓN<br></p>",
-               "versionCode":1
-            },
-            {
-               "date":"2-8 de abril",
-               "id":93,
-               "lessonNumber":"2",
-               "remoteColor":"#0f88e1",
-               "title":"<p>LA CAÍDA<br></p>",
-               "versionCode":1
-            },
-            {
-               "date":"9-15 de abril",
-               "id":105,
-               "lessonNumber":"3",
-               "remoteColor":"#6c11cd",
-               "title":"<p>CAÍN Y SU LEGADO</p>",
-               "versionCode":1
-            },
-            {
-               "date":"16-22 de abril",
-               "id":90,
-               "lessonNumber":"4",
-               "remoteColor":"#283747",
-               "title":"<p>EL DILUVIO</p>",
-               "versionCode":1
-            },
-            {
-               "date":" 23 - 29 de abril",
-               "id":98,
-               "lessonNumber":"5",
-               "remoteColor":"#b0cd11",
-               "title":"<p>TODAS LAS NACIONES Y BABEL</p>",
-               "versionCode":1
-            },
-            {
-               "date":"30 de abril-6 de mayo ",
-               "id":91,
-               "lessonNumber":"6",
-               "remoteColor":"#468c8a",
-               "title":"<p>LAS RAÍCES DE ABRAHAM<br></p>",
-               "versionCode":1
-            },
-            {
-               "date":" 7-13 de mayo",
-               "id":94,
-               "lessonNumber":"7",
-               "remoteColor":"#7c0ff0",
-               "title":"<p>EL PACTO CON ABRAHAM</p>",
-               "versionCode":1
-            },
-            {
-               "date":"14-20 de mayo",
-               "id":112,
-               "lessonNumber":"8",
-               "remoteColor":"#6ce10f",
-               "title":"<p>LA PROMESA\n</p>",
-               "versionCode":1
-            },
-            {
-               "date":"21-27 de mayo",
-               "id":100,
-               "lessonNumber":"9",
-               "remoteColor":"#3611cd",
-               "title":"<p>JACOB, EL SUPLANTADOR</p>",
-               "versionCode":1
-            },
-            {
-               "date":"28 de mayo - 3 de junio",
-               "id":97,
-               "lessonNumber":"10",
-               "remoteColor":"#6ce10f",
-               "title":"<p>JACOB-ISRAEL</p>",
-               "versionCode":1
-            },
-            {
-               "date":"4-10 de junio",
-               "id":102,
-               "lessonNumber":"11",
-               "remoteColor":"#cd116f",
-               "title":"<p>JOSÉ, EXPERTO EN SUEÑOS</p>",
-               "versionCode":1
-            },
-            {
-               "date":"11-17 de junio",
-               "id":96,
-               "lessonNumber":"12",
-               "remoteColor":"#0489B1",
-               "title":"<p>JOSÉ, PRINCIPE DE EGIPTO</p>",
-               "versionCode":1
-            },
-            {
-               "date":"18-24 de junio",
-               "id":95,
-               "lessonNumber":"13",
-               "remoteColor":"#0489B1",
-               "title":"<p>ISAREL EN EGIPTO</p>",
-               "versionCode":1
-            }
-         ],
-         "appHasAlert":false,
-         "color":"#1565a8",
-         "egwHasAlert":false,
-         "egwLessons":[
-            {
-               "date":"26 de marzo-1 de abril",
-               "id":121,
-               "lessonNumber":"1",
-               "remoteColor":"#f0a50f",
-               "title":"<p>LA CREACIÓN<br></p>",
-               "versionCode":1
-            },
-            {
-               "date":"2-8 de abril",
-               "id":122,
-               "lessonNumber":"2",
-               "remoteColor":"#a20ff0",
-               "title":"<p>LA CAÍDA<br></p>",
-               "versionCode":1
-            },
-            {
-               "date":"9-15 de abril",
-               "id":123,
-               "lessonNumber":"3",
-               "remoteColor":"#0f79f0",
-               "title":"<p>CAÍN Y SU LEGADO<br></p>",
-               "versionCode":1
-            },
-            {
-               "date":"16 - 22 de abril",
-               "id":114,
-               "lessonNumber":"4",
-               "remoteColor":"#EF7C8E",
-               "title":"<p>EL DILUVIO</p>",
-               "versionCode":1
-            },
-            {
-               "date":"23 -29 de abril",
-               "id":115,
-               "lessonNumber":"5",
-               "remoteColor":"#FAE8E0",
-               "title":"<p>TODAS LAS NACIONES Y BABEL</p>",
-               "versionCode":1
-            },
-            {
-               "date":"30 de abril - 06 de mayo",
-               "id":116,
-               "lessonNumber":"6",
-               "remoteColor":"#B6E2D3",
-               "title":"<p>LAS RAÍCES DE ABRAHAM</p>",
-               "versionCode":1
-            },
-            {
-               "date":"07 - 13 de mayo",
-               "id":117,
-               "lessonNumber":"7",
-               "remoteColor":"#D8A7B1",
-               "title":"<p>EL PACTO CON ABRAHAM</p>",
-               "versionCode":1
-            },
-            {
-               "date":"14 - 20 de mayo",
-               "id":118,
-               "lessonNumber":"8",
-               "remoteColor":"#887BB0",
-               "title":"<p>LA PROMESA</p>",
-               "versionCode":1
-            },
-            {
-               "date":"21-27 de mayo",
-               "id":124,
-               "lessonNumber":"9",
-               "remoteColor":"#f00f68",
-               "title":"<p>JACOB, EL SUPLANTADOR<br></p>",
-               "versionCode":1
-            },
-            {
-               "date":"28 de mayo - 3 de junio",
-               "id":125,
-               "lessonNumber":"10",
-               "remoteColor":"#0f31f0",
-               "title":"<p>JACOB-ISRAEL<br></p>",
-               "versionCode":1
-            },
-            {
-               "date":"4-10 de junio",
-               "id":126,
-               "lessonNumber":"11",
-               "remoteColor":"#0ff08a",
-               "title":"<p>JOSÉ, EXPERTO EN SUEÑOS<br><br></p>",
-               "versionCode":1
-            },
-            {
-               "date":"11-17 de junio",
-               "id":127,
-               "lessonNumber":"12",
-               "remoteColor":"#f0d10f",
-               "title":"<p>JOSÉ, PRÍNCIPE DE EGIPTO<br></p>",
-               "versionCode":1
-            },
-            {
-               "date":"18-24 de junio",
-               "id":128,
-               "lessonNumber":"13",
-               "remoteColor":"#0fa2f0",
-               "title":"<p>ISRAEL EN EGIPTO<br></p>",
-               "versionCode":1
-            }
-         ],
-         "flexibleUpdate":true,
-         "forceUpdate":false,
-         "googleUpdate":true,
-         "helpVideos":"https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
-         "id":3,
-         "idEs":6,
-         "language":"es",
-         "latestVersionCode":211,
-   "latestVersionName":"2.11.3",
-         "mission":"https://cldup.com/wupRmt6OBD.pdf",
-         "published":true,
-         "quarter":"2T2022",
-         "quarterNumber":2,
-         "quarterText":"2 Trimestre 2022",
-         "title":"EL GENESIS",
-         "year":2022
-      }
-   ],
-   "message":"Consulta con éxito",
-   "success":true
+  "data": [
+    {
+      "adultLessons": [
+        {
+          "date": "25 de junio al 01 de Julio ",
+          "id": 129,
+          "lessonNumber": "1",
+          "remoteColor": "#ff6454",
+          "title": "<p><strong>EL CRISOL DEL PASTOR</strong><br></p>",
+          "versionCode": 1
+        },
+         {
+          "date": "2-8 de Julio",
+          "id": 132,
+          "lessonNumber": "2",
+          "remoteColor": "#6b0ff0",
+          "title": "<p><strong>LOS CRISOLES VENIDEROS</strong><br></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "9-15 de julio",
+          "id": 133,
+          "lessonNumber": "3",
+          "remoteColor": "#0f5af0",
+          "title": "<p><strong>LA JAULA DEL PÁJARO</strong><br></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "16-22 de julio",
+          "id": 131,
+          "lessonNumber": "4",
+          "remoteColor": "#765285",
+          "title": "<p><strong>VER EL ROSTRO DEL ORFEBRE</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "23-30 de julio",
+          "id": 130,
+          "lessonNumber": "5",
+          "remoteColor": "#0ff020",
+          "title": "<p><strong>CALOR EXTREMO</strong><br></p>",
+          "versionCode": 1
+        },
+       
+        {
+          "date": "30 de julio al 6 de agosto ",
+          "id": 134,
+          "lessonNumber": "6",
+          "remoteColor": "#DE3333",
+          "title": "<p><strong>“LUCHANDO CON LA FUERZA DE CRISTO”</strong><br></p>",
+          "versionCode": 1
+        },
+         {
+          "date": "Del 6 al13 de agosto de 2022",
+          "id": 139,
+          "lessonNumber": "7",
+          "remoteColor": "",
+          "title": "<p><strong>ESPERANZA INDESTRUCTIBLE</strong></p>",
+          "versionCode": 0
+        },
+       
+        {
+          "date": "13 al 19 de Agosto",
+          "id": 136,
+          "lessonNumber": "8",
+          "remoteColor": "#ff6961",
+          "title": "<p><strong>VIENDO AL INVISIBLE</strong><br></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "Del 20 al 26 de Agosto 2022",
+          "id": 137,
+          "lessonNumber": "9",
+          "remoteColor": "",
+          "title": "<p><strong>UNA VIDA DE ALABANZA</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "3-9 de septiembre",
+          "id": 135,
+          "lessonNumber": "11",
+          "remoteColor": "00000",
+          "title": "<p><strong>AGUARDANDO EN EL CRISOL</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "10 de septiembre al 17 de septiembre",
+          "id": 146,
+          "lessonNumber": "12",
+          "remoteColor": "#ff6454",
+          "title": "<p><strong>MORIR COMO UNA SEMILLA</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "17 de setpiembre al 23 de septiembre",
+          "id": 147,
+          "lessonNumber": "13",
+          "remoteColor": "#ff6454",
+          "title": "<p><strong>CRISTO EN EL CRISOL</strong></p>",
+          "versionCode": 1
+        }
+      ],
+      "appHasAlert": false,
+      "color": "#f00fb9",
+      "egwHasAlert": false,
+      "egwLessons": [
+        {
+          "date": "del 20 de Agosto - 26 de Agosto",
+          "id": 138,
+          "lessonNumber": "9",
+          "remoteColor": "",
+          "title": "<p><strong>UNA VIDA DE ALABANZA</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "Del 6 al13 de agosto de 2022",
+          "id": 140,
+          "lessonNumber": "7",
+          "remoteColor": "",
+          "title": "<p><strong>ESPERANZA INDESTRUCTIBLE</strong></p>",
+          "versionCode": 0
+        },
+        {
+          "date": "16 al 22 de julio",
+          "id": 141,
+          "lessonNumber": "4",
+          "remoteColor": "#5885AF",
+          "title": "<p><strong>VER EL ROSTRO DEL ORFEBRE</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "23 - 29 de julio",
+          "id": 148,
+          "lessonNumber": "5",
+          "remoteColor": "",
+          "title": "<p><strong>CALOR EXTREMO</strong><br></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "3-9 de septiembre",
+          "id": 158,
+          "lessonNumber": "11",
+          "remoteColor": "",
+          "title": "<p><strong>AGUARDANDO EN EL CRISOL</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "25 de junio al 01 de Julio ",
+          "id": 159,
+          "lessonNumber": "1",
+          "remoteColor": "",
+          "title": "<p><strong>EL CRISOL DEL PASTOR</strong><br></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "30 de julio al 6 de agosto ",
+          "id": 160,
+          "lessonNumber": "6",
+          "remoteColor": "#DE3333",
+          "title": "<p><strong>“LUCHANDO CON LA FUERZA DE CRISTO”</strong><br></p>",
+          "versionCode": 1
+        }
+      ],
+      "flexibleUpdate": false,
+      "forceUpdate": false,
+      "googleUpdate": false,
+      "helpVideos": "https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
+      "id": 3,
+      "idEs": 8,
+      "language": "es",
+      "latestVersionCode": 7,
+      "latestVersionName": "2.11.3",
+      "mission": "https://cldup.com/ZXmG9EC4bj.pdf",
+      "published": true,
+      "quarter": "3T2022",
+      "quarterNumber": 3,
+      "quarterText": "3 Trimestre 2022",
+      "title": "EN EL CRISOL CON CRISTO",
+      "year": 2022
+    }
+  ],
+  "message": "Consulta con éxito",
+  "success": true
 }
-
