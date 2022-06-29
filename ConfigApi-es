@@ -220,6 +220,12 @@
          "forceUpdate":false,
          "googleUpdate":false,
          "helpVideos":"https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
+         "helpLesson":{
+            "title":"",
+            "id":1,
+            "msg":"",
+            "youtubeUrl":"https://youtu.be/ChR_NeaZu3k"
+         },
          "id":3,
          "idEs":8,
          "language":"es",
