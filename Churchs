@@ -1,5 +1,49 @@
 [
-    {
+   {
+      "name":"Iglesia Adventista Del Séptimo Kennedy",
+      "coordenadas":"7.155679549857754, -73.13712514112359"
+   },
+   {
+      "name":"Iglesia Adventista Del Séptimo Shalom",
+      "coordenadas":"7.127434561208372, -73.10844044740446"
+   },
+   {
+      "name":"Iglesia Adventista Del Séptimo- El Jardín ",
+      "coordenadas":"7.114467861686568, -73.10529606060031"
+   },
+   {
+      "name":"Iglesia Adventista Del Séptimo Cristo Vive",
+      "coordenadas":"7.092965187736652, -73.11432667379304"
+   },
+   {
+      "name":"Iglesia Adventista Del Séptimo Libertad",
+      "coordenadas":"7.0927099545538885, -73.11426237342803"
+   },
+   {
+      "name":"Iglesia Adventista Del Séptimo Central",
+      "coordenadas":"7.125605831329759, -73.12568873227409"
+   },
+   {
+      "name":"Iglesia Adventista Del Séptimo Peniel",
+      "coordenadas":"7.1252189740413465, -73.13468221714811"
+   },
+   {
+      "name":"Iglesia Adventista Sotomayor",
+      "coordenadas":"7.110047504385094, -73.11222447998684"
+   },
+   {
+      "name":"Iglesia Adventista Del Séptimo",
+      "coordenadas":"16.2247350178264, -93.27919905589529"
+   },
+   {
+      "name":"Iglesia Adventista Del Séptimo Aquiles Serdan",
+      "coordenadas":"16.23380166027777, -93.27527106476319"
+   },
+   {
+      "name":"Iglesia Adventista Del Séptimo Central Villaflores",
+      "coordenadas":"16.233635639346865, -93.26727270640065"
+   },
+   {
       "name":"Iglesia Adventista Del Séptimo Libertad",
       "coordenadas":"23.76788044927181, -99.16569833863802"
    },
@@ -27,7 +71,6 @@
       "name":"Iglesia Adventista Lázaro Cárdenas",
       "coordenadas":"24.769769889724564, -107.38240988508537"
    },
-  
    {
       "name":"Iglesia Adventista del Séptimo Día EBEN EZER",
       "coordenadas":"-16.535749046036035, -68.22657534513424"
@@ -36,7 +79,6 @@
       "name":"Iglesia Adventista del Séptimo Día del Bosque Real",
       "coordenadas":"25.77947835919714, -100.2463198700802"
    },
-   
    {
       "name":"Iglesia Adventista del Séptimo Día Pichucalco",
       "coordenadas":"18.0942664, -93.1679571"
