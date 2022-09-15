@@ -105,6 +105,16 @@
                "remoteColor":"#ff6454",
                "title":"<p><strong>CRISTO EN EL CRISOL</strong></p>",
                "versionCode":7
+            },
+           
+            
+            {
+               "date":"24-29 de septiembre",
+               "id":148,
+               "lessonNumber":"14",
+               "remoteColor":"#f0af0f",
+               "title":"<p>Test</p>",
+               "versionCode":7
             }
          ],
          "appHasAlert":false,
@@ -213,6 +223,15 @@
                "lessonNumber":"13",
                "remoteColor":"#f0af0f",
                "title":"<p><strong>CRISTO EN EL CRISOL</strong><br><br></p>",
+               "versionCode":7
+            },
+            
+            {
+               "date":"24-29 de septiembre",
+               "id":169,
+               "lessonNumber":"14",
+               "remoteColor":"#f0af0f",
+               "title":"<p>Test</p>",
                "versionCode":7
             }
          ],
