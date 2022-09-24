@@ -1,150 +1,148 @@
 {
-   "data":[
-      {
-         "adultLessons":[
-            {
-               "date":"June 25—July 1",
-               "id":144,
-               "lessonNumber":"1",
-               "remoteColor":"#310ff0",
-               "title":"<p>The Shepherd’s Crucible<br></p>",
-               "versionCode":7
-            },
-            {
-               "date":"July 2–8",
-               "id":145,
-               "lessonNumber":"2",
-               "remoteColor":"#f00f64",
-               "title":"<p>The Crucibles That Come<br></p>",
-               "versionCode":7
-            },
-            {
-               "date":"July 9–15",
-               "id":150,
-               "lessonNumber":"3",
-               "remoteColor":"#f00f31",
-               "title":"<p>The Birdcage<br></p>",
-               "versionCode":7
-            },
-            {
-               "date":"July 16-22",
-               "id":142,
-               "lessonNumber":"4",
-               "remoteColor":"#5885AF",
-               "title":"<p>Seeing the Goldsmith’s Face</p>",
-               "versionCode":7
-            },
-            {
-               "date":"July 23–29",
-               "id":149,
-               "lessonNumber":"5",
-               "remoteColor":"#49f00f",
-               "title":"<p>Extreme Heat<br></p>",
-               "versionCode":7
-            },
-            {
-               "date":"July 30–August 5",
-               "id":151,
-               "lessonNumber":"6",
-               "remoteColor":"#9bf00f",
-               "title":"<p>Struggling With All Energy</p>",
-               "versionCode":7
-            },
-            {
-               "date":"August 6–12",
-               "id":143,
-               "lessonNumber":"7",
-               "remoteColor":"#f0af0f",
-               "title":"<p>Indestructible Hope</p>",
-               "versionCode":7
-            },
-            {
-               "date":"August 13–19",
-               "id":156,
-               "lessonNumber":"8",
-               "remoteColor":"#e6f00f",
-               "title":"<p>Seeing the Invisible<br></p>",
-               "versionCode":7
-            },
-            {
-               "date":"August 20–26",
-               "id":157,
-               "lessonNumber":"9",
-               "remoteColor":"#0fb9f0",
-               "title":"<p>A Life of Praise<br></p>",
-               "versionCode":7
-            },
-            {
-               "date":"August 27–September 2",
-               "id":152,
-               "lessonNumber":"10",
-               "remoteColor":"#f0940f",
-               "title":"<p>Meekness in the Crucible</p>",
-               "versionCode":7
-            },
-            {
-               "date":"September 3-9",
-               "id":153,
-               "lessonNumber":"11",
-               "remoteColor":"#0fa2f0",
-               "title":"<p>Waiting <em>in the</em> Crucible</p>",
-               "versionCode":7
-            },
-            {
-               "date":"September 10–16",
-               "id":162,
-               "lessonNumber":"12",
-               "remoteColor":"#0fa2f0",
-               "title":"<p>Dying Like a Seed<br></p>",
-               "versionCode":7
-            },
-            {
-               "date":"September 17–23",
-               "id":169,
-               "lessonNumber":"13",
-               "remoteColor":"#5df00f",
-               "title":"<p>Christ in the Crucible</p>",
-               "versionCode":7
-            },
-             {
-               "date":"Leccion14",
-               "id":170,
-               "lessonNumber":"14",
-               "remoteColor":"#5df00f",
-               "title":"<p>Test</p>",
-               "versionCode":7
-            }
-         ],
-         "appHasAlert":false,
-         "color":"#3336FF",
-         "egwHasAlert":false,
-         "egwLessons":[
-            
-         ],
-         "flexibleUpdate":false,
-         "forceUpdate":false,
-         "googleUpdate":false,
-         "helpVideos":"https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
-         "helpLesson":{
+  "data": [
+    {
+      "adultLessons": [
+        {
+          "date": "September 24–30",
+          "id": 198,
+          "lessonNumber": "1",
+          "remoteColor": "#ff5733",
+          "title": "<p>Rebellion in a Perfect Universe <br></p>",
+          "versionCode": 22
+        },
+        {
+          "date": "October 1–7",
+          "id": 199,
+          "lessonNumber": "2",
+          "remoteColor": "#33ffaf",
+          "title": "<p>Death in a Sinful World <br></p>",
+          "versionCode": 22
+        },
+        {
+          "date": "October 8–14",
+          "id": 200,
+          "lessonNumber": "3",
+          "remoteColor": "#33a8ff",
+          "title": "<p>Understanding Human Nature <br></p>",
+          "versionCode": 22
+        },
+        {
+          "date": "October 15–21",
+          "id": 201,
+          "lessonNumber": "4",
+          "remoteColor": "#6bff33",
+          "title": "<p>The Old Testament Hope <br></p>",
+          "versionCode": 22
+        },
+        {
+          "date": "October 22–28",
+          "id": 202,
+          "lessonNumber": "5",
+          "remoteColor": "#33fcff",
+          "title": "<p>Resurrections Before the Cross <br></p>",
+          "versionCode": 22
+        },
+        {
+          "date": "October 29–November 4",
+          "id": 203,
+          "lessonNumber": "6",
+          "remoteColor": "#ffaf33",
+          "title": "<p>He Died for Us<br></p>",
+          "versionCode": 22
+        },
+        {
+          "date": "November 5–11",
+          "id": 205,
+          "lessonNumber": "7",
+          "remoteColor": "#eb767f",
+          "title": "<p>Christ’s Victory Over Death </p>",
+          "versionCode": 22
+        },
+        {
+          "date": "November 12–18",
+          "id": 204,
+          "lessonNumber": "8",
+          "remoteColor": "#c4ff33",
+          "title": "<p><br></p><p>The New Testament Hope <br></p>",
+          "versionCode": 22
+        },
+        {
+          "date": "November 19–25",
+          "id": 206,
+          "lessonNumber": "9",
+          "remoteColor": "#9b76eb",
+          "title": "<p>Contrary Passages? <br></p>",
+          "versionCode": 22
+        },
+        {
+          "date": "November 26–December 2",
+          "id": 207,
+          "lessonNumber": "10",
+          "remoteColor": "#76ebd2",
+          "title": "<p>The Fires of Hell</p>",
+          "versionCode": 22
+        },
+        {
+          "date": "December 3–9",
+          "id": 208,
+          "lessonNumber": "11",
+          "remoteColor": "#93eb76",
+          "title": "<p>End-Time Deceptions <br></p>",
+          "versionCode": 22
+        },
+        {
+          "date": "December 10–16",
+          "id": 209,
+          "lessonNumber": "12",
+          "remoteColor": "#ebd276",
+          "title": "<p>The Biblical Worldview <br></p>",
+          "versionCode": 22
+        },
+        {
+          "date": "December 17–23",
+          "id": 210,
+          "lessonNumber": "13",
+          "remoteColor": "#e676eb",
+          "title": "<p>The Judging Process<br></p>",
+          "versionCode": 22
+        },
+        {
+          "date": "December 24–30",
+          "id": 211,
+          "lessonNumber": "14",
+          "remoteColor": "#76b6eb",
+          "title": "<p>All Things New<br></p>",
+          "versionCode": 22
+        }
+      ],
+      "appHasAlert": false,
+      "color": "#FF5733",
+      "egwHasAlert": false,
+      "egwLessons": [],
+      "flexibleUpdate": false,
+      "forceUpdate": false,
+      "googleUpdate": false,
+      "helpVideos": "https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
+      "helpLesson":{
             "title":"",
             "id":1,
             "msg":"",
             "youtubeUrl":"https://youtu.be/ChR_NeaZu3k"
          },
-         "id":3,
-         "idEs":9,
-         "language":"en",
-         "latestVersionCode":7,
-         "latestVersionName":"2.11.3",
-         "mission":"https://cldup.com/PsHfx1eYvl.pdf",
-         "published":true,
-         "quarter":"3T2022",
-         "quarterNumber":3,
-         "quarterText":"3 Quarter 2022",
-         "title":"In The Crucible With Christ",
-         "year":2022
-      }
-   ],
-   "message":"Consulta con éxito",
-   "success":true
+      "id": 3,
+      "idEs": 15,
+      "language": "en",
+      "latestVersionCode": 219,
+      "latestVersionName": "2.13.0",
+      "mission": "https://cldup.com/ZXmG9EC4bj.pdf",
+      "published": true,
+      "quarter": "4T2022",
+      "quarterNumber": 4,
+      "quarterText": "4 Quarter 2022",
+      "title": "On Death, Dying, and the Future Hope",
+      "year": 2022
+    }
+  ],
+  "message": "Consulta con éxito",
+  "success": true
 }
