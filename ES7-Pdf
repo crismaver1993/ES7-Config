@@ -1,19 +1,17 @@
 [
-
    {
       "id":1,
-      "name":"Lección de Menores/Intermediarios",
-      "age":"10-12 años",
+      "name":"Lección de Infantes-Alumno",
+      "age":"3 a 5 Años",
       "type":"",
       "quarter":"3T2022",
       "isCurrentQuarter":true,
       "quarterDate":"",
-      "pdfUrl":"https://cldup.com/PpN4nl9-zJ.pdf",
+      "pdfUrl":"https://cldup.com/QUEkclmFiD.pdf",
       "language":"es",
-      "image":"https://cldup.com/JQdooyQCYx.png",
-      "author":"DIA"
+      "image":"https://cldup.com/vu5KLgGCcW.png",
+      "author":"DSA"
    },
-
    {
       "id":2,
       "name":"Lección Fe Real - Alumno",
@@ -27,8 +25,6 @@
       "image":"https://cldup.com/d9nW9ALokl.png",
       "author":"DIA"
    },
-
- 
    {
       "id":3,
       "name":"Lección de Primarios-Alumno",
@@ -44,20 +40,18 @@
    },
    {
       "id":4,
-      "name":"Lección de Infantes-Alumno",
-      "age":"3 a 5 Años",
+      "name":"Lección de Menores/Intermediarios",
+      "age":"10-12 años",
       "type":"",
       "quarter":"3T2022",
       "isCurrentQuarter":true,
       "quarterDate":"",
-      "pdfUrl":"https://cldup.com/FgW-AJ3L3l.pdf",
+      "pdfUrl":"https://cldup.com/PpN4nl9-zJ.pdf",
       "language":"es",
-      "image":"https://cldup.com/vu5KLgGCcW.png",
-      "author":"DSA"
+      "image":"https://cldup.com/JQdooyQCYx.png",
+      "author":"DIA"
    },
-  
-   
-    {
+   {
       "id":6,
       "name":"Juveniles",
       "age":"13-16 años",
@@ -70,8 +64,7 @@
       "image":"https://cldup.com/7NeAP5XFhI.png",
       "author":"DIA"
    },
-   
-    {
+   {
       "id":7,
       "name":"Cuna",
       "age":"0-3 años",
