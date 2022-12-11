@@ -143,6 +143,22 @@
       "year": 2022
     }
   ],
+  "menu":{
+      "devotionals":[
+         {
+            "id": 203,
+            "isWebLink":false,
+            "url":"",
+            "img":"",
+            "title":"",
+            "description":"",
+            "creator":"",
+            "featured":false,
+            "visible":true,
+            "year":""
+         }
+      ]
+   },
   "message": "Consulta con éxito",
   "success": true
 }
