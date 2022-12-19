@@ -147,6 +147,7 @@
       "devotionals":[
          {
             "id": 203,
+            "language: "en",
             "isWebLink":false,
             "url":"",
             "img":"",
