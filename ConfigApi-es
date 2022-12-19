@@ -260,6 +260,7 @@
       "devotionals":[
          {
             "id": 203,
+            "language: "es",
             "isWebLink":false,
             "url":"",
             "img":"",
