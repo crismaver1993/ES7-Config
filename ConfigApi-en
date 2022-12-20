@@ -143,6 +143,38 @@
       "year": 2022
     }
   ],
+  "menu":{
+      "devotionals":[
+         {
+            "id": 263,
+            "menuId": 703,
+            "language": "en",
+            "isWebLink":false,
+            "url":"",
+            "img":"https://cldup.com/tQ8ciBgINx.webp",
+            "title":"Adult Devotional",
+            "description":"",
+            "creator":"",
+            "featured":false,
+            "visible":true,
+            "year":"2022"
+         },
+         {
+            "id": 266,
+            "menuId": 703,
+            "language": "en",
+            "isWebLink":false,
+            "url":"",
+            "img":"https://cldup.com/cbAg_JLMF0.webp",
+            "title":"Women Devotional",
+            "description":"",
+            "creator":"",
+            "featured":false,
+            "visible":true,
+            "year":"2022"
+         }
+      ]
+   },
   "message": "Consulta con éxito",
   "success": true
 }
