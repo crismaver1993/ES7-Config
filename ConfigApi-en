@@ -147,6 +147,7 @@
       "devotionals":[
          {
             "id": 203,
+            "menuId": 703,
             "language": "en",
             "isWebLink":false,
             "url":"",
