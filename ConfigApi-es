@@ -112,6 +112,12 @@
           "versionCode": 1
         }
       ],
+      "helpLesson":{
+            "title":"",
+            "id":1,
+            "msg":"",
+            "youtubeUrl":"https://youtu.be/ChR_NeaZu3k"
+         },
       "flexibleUpdate": false,
       "forceUpdate": false,
       "googleUpdate": false,
