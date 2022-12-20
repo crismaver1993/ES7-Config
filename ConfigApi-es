@@ -259,18 +259,46 @@
    "menu":{
       "devotionals":[
          {
-            "id": 204,
-            "menuId": 8,
+            "id": 253,
+            "menuId": 14,
             "language": "es",
             "isWebLink":false,
             "url":"",
-            "img":"",
-            "title":"",
+            "img":"https://cldup.com/ZHlmdg3w6K.webp",
+            "title":"Matutina Jóvenes",
             "description":"",
             "creator":"",
             "featured":false,
             "visible":true,
-            "year":""
+            "year":"2022"
+         },
+          {
+            "id": 252,
+            "menuId": 14,
+            "language": "es",
+            "isWebLink":false,
+            "url":"",
+            "img":"https://cldup.com/ZHlmdg3w6K.webp",
+            "title":"Matutina Niños",
+            "description":"",
+            "creator":"",
+            "featured":false,
+            "visible":true,
+            "year":"2022"
+         },
+         {
+            "id": 254,
+            "menuId": 14,
+            "language": "es",
+            "isWebLink":false,
+            "url":"",
+            "img":"https://cldup.com/ZHlmdg3w6K.webp",
+            "title":"Matutina Damas",
+            "description":"",
+            "creator":"",
+            "featured":false,
+            "visible":true,
+            "year":"2022"
          }
       ]
    },
