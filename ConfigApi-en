@@ -3,120 +3,104 @@
     {
       "adultLessons": [
         {
-          "date": "September 24–30",
-          "id": 198,
+          "date": "December 31 - January 6",
+          "id": 229,
           "lessonNumber": "1",
-          "remoteColor": "#ff5733",
-          "title": "<p>Rebellion in a Perfect Universe <br></p>",
-          "versionCode": 22
+          "remoteColor": "#0AAB02",
+          "title": "<p>Part of God's <strong>Family</strong></p>",
+          "versionCode": 1
         },
         {
-          "date": "October 1–7",
-          "id": 199,
+          "date": "January 7-13",
+          "id": 230,
           "lessonNumber": "2",
-          "remoteColor": "#33ffaf",
-          "title": "<p>Death in a Sinful World <br></p>",
-          "versionCode": 22
+          "remoteColor": "#034481",
+          "title": "<p>God’s Covenants With <strong>Us</strong></p>",
+          "versionCode": 1
         },
         {
-          "date": "October 8–14",
-          "id": 200,
+          "date": "January 14–20 ",
+          "id": 238,
           "lessonNumber": "3",
-          "remoteColor": "#33a8ff",
-          "title": "<p>Understanding Human Nature <br></p>",
-          "versionCode": 22
+          "remoteColor": "#FA8072",
+          "title": "<p>The Tithing Contract<br></p>",
+          "versionCode": 1
         },
         {
-          "date": "October 15–21",
-          "id": 201,
+          "date": "January 21-27",
+          "id": 243,
           "lessonNumber": "4",
-          "remoteColor": "#6bff33",
-          "title": "<p>The Old Testament Hope <br></p>",
-          "versionCode": 22
+          "remoteColor": "#BC054E",
+          "title": "<p><strong>Offerings for Jesus</strong><br></p>",
+          "versionCode": 1
         },
         {
-          "date": "October 22–28",
-          "id": 202,
+          "date": "January 28–February 3",
+          "id": 241,
           "lessonNumber": "5",
-          "remoteColor": "#33fcff",
-          "title": "<p>Resurrections Before the Cross <br></p>",
-          "versionCode": 22
-        },
-        {
-          "date": "October 29–November 4",
-          "id": 203,
-          "lessonNumber": "6",
-          "remoteColor": "#ffaf33",
-          "title": "<p>He Died for Us<br></p>",
-          "versionCode": 22
-        },
-        {
-          "date": "November 5–11",
-          "id": 205,
-          "lessonNumber": "7",
-          "remoteColor": "#eb767f",
-          "title": "<p>Christ’s Victory Over Death </p>",
-          "versionCode": 22
-        },
-        {
-          "date": "November 12–18",
-          "id": 204,
-          "lessonNumber": "8",
-          "remoteColor": "#c4ff33",
-          "title": "<p><br></p><p>The New Testament Hope <br></p>",
-          "versionCode": 22
-        },
-        {
-          "date": "November 19–25",
-          "id": 206,
-          "lessonNumber": "9",
           "remoteColor": "#9b76eb",
-          "title": "<p>Contrary Passages? <br></p>",
-          "versionCode": 22
+          "title": "<p><strong>Dealing With Debt</strong></p>",
+          "versionCode": 1
         },
         {
-          "date": "November 26–December 2",
-          "id": 207,
+          "date": "February 4–10",
+          "id": 242,
+          "lessonNumber": "6",
+          "remoteColor": "#810335",
+          "title": "<p><strong>Laying Up Treasure in Heaven</strong></p><p style=\"text-align: center; \"><strong></strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "February 11–17",
+          "id": 239,
+          "lessonNumber": "7",
+          "remoteColor": "#145DA0",
+          "title": "<p>Unto the Least of <strong>These</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "February 18–24",
+          "id": 226,
+          "lessonNumber": "8",
+          "remoteColor": "#04D8C1",
+          "title": "<p><strong>Planning for Success</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "February 25–March 3",
+          "id": 235,
+          "lessonNumber": "9",
+          "remoteColor": "#FF9D88",
+          "title": "<p><strong>Beware of Covetousness</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "March 4–10",
+          "id": 237,
           "lessonNumber": "10",
-          "remoteColor": "#76ebd2",
-          "title": "<p>The Fires of Hell</p>",
-          "versionCode": 22
+          "remoteColor": "#D80F27",
+          "title": "<p><strong>Giving Back</strong></p>",
+          "versionCode": 1
         },
         {
-          "date": "December 3–9",
-          "id": 208,
+          "date": "March 11-17",
+          "id": 236,
           "lessonNumber": "11",
-          "remoteColor": "#93eb76",
-          "title": "<p>End-Time Deceptions <br></p>",
-          "versionCode": 22
+          "remoteColor": "#60F074",
+          "title": "<p><strong>Managing in Tough Times</strong></p>",
+          "versionCode": 1
         },
         {
-          "date": "December 10–16",
-          "id": 209,
+          "date": "March 18-24",
+          "id": 233,
           "lessonNumber": "12",
-          "remoteColor": "#ebd276",
-          "title": "<p>The Biblical Worldview <br></p>",
-          "versionCode": 22
-        },
-        {
-          "date": "December 17–23",
-          "id": 210,
-          "lessonNumber": "13",
-          "remoteColor": "#e676eb",
-          "title": "<p>The Judging Process<br></p>",
-          "versionCode": 22
-        },
-        {
-          "date": "December 24–30",
-          "id": 211,
-          "lessonNumber": "14",
-          "remoteColor": "#76b6eb",
-          "title": "<p>All Things New<br></p>",
-          "versionCode": 22
+          "remoteColor": "#D660F0",
+          "title": "<p><strong>Rewards of Faithfulness</strong></p>",
+          "versionCode": 1
         }
       ],
       "appHasAlert": false,
-      "color": "#FF5733",
+      "color": "#FFA533",
       "egwHasAlert": false,
       "egwLessons": [],
       "flexibleUpdate": false,
@@ -130,17 +114,17 @@
             "youtubeUrl":"https://youtu.be/ChR_NeaZu3k"
          },
       "id": 3,
-      "idEs": 15,
+      "idEs": 17,
       "language": "en",
       "latestVersionCode": 219,
       "latestVersionName": "2.13.0",
-      "mission": "https://cldup.com/EjKzi_Sdjn.pdf",
+      "mission": "https://cldup.com/ZXmG9EC4bj.pdf",
       "published": true,
-      "quarter": "4T2022",
-      "quarterNumber": 4,
-      "quarterText": "4 Quarter 2022",
-      "title": "On Death, Dying, and the Future Hope",
-      "year": 2022
+      "quarter": "1T2023",
+      "quarterNumber": 1,
+      "quarterText": "1 Quarter 2023",
+      "title": "Managing for the Master: Till He Comes",
+      "year": 2023
     }
   ],
   "menu":{

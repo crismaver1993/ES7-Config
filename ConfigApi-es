@@ -1,260 +1,228 @@
 {
    "data":[
       {
-         "adultLessons":[
-            {
-               "date":"24-30 de Septiembre",
-               "id":170,
-               "lessonNumber":"1",
-               "remoteColor":"#33ff55",
-               "title":"<p>REBELIÓN EN UN UNIVERSO PERFECTO<br></p>",
-               "versionCode":22
-            },
-            {
-               "date":"1-7 de Octubre",
-               "id":171,
-               "lessonNumber":"2",
-               "remoteColor":"#3358ff",
-               "title":"<p>MUERTE EN UN MUNDO PECAMINOSO<br></p>",
-               "versionCode":22
-            },
-            {
-               "date":"8-14 de Octubre",
-               "id":172,
-               "lessonNumber":"3",
-               "remoteColor":"#f033ff",
-               "title":"<p>COMPRENDAMOS LA NATURALEZA HUMANA</p>",
-               "versionCode":22
-            },
-            {
-               "date":"15-21 de octubre",
-               "id":173,
-               "lessonNumber":"4",
-               "remoteColor":"#ff3368",
-               "title":"<p>LA ESPERANZA DEL ANTIGUO TESTAMENTO<br></p>",
-               "versionCode":22
-            },
-            {
-               "date":"22-28 de octubre",
-               "id":194,
-               "lessonNumber":"5",
-               "remoteColor":"#145DA0",
-               "title":"<p>RESURRECCIONES ANTES&nbsp;DE LA CRUZ</p>",
-               "versionCode":22
-            },
-            {
-               "date":"29 de octubre - 4 de noviembre",
-               "id":196,
-               "lessonNumber":"6",
-               "remoteColor":"#76ebcb",
-               "title":"<p>ÉL MURIÓ POR NOSOTROS<br></p>",
-               "versionCode":22
-            },
-            {
-               "date":"5 - 11 de noviembre",
-               "id":192,
-               "lessonNumber":"7",
-               "remoteColor":"#07F5A6",
-               "title":"<p>LA VICTORIA DE CRISTO SOBRE LA MUERTE<br></p>",
-               "versionCode":22
-            },
-            {
-               "date":"12-18 de noviembre",
-               "id":193,
-               "lessonNumber":"8",
-               "remoteColor":"#f763f7",
-               "title":"<p>LA ESPERANZA DEL NUEVO TESTAMENTO</p>",
-               "versionCode":22
-            },
-            {
-               "date":"19-25 de Noviembre",
-               "id":191,
-               "lessonNumber":"9",
-               "remoteColor":"#7698eb",
-               "title":"<p>¿PASAJES CONTRADICTORIOS?</p>",
-               "versionCode":22
-            },
-            {
-               "date":"26 de noviembre-02 de diciembre",
-               "id":197,
-               "lessonNumber":"10",
-               "remoteColor":"#B8B825",
-               "title":"<p>EL FUEGO DEL INFIERNO</p>",
-               "versionCode":22
-            },
-            {
-               "date":"3-9 de Diciembre",
-               "id":188,
-               "lessonNumber":"11",
-               "remoteColor":"#BC543E",
-               "title":"<p>LOS ENGAÑOS DEL TIEMPO DEL FIN</p>",
-               "versionCode":22
-            },
-            {
-               "date":"10-16 de diciembre",
-               "id":214,
-               "lessonNumber":"12",
-               "remoteColor":"#e8ba73",
-               "title":"<p>LA COSMOVISIÓN BÍBLCA</p>",
-               "versionCode":22
-            },
-            {
-               "date":"17-23 de diciembre ",
-               "id":190,
-               "lessonNumber":"13",
-               "remoteColor":"#7ce873",
-               "title":"<p>EL PROCESO DEL JUICIO</p>",
-               "versionCode":22
-            },
-            {
-               "date":"24-31 de diciembre",
-               "id":215,
-               "lessonNumber":"14",
-               "remoteColor":"#e6afed",
-               "title":"<p>YO HAGO NUEVAS TODAS LAS COSAS</p>",
-               "versionCode":22
-            }
-         ],
-         "appHasAlert":false,
-         "color":"#FF5733",
-         "egwHasAlert":false,
-         "egwLessons":[
-            {
-               "date":"24-30 de Septiembre",
-               "id":174,
-               "lessonNumber":"1",
-               "remoteColor":"#33b8ff",
-               "title":"<p>REBELIÓN EN UN UNIVERSO PERFECTO<br></p>",
-               "versionCode":22
-            },
-            {
-               "date":"1-7 de Octubre",
-               "id":175,
-               "lessonNumber":"2",
-               "remoteColor":"#33b8ff",
-               "title":"<p>MUERTE EN UN MUNDO PECAMINOSO<br></p>",
-               "versionCode":22
-            },
-            {
-               "date":"8-14 de Octubre",
-               "id":176,
-               "lessonNumber":"3",
-               "remoteColor":"#33b8ff",
-               "title":"<p>COMPRENDAMOS LA NATURALEZA HUMANA<br></p>",
-               "versionCode":22
-            },
-            {
-               "date":"15-21 de octubre",
-               "id":177,
-               "lessonNumber":"4",
-               "remoteColor":"#33b8ff",
-               "title":"<p>LA ESPERANZA DEL ANTIGUO TESTAMENTO<br></p>",
-               "versionCode":22
-            },
-            {
-               "date":"22-28 de octubre",
-               "id":178,
-               "lessonNumber":"5",
-               "remoteColor":"#33b8ff",
-               "title":"<p>RESURRECCIONES ANTES DE LA CRUZ</p>",
-               "versionCode":22
-            },
-            {
-               "date":"29 de octubre - 4 de noviembre",
-               "id":179,
-               "lessonNumber":"6",
-               "remoteColor":"#33b8ff",
-               "title":"<p>ÉL MURIÓ POR NOSOTROS<br></p>",
-               "versionCode":22
-            },
-            {
-               "date":"5-11 de noviembre",
-               "id":180,
-               "lessonNumber":"7",
-               "remoteColor":"#33b8ff",
-               "title":"<p>LA VICTORIA DE CRISTO SOBRE LA MUERTE</p>",
-               "versionCode":22
-            },
-            {
-               "date":"12-18 de noviembre",
-               "id":181,
-               "lessonNumber":"8",
-               "remoteColor":"#33b8ff",
-               "title":"<p>LA ESPERANZA DEL NUEVO TESTAMENTO<br></p>",
-               "versionCode":22
-            },
-            {
-               "date":"19-25 de noviembre",
-               "id":182,
-               "lessonNumber":"9",
-               "remoteColor":"#33b8ff",
-               "title":"<p>¿PASAJES CONTRADICTORIOS?</p>",
-               "versionCode":22
-            },
-            {
-               "date":"26 de noviembre - 2 de diciembre",
-               "id":183,
-               "lessonNumber":"10",
-               "remoteColor":"#33b8ff",
-               "title":"<p>EL FUEGO DEL INFIERNO<br></p>",
-               "versionCode":22
-            },
-            {
-               "date":"3-9 de diciembre",
-               "id":184,
-               "lessonNumber":"11",
-               "remoteColor":"#33b8ff",
-               "title":"<p>LOS ENGAÑOS DEL TIEMPO DEL FIN<br></p>",
-               "versionCode":22
-            },
-            {
-               "date":"10-16 de diciembre",
-               "id":185,
-               "lessonNumber":"12",
-               "remoteColor":"#33b8ff",
-               "title":"<p>LA COSMOVISIÓN BÍBLICA<br></p>",
-               "versionCode":22
-            },
-            {
-               "date":"17-23 de diciembre",
-               "id":186,
-               "lessonNumber":"13",
-               "remoteColor":"#33b8ff",
-               "title":"<p>EL PROCESO DEL JUICIO</p>",
-               "versionCode":22
-            },
-            {
-               "date":"24-31 de diciembre",
-               "id":187,
-               "lessonNumber":"14",
-               "remoteColor":"#33b8ff",
-               "title":"<p>YO HAGO NUEVAS TODAS LAS COSAS<br></p>",
-               "versionCode":22
-            }
-         ],
-         "helpLesson":{
+      "adultLessons": [
+        {
+          "date": "31 de diciembre - 6 de enero",
+          "id": 221,
+          "lessonNumber": "1",
+          "remoteColor": "#FA8072",
+          "title": "<p><strong>PARTE DE LA FAMILIA DE DIOS</strong><br></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "7-13 de enero",
+          "id": 223,
+          "lessonNumber": "2",
+          "remoteColor": "#94DC0D",
+          "title": "<p><strong>LOS PACTOS DE DIOS CON NOSOTROS</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "14-20 de Enero",
+          "id": 219,
+          "lessonNumber": "3",
+          "remoteColor": "#F7819F",
+          "title": "<p><strong>EL CONTRATO DEL DIEZMO</strong><br></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "21-27 de enero",
+          "id": 217,
+          "lessonNumber": "4",
+          "remoteColor": "#33FFDA",
+          "title": "<p><strong>LAS OFRENDAS PARA JESÚS</strong><br></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "28 de enero - 3 de febrero",
+          "id": 228,
+          "lessonNumber": "5",
+          "remoteColor": "#FA8620",
+          "title": "<p><strong>CÓMO AFRONTAR LAS DEUDAS</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "4-10 de febrero",
+          "id": 225,
+          "lessonNumber": "6",
+          "remoteColor": "#339CFF",
+          "title": "<p style=\"\"><strong>ACUMULEN TESOROS EN EL CIELO</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "11-17 de febrero",
+          "id": 222,
+          "lessonNumber": "7",
+          "remoteColor": "#5885AF",
+          "title": "<p><strong>A UNO DE ESTOS MIS&nbsp;HERMANOS PEQUEÑOS</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "18-24 de febrero",
+          "id": 227,
+          "lessonNumber": "8",
+          "remoteColor": "#B8B825",
+          "title": "<p><strong>CÓMO PLANIFICAR PARA TENER ÉXITO</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "25 de Febrero- 03 de Marzo",
+          "id": 216,
+          "lessonNumber": "9",
+          "remoteColor": "#FC775A",
+          "title": "<p><strong>“GUÁRDENSE DE TODA AVARICIA”</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "4-10 de marzo",
+          "id": 224,
+          "lessonNumber": "10",
+          "remoteColor": "#0D87DC",
+          "title": "<p><strong>LA DEVOLUCIÓN</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "11 -17 de marzo",
+          "id": 232,
+          "lessonNumber": "11",
+          "remoteColor": "#60D8F0",
+          "title": "<p><strong>CÓMO ADMINISTRARSE EN TIEMPOS DIFÍCILES</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "18-24 de marzo",
+          "id": 231,
+          "lessonNumber": "12",
+          "remoteColor": "#F07A60",
+          "title": "<p><strong>LAS RECOMPENSAS DE LA FIDELIDAD</strong></p>",
+          "versionCode": 1
+        }
+      ],
+      "appHasAlert": false,
+      "color": "#FFA533",
+      "egwHasAlert": false,
+      "egwLessons": [
+         {
+          "date": "31 de diciembre- 6 de enero",
+          "id": 244,
+          "lessonNumber": "1",
+          "remoteColor": "#00B95A",
+          "title": "<p><strong>PARTE DE LA FAMILIA DE DIOS</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "7-13 de enero",
+          "id": 245,
+          "lessonNumber": "2",
+          "remoteColor": "#00B95A",
+          "title": "<p><strong>LOS PACTOS DE DIOS CON NOSOTROS</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "14-20 de Enero",
+          "id": 246,
+          "lessonNumber": "3",
+          "remoteColor": "#00B95A",
+          "title": "<p><strong>EL CONTRATO DEL DIEZMO</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "21-27 de enero",
+          "id": 247,
+          "lessonNumber": "4",
+          "remoteColor": "#00B95A",
+          "title": "<p><strong>LAS OFRENDAS PARA JESÚS</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "28 de enero - 3 de febrero",
+          "id": 248,
+          "lessonNumber": "5",
+          "remoteColor": "#00B95A",
+          "title": "<p><strong>CÓMO AFRONTAR LAS DEUDAS</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "4-10 de febrero",
+          "id": 249,
+          "lessonNumber": "6",
+          "remoteColor": "#00B95A",
+          "title": "<p><strong>ACUMULEN TESOROS EN EL CIELO</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "11-17 de febrero",
+          "id": 250,
+          "lessonNumber": "7",
+          "remoteColor": "#00B95A",
+          "title": "<p><strong>A UNO DE ESTOS MIS HERMANOS PEQUEÑOS</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "18-24 de febrero",
+          "id": 252,
+          "lessonNumber": "8",
+          "remoteColor": "#00B95A",
+          "title": "<p><strong>CÓMO PLANIFICAR PARA TENER ÉXITO</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "25 de Febrero- 03 de Marzo",
+          "id": 253,
+          "lessonNumber": "9",
+          "remoteColor": "#00B95A",
+          "title": "<p><strong>“GUÁRDENSE DE TODA AVARICIA”</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "4-10 de marzo",
+          "id": 254,
+          "lessonNumber": "10",
+          "remoteColor": "#00B95A",
+          "title": "<p><strong>LA DEVOLUCIÓN</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "11 -17 de marzo",
+          "id": 255,
+          "lessonNumber": "11",
+          "remoteColor": "#00B95A",
+          "title": "<p><strong>CÓMO ADMINISTRARSE EN TIEMPOS DIFÍCILES</strong></p>",
+          "versionCode": 1
+        },
+        {
+          "date": "18-24 de marzo",
+          "id": 256,
+          "lessonNumber": "12",
+          "remoteColor": "#00B95A",
+          "title": "<p><strong>LAS RECOMPENSAS DE LA FIDELIDAD</strong></p>",
+          "versionCode": 1
+        }
+      ],
+      "helpLesson":{
             "title":"",
             "id":1,
             "msg":"",
             "youtubeUrl":"https://youtu.be/ChR_NeaZu3k"
          },
-         "flexibleUpdate":false,
-         "forceUpdate":false,
-         "googleUpdate":false,
-         "helpVideos":"https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
-         "id":3,
-         "idEs":10,
-         "language":"es",
-         "latestVersionCode":219,
-         "latestVersionName":"2.13.0",
-         "mission":"https://cldup.com/EoQ7Bj2cLa.pdf",
-         "published":true,
-         "quarter":"4T2022",
-         "quarterNumber":4,
-         "quarterText":"4 Trimestre 2022",
-         "title":"LA VIDA ETERNA: LA MUERTE Y LA ESPERANZA FUTURA",
-         "year":2022
-      }
+      "flexibleUpdate": false,
+      "forceUpdate": false,
+      "googleUpdate": false,
+      "helpVideos": "https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
+      "id": 3,
+      "idEs": 16,
+      "language": "es",
+      "latestVersionCode": 219,
+      "latestVersionName": "2.13.0",
+      "mission": "https://cldup.com/ZXmG9EC4bj.pdf",
+      "published": true,
+      "quarter": "1T2023",
+      "quarterNumber": 1,
+      "quarterText": "1 Trimestre 2023",
+      "title": "ADMINISTRAR PARA EL SEÑOR... HASTA QUE ÉL VENGA",
+      "year": 2023
+    }
    ],
    "menu":{
       "devotionals":[
