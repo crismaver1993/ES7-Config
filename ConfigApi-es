@@ -242,8 +242,9 @@
             "year":"2023"
          },
           {
-            "meditationId": 301,
             "id": 2,
+            "meditation_id": 301,
+            
             "menuId": 14,
             "language": "es",
             "isWebLink":false,
@@ -257,8 +258,9 @@
             "year":"2023"
          },
          {
-            "meditationId": 299,
-            "id": 3,
+             "id": 3,
+            "meditation_id": 299,
+           
             "menuId": 14,
             "language": "es",
             "isWebLink":false,
@@ -272,8 +274,9 @@
             "year":"2023"
          },
          {
-            "meditationId": 288,
-            "id": 4,
+           "id": 4,
+           "meditation_id": 288,
+            
             "menuId": 14,
             "language": "es",
             "isWebLink":false,
@@ -287,8 +290,9 @@
             "year":"2023"
          },
           {
-          "meditationId": 302,
-            "id": 5,
+          "id": 5,
+          "meditation_id": 302,
+            
             "menuId": 14,
             "language": "es",
             "isWebLink":false,
