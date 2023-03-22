@@ -46,7 +46,7 @@
       {
          "id":2,
          "title":"EsCOOL",
-         "url":"",
+         "url":"https://open.spotify.com/show/6UAS56n5V0ow0GIcEkPazq?si=ff5efc1ab2e04e1f",
          "creator":"ESCool",
          "visible":true,
          "typeId":2,
@@ -59,7 +59,7 @@
       {
          "id":3,
          "title":"Escuela Sabática",
-         "url":"",
+         "url":"https://open.spotify.com/show/0Ljl18LLBRRr0JKk1Uhaqt?si=7e7b7ede02644b89",
          "creator":"Comunicaciones UCh",
          "visible":true,
          "typeId":2,
@@ -72,7 +72,7 @@
       {
          "id":4,
          "title":"LES ADV",
-         "url":"",
+         "url":"https://open.spotify.com/show/6Sgf0ScOHgONqLJfYj0Lse?si=b501d49b51ca4f27",
          "creator":"Dra. Susana Fernández",
          "visible":true,
          "typeId":2,
@@ -85,7 +85,7 @@
       {
          "id":5,
          "title":"Escuela Sabática para todos",
-         "url":"",
+         "url":"https://open.spotify.com/show/2AgHTOwy5seHzNCw1lePF7?si=0bedbfb038bd4a22",
          "creator":"Davir Ruíz",
          "visible":true,
          "typeId":2,
@@ -98,7 +98,7 @@
       {
          "id":6,
          "title":"Lecciones de Escuela Sabática",
-         "url":"",
+         "url":"https://open.spotify.com/show/7HhfzAaUd0nRk6Wku0vGAS?si=voiwQpEGTl-2gnHWksARaQ",
          "creator":"Erick Colón",
          "visible":true,
          "typeId":2,
@@ -113,7 +113,7 @@
       {
          "id":1,
          "title":"Devocional: Jóvenes",
-         "url":"",
+         "url":"https://devocionmatutina.com/category/devocion-matutina/matutina-jovenes/",
          "creator":"Devoción matutina",
          "visible":true,
          "typeId":3,
@@ -126,7 +126,7 @@
       {
          "id":2,
          "title":"Devocional: Adultos",
-         "url":"",
+         "url":"https://devocionmatutina.com/category/videos-matinales/matutinas-adultos/",
          "creator":"Devoción matutina",
          "visible":true,
          "typeId":3,
@@ -139,7 +139,7 @@
       {
          "id":3,
          "title":"Devocional: Damas",
-         "url":"",
+         "url":"https://devocionmatutina.com/category/videos-matinales/matutina-mujer/",
          "creator":"Devoción matutina",
          "visible":true,
          "typeId":3,
@@ -152,7 +152,7 @@
       {
          "id":4,
          "title":"Devocional: Niños",
-         "url":"",
+         "url":"https://devocionmatutina.com/category/videos-matinales/matutina-pequenos-1/",
          "creator":"Devoción matutina",
          "visible":true,
          "typeId":3,
@@ -165,7 +165,7 @@
       {
          "id":5,
          "title":"Reflexiones Matutinas",
-         "url":"",
+         "url":"https://reflexionesmatutinas.com/",
          "creator":"",
          "visible":true,
          "typeId":3,
@@ -187,13 +187,26 @@
          "featured":false,
          "app_flow_id":2,
          "is_web":false
+      },
+      {
+         "id":7,
+         "title":"Advenz",
+         "url":"https://devocionalesmatutinos.advenz.com/",
+         "creator":"",
+         "visible":true,
+         "typeId":3,
+         "img":"https://cldup.com/c30Tvj8Ubw.png",
+         "description":"",
+         "featured":false,
+         "app_flow_id":0,
+         "is_web":true
       }
    ],
    "videos":[
       {
          "id":1,
          "title":"3ABN Latino",
-         "url":"",
+         "url":"http://3abnlatino.tv/tv/",
          "creator":"3ABN",
          "visible":true,
          "typeId":1,
@@ -206,7 +219,7 @@
       {
          "id":2,
          "title":"IASDMetropolitana",
-         "url":"",
+         "url":"https://www.youtube.com/user/IASDMetropolitana/videos",
          "creator":"IASD Metropolitana",
          "visible":true,
          "typeId":1,
@@ -219,7 +232,7 @@
       {
          "id":3,
          "title":"Lección GP",
-         "url":"",
+         "url":"https://www.youtube.com/channel/UColCSnd93kJGZCuV4UgfkgA/videos",
          "creator":"",
          "visible":true,
          "typeId":1,
@@ -232,7 +245,7 @@
       {
          "id":4,
          "title":"GP Joven",
-         "url":"",
+         "url":"https://www.youtube.com/playlist?list=PLa7_bQZZXWAi4yj_LnpCAZFEFBpEhwXOE",
          "creator":"Jóvenes Adventistas Oficial",
          "visible":true,
          "typeId":1,
@@ -314,7 +327,7 @@
       {
          "id":2,
          "title":"Fusteros Web",
-         "url":"",
+         "url":"https://www.fustero.es/",
          "creator":"Fusteros",
          "visible":true,
          "typeId":4,
@@ -329,7 +342,7 @@
       {
          "id":1,
          "title":"IASD División Sudamericana",
-         "url":"",
+         "url":"https://www.adventistas.org/es/escuelasabatica/",
          "creator":"IASD",
          "visible":true,
          "typeId":6,
@@ -342,7 +355,7 @@
       {
          "id":2,
          "title":"IASD DIA",
-         "url":"",
+         "url":"https://interamerica.org/es/department/escuela-sabatica/",
          "creator":"IASD",
          "visible":true,
          "typeId":6,
@@ -368,7 +381,7 @@
       {
          "id":4,
          "title":"Biblia",
-         "url":"",
+         "url":"https://www.bible.com/es/bible/149/GEN.1.RVR1960",
          "creator":"",
          "visible":true,
          "typeId":6,
@@ -381,7 +394,7 @@
       {
          "id":5,
          "title":"EGW",
-         "url":"",
+         "url":"https://m.egwwritings.org/es/folders/56",
          "creator":"",
          "visible":true,
          "typeId":6,
