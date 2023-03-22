@@ -5,7 +5,7 @@
       {
          "id":1,
          "title":"Escuela Sabática Universitaria",
-         "url":"",
+         "url":"https://www.youtube.com/playlist?list=PLnEWn_yzEqTvxZB-2PxQqorbdJpka7ABr",
          "creator":"Fusteros",
          "visible":true,
          "typeId":"0",
@@ -18,7 +18,7 @@
       {
          "id":2,
          "title":"Adventech",
-         "url":"",
+         "url":"https://sabbath-school.adventech.io/es/",
          "creator":"Adventech",
          "visible":true,
          "typeId":"0",
@@ -396,11 +396,11 @@
       {
          "id":1,
          "title":"Dot7",
-         "url":"",
+         "url":"https://dot7.com.mx/ministry/",
          "creator":"",
          "visible":true,
          "typeId":7,
-         "img":"",
+         "img":"https://cldup.com/v_tD_QCswr.png",
          "description":"",
          "featured":false,
          "app_flow_id":9,
