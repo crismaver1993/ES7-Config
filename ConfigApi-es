@@ -227,7 +227,8 @@
    "menu":{
       "devotionals":[
          {
-            "id": 300,
+            "id": 1,
+            "meditationId": 300,
             "menuId": 14,
             "language": "es",
             "isWebLink":false,
@@ -241,7 +242,9 @@
             "year":"2023"
          },
           {
-            "id": 301,
+            "id": 2,
+            "meditation_id": 301,
+            
             "menuId": 14,
             "language": "es",
             "isWebLink":false,
@@ -255,7 +258,9 @@
             "year":"2023"
          },
          {
-            "id": 299,
+             "id": 3,
+            "meditation_id": 299,
+           
             "menuId": 14,
             "language": "es",
             "isWebLink":false,
@@ -269,7 +274,9 @@
             "year":"2023"
          },
          {
-            "id": 288,
+           "id": 4,
+           "meditation_id": 288,
+            
             "menuId": 14,
             "language": "es",
             "isWebLink":false,
@@ -283,7 +290,9 @@
             "year":"2023"
          },
           {
-            "id": 302,
+          "id": 5,
+          "meditation_id": 302,
+            
             "menuId": 14,
             "language": "es",
             "isWebLink":false,
