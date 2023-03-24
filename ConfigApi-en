@@ -3,136 +3,144 @@
     {
       "adultLessons": [
         {
-          "date": "December 31 - January 6",
-          "id": 229,
+          "date": "March 25 - April 3",
+          "id": 283,
           "lessonNumber": "1",
-          "remoteColor": "#0AAB02",
-          "title": "<p>Part of God's <strong>Family</strong></p>",
-          "versionCode": 1
+          "remoteColor": "#ebd276",
+          "title": "<p>Jesus Wins—Satan Loses</p>",
+          "versionCode": 2
         },
         {
-          "date": "January 7-13",
-          "id": 230,
+          "date": "April 1–7",
+          "id": 284,
           "lessonNumber": "2",
-          "remoteColor": "#034481",
-          "title": "<p>God’s Covenants With <strong>Us</strong></p>",
-          "versionCode": 1
+          "remoteColor": "#4aa404",
+          "title": "<p>A Moment of Destiny</p>",
+          "versionCode": 2
         },
         {
-          "date": "January 14–20 ",
-          "id": 238,
+          "date": "April 8–14",
+          "id": 274,
           "lessonNumber": "3",
-          "remoteColor": "#FA8072",
-          "title": "<p>The Tithing Contract<br></p>",
-          "versionCode": 1
-        },
-        {
-          "date": "January 21-27",
-          "id": 243,
-          "lessonNumber": "4",
-          "remoteColor": "#BC054E",
-          "title": "<p><strong>Offerings for Jesus</strong><br></p>",
-          "versionCode": 1
-        },
-        {
-          "date": "January 28–February 3",
-          "id": 241,
-          "lessonNumber": "5",
-          "remoteColor": "#9b76eb",
-          "title": "<p><strong>Dealing With Debt</strong></p>",
-          "versionCode": 1
-        },
-        {
-          "date": "February 4–10",
-          "id": 242,
-          "lessonNumber": "6",
-          "remoteColor": "#810335",
-          "title": "<p><strong>Laying Up Treasure in Heaven</strong></p><p style=\"text-align: center; \"><strong></strong></p>",
-          "versionCode": 1
-        },
-        {
-          "date": "February 11–17",
-          "id": 239,
-          "lessonNumber": "7",
-          "remoteColor": "#145DA0",
-          "title": "<p>Unto the Least of <strong>These</strong></p>",
-          "versionCode": 1
-        },
-        {
-          "date": "February 18–24",
-          "id": 226,
-          "lessonNumber": "8",
-          "remoteColor": "#04D8C1",
-          "title": "<p><strong>Planning for Success</strong></p>",
-          "versionCode": 1
-        },
-        {
-          "date": "February 25–March 3",
-          "id": 235,
-          "lessonNumber": "9",
-          "remoteColor": "#FF9D88",
-          "title": "<p><strong>Beware of Covetousness</strong></p>",
-          "versionCode": 1
-        },
-        {
-          "date": "March 4–10",
-          "id": 237,
-          "lessonNumber": "10",
           "remoteColor": "#D80F27",
-          "title": "<p><strong>Giving Back</strong></p>",
-          "versionCode": 1
+          "title": "<p>The Everlasting Gospel</p>",
+          "versionCode": 2
         },
         {
-          "date": "March 11-17",
-          "id": 236,
+          "date": "April 15 - 21",
+          "id": 276,
+          "lessonNumber": "4",
+          "remoteColor": "#3D5B59",
+          "title": "<p>Fear God and Give Glory to Him</p>",
+          "versionCode": 2
+        },
+        {
+          "date": "April 22–28",
+          "id": 286,
+          "lessonNumber": "5",
+          "remoteColor": "#278305",
+          "title": "<p>The Good News of the Judgment<br></p>",
+          "versionCode": 2
+        },
+        {
+          "date": "April 29–May 5",
+          "id": 272,
+          "lessonNumber": "6",
+          "remoteColor": "#2ecc71",
+          "title": "<p>The Hour of His Judgment<br></p>",
+          "versionCode": 2
+        },
+        {
+          "date": "May 6–12",
+          "id": 287,
+          "lessonNumber": "7",
+          "remoteColor": "#660583",
+          "title": "<p>Worshiping the Creator<br></p>",
+          "versionCode": 2
+        },
+        {
+          "date": "May 13–19",
+          "id": 294,
+          "lessonNumber": "8",
+          "remoteColor": "#4249e3",
+          "title": "<p>The Sabbath and the End<br></p>",
+          "versionCode": 2
+        },
+        {
+          "date": "May 20–26",
+          "id": 282,
+          "lessonNumber": "9",
+          "remoteColor": "#c84d18",
+          "title": "<p style=\"text-align: justify;\">A City Called Confusion</p>",
+          "versionCode": 2
+        },
+        {
+          "date": "May 27–June 2",
+          "id": 296,
+          "lessonNumber": "10",
+          "remoteColor": "#8e0794",
+          "title": "<p>Satan’s Final Deceptions<br></p>",
+          "versionCode": 2
+        },
+        {
+          "date": "June 3 -9",
+          "id": 281,
           "lessonNumber": "11",
-          "remoteColor": "#60F074",
-          "title": "<p><strong>Managing in Tough Times</strong></p>",
-          "versionCode": 1
+          "remoteColor": "#E0E0E0",
+          "title": "<p>The Seal of God and Mark of the Beast: Part 1</p>",
+          "versionCode": 2
         },
         {
-          "date": "March 18-24",
-          "id": 233,
+          "date": "June 10–16",
+          "id": 295,
           "lessonNumber": "12",
-          "remoteColor": "#D660F0",
-          "title": "<p><strong>Rewards of Faithfulness</strong></p>",
+          "remoteColor": "#b6a201",
+          "title": "<p>The Seal of God and Mark of the Beast: Part 2<br></p>",
+          "versionCode": 2
+        },
+        {
+          "date": "June 17 - 23",
+          "id": 278,
+          "lessonNumber": "13",
+          "remoteColor": "#058355",
+          "title": "<p>Ablaze With God's Glory</p>",
           "versionCode": 1
         }
       ],
-      "appHasAlert": false,
-      "color": "#FFA533",
-      "egwHasAlert": false,
-      "egwLessons": [],
-      "flexibleUpdate": false,
-      "forceUpdate": false,
-      "googleUpdate": false,
-      "helpVideos": "https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
       "helpLesson":{
             "title":"",
             "id":1,
             "msg":"",
             "youtubeUrl":"https://youtu.be/ChR_NeaZu3k"
          },
+      "appHasAlert": false,
+      "color": "#0478a4",
+      "egwHasAlert": false,
+      "egwLessons": [],
+      "flexibleUpdate": false,
+      "forceUpdate": false,
+      "googleUpdate": false,
+      "helpVideos": "https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
       "id": 3,
-      "idEs": 17,
+      "idEs": 19,
       "language": "en",
-      "latestVersionCode": 230,
-      "latestVersionName": "2.14.0",
-      "mission": "https://cldup.com/ukp1I_7EAO.pdf",
+      "latestVersionCode": 233,
+      "latestVersionName": "2.14.3",
+      "mission": "https://cldup.com/ZXmG9EC4bj.pdf",
       "published": true,
-      "quarter": "1T2023",
-      "quarterNumber": 1,
-      "quarterText": "1 Quarter 2023",
-      "title": "Managing for the Master: Till He Comes",
+      "quarter": "2T2023",
+      "quarterNumber": 2,
+      "quarterText": "2 Quarter 2023",
+      "title": "Three Cosmic Messages",
       "year": 2023
     }
   ],
   "menu":{
       "devotionals":[
          {
-            "id": 290,
-            "menuId": 703,
-            "language": "en",
+            "id":290,
+            "menuId":703,
+            "language":"en",
             "isWebLink":false,
             "url":"",
             "img":"https://cldup.com/tQ8ciBgINx.webp",
@@ -144,9 +152,9 @@
             "year":"2023"
          },
          {
-            "id": 287,
-            "menuId": 703,
-            "language": "en",
+            "id":287,
+            "menuId":703,
+            "language":"en",
             "isWebLink":false,
             "url":"",
             "img":"https://cldup.com/cbAg_JLMF0.webp",
