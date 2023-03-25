@@ -1,312 +1,326 @@
 {
-   "data":[
-      {
+  "data": [
+    {
       "adultLessons": [
         {
-          "date": "31 de diciembre - 6 de enero",
-          "id": 221,
+          "date": "25-31 de marzo",
+          "id": 257,
           "lessonNumber": "1",
-          "remoteColor": "#FA8072",
-          "title": "<p><strong>PARTE DE LA FAMILIA DE DIOS</strong><br></p>",
-          "versionCode": 1
+          "remoteColor": "#7698eb",
+          "title": "<p>JESÚS GANA , SATANÁS PIERDE<br></p>",
+          "versionCode": 2
         },
         {
-          "date": "7-13 de enero",
-          "id": 223,
+          "date": "1-7 de abril",
+          "id": 258,
           "lessonNumber": "2",
-          "remoteColor": "#94DC0D",
-          "title": "<p><strong>LOS PACTOS DE DIOS CON NOSOTROS</strong></p>",
-          "versionCode": 1
+          "remoteColor": "#33fcff",
+          "title": "<p>UN MOMENTO DEL DESTINO<br></p>",
+          "versionCode": 2
         },
         {
-          "date": "14-20 de Enero",
-          "id": 219,
+          "date": "8-14 de abril",
+          "id": 273,
           "lessonNumber": "3",
-          "remoteColor": "#F7819F",
-          "title": "<p><strong>EL CONTRATO DEL DIEZMO</strong><br></p>",
-          "versionCode": 1
+          "remoteColor": "#D80F27",
+          "title": "<p>EL EVANGELIO ETERNO</p>",
+          "versionCode": 2
         },
         {
-          "date": "21-27 de enero",
-          "id": 217,
+          "date": "15-21 abril",
+          "id": 260,
           "lessonNumber": "4",
-          "remoteColor": "#33FFDA",
-          "title": "<p><strong>LAS OFRENDAS PARA JESÚS</strong><br></p>",
-          "versionCode": 1
+          "remoteColor": "#3D5B59",
+          "title": "<p>TEMAN A DIOS Y DENLE&nbsp;GLORIA</p>",
+          "versionCode": 2
         },
         {
-          "date": "28 de enero - 3 de febrero",
-          "id": 228,
+          "date": "22-28 de abril",
+          "id": 262,
           "lessonNumber": "5",
-          "remoteColor": "#FA8620",
-          "title": "<p><strong>CÓMO AFRONTAR LAS DEUDAS</strong></p>",
-          "versionCode": 1
+          "remoteColor": "#33fcff",
+          "title": "<p>LA BUENA NOTICIA DEL JUICIO<br></p>",
+          "versionCode": 2
         },
         {
-          "date": "4-10 de febrero",
-          "id": 225,
+          "date": "29 de abril - 5 de mayo",
+          "id": 259,
           "lessonNumber": "6",
-          "remoteColor": "#339CFF",
-          "title": "<p style=\"\"><strong>ACUMULEN TESOROS EN EL CIELO</strong></p>",
-          "versionCode": 1
+          "remoteColor": "#2ecc71",
+          "title": "<p>LA HORA DE SU JUICIO<br></p>",
+          "versionCode": 2
         },
         {
-          "date": "11-17 de febrero",
-          "id": 222,
+          "date": "6-12 de mayo",
+          "id": 285,
           "lessonNumber": "7",
-          "remoteColor": "#5885AF",
-          "title": "<p><strong>A UNO DE ESTOS MIS&nbsp;HERMANOS PEQUEÑOS</strong></p>",
-          "versionCode": 1
+          "remoteColor": "#c8b218",
+          "title": "<p>ADOREN AL CREADOR<br></p>",
+          "versionCode": 2
         },
         {
-          "date": "18-24 de febrero",
-          "id": 227,
+          "date": "13-19 de mayo",
+          "id": 263,
           "lessonNumber": "8",
-          "remoteColor": "#B8B825",
-          "title": "<p><strong>CÓMO PLANIFICAR PARA TENER ÉXITO</strong></p>",
-          "versionCode": 1
+          "remoteColor": "#FF5733",
+          "title": "<p>EL SÁBADO Y EL FIN</p>",
+          "versionCode": 2
         },
         {
-          "date": "25 de Febrero- 03 de Marzo",
-          "id": 216,
+          "date": "20-26 de mayo",
+          "id": 270,
           "lessonNumber": "9",
-          "remoteColor": "#FC775A",
-          "title": "<p><strong>“GUÁRDENSE DE TODA AVARICIA”</strong></p>",
-          "versionCode": 1
+          "remoteColor": "#0474a4",
+          "title": "<p>UNA CIUDAD LLAMADA CONFUSIÓN</p>",
+          "versionCode": 2
         },
         {
-          "date": "4-10 de marzo",
-          "id": 224,
+          "date": "27 de mayo - 2 de junio",
+          "id": 264,
           "lessonNumber": "10",
-          "remoteColor": "#0D87DC",
-          "title": "<p><strong>LA DEVOLUCIÓN</strong></p>",
-          "versionCode": 1
+          "remoteColor": "#ff5733",
+          "title": "<p>LOS ENGAÑOS FINALES DE SATANÁS</p>",
+          "versionCode": 2
         },
         {
-          "date": "11 -17 de marzo",
-          "id": 232,
+          "date": "3 -9 de junio",
+          "id": 279,
           "lessonNumber": "11",
-          "remoteColor": "#60D8F0",
-          "title": "<p><strong>CÓMO ADMINISTRARSE EN TIEMPOS DIFÍCILES</strong></p>",
-          "versionCode": 1
+          "remoteColor": "#E0E0E0",
+          "title": "<p>EL SELLO DE DIOS Y LA MARCA DE LA BESTIA - PRIMERA PARTE</p>",
+          "versionCode": 2
         },
         {
-          "date": "18-24 de marzo",
-          "id": 231,
+          "date": "10-16 de junio",
+          "id": 280,
           "lessonNumber": "12",
-          "remoteColor": "#F07A60",
-          "title": "<p><strong>LAS RECOMPENSAS DE LA FIDELIDAD</strong></p>",
-          "versionCode": 1
+          "remoteColor": "#CCE5FF",
+          "title": "<p>EL SELLO DE DIOS Y LA MARCA DE LA BESTIA - SEGUNDA PARTE</p>",
+          "versionCode": 2
+        },
+        {
+          "date": "17-23 de junio",
+          "id": 261,
+          "lessonNumber": "13",
+          "remoteColor": "#ebd276",
+          "title": "<p>ENCENDIDOS CON LA GLORIA DE DIOS</p>",
+          "versionCode": 2
         }
       ],
       "appHasAlert": false,
-      "color": "#FFA533",
+      "color": "#0478a4",
       "egwHasAlert": false,
       "egwLessons": [
-         {
-          "date": "31 de diciembre- 6 de enero",
-          "id": 244,
+        {
+          "date": "25-31 de marzo",
+          "id": 266,
           "lessonNumber": "1",
-          "remoteColor": "#00B95A",
-          "title": "<p><strong>PARTE DE LA FAMILIA DE DIOS</strong></p>",
-          "versionCode": 1
+          "remoteColor": "#057883",
+          "title": "<p>JESÚS GANA , SATANÁS PIERDE<br></p>",
+          "versionCode": 2
         },
         {
-          "date": "7-13 de enero",
-          "id": 245,
+          "date": "1-7 de abril",
+          "id": 267,
           "lessonNumber": "2",
-          "remoteColor": "#00B95A",
-          "title": "<p><strong>LOS PACTOS DE DIOS CON NOSOTROS</strong></p>",
-          "versionCode": 1
+          "remoteColor": "#057883",
+          "title": "<p>UN MOMENTO DEL DESTINO<br></p>",
+          "versionCode": 2
         },
         {
-          "date": "14-20 de Enero",
-          "id": 246,
+          "date": "8-14 de abril",
+          "id": 268,
           "lessonNumber": "3",
-          "remoteColor": "#00B95A",
-          "title": "<p><strong>EL CONTRATO DEL DIEZMO</strong></p>",
-          "versionCode": 1
+          "remoteColor": "#057883",
+          "title": "<p>EL EVANGELIO ETERNO<br></p>",
+          "versionCode": 2
         },
         {
-          "date": "21-27 de enero",
-          "id": 247,
+          "date": "15-21 abril",
+          "id": 269,
           "lessonNumber": "4",
-          "remoteColor": "#00B95A",
-          "title": "<p><strong>LAS OFRENDAS PARA JESÚS</strong></p>",
-          "versionCode": 1
+          "remoteColor": "#057883",
+          "title": "<p>TEMAN A DIOS Y DENLE GLORIA<br></p>",
+          "versionCode": 2
         },
         {
-          "date": "28 de enero - 3 de febrero",
-          "id": 248,
+          "date": "22-28 de abril",
+          "id": 288,
           "lessonNumber": "5",
-          "remoteColor": "#00B95A",
-          "title": "<p><strong>CÓMO AFRONTAR LAS DEUDAS</strong></p>",
-          "versionCode": 1
+          "remoteColor": "#057883",
+          "title": "<p>LA BUENA NOTICIA DEL JUICIO<br></p>",
+          "versionCode": 2
         },
         {
-          "date": "4-10 de febrero",
-          "id": 249,
+          "date": "29 de abril - 5 de mayo",
+          "id": 289,
           "lessonNumber": "6",
-          "remoteColor": "#00B95A",
-          "title": "<p><strong>ACUMULEN TESOROS EN EL CIELO</strong></p>",
-          "versionCode": 1
+          "remoteColor": "#057883",
+          "title": "<p>LA HORA DE SU JUICIO<br></p>",
+          "versionCode": 2
         },
         {
-          "date": "11-17 de febrero",
-          "id": 250,
+          "date": "6-12 de mayo",
+          "id": 290,
           "lessonNumber": "7",
-          "remoteColor": "#00B95A",
-          "title": "<p><strong>A UNO DE ESTOS MIS HERMANOS PEQUEÑOS</strong></p>",
-          "versionCode": 1
+          "remoteColor": "#057883",
+          "title": "<p>ADOREN AL CREADOR<br></p>",
+          "versionCode": 2
         },
         {
-          "date": "18-24 de febrero",
-          "id": 252,
+          "date": "13-19 de mayo",
+          "id": 291,
           "lessonNumber": "8",
-          "remoteColor": "#00B95A",
-          "title": "<p><strong>CÓMO PLANIFICAR PARA TENER ÉXITO</strong></p>",
-          "versionCode": 1
+          "remoteColor": "#057883",
+          "title": "<p>EL SÁBADO Y EL FIN</p>",
+          "versionCode": 2
         },
         {
-          "date": "25 de Febrero- 03 de Marzo",
-          "id": 253,
+          "date": "20-26 de mayo",
+          "id": 271,
           "lessonNumber": "9",
-          "remoteColor": "#00B95A",
-          "title": "<p><strong>“GUÁRDENSE DE TODA AVARICIA”</strong></p>",
-          "versionCode": 1
+          "remoteColor": "#057883",
+          "title": "<p>UNA CIUDAD LLAMADA CONFUSIÓN\n</p>",
+          "versionCode": 2
         },
         {
-          "date": "4-10 de marzo",
-          "id": 254,
+          "date": "27 mayo - 02 de junio",
+          "id": 277,
           "lessonNumber": "10",
-          "remoteColor": "#00B95A",
-          "title": "<p><strong>LA DEVOLUCIÓN</strong></p>",
-          "versionCode": 1
+          "remoteColor": "#057883",
+          "title": "<p>LOS ENGAÑOS FINALES DE SATANÁS</p>",
+          "versionCode": 2
         },
         {
-          "date": "11 -17 de marzo",
-          "id": 255,
+          "date": "3 -9 de junio",
+          "id": 292,
           "lessonNumber": "11",
-          "remoteColor": "#00B95A",
-          "title": "<p><strong>CÓMO ADMINISTRARSE EN TIEMPOS DIFÍCILES</strong></p>",
-          "versionCode": 1
+          "remoteColor": "#057883",
+          "title": "<p>EL SELLO DE DIOS Y LA MARCA DE LA BESTIA - PRIMERA PARTE<br></p>",
+          "versionCode": 2
         },
         {
-          "date": "18-24 de marzo",
-          "id": 256,
+          "date": "10-16 de junio",
+          "id": 293,
           "lessonNumber": "12",
-          "remoteColor": "#00B95A",
-          "title": "<p><strong>LAS RECOMPENSAS DE LA FIDELIDAD</strong></p>",
-          "versionCode": 1
+          "remoteColor": "#057883",
+          "title": "<p>EL SELLO DE DIOS Y LA MARCA DE LA BESTIA - SEGUNDA PARTE<br></p>",
+          "versionCode": 2
+        },
+        {
+          "date": "17-23 de mayo",
+          "id": 275,
+          "lessonNumber": "13",
+          "remoteColor": "#057883",
+          "title": "<p>ENCENDIDOS CON LA GLORIA DE DIOS</p>",
+          "versionCode": 2
         }
       ],
-      "helpLesson":{
-            "title":"",
-            "id":1,
-            "msg":"",
-            "youtubeUrl":"https://youtu.be/ChR_NeaZu3k"
-         },
+       "helpLesson":{
+  	"title":"",
+  	"id":1,
+  	"msg":"",
+  	"youtubeUrl":"https://youtu.be/ChR_NeaZu3k"
+   },
+
       "flexibleUpdate": false,
       "forceUpdate": false,
       "googleUpdate": false,
       "helpVideos": "https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
       "id": 3,
-      "idEs": 16,
+      "idEs": 18,
       "language": "es",
-      "latestVersionCode": 230,
-      "latestVersionName": "2.14.0",
-      "mission": "https://cldup.com/ByxxspEHQW.pdf",
+      "latestVersionCode": 232,
+      "latestVersionName": "2.14.2",
+      "mission": "https://cldup.com/ZXmG9EC4bj.pdf",
       "published": true,
-      "quarter": "1T2023",
-      "quarterNumber": 1,
-      "quarterText": "1 Trimestre 2023",
-      "title": "ADMINISTRAR PARA EL SEÑOR... HASTA QUE ÉL VENGA",
+      "quarter": "2T2023",
+      "quarterNumber": 2,
+      "quarterText": "2 Trimestre 2023",
+      "title": "LOS TRES MENSAJES CÓSMICOS",
       "year": 2023
     }
-   ],
-   "menu":{
-      "devotionals":[
-         {
-            "id": 1,
-            "meditationId": 300,
-            "menuId": 14,
-            "language": "es",
-            "isWebLink":false,
-            "url":"",
-            "img":"https://cldup.com/ZHlmdg3w6K.webp",
-            "title":"Matutina Jóvenes",
-            "description":"",
-            "creator":"",
-            "featured":false,
-            "visible":true,
-            "year":"2023"
-         },
-          {
-            "id": 2,
-            "meditation_id": 301,
-            
-            "menuId": 14,
-            "language": "es",
-            "isWebLink":false,
-            "url":"",
-            "img":"https://cldup.com/5UIESuAoyd.webp",
-            "title":"Matutina Niños",
-            "description":"",
-            "creator":"",
-            "featured":false,
-            "visible":true,
-            "year":"2023"
-         },
-         {
-             "id": 3,
-            "meditation_id": 299,
-           
-            "menuId": 14,
-            "language": "es",
-            "isWebLink":false,
-            "url":"",
-            "img":"https://cldup.com/cbAg_JLMF0.webp",
-            "title":"Matutina Damas",
-            "description":"",
-            "creator":"",
-            "featured":false,
-            "visible":true,
-            "year":"2023"
-         },
-         {
-           "id": 4,
-           "meditation_id": 288,
-            
-            "menuId": 14,
-            "language": "es",
-            "isWebLink":false,
-            "url":"",
-            "img":"https://www.carlosllanocatedra.org/hs-fs/hubfs/Martes-30.jpg",
-            "title":"Matutina Familiar",
-            "description":"",
-            "creator":"",
-            "featured":false,
-            "visible":true,
-            "year":"2023"
-         },
-          {
-          "id": 5,
-          "meditation_id": 302,
-            
-            "menuId": 14,
-            "language": "es",
-            "isWebLink":false,
-            "url":"",
-            "img":"https://blogs.iadb.org/educacion/wp-content/uploads/sites/22/2014/09/Pic-Blog.jpg",
-            "title":"Matutina Preescolar",
-            "description":"",
-            "creator":"",
-            "featured":false,
-            "visible":true,
-            "year":"2023"
-         }
-      ]
+  ],
+  "menu":{
+  	"devotionals":[
+     	{
+        	"id":1,
+        	"meditationId":300,
+        	"menuId":14,
+        	"language":"es",
+        	"isWebLink":false,
+        	"url":"",
+        	"img":"https://cldup.com/ZHlmdg3w6K.webp",
+        	"title":"Matutina Jóvenes",
+        	"description":"",
+        	"creator":"",
+        	"featured":false,
+        	"visible":true,
+        	"year":"2023"
+     	},
+     	{
+        	"id":2,
+        	"meditation_id":301,
+        	"menuId":14,
+        	"language":"es",
+        	"isWebLink":false,
+        	"url":"",
+        	"img":"https://cldup.com/5UIESuAoyd.webp",
+        	"title":"Matutina Niños",
+        	"description":"",
+        	"creator":"",
+        	"featured":false,
+        	"visible":true,
+        	"year":"2023"
+     	},
+     	{
+        	"id":3,
+        	"meditation_id":299,
+        	"menuId":14,
+        	"language":"es",
+        	"isWebLink":false,
+        	"url":"",
+        	"img":"https://cldup.com/cbAg_JLMF0.webp",
+        	"title":"Matutina Damas",
+        	"description":"",
+        	"creator":"",
+        	"featured":false,
+        	"visible":true,
+        	"year":"2023"
+     	},
+     	{
+        	"id":4,
+        	"meditation_id":288,
+        	"menuId":14,
+        	"language":"es",
+        	"isWebLink":false,
+        	"url":"",
+        	"img":"https://www.carlosllanocatedra.org/hs-fs/hubfs/Martes-30.jpg",
+        	"title":"Matutina Familiar",
+        	"description":"",
+        	"creator":"",
+        	"featured":false,
+        	"visible":true,
+        	"year":"2023"
+     	},
+     	{
+        	"id":5,
+        	"meditation_id":302,
+        	"menuId":14,
+        	"language":"es",
+        	"isWebLink":false,
+        	"url":"",
+        	"img":"https://blogs.iadb.org/educacion/wp-content/uploads/sites/22/2014/09/Pic-Blog.jpg",
+        	"title":"Matutina Preescolar",
+        	"description":"",
+        	"creator":"",
+        	"featured":false,
+        	"visible":true,
+        	"year":"2023"
+     	}
+  	]
    },
-   "message":"Consulta con éxito",
-   "success":true
+
+  "message": "Consulta con éxito",
+  "success": true
 }
