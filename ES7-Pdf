@@ -4,10 +4,10 @@
       "name":"Lección de Infantes-Alumno",
       "age":"3 a 5 Años",
       "type":"",
-      "quarter":"1T2023",
+      "quarter":"2T2023",
       "isCurrentQuarter":true,
       "quarterDate":"",
-      "pdfUrl":"https://cldup.com/JcKl0B8Ujr.pdf",
+      "pdfUrl":"https://cldup.com/qYQ7NnCwjU.pdf",
       "language":"es",
       "image":"https://cldup.com/StbcDhtA1I.png",
       "author":"DIA"
@@ -72,7 +72,7 @@
       "quarter":"1T2023",
       "isCurrentQuarter":true,
       "quarterDate":"",
-      "pdfUrl":"https://cldup.com/Dn-uwlTOtD.pdf",
+      "pdfUrl":"https://cldup.com/VBXyV2p1Lk.pdf",
       "language":"es",
       "image":"https://cldup.com/yya87aaTH0.png",
       "author":"DIA"
@@ -89,5 +89,20 @@
       "language":"es",
       "image":"https://cldup.com/4jdP0JVLlc.png",
       "author":"DIA"
+   },
+    {
+      "id":7,
+      "name":"Libro de Adoración",
+      "age":"0-12 años",
+      "type":"",
+      "quarter":"2T2023",
+      "isCurrentQuarter":true,
+      "quarterDate":"",
+      "pdfUrl":"https://cldup.com/hvfwPJ9L7l.pdf",
+      "language":"es",
+      "image":"https://cldup.com/JHToIEgXFL.jpg",
+      "author":"DIA"
    }
+   
+   
 ]
