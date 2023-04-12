@@ -431,7 +431,21 @@
          "featured":false,
          "app_flow_id":9,
          "is_web":false
+      },
+      {
+         "id":2,
+         "title":"Podcast: Diosidencias",
+         "url":"https://open.spotify.com/show/02aiCgoriTOc7qytomP8fv?si=00a1d69472a245ac",
+         "creator":"CM",
+         "visible":true,
+         "typeId":7,
+         "img":"https://cldup.com/UWX7RYNcs1.png",
+         "description":"Un lugar para compartir experiencias de vida, donde Dios estuvo al control.",
+         "featured":true,
+         "app_flow_id":9,
+         "is_web":true
       }
+      
    ],
    "apps":[
       {
