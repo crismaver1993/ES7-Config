@@ -1,326 +1,340 @@
 {
-  "data": [
-    {
-      "adultLessons": [
-        {
-          "date": "25-31 de marzo",
-          "id": 257,
-          "lessonNumber": "1",
-          "remoteColor": "#7698eb",
-          "title": "<p>JESÚS GANA , SATANÁS PIERDE<br></p>",
-          "versionCode": 2
-        },
-        {
-          "date": "1-7 de abril",
-          "id": 258,
-          "lessonNumber": "2",
-          "remoteColor": "#33fcff",
-          "title": "<p>UN MOMENTO DEL DESTINO<br></p>",
-          "versionCode": 2
-        },
-        {
-          "date": "8-14 de abril",
-          "id": 273,
-          "lessonNumber": "3",
-          "remoteColor": "#D80F27",
-          "title": "<p>EL EVANGELIO ETERNO</p>",
-          "versionCode": 2
-        },
-        {
-          "date": "15-21 abril",
-          "id": 260,
-          "lessonNumber": "4",
-          "remoteColor": "#3D5B59",
-          "title": "<p>TEMAN A DIOS Y DENLE&nbsp;GLORIA</p>",
-          "versionCode": 2
-        },
-        {
-          "date": "22-28 de abril",
-          "id": 262,
-          "lessonNumber": "5",
-          "remoteColor": "#33fcff",
-          "title": "<p>LA BUENA NOTICIA DEL JUICIO<br></p>",
-          "versionCode": 2
-        },
-        {
-          "date": "29 de abril - 5 de mayo",
-          "id": 259,
-          "lessonNumber": "6",
-          "remoteColor": "#2ecc71",
-          "title": "<p>LA HORA DE SU JUICIO<br></p>",
-          "versionCode": 2
-        },
-        {
-          "date": "6-12 de mayo",
-          "id": 285,
-          "lessonNumber": "7",
-          "remoteColor": "#c8b218",
-          "title": "<p>ADOREN AL CREADOR<br></p>",
-          "versionCode": 2
-        },
-        {
-          "date": "13-19 de mayo",
-          "id": 263,
-          "lessonNumber": "8",
-          "remoteColor": "#FF5733",
-          "title": "<p>EL SÁBADO Y EL FIN</p>",
-          "versionCode": 2
-        },
-        {
-          "date": "20-26 de mayo",
-          "id": 270,
-          "lessonNumber": "9",
-          "remoteColor": "#0474a4",
-          "title": "<p>UNA CIUDAD LLAMADA CONFUSIÓN</p>",
-          "versionCode": 2
-        },
-        {
-          "date": "27 de mayo - 2 de junio",
-          "id": 264,
-          "lessonNumber": "10",
-          "remoteColor": "#ff5733",
-          "title": "<p>LOS ENGAÑOS FINALES DE SATANÁS</p>",
-          "versionCode": 2
-        },
-        {
-          "date": "3 -9 de junio",
-          "id": 279,
-          "lessonNumber": "11",
-          "remoteColor": "#E0E0E0",
-          "title": "<p>EL SELLO DE DIOS Y LA MARCA DE LA BESTIA - PRIMERA PARTE</p>",
-          "versionCode": 2
-        },
-        {
-          "date": "10-16 de junio",
-          "id": 280,
-          "lessonNumber": "12",
-          "remoteColor": "#CCE5FF",
-          "title": "<p>EL SELLO DE DIOS Y LA MARCA DE LA BESTIA - SEGUNDA PARTE</p>",
-          "versionCode": 2
-        },
-        {
-          "date": "17-23 de junio",
-          "id": 261,
-          "lessonNumber": "13",
-          "remoteColor": "#ebd276",
-          "title": "<p>ENCENDIDOS CON LA GLORIA DE DIOS</p>",
-          "versionCode": 2
-        }
-      ],
-      "appHasAlert": false,
-      "color": "#0478a4",
-      "egwHasAlert": false,
-      "egwLessons": [
-        {
-          "date": "25-31 de marzo",
-          "id": 266,
-          "lessonNumber": "1",
-          "remoteColor": "#057883",
-          "title": "<p>JESÚS GANA , SATANÁS PIERDE<br></p>",
-          "versionCode": 2
-        },
-        {
-          "date": "1-7 de abril",
-          "id": 267,
-          "lessonNumber": "2",
-          "remoteColor": "#057883",
-          "title": "<p>UN MOMENTO DEL DESTINO<br></p>",
-          "versionCode": 2
-        },
-        {
-          "date": "8-14 de abril",
-          "id": 268,
-          "lessonNumber": "3",
-          "remoteColor": "#057883",
-          "title": "<p>EL EVANGELIO ETERNO<br></p>",
-          "versionCode": 2
-        },
-        {
-          "date": "15-21 abril",
-          "id": 269,
-          "lessonNumber": "4",
-          "remoteColor": "#057883",
-          "title": "<p>TEMAN A DIOS Y DENLE GLORIA<br></p>",
-          "versionCode": 2
-        },
-        {
-          "date": "22-28 de abril",
-          "id": 288,
-          "lessonNumber": "5",
-          "remoteColor": "#057883",
-          "title": "<p>LA BUENA NOTICIA DEL JUICIO<br></p>",
-          "versionCode": 2
-        },
-        {
-          "date": "29 de abril - 5 de mayo",
-          "id": 289,
-          "lessonNumber": "6",
-          "remoteColor": "#057883",
-          "title": "<p>LA HORA DE SU JUICIO<br></p>",
-          "versionCode": 2
-        },
-        {
-          "date": "6-12 de mayo",
-          "id": 290,
-          "lessonNumber": "7",
-          "remoteColor": "#057883",
-          "title": "<p>ADOREN AL CREADOR<br></p>",
-          "versionCode": 2
-        },
-        {
-          "date": "13-19 de mayo",
-          "id": 291,
-          "lessonNumber": "8",
-          "remoteColor": "#057883",
-          "title": "<p>EL SÁBADO Y EL FIN</p>",
-          "versionCode": 2
-        },
-        {
-          "date": "20-26 de mayo",
-          "id": 271,
-          "lessonNumber": "9",
-          "remoteColor": "#057883",
-          "title": "<p>UNA CIUDAD LLAMADA CONFUSIÓN\n</p>",
-          "versionCode": 2
-        },
-        {
-          "date": "27 mayo - 02 de junio",
-          "id": 277,
-          "lessonNumber": "10",
-          "remoteColor": "#057883",
-          "title": "<p>LOS ENGAÑOS FINALES DE SATANÁS</p>",
-          "versionCode": 2
-        },
-        {
-          "date": "3 -9 de junio",
-          "id": 292,
-          "lessonNumber": "11",
-          "remoteColor": "#057883",
-          "title": "<p>EL SELLO DE DIOS Y LA MARCA DE LA BESTIA - PRIMERA PARTE<br></p>",
-          "versionCode": 2
-        },
-        {
-          "date": "10-16 de junio",
-          "id": 293,
-          "lessonNumber": "12",
-          "remoteColor": "#057883",
-          "title": "<p>EL SELLO DE DIOS Y LA MARCA DE LA BESTIA - SEGUNDA PARTE<br></p>",
-          "versionCode": 2
-        },
-        {
-          "date": "17-23 de mayo",
-          "id": 275,
-          "lessonNumber": "13",
-          "remoteColor": "#057883",
-          "title": "<p>ENCENDIDOS CON LA GLORIA DE DIOS</p>",
-          "versionCode": 2
-        }
-      ],
-       "helpLesson":{
-  	"title":"",
-  	"id":1,
-  	"msg":"",
-  	"youtubeUrl":"https://youtu.be/ChR_NeaZu3k"
+   "data":[
+      {
+         "adultLessons":[
+            {
+               "date":"24 de junio-1 de julio",
+               "id":298,
+               "lessonNumber":"1",
+               "remoteColor":"#FF5700",
+               "title":"<p>PABLO Y LOS EFESIOS</p>",
+               "versionCode":10
+            },
+            {
+               "date":"1-7 de julio",
+               "id":317,
+               "lessonNumber":"2",
+               "remoteColor":"#f90f7d",
+               "title":"<p>EL GRAN PLAN CRISTOCÉNTRICO DE DIOS<br></p>",
+               "versionCode":10
+            },
+            {
+               "date":"8 Julio - 14 julio",
+               "id":319,
+               "lessonNumber":"3",
+               "remoteColor":"#7698eb",
+               "title":"<p>EL PODER DEL JESÚS EXALTADO</p>",
+               "versionCode":10
+            },
+            {
+               "date":"15-22 de julio",
+               "id":316,
+               "lessonNumber":"4",
+               "remoteColor":"#274472",
+               "title":"<p>CÓMO NOS RESCATA DIOS</p>",
+               "versionCode":10
+            },
+            {
+               "date":"22-29 de julio",
+               "id":299,
+               "lessonNumber":"5",
+               "remoteColor":"#0fa7f9",
+               "title":"<p>EXPIACIÓN HORIZONTAL: LA CRUZ Y LA IGLESIA<br></p>",
+               "versionCode":10
+            },
+            {
+               "date":"29 julio-5 agosto",
+               "id":300,
+               "lessonNumber":"6",
+               "remoteColor":"#F5B44C",
+               "title":"<p>EL MISTERIO DEL EVANGELIO</p>",
+               "versionCode":10
+            },
+            {
+               "date":"5-12 de agosto",
+               "id":315,
+               "lessonNumber":"7",
+               "remoteColor":"#147BFA",
+               "title":"<p>EL CUERPO UNIFICADO DE CRISTO</p>",
+               "versionCode":10
+            },
+            {
+               "date":"12-19 agosto",
+               "id":324,
+               "lessonNumber":"8",
+               "remoteColor":"#3BC473",
+               "title":"<p>VIDAS MOLDEADAS POR CRISTO Y PALABRAS INSPIRADAS POR EL ESPÍRITU</p>",
+               "versionCode":10
+            },
+            {
+               "date":"19-25 de agosto",
+               "id":318,
+               "lessonNumber":"9",
+               "remoteColor":"#FF5733",
+               "title":"<p style=\"text-align: left;\">ANDEN COMO SABIOS</p>",
+               "versionCode":10
+            },
+            {
+               "date":"26 de agosto - 1 de septiembre",
+               "id":320,
+               "lessonNumber":"10",
+               "remoteColor":"#FF5733",
+               "title":"<p>CÓNYUGES: JUNTOS EN LA CRUZ</p>",
+               "versionCode":10
+            },
+            {
+               "date":"2-9 de septiempre",
+               "id":322,
+               "lessonNumber":"11",
+               "remoteColor":"#E0E0E0",
+               "title":"<p>PRACTIQUEMOS LA LEALTAD SUPREMA A CRISTO</p>",
+               "versionCode":10
+            },
+            {
+               "date":"9-15 de septiembre",
+               "id":323,
+               "lessonNumber":"12",
+               "remoteColor":"#FF5700",
+               "title":"<p>EL LLAMADO A ESTAR FIRMES</p>",
+               "versionCode":10
+            },
+            {
+               "date":"16-23 septiembre",
+               "id":325,
+               "lessonNumber":"13",
+               "remoteColor":"#E1473F",
+               "title":"<p>“HACIENDO LA PAZ”</p>",
+               "versionCode":10
+            },
+            {
+               "date":"23-30 de septiembre",
+               "id":297,
+               "lessonNumber":"14",
+               "remoteColor":"#FF5733",
+               "title":"<p>EFESIOS EN EL CORAZÓN</p>",
+               "versionCode":10
+            }
+         ],
+         "appHasAlert":false,
+         "color":"#0478a4",
+         "egwHasAlert":false,
+         "egwLessons":[
+            {
+               "date":"24-30 de junio",
+               "id":301,
+               "lessonNumber":"1",
+               "remoteColor":"#FF6B33",
+               "title":"<p>PABLO Y LOS EFESIOS</p>",
+               "versionCode":10
+            },
+            {
+               "date":"1-7 de julio",
+               "id":302,
+               "lessonNumber":"2",
+               "remoteColor":"#F05E27",
+               "title":"<p>EL GRAN PLAN CRISTOCÉNTRICO DE DIOS</p>",
+               "versionCode":10
+            },
+            {
+               "date":"8-14 de Julio",
+               "id":303,
+               "lessonNumber":"3",
+               "remoteColor":"#F94F0F",
+               "title":"<p>EL PODER DEL JESÚS EXALTADO</p>",
+               "versionCode":10
+            },
+            {
+               "date":"15-21 de julio",
+               "id":304,
+               "lessonNumber":"4",
+               "remoteColor":"#F94F0F",
+               "title":"<p>CÓMO NOS RESCATA DIOS<br></p>",
+               "versionCode":10
+            },
+            {
+               "date":"22-28 de julio",
+               "id":305,
+               "lessonNumber":"5",
+               "remoteColor":"#F94F0F",
+               "title":"<p>EXPIACIÓN HORIZONTAL: LA CRUZ Y LA IGLESIA<br><br></p>",
+               "versionCode":10
+            },
+            {
+               "date":"29 de julio - 4 de agosto",
+               "id":306,
+               "lessonNumber":"6",
+               "remoteColor":"#f94f0f",
+               "title":"<p>EL MISTERIO DEL EVANGELIO<br></p>",
+               "versionCode":10
+            },
+            {
+               "date":"5-11 de agosto",
+               "id":307,
+               "lessonNumber":"7",
+               "remoteColor":"#f94f0f",
+               "title":"<p>EL CUERPO UNIFICADO DE CRISTO<br></p>",
+               "versionCode":10
+            },
+            {
+               "date":"12-18 de agosto",
+               "id":308,
+               "lessonNumber":"8",
+               "remoteColor":"#f94f0f",
+               "title":"<p>VIDAS MOLDEADAS POR CRISTO Y PALABRAS INSPIRADAS POR EL ESPÍRITU<br><br></p>",
+               "versionCode":10
+            },
+            {
+               "date":"19-25 de agosto",
+               "id":309,
+               "lessonNumber":"9",
+               "remoteColor":"#f94f0f",
+               "title":"<p>ANDEN COMO SABIOS<br></p>",
+               "versionCode":10
+            },
+            {
+               "date":"26 de agosto - 1 de septiembre",
+               "id":310,
+               "lessonNumber":"10",
+               "remoteColor":"#f94f0f",
+               "title":"<p>CÓNYUGES: JUNTOS ANTE LA CRUZ<br></p>",
+               "versionCode":10
+            },
+            {
+               "date":"2-8 de septiembre",
+               "id":311,
+               "lessonNumber":"11",
+               "remoteColor":"#f94f0f",
+               "title":"<p>PRACTIQUEMOS LA LEALTAD SUPREMA A CRISTO<br></p>",
+               "versionCode":10
+            },
+            {
+               "date":"9-15 de septiembre",
+               "id":312,
+               "lessonNumber":"12",
+               "remoteColor":"#f94f0f",
+               "title":"<p>EL LLAMADO A ESTAR FIRMES<br><br></p>",
+               "versionCode":10
+            },
+            {
+               "date":"16-22 de septiembre",
+               "id":313,
+               "lessonNumber":"13",
+               "remoteColor":"#f94f0f",
+               "title":"<p>\"HACIENDO LA PAZ\"<br></p>",
+               "versionCode":10
+            },
+            {
+               "date":"23-29 de septiembre",
+               "id":314,
+               "lessonNumber":"14",
+               "remoteColor":"#f94f0f",
+               "title":"<p>EFESIOS EN EL CORAZÓN<br></p>",
+               "versionCode":10
+            }
+         ],
+         "helpLesson":{
+            "title":"",
+            "id":1,
+            "msg":"",
+            "youtubeUrl":"https://youtu.be/ChR_NeaZu3k"
+         },
+         "flexibleUpdate":false,
+         "forceUpdate":false,
+         "googleUpdate":false,
+         "helpVideos":"https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
+         "id":3,
+         "idEs":20,
+         "language":"es",
+         "latestVersionCode":232,
+         "latestVersionName":"2.14.2",
+         "mission":"https://cldup.com/KZ9pZlIfaA.pdf",
+         "published":true,
+         "quarter":"3T2023",
+         "quarterNumber":3,
+         "quarterText":"3 Trimestre 2023",
+         "title":"EFESIOS",
+         "year":2023
+      }
+   ],
+   "menu":{
+      "devotionals":[
+         {
+            "id":1,
+            "meditationId":300,
+            "menuId":14,
+            "language":"es",
+            "isWebLink":false,
+            "url":"",
+            "img":"https://cldup.com/ZHlmdg3w6K.webp",
+            "title":"Matutina Jóvenes",
+            "description":"",
+            "creator":"",
+            "featured":false,
+            "visible":true,
+            "year":"2023"
+         },
+         {
+            "id":2,
+            "meditation_id":301,
+            "menuId":14,
+            "language":"es",
+            "isWebLink":false,
+            "url":"",
+            "img":"https://cldup.com/5UIESuAoyd.webp",
+            "title":"Matutina Niños",
+            "description":"",
+            "creator":"",
+            "featured":false,
+            "visible":true,
+            "year":"2023"
+         },
+         {
+            "id":3,
+            "meditation_id":299,
+            "menuId":14,
+            "language":"es",
+            "isWebLink":false,
+            "url":"",
+            "img":"https://cldup.com/cbAg_JLMF0.webp",
+            "title":"Matutina Damas",
+            "description":"",
+            "creator":"",
+            "featured":false,
+            "visible":true,
+            "year":"2023"
+         },
+         {
+            "id":4,
+            "meditation_id":288,
+            "menuId":14,
+            "language":"es",
+            "isWebLink":false,
+            "url":"",
+            "img":"https://www.carlosllanocatedra.org/hs-fs/hubfs/Martes-30.jpg",
+            "title":"Matutina Familiar",
+            "description":"",
+            "creator":"",
+            "featured":false,
+            "visible":true,
+            "year":"2023"
+         },
+         {
+            "id":5,
+            "meditation_id":302,
+            "menuId":14,
+            "language":"es",
+            "isWebLink":false,
+            "url":"",
+            "img":"https://blogs.iadb.org/educacion/wp-content/uploads/sites/22/2014/09/Pic-Blog.jpg",
+            "title":"Matutina Preescolar",
+            "description":"",
+            "creator":"",
+            "featured":false,
+            "visible":true,
+            "year":"2023"
+         }
+      ]
    },
-
-      "flexibleUpdate": false,
-      "forceUpdate": false,
-      "googleUpdate": false,
-      "helpVideos": "https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
-      "id": 3,
-      "idEs": 18,
-      "language": "es",
-      "latestVersionCode": 232,
-      "latestVersionName": "2.14.2",
-      "mission": "https://cldup.com/KZ9pZlIfaA.pdf",
-      "published": true,
-      "quarter": "2T2023",
-      "quarterNumber": 2,
-      "quarterText": "2 Trimestre 2023",
-      "title": "LOS TRES MENSAJES CÓSMICOS",
-      "year": 2023
-    }
-  ],
-  "menu":{
-  	"devotionals":[
-     	{
-        	"id":1,
-        	"meditationId":300,
-        	"menuId":14,
-        	"language":"es",
-        	"isWebLink":false,
-        	"url":"",
-        	"img":"https://cldup.com/ZHlmdg3w6K.webp",
-        	"title":"Matutina Jóvenes",
-        	"description":"",
-        	"creator":"",
-        	"featured":false,
-        	"visible":true,
-        	"year":"2023"
-     	},
-     	{
-        	"id":2,
-        	"meditation_id":301,
-        	"menuId":14,
-        	"language":"es",
-        	"isWebLink":false,
-        	"url":"",
-        	"img":"https://cldup.com/5UIESuAoyd.webp",
-        	"title":"Matutina Niños",
-        	"description":"",
-        	"creator":"",
-        	"featured":false,
-        	"visible":true,
-        	"year":"2023"
-     	},
-     	{
-        	"id":3,
-        	"meditation_id":299,
-        	"menuId":14,
-        	"language":"es",
-        	"isWebLink":false,
-        	"url":"",
-        	"img":"https://cldup.com/cbAg_JLMF0.webp",
-        	"title":"Matutina Damas",
-        	"description":"",
-        	"creator":"",
-        	"featured":false,
-        	"visible":true,
-        	"year":"2023"
-     	},
-     	{
-        	"id":4,
-        	"meditation_id":288,
-        	"menuId":14,
-        	"language":"es",
-        	"isWebLink":false,
-        	"url":"",
-        	"img":"https://www.carlosllanocatedra.org/hs-fs/hubfs/Martes-30.jpg",
-        	"title":"Matutina Familiar",
-        	"description":"",
-        	"creator":"",
-        	"featured":false,
-        	"visible":true,
-        	"year":"2023"
-     	},
-     	{
-        	"id":5,
-        	"meditation_id":302,
-        	"menuId":14,
-        	"language":"es",
-        	"isWebLink":false,
-        	"url":"",
-        	"img":"https://blogs.iadb.org/educacion/wp-content/uploads/sites/22/2014/09/Pic-Blog.jpg",
-        	"title":"Matutina Preescolar",
-        	"description":"",
-        	"creator":"",
-        	"featured":false,
-        	"visible":true,
-        	"year":"2023"
-     	}
-  	]
-   },
-
-  "message": "Consulta con éxito",
-  "success": true
+   "message":"Consulta con éxito",
+   "success":true
 }
