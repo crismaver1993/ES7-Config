@@ -22,7 +22,7 @@
                "date":"8 Julio - 14 julio",
                "id":319,
                "lessonNumber":"3",
-               "remoteColor":"#7698eb",
+               "remoteColor":"#ffbe0b",
                "title":"<p>EL PODER DEL JESÚS EXALTADO</p>",
                "versionCode":10
             },
@@ -70,7 +70,7 @@
                "date":"19-25 de agosto",
                "id":318,
                "lessonNumber":"9",
-               "remoteColor":"#FF5733",
+               "remoteColor":"#ff0054",
                "title":"<p style=\"text-align: left;\">ANDEN COMO SABIOS</p>",
                "versionCode":10
             },
@@ -78,7 +78,7 @@
                "date":"26 de agosto - 1 de septiembre",
                "id":320,
                "lessonNumber":"10",
-               "remoteColor":"#FF5733",
+               "remoteColor":"#ff006e",
                "title":"<p>CÓNYUGES: JUNTOS EN LA CRUZ</p>",
                "versionCode":10
             },
@@ -94,7 +94,7 @@
                "date":"9-15 de septiembre",
                "id":323,
                "lessonNumber":"12",
-               "remoteColor":"#FF5700",
+               "remoteColor":"#90be6d",
                "title":"<p>EL LLAMADO A ESTAR FIRMES</p>",
                "versionCode":10
             },
@@ -102,7 +102,7 @@
                "date":"16-23 septiembre",
                "id":325,
                "lessonNumber":"13",
-               "remoteColor":"#E1473F",
+               "remoteColor":"#392f5a",
                "title":"<p>“HACIENDO LA PAZ”</p>",
                "versionCode":10
             },
@@ -110,7 +110,7 @@
                "date":"23-30 de septiembre",
                "id":297,
                "lessonNumber":"14",
-               "remoteColor":"#FF5733",
+               "remoteColor":"#8ecae6",
                "title":"<p>EFESIOS EN EL CORAZÓN</p>",
                "versionCode":10
             }
