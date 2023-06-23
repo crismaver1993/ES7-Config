@@ -3,118 +3,120 @@
     {
       "adultLessons": [
         {
-          "date": "March 25 - April 3",
-          "id": 283,
+          "date": "June 24–30",
+          "id": 327,
           "lessonNumber": "1",
-          "remoteColor": "#ebd276",
-          "title": "<p>Jesus Wins—Satan Loses</p>",
-          "versionCode": 2
+          "remoteColor": "#135eff",
+          "title": "<p>Paul and the Ephesians<br></p>",
+          "versionCode": 10
         },
         {
-          "date": "April 1–7",
-          "id": 284,
+          "date": "July 1–7",
+          "id": 328,
           "lessonNumber": "2",
-          "remoteColor": "#4aa404",
-          "title": "<p>A Moment of Destiny</p>",
-          "versionCode": 2
+          "remoteColor": "#ffb013",
+          "title": "<p>God’s Grand, Christ-Centered Plan<br></p>",
+          "versionCode": 10
         },
         {
-          "date": "April 8–14",
-          "id": 274,
+          "date": "July 8–14",
+          "id": 329,
           "lessonNumber": "3",
-          "remoteColor": "#D80F27",
-          "title": "<p>The Everlasting Gospel</p>",
-          "versionCode": 2
+          "remoteColor": "#008926",
+          "title": "<p>The Power of the Exalted Jesus<br></p>",
+          "versionCode": 10
         },
         {
-          "date": "April 15 - 21",
-          "id": 276,
+          "date": "July 15-22",
+          "id": 326,
           "lessonNumber": "4",
-          "remoteColor": "#3D5B59",
-          "title": "<p>Fear God and Give Glory to Him</p>",
-          "versionCode": 2
+          "remoteColor": "#274472",
+          "title": "<p>How God Rescues Us</p>",
+          "versionCode": 10
         },
         {
-          "date": "April 22–28",
-          "id": 286,
+          "date": "July 22-28",
+          "id": 331,
           "lessonNumber": "5",
-          "remoteColor": "#278305",
-          "title": "<p>The Good News of the Judgment<br></p>",
-          "versionCode": 2
+          "remoteColor": "#d63a00",
+          "title": "<p>Horizontal Atonement: The Cross and the Church</p>",
+          "versionCode": 10
         },
         {
-          "date": "April 29–May 5",
-          "id": 272,
+          "date": "July 29-August 5",
+          "id": 321,
           "lessonNumber": "6",
-          "remoteColor": "#2ecc71",
-          "title": "<p>The Hour of His Judgment<br></p>",
-          "versionCode": 2
+          "remoteColor": "#F5B44C",
+          "title": "<p>The Mystery of the Gospel</p>",
+          "versionCode": 10
         },
         {
-          "date": "May 6–12",
-          "id": 287,
+          "date": "August 5–11",
+          "id": 335,
           "lessonNumber": "7",
-          "remoteColor": "#660583",
-          "title": "<p>Worshiping the Creator<br></p>",
-          "versionCode": 2
+          "remoteColor": "#147BFA",
+          "title": "<p>The Unified Body of Christ</p>",
+          "versionCode": 10
         },
         {
-          "date": "May 13–19",
-          "id": 294,
+          "date": "August 12–18",
+          "id": 339,
           "lessonNumber": "8",
-          "remoteColor": "#4249e3",
-          "title": "<p>The Sabbath and the End<br></p>",
-          "versionCode": 2
+          "remoteColor": "#af8805",
+          "title": "<p>Christ-Shaped Lives and Spirit-Inspired Speech<br></p>",
+          "versionCode": 10
         },
         {
-          "date": "May 20–26",
-          "id": 282,
+          "date": "August 19-25",
+          "id": 334,
           "lessonNumber": "9",
-          "remoteColor": "#c84d18",
-          "title": "<p style=\"text-align: justify;\">A City Called Confusion</p>",
-          "versionCode": 2
+          "remoteColor": "#0e859d",
+          "title": "<p>Living Wisely</p>",
+          "versionCode": 10
         },
         {
-          "date": "May 27–June 2",
-          "id": 296,
+          "date": "August 26–September 1",
+          "id": 330,
           "lessonNumber": "10",
-          "remoteColor": "#8e0794",
-          "title": "<p>Satan’s Final Deceptions<br></p>",
-          "versionCode": 2
+          "remoteColor": "#005002",
+          "title": "<p>Husbands and Wives: Together at the Cross<br></p>",
+          "versionCode": 10
         },
         {
-          "date": "June 3 -9",
-          "id": 281,
+          "date": "September 2-8",
+          "id": 337,
           "lessonNumber": "11",
-          "remoteColor": "#E0E0E0",
-          "title": "<p>The Seal of God and Mark of the Beast: Part 1</p>",
-          "versionCode": 2
+          "remoteColor": "#009fd6",
+          "title": "<p>Practicing Supreme Loyalty to Christ</p>",
+          "versionCode": 10
         },
         {
-          "date": "June 10–16",
-          "id": 295,
+          "date": "September 9–15",
+          "id": 332,
           "lessonNumber": "12",
-          "remoteColor": "#b6a201",
-          "title": "<p>The Seal of God and Mark of the Beast: Part 2<br></p>",
-          "versionCode": 2
+          "remoteColor": "#009fd6",
+          "title": "<p>The Call to Stand<br></p>",
+          "versionCode": 10
         },
         {
-          "date": "June 17 - 23",
-          "id": 278,
+          "date": "September 16-22",
+          "id": 333,
           "lessonNumber": "13",
-          "remoteColor": "#058355",
-          "title": "<p>Ablaze With God's Glory</p>",
-          "versionCode": 2
+          "remoteColor": "#E1473F",
+          "title": "<p>Waging Peace</p>",
+          "versionCode": 10
+        },
+        {
+          "date": "September 23-29",
+          "id": 338,
+          "lessonNumber": "14",
+          "remoteColor": "#B8B825",
+          "title": "<p>Ephesians in the Heart</p>",
+          "versionCode": 10
         }
       ],
-      "helpLesson":{
-            "title":"",
-            "id":1,
-            "msg":"",
-            "youtubeUrl":"https://youtu.be/ChR_NeaZu3k"
-         },
       "appHasAlert": false,
-      "color": "#0478a4",
+      "color": "#ba0052",
       "egwHasAlert": false,
       "egwLessons": [],
       "flexibleUpdate": false,
@@ -122,51 +124,19 @@
       "googleUpdate": false,
       "helpVideos": "https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
       "id": 3,
-      "idEs": 19,
+      "idEs": 21,
       "language": "en",
       "latestVersionCode": 233,
       "latestVersionName": "2.14.3",
-      "mission": "https://cldup.com/fItWCuhRnD.pdf",
+      "mission": "https://cldup.com/ZXmG9EC4bj.pdf",
       "published": true,
-      "quarter": "2T2023",
-      "quarterNumber": 2,
-      "quarterText": "2 Quarter 2023",
-      "title": "Three Cosmic Messages",
+      "quarter": "3T2023",
+      "quarterNumber": 3,
+      "quarterText": "3 Quarter 2023",
+      "title": "Ephesians",
       "year": 2023
     }
   ],
-  "menu":{
-      "devotionals":[
-         {
-            "id":290,
-            "menuId":703,
-            "language":"en",
-            "isWebLink":false,
-            "url":"",
-            "img":"https://cldup.com/tQ8ciBgINx.webp",
-            "title":"Adult Devotional",
-            "description":"",
-            "creator":"",
-            "featured":false,
-            "visible":true,
-            "year":"2023"
-         },
-         {
-            "id":287,
-            "menuId":703,
-            "language":"en",
-            "isWebLink":false,
-            "url":"",
-            "img":"https://cldup.com/cbAg_JLMF0.webp",
-            "title":"Women Devotional",
-            "description":"",
-            "creator":"",
-            "featured":false,
-            "visible":true,
-            "year":"2023"
-         }
-      ]
-   },
   "message": "Consulta con éxito",
   "success": true
 }
