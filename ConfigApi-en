@@ -6,7 +6,7 @@
           "date": "June 24–30",
           "id": 327,
           "lessonNumber": "1",
-          "remoteColor": "#135eff",
+          "remoteColor": "#2a9d8f",
           "title": "<p>Paul and the Ephesians<br></p>",
           "versionCode": 10
         },
@@ -14,7 +14,7 @@
           "date": "July 1–7",
           "id": 328,
           "lessonNumber": "2",
-          "remoteColor": "#ffb013",
+          "remoteColor": "#e9c46a",
           "title": "<p>God’s Grand, Christ-Centered Plan<br></p>",
           "versionCode": 10
         },
@@ -22,7 +22,7 @@
           "date": "July 8–14",
           "id": 329,
           "lessonNumber": "3",
-          "remoteColor": "#008926",
+          "remoteColor": "#f4a261",
           "title": "<p>The Power of the Exalted Jesus<br></p>",
           "versionCode": 10
         },
@@ -30,7 +30,7 @@
           "date": "July 15-22",
           "id": 326,
           "lessonNumber": "4",
-          "remoteColor": "#274472",
+          "remoteColor": "#ff006e",
           "title": "<p>How God Rescues Us</p>",
           "versionCode": 10
         },
@@ -38,7 +38,7 @@
           "date": "July 22-28",
           "id": 331,
           "lessonNumber": "5",
-          "remoteColor": "#d63a00",
+          "remoteColor": "#2ec4b6",
           "title": "<p>Horizontal Atonement: The Cross and the Church</p>",
           "versionCode": 10
         },
@@ -46,7 +46,7 @@
           "date": "July 29-August 5",
           "id": 321,
           "lessonNumber": "6",
-          "remoteColor": "#F5B44C",
+          "remoteColor": "#7678ed",
           "title": "<p>The Mystery of the Gospel</p>",
           "versionCode": 10
         },
@@ -54,7 +54,7 @@
           "date": "August 5–11",
           "id": 335,
           "lessonNumber": "7",
-          "remoteColor": "#147BFA",
+          "remoteColor": "#7cb518",
           "title": "<p>The Unified Body of Christ</p>",
           "versionCode": 10
         },
@@ -62,7 +62,7 @@
           "date": "August 12–18",
           "id": 339,
           "lessonNumber": "8",
-          "remoteColor": "#af8805",
+          "remoteColor": "#8f250c",
           "title": "<p>Christ-Shaped Lives and Spirit-Inspired Speech<br></p>",
           "versionCode": 10
         },
@@ -70,7 +70,7 @@
           "date": "August 19-25",
           "id": 334,
           "lessonNumber": "9",
-          "remoteColor": "#0e859d",
+          "remoteColor": "#33658a",
           "title": "<p>Living Wisely</p>",
           "versionCode": 10
         },
@@ -78,7 +78,7 @@
           "date": "August 26–September 1",
           "id": 330,
           "lessonNumber": "10",
-          "remoteColor": "#005002",
+          "remoteColor": "#5c8001",
           "title": "<p>Husbands and Wives: Together at the Cross<br></p>",
           "versionCode": 10
         },
@@ -86,7 +86,7 @@
           "date": "September 2-8",
           "id": 337,
           "lessonNumber": "11",
-          "remoteColor": "#009fd6",
+          "remoteColor": "#985277",
           "title": "<p>Practicing Supreme Loyalty to Christ</p>",
           "versionCode": 10
         },
@@ -94,7 +94,7 @@
           "date": "September 9–15",
           "id": 332,
           "lessonNumber": "12",
-          "remoteColor": "#009fd6",
+          "remoteColor": "#9e0059",
           "title": "<p>The Call to Stand<br></p>",
           "versionCode": 10
         },
@@ -102,7 +102,7 @@
           "date": "September 16-22",
           "id": 333,
           "lessonNumber": "13",
-          "remoteColor": "#E1473F",
+          "remoteColor": "#a41623",
           "title": "<p>Waging Peace</p>",
           "versionCode": 10
         },
@@ -110,7 +110,7 @@
           "date": "September 23-29",
           "id": 338,
           "lessonNumber": "14",
-          "remoteColor": "#B8B825",
+          "remoteColor": "#2176ff",
           "title": "<p>Ephesians in the Heart</p>",
           "versionCode": 10
         }
