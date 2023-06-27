@@ -62,7 +62,7 @@
           "date": "August 12–18",
           "id": 339,
           "lessonNumber": "8",
-          "remoteColor": "#8f250c",
+          "remoteColor": "#CDDC39",
           "title": "<p>Christ-Shaped Lives and Spirit-Inspired Speech<br></p>",
           "versionCode": 10
         },
@@ -78,7 +78,7 @@
           "date": "August 26–September 1",
           "id": 330,
           "lessonNumber": "10",
-          "remoteColor": "#5c8001",
+          "remoteColor": "#FF9800",
           "title": "<p>Husbands and Wives: Together at the Cross<br></p>",
           "versionCode": 10
         },
@@ -102,7 +102,7 @@
           "date": "September 16-22",
           "id": 333,
           "lessonNumber": "13",
-          "remoteColor": "#a41623",
+          "remoteColor": "#512da8",
           "title": "<p>Waging Peace</p>",
           "versionCode": 10
         },
@@ -110,7 +110,7 @@
           "date": "September 23-29",
           "id": 338,
           "lessonNumber": "14",
-          "remoteColor": "#2176ff",
+          "remoteColor": "#fdd835",
           "title": "<p>Ephesians in the Heart</p>",
           "versionCode": 10
         }
