@@ -1,607 +1,671 @@
 [
-  {
-    "id": 1,
-    "verse": "Génesis 2:24",
-    "version": {
-      "dhh": "Por eso, el hombre deja a su padre y a su madre, se une a su esposa y los dos llegan a ser como una sola persona.",
-      "rvv1960": ""
-    },
-    "occasion": "boda"
-  },
-  {
-    "id": 2,
-    "verse": "1 Corintios 13:4-7",
-    "version": {
-      "dhh": "El amor es paciente y bondadoso; no tiene envidia, ni orgullo, ni arrogancia. No es grosero, ni egoísta; no se enoja fácilmente, no guarda rencor. El amor no se alegra de la injusticia, sino que se goza de la verdad. Todo lo sufre, todo lo cree, todo lo espera, todo lo soporta.",
-      "rvv1960": ""
-    },
-    "occasion": "boda"
-  },
-  {
-    "id": 3,
-    "verse": "Efesios 5:25",
-    "version": {
-      "dhh": "Maridos, amen a sus esposas, así como Cristo amó a la iglesia y dio su vida por ella.",
-      "rvv1960": ""
-    },
-    "occasion": "boda"
-  },
-  {
-    "id": 4,
-    "verse": "1 Juan 4:19",
-    "version": {
-      "dhh": "Nosotros amamos a Dios porque él nos amó primero.",
-      "rvv1960": ""
-    },
-    "occasion": "boda"
-  },
-  {
-    "id": 5,
-    "verse": "Proverbios 18:22",
-    "version": {
-      "dhh": "El que encuentra esposa encuentra la felicidad; ha recibido un favor del Señor.",
-      "rvv1960": ""
-    },
-    "occasion": "boda"
-  },
-  {
-    "id": 6,
-    "verse": "Eclesiastés 4:9-12",
-    "version": {
-      "dhh": "Más valen dos que uno, porque obtienen más fruto de su trabajo. Si uno de ellos se cae, el otro lo levanta. Pero si uno cae solo, ¡pobre del que no tiene a nadie que lo ayude a levantarse! Además, si dos se acuestan juntos, se calientan; pero uno solo, ¿cómo va a calentarse? Uno solo puede ser vencido, pero dos pueden resistir. ¡La cuerda de tres hilos no se rompe fácilmente!",
-      "rvv1960": ""
-    },
-    "occasion": "boda"
-  },
-  {
-    "id": 7,
-    "verse": "Mateo 19:6",
-    "version": {
-      "dhh": "Así que ya no son dos, sino una sola persona. Que nadie separe lo que Dios ha unido.",
-      "rvv1960": ""
-    },
-    "occasion": "boda"
-  },
-  {
-    "id": 8,
-    "verse": "Mateo 28:19-20",
-    "version": {
-      "dhh": "Vayan, pues, y hagan que todos los pueblos sean mis discípulos. Bautícenlos en el nombre del Padre, del Hijo y del Espíritu Santo, y enséñenles a obedecer todo lo que yo les he mandado. Yo estoy con ustedes todos los días, hasta el fin del mundo.",
-      "rvv1960": ""
-    },
-    "occasion": "bautizo"
-  },
-  {
-    "id": 9,
-    "verse": "Hechos 2:38",
-    "version": {
-      "dhh": "Cada uno de ustedes —contestó Pedro—, arrepiéntase y bautícese en el nombre de Jesucristo, para que Dios les perdone sus pecados; y recibirán el regalo del Espíritu Santo.",
-      "rvv1960": ""
-    },
-    "occasion": "bautizo"
-  },
-  {
-    "id": 10,
-    "verse": "Gálatas 3:27",
-    "version": {
-      "dhh": "Todos los que han sido bautizados en Cristo, se han revestido de Cristo.",
-      "rvv1960": ""
-    },
-    "occasion": "bautizo"
-  },
-  {
-    "id": 11,
-    "verse": "Romanos 6:4",
-    "version": {
-      "dhh": "Por tanto, por medio del bautismo fuimos sepultados con él en su muerte, para que así como Cristo resucitó por el poder glorioso del Padre, así también nosotros llevemos una vida nueva.",
-      "rvv1960": ""
-    },
-    "occasion": "bautizo"
-  },
-  {
-    "id": 12,
-    "verse": "Colosenses 2:12",
-    "version": {
-      "dhh": "Por medio del bautismo fuimos sepultados con Cristo, y por él también resucitamos, por la fe en el poder de Dios, que lo resucitó de entre los muertos.",
-      "rvv1960": ""
-    },
-    "occasion": "bautizo"
-  },
-  {
-    "id": 13,
-    "verse": "Salmo 90:12",
-    "version": {
-      "dhh": "Enséñanos de tal modo a contar nuestros días, que traigamos al corazón sabiduría.",
-      "rvv1960": ""
-    },
-    "occasion": "cumpleaños"
-  },
-  {
-    "id": 14,
-    "verse": "Salmo 118:24",
-    "version": {
-      "dhh": "Este es el día que hizo Jehová; nos gozaremos y alegraremos en él.",
-      "rvv1960": ""
-    },
-    "occasion": "cumpleaños"
-  },
-  {
-    "id": 15,
-    "verse": "Jeremías 29:11",
-    "version": {
-      "dhh": "Porque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová, pensamientos de paz, y no de mal, para daros el fin que esperáis.",
-      "rvv1960": ""
-    },
-    "occasion": "cumpleaños"
-  },
-  {
-    "id": 16,
-    "verse": "Proverbios 16:9",
-    "version": {
-      "dhh": "El corazón del hombre piensa su camino; mas Jehová endereza sus pasos.",
-      "rvv1960": ""
-    },
-    "occasion": "cumpleaños"
-  },
-  {
-    "id": 17,
-    "verse": "Salmo 37:4",
-    "version": {
-      "dhh": "Deléitate asimismo en Jehová, y él te concederá las peticiones de tu corazón.",
-      "rvv1960": ""
-    },
-    "occasion": "cumpleaños"
-  },
-  {
-    "id": 18,
-    "verse": "Proverbios 3:5-6",
-    "version": {
-      "dhh": "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas.",
-      "rvv1960": ""
-    },
-    "occasion": "graduación"
-  },
-  {
-    "id": 19,
-    "verse": "Jeremías 29:11",
-    "version": {
-      "dhh": "Porque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová, pensamientos de paz, y no de mal, para daros el fin que esperáis.",
-      "rvv1960": ""
-    },
-    "occasion": "graduación"
-  },
-  {
-    "id": 20,
-    "verse": "Filipenses 1:6",
-    "version": {
-      "dhh": "Estando persuadido de esto, que el que comenzó en vosotros la buena obra, la perfeccionará hasta el día de Jesucristo.",
-      "rvv1960": ""
-    },
-    "occasion": "graduación"
-  },
-  {
-    "id": 21,
-    "verse": "2 Timoteo 2:15",
-    "version": {
-      "dhh": "Procura con diligencia presentarte a Dios aprobado, como obrero que no tiene de qué avergonzarse, que usa bien la palabra de verdad.",
-      "rvv1960": ""
-    },
-    "occasion": "graduación"
-  },
-  {
-    "id": 22,
-    "verse": "Proverbios 16:3",
-    "version": {
-      "dhh": "Encomienda a Jehová tus obras, y tus pensamientos serán afirmados.",
-      "rvv1960": ""
-    },
-    "occasion": "graduación"
-  },
-
-    {
-    "id": 23,
-    "verse": "Salmo 34:18",
-    "version": {
-      "dhh": "Cercano está Jehová a los quebrantados de corazón; y salva a los contritos de espíritu.",
-      "rvv1960": ""
-    },
-    "occasion": "duelo/tristeza"
-  },
-  {
-    "id": 24,
-    "verse": "Mateo 5:4",
-    "version": {
-      "dhh": "Bienaventurados los que lloran, porque ellos recibirán consolación.",
-      "rvv1960": ""
-    },
-    "occasion": "duelo/tristeza"
-  },
-  {
-    "id": 25,
-    "verse": "Salmo 147:3",
-    "version": {
-      "dhh": "El sana a los quebrantados de corazón, y venda sus heridas.",
-      "rvv1960": ""
-    },
-    "occasion": "duelo/tristeza"
-  },
-  {
-    "id": 26,
-    "verse": "Juan 14:1-3",
-    "version": {
-      "dhh": "No se turbe vuestro corazón; creéis en Dios, creed también en mí. En la casa de mi Padre muchas moradas hay; si así no fuera, yo os lo hubiera dicho; voy, pues, a preparar lugar para vosotros. Y si me fuere y os preparare lugar, vendré otra vez, y os tomaré a mí mismo, para que donde yo estoy, vosotros también estéis.",
-      "rvv1960": ""
-    },
-    "occasion": "duelo/tristeza"
-  },
-  {
-    "id": 27,
-    "verse": "Salmo 23:4",
-    "version": {
-      "dhh": "Aunque ande en valle de sombra de muerte, no temeré mal alguno, porque tú estarás conmigo; tu vara y tu cayado me infundirán aliento.",
-      "rvv1960": ""
-    },
-    "occasion": "duelo/tristeza"
-  },
-  {
-    "id": 28,
-    "verse": "Salmo 118:24",
-    "version": {
-      "dhh": "Este es el día que hizo Jehová; nos gozaremos y alegraremos en él.",
-      "rvv1960": ""
-    },
-    "occasion": "alegría"
-  },
-  {
-    "id": 29,
-    "verse": "Filipenses 4:4",
-    "version": {
-      "dhh": "Regocijaos en el Señor siempre. Otra vez digo: ¡Regocijaos!",
-      "rvv1960": ""
-    },
-    "occasion": "alegría"
-  },
-  {
-    "id": 30,
-    "verse": "Nehemías 8:10",
-    "version": {
-      "dhh": "No os entristezcáis, porque el gozo de Jehová es vuestra fuerza.",
-      "rvv1960": ""
-    },
-    "occasion": "alegría"
-  },
-  {
-    "id": 31,
-    "verse": "Salmo 30:5",
-    "version": {
-      "dhh": "Porque un momento será su ira, pero su favor dura toda la vida. Por la noche durará el lloro, y a la mañana vendrá la alegría.",
-      "rvv1960": ""
-    },
-    "occasion": "alegría"
-  },
-  {
-    "id": 32,
-    "verse": "Santiago 1:2-3",
-    "version": {
-      "dhh": "Hermanos míos, tened por sumo gozo cuando os halléis en diversas pruebas, sabiendo que la prueba de vuestra fe produce paciencia.",
-      "rvv1960": ""
-    },
-    "occasion": "alegría"
-  },
-  {
-    "id": 33,
-    "verse": "Filipenses 4:13",
-    "version": {
-      "dhh": "Todo lo puedo en Cristo que me fortalece.",
-      "rvv1960": ""
-    },
-    "occasion": "motivación"
-  },
-  {
-    "id": 34,
-    "verse": "Isaías 40:31",
-    "version": {
-      "dhh": "Pero los que esperan a Jehová tendrán nuevas fuerzas; levantarán alas como las águilas; correrán, y no se cansarán; caminarán, y no se fatigarán.",
-      "rvv1960": ""
-    },
-    "occasion": "motivación"
-  },
-  {
-    "id": 35,
-    "verse": "Josué 1:9",
-    "version": {
-      "dhh": "Mira que te mando que te esfuerces y seas valiente; no temas ni desmayes, porque Jehová tu Dios estará contigo en dondequiera que vayas.",
-      "rvv1960": ""
-    },
-    "occasion": "motivación"
-  },
-  {
-    "id": 36,
-    "verse": "Filipenses 3:14",
-    "version": {
-      "dhh": "Prosigo a la meta, al premio del supremo llamamiento de Dios en Cristo Jesús.",
-      "rvv1960": ""
-    },
-    "occasion": "motivación"
-  },
-  {
-    "id": 37,
-    "verse": "Hebreos 12:1-2",
-    "version": {
-      "dhh": "Por tanto, nosotros también, teniendo en derredor nuestro tan grande nube de testigos, despojémonos de todo peso y del pecado que nos asedia, y corramos con paciencia la carrera que tenemos por delante, puestos los ojos en Jesús, el autor y consumador de la fe, el cual por el gozo puesto delante de él sufrió la cruz, menospreciando el oprobio, y se sentó a la diestra del trono de Dios.",
-      "rvv1960": ""
-    },
-    "occasion": "motivación"
-  },
    {
-    "id": 37,
-    "verse": "Hebreos 11:1",
-    "version": {
-      "dhh": "Es, pues, la fe la certeza de lo que se espera, la convicción de lo que no se ve.",
-      "rvv1960": ""
-    },
-    "occasion": "fe"
-  },
-  {
-    "id": 38,
-    "verse": "Romanos 10:17",
-    "version": {
-      "dhh": "Así que la fe es por el oír, y el oír, por la palabra de Dios.",
-      "rvv1960": ""
-    },
-    "occasion": "fe"
-  },
-  {
-    "id": 39,
-    "verse": "Marcos 9:23",
-    "version": {
-      "dhh": "Jesús le dijo: Si puedes creer, al que cree todo le es posible.",
-      "rvv1960": ""
-    },
-    "occasion": "fe"
-  },
-  {
-    "id": 40,
-    "verse": "Gálatas 2:20",
-    "version": {
-      "dhh": "Con Cristo estoy juntamente crucificado, y ya no vivo yo, mas vive Cristo en mí; y lo que ahora vivo en la carne, lo vivo en la fe del Hijo de Dios, el cual me amó y se entregó a sí mismo por mí.",
-      "rvv1960": ""
-    },
-    "occasion": "fe"
-  },
-  {
-    "id": 41,
-    "verse": "Hebreos 11:6",
-    "version": {
-      "dhh": "Pero sin fe es imposible agradar a Dios; porque es necesario que el que se acerca a Dios crea que le hay, y que es galardonador de los que le buscan.",
-      "rvv1960": ""
-    },
-    "occasion": "fe"
-  },
-  {
-    "id": 42,
-    "verse": "Salmo 56:3-4",
-    "version": {
-      "dhh": "Cuando tenga miedo, en ti confiaré. En Dios, cuya palabra alabo, en Dios confío y no temo. ¿Qué puede hacerme el hombre?",
-      "rvv1960": ""
-    },
-    "occasion": "confianza"
-  },
-  {
-    "id": 43,
-    "verse": "Proverbios 3:5-6",
-    "version": {
-      "dhh": "Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas.",
-      "rvv1960": ""
-    },
-    "occasion": "confianza"
-  },
-  {
-    "id": 44,
-    "verse": "Salmo 37:5",
-    "version": {
-      "dhh": "Encomienda a Jehová tu camino, y confía en él; y él hará.",
-      "rvv1960": ""
-    },
-    "occasion": "confianza"
-  },
-  {
-    "id": 45,
-    "verse": "Isaías 41:10",
-    "version": {
-      "dhh": "No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo; siempre te ayudaré, siempre te sustentaré con la diestra de mi justicia.",
-      "rvv1960": ""
-    },
-    "occasion": "confianza"
-  },
-  {
-    "id": 46,
-    "verse": "Salmo 62:8",
-    "version": {
-      "dhh": "Confía en él en todo tiempo, oh pueblo; derrama delante de él vuestro corazón; Dios es nuestro refugio.",
-      "rvv1960": ""
-    },
-    "occasion": "confianza"
-  },
-  {
-    "id": 46,
-    "verse": "Juan 3:16",
-    "version": {
-      "dhh": "Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna.",
-      "rvv1960": ""
-    },
-    "occasion": "amor"
-  },
-  {
-    "id": 47,
-    "verse": "1 Corintios 13:4-7",
-    "version": {
-      "dhh": "El amor es sufrido, es benigno; el amor no tiene envidia, el amor no es jactancioso, no se envanece; no hace nada indebido, no busca lo suyo, no se irrita, no guarda rencor; no se goza de la injusticia, mas se goza de la verdad. Todo lo sufre, todo lo cree, todo lo espera, todo lo soporta.",
-      "rvv1960": ""
-    },
-    "occasion": "amor"
-  },
-  {
-    "id": 48,
-    "verse": "Juan 15:13",
-    "version": {
-      "dhh": "Nadie tiene mayor amor que este, que uno ponga su vida por sus amigos.",
-      "rvv1960": ""
-    },
-    "occasion": "amor"
-  },
-  {
-    "id": 49,
-    "verse": "Efesios 5:2",
-    "version": {
-      "dhh": "Y andad en amor, como también Cristo nos amó, y se entregó a sí mismo por nosotros, ofrenda y sacrificio a Dios en olor fragante.",
-      "rvv1960": ""
-    },
-    "occasion": "amor"
-  },
-  {
-    "id": 50,
-    "verse": "Romanos 13:10",
-    "version": {
-      "dhh": "El amor no hace mal al prójimo; así que el cumplimiento de la ley es el amor.",
-      "rvv1960": ""
-    },
-    "occasion": "amor"
-  },
-  {
-    "id": 51,
-    "verse": "Santiago 1:3-4",
-    "version": {
-      "dhh": "Sabiendo que la prueba de vuestra fe produce paciencia. Mas tenga la paciencia su obra completa, para que seáis perfectos y cabales, sin que os falte cosa alguna.",
-      "rvv1960": ""
-    },
-    "occasion": "paciencia"
-  },
-  {
-    "id": 52,
-    "verse": "Romanos 12:12",
-    "version": {
-      "dhh": "Gozosos en la esperanza; sufridos en la tribulación; constantes en la oración.",
-      "rvv1960": ""
-    },
-    "occasion": "paciencia"
-  },
-  {
-    "id": 53,
-    "verse": "Gálatas 6:9",
-    "version": {
-      "dhh": "No nos cansemos, pues, de hacer bien; porque a su tiempo segaremos, si no desmayamos.",
-      "rvv1960": ""
-    },
-    "occasion": "paciencia"
-  },
-  {
-    "id": 54,
-    "verse": "Proverbios 14:29",
-    "version": {
-      "dhh": "El que tarda en airarse es grande de entendimiento; mas el que es impaciente de espíritu enaltece la necedad.",
-      "rvv1960": ""
-    },
-    "occasion": "paciencia"
-  },
-  {
-    "id": 55,
-    "verse": "1 Corintios 13:4",
-    "version": {
-      "dhh": "El amor es sufrido, es benigno; el amor no tiene envidia, el amor no es jactancioso, no se envanece.",
-      "rvv1960": ""
-    },
-    "occasion": "paciencia"
-  },
-
-    {
-    "id": 55,
-    "verse": "Salmo 23:4",
-    "version": {
-      "dhh": "Aunque ande en valle de sombra de muerte, no temeré mal alguno, porque tú estarás conmigo; tu vara y tu cayado me infundirán aliento.",
-      "rvv1960": ""
-    },
-    "occasion": "muerte"
-  },
-  {
-    "id": 56,
-    "verse": "1 Corintios 15:55",
-    "version": {
-      "dhh": "¿Dónde está, oh muerte, tu aguijón? ¿Dónde, oh sepulcro, tu victoria?",
-      "rvv1960": ""
-    },
-    "occasion": "muerte"
-  },
-  {
-    "id": 57,
-    "verse": "Apocalipsis 21:4",
-    "version": {
-      "dhh": "Enjugará Dios toda lágrima de los ojos de ellos; y ya no habrá muerte, ni habrá más llanto, ni clamor, ni dolor; porque las primeras cosas pasaron.",
-      "rvv1960": ""
-    },
-    "occasion": "muerte"
-  },
-  {
-    "id": 58,
-    "verse": "1 Tesalonicenses 4:13",
-    "version": {
-      "dhh": "Tampoco queremos, hermanos, que ignoréis acerca de los que duermen, para que no os entristezcáis como los otros que no tienen esperanza.",
-      "rvv1960": ""
-    },
-    "occasion": "muerte"
-  },
-  {
-    "id": 59,
-    "verse": "Juan 11:25-26",
-    "version": {
-      "dhh": "Le dijo Jesús: Yo soy la resurrección y la vida; el que cree en mí, aunque esté muerto, vivirá. Y todo aquel que vive y cree en mí, no morirá eternamente. ¿Crees esto?",
-      "rvv1960": ""
-    },
-    "occasion": "muerte"
-  },
-  {
-    "id": 60,
-    "verse": "Proverbios 16:9",
-    "version": {
-      "dhh": "El corazón del hombre piensa su camino; mas Jehová endereza sus pasos.",
-      "rvv1960": ""
-    },
-    "occasion": "planes de Dios"
-  },
-  {
-    "id": 61,
-    "verse": "Jeremías 29:11",
-    "version": {
-      "dhh": "Porque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová, pensamientos de paz, y no de mal, para daros el fin que esperáis.",
-      "rvv1960": ""
-    },
-    "occasion": "planes de Dios"
-  },
-  {
-    "id": 62,
-    "verse": "Romanos 8:28",
-    "version": {
-      "dhh": "Y sabemos que a los que aman a Dios, todas las cosas les ayudan a bien, esto es, a los que conforme a su propósito son llamados.",
-      "rvv1960": ""
-    },
-    "occasion": "planes de Dios"
-  },
-  {
-    "id": 63,
-    "verse": "Proverbios 19:21",
-    "version": {
-      "dhh": "Muchos son los planes en el corazón del hombre, pero el consejo de Jehová permanecerá.",
-      "rvv1960": ""
-    },
-    "occasion": "planes de Dios"
-  },
-  {
-    "id": 64,
-    "verse": "Isaías 55:8-9",
-    "version": {
-      "dhh": "Porque mis pensamientos no son vuestros pensamientos, ni vuestros caminos mis caminos, dijo Jehová. Como son más altos los cielos que la tierra, así son mis caminos más altos que vuestros caminos, y mis pensamientos más que vuestros pensamientos.",
-      "rvv1960": ""
-    },
-    "occasion": "planes de Dios"
-  }
+      "id":1,
+      "verse":"Génesis 2:24",
+      "version":{
+         "dhh":"Por eso, el hombre deja a su padre y a su madre, se une a su esposa y los dos llegan a ser como una sola persona.",
+         "rvv1960":""
+      },
+      "occasion":"boda",
+      "typeId":1
+   },
+   {
+      "id":2,
+      "verse":"1 Corintios 13:4-7",
+      "version":{
+         "dhh":"El amor es paciente y bondadoso; no tiene envidia, ni orgullo, ni arrogancia. No es grosero, ni egoísta; no se enoja fácilmente, no guarda rencor. El amor no se alegra de la injusticia, sino que se goza de la verdad. Todo lo sufre, todo lo cree, todo lo espera, todo lo soporta.",
+         "rvv1960":""
+      },
+      "occasion":"boda"
+   },
+   {
+      "id":3,
+      "verse":"Efesios 5:25",
+      "version":{
+         "dhh":"Maridos, amen a sus esposas, así como Cristo amó a la iglesia y dio su vida por ella.",
+         "rvv1960":""
+      },
+      "occasion":"boda",
+      "typeId":1
+   },
+   {
+      "id":4,
+      "verse":"1 Juan 4:19",
+      "version":{
+         "dhh":"Nosotros amamos a Dios porque él nos amó primero.",
+         "rvv1960":""
+      },
+      "occasion":"boda",
+      "typeId":1
+   },
+   {
+      "id":5,
+      "verse":"Proverbios 18:22",
+      "version":{
+         "dhh":"El que encuentra esposa encuentra la felicidad; ha recibido un favor del Señor.",
+         "rvv1960":""
+      },
+      "occasion":"boda",
+      "typeId":1
+   },
+   {
+      "id":6,
+      "verse":"Eclesiastés 4:9-12",
+      "version":{
+         "dhh":"Más valen dos que uno, porque obtienen más fruto de su trabajo. Si uno de ellos se cae, el otro lo levanta. Pero si uno cae solo, ¡pobre del que no tiene a nadie que lo ayude a levantarse! Además, si dos se acuestan juntos, se calientan; pero uno solo, ¿cómo va a calentarse? Uno solo puede ser vencido, pero dos pueden resistir. ¡La cuerda de tres hilos no se rompe fácilmente!",
+         "rvv1960":""
+      },
+      "occasion":"boda",
+      "typeId":1
+   },
+   {
+      "id":7,
+      "verse":"Mateo 19:6",
+      "version":{
+         "dhh":"Así que ya no son dos, sino una sola persona. Que nadie separe lo que Dios ha unido.",
+         "rvv1960":""
+      },
+      "occasion":"boda",
+      "typeId":1
+   },
+   {
+      "id":8,
+      "verse":"Mateo 28:19-20",
+      "version":{
+         "dhh":"Vayan, pues, y hagan que todos los pueblos sean mis discípulos. Bautícenlos en el nombre del Padre, del Hijo y del Espíritu Santo, y enséñenles a obedecer todo lo que yo les he mandado. Yo estoy con ustedes todos los días, hasta el fin del mundo.",
+         "rvv1960":""
+      },
+      "occasion":"bautizo",
+      "typeId":2
+   },
+   {
+      "id":9,
+      "verse":"Hechos 2:38",
+      "version":{
+         "dhh":"Cada uno de ustedes —contestó Pedro—, arrepiéntase y bautícese en el nombre de Jesucristo, para que Dios les perdone sus pecados; y recibirán el regalo del Espíritu Santo.",
+         "rvv1960":""
+      },
+      "occasion":"bautizo",
+      "typeId":2
+   },
+   {
+      "id":10,
+      "verse":"Gálatas 3:27",
+      "version":{
+         "dhh":"Todos los que han sido bautizados en Cristo, se han revestido de Cristo.",
+         "rvv1960":""
+      },
+      "occasion":"bautizo",
+      "typeId":2
+   },
+   {
+      "id":11,
+      "verse":"Romanos 6:4",
+      "version":{
+         "dhh":"Por tanto, por medio del bautismo fuimos sepultados con él en su muerte, para que así como Cristo resucitó por el poder glorioso del Padre, así también nosotros llevemos una vida nueva.",
+         "rvv1960":""
+      },
+      "occasion":"bautizo",
+      "typeId":2
+   },
+   {
+      "id":12,
+      "verse":"Colosenses 2:12",
+      "version":{
+         "dhh":"Por medio del bautismo fuimos sepultados con Cristo, y por él también resucitamos, por la fe en el poder de Dios, que lo resucitó de entre los muertos.",
+         "rvv1960":""
+      },
+      "occasion":"bautizo",
+      "typeId":2
+   },
+   {
+      "id":13,
+      "verse":"Salmo 90:12",
+      "version":{
+         "dhh":"Enséñanos de tal modo a contar nuestros días, que traigamos al corazón sabiduría.",
+         "rvv1960":""
+      },
+      "occasion":"cumpleaños",
+      "typeId":3
+   },
+   {
+      "id":14,
+      "verse":"Salmo 118:24",
+      "version":{
+         "dhh":"Este es el día que hizo Jehová; nos gozaremos y alegraremos en él.",
+         "rvv1960":""
+      },
+      "occasion":"cumpleaños",
+      "typeId":3
+   },
+   {
+      "id":15,
+      "verse":"Jeremías 29:11",
+      "version":{
+         "dhh":"Porque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová, pensamientos de paz, y no de mal, para daros el fin que esperáis.",
+         "rvv1960":""
+      },
+      "occasion":"cumpleaños",
+      "typeId":3
+   },
+   {
+      "id":16,
+      "verse":"Proverbios 16:9",
+      "version":{
+         "dhh":"El corazón del hombre piensa su camino; mas Jehová endereza sus pasos.",
+         "rvv1960":""
+      },
+      "occasion":"cumpleaños",
+      "typeId":3
+   },
+   {
+      "id":17,
+      "verse":"Salmo 37:4",
+      "version":{
+         "dhh":"Deléitate asimismo en Jehová, y él te concederá las peticiones de tu corazón.",
+         "rvv1960":""
+      },
+      "occasion":"cumpleaños",
+      "typeId":3
+   },
+   {
+      "id":18,
+      "verse":"Proverbios 3:5-6",
+      "version":{
+         "dhh":"Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas.",
+         "rvv1960":""
+      },
+      "occasion":"graduación",
+      "typeId":4
+   },
+   {
+      "id":19,
+      "verse":"Jeremías 29:11",
+      "version":{
+         "dhh":"Porque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová, pensamientos de paz, y no de mal, para daros el fin que esperáis.",
+         "rvv1960":""
+      },
+      "occasion":"graduación",
+      "typeId":4
+   },
+   {
+      "id":20,
+      "verse":"Filipenses 1:6",
+      "version":{
+         "dhh":"Estando persuadido de esto, que el que comenzó en vosotros la buena obra, la perfeccionará hasta el día de Jesucristo.",
+         "rvv1960":""
+      },
+      "occasion":"graduación",
+      "typeId":4
+   },
+   {
+      "id":21,
+      "verse":"2 Timoteo 2:15",
+      "version":{
+         "dhh":"Procura con diligencia presentarte a Dios aprobado, como obrero que no tiene de qué avergonzarse, que usa bien la palabra de verdad.",
+         "rvv1960":""
+      },
+      "occasion":"graduación",
+      "typeId":4
+   },
+   {
+      "id":22,
+      "verse":"Proverbios 16:3",
+      "version":{
+         "dhh":"Encomienda a Jehová tus obras, y tus pensamientos serán afirmados.",
+         "rvv1960":""
+      },
+      "occasion":"graduación",
+      "typeId":4
+   },
+   {
+      "id":23,
+      "verse":"Salmo 34:18",
+      "version":{
+         "dhh":"Cercano está Jehová a los quebrantados de corazón; y salva a los contritos de espíritu.",
+         "rvv1960":""
+      },
+      "occasion":"tristeza",
+      "typeId":5
+   },
+   {
+      "id":24,
+      "verse":"Mateo 5:4",
+      "version":{
+         "dhh":"Bienaventurados los que lloran, porque ellos recibirán consolación.",
+         "rvv1960":""
+      },
+      "occasion":"tristeza",
+      "typeId":5
+   },
+   {
+      "id":25,
+      "verse":"Salmo 147:3",
+      "version":{
+         "dhh":"El sana a los quebrantados de corazón, y venda sus heridas.",
+         "rvv1960":""
+      },
+      "occasion":"tristeza",
+      "typeId":5
+   },
+   {
+      "id":26,
+      "verse":"Juan 14:1-3",
+      "version":{
+         "dhh":"No se turbe vuestro corazón; creéis en Dios, creed también en mí. En la casa de mi Padre muchas moradas hay; si así no fuera, yo os lo hubiera dicho; voy, pues, a preparar lugar para vosotros. Y si me fuere y os preparare lugar, vendré otra vez, y os tomaré a mí mismo, para que donde yo estoy, vosotros también estéis.",
+         "rvv1960":""
+      },
+      "occasion":"tristeza",
+      "typeId":5
+   },
+   {
+      "id":27,
+      "verse":"Salmo 23:4",
+      "version":{
+         "dhh":"Aunque ande en valle de sombra de muerte, no temeré mal alguno, porque tú estarás conmigo; tu vara y tu cayado me infundirán aliento.",
+         "rvv1960":""
+      },
+      "occasion":"tristeza",
+      "typeId":5
+   },
+   {
+      "id":28,
+      "verse":"Salmo 118:24",
+      "version":{
+         "dhh":"Este es el día que hizo Jehová; nos gozaremos y alegraremos en él.",
+         "rvv1960":""
+      },
+      "occasion":"alegría",
+      "typeId":6
+   },
+   {
+      "id":29,
+      "verse":"Filipenses 4:4",
+      "version":{
+         "dhh":"Regocijaos en el Señor siempre. Otra vez digo: ¡Regocijaos!",
+         "rvv1960":""
+      },
+      "occasion":"alegría",
+      "typeId":6
+   },
+   {
+      "id":30,
+      "verse":"Nehemías 8:10",
+      "version":{
+         "dhh":"No os entristezcáis, porque el gozo de Jehová es vuestra fuerza.",
+         "rvv1960":""
+      },
+      "occasion":"alegría",
+      "typeId":6
+   },
+   {
+      "id":31,
+      "verse":"Salmo 30:5",
+      "version":{
+         "dhh":"Porque un momento será su ira, pero su favor dura toda la vida. Por la noche durará el lloro, y a la mañana vendrá la alegría.",
+         "rvv1960":""
+      },
+      "occasion":"alegría",
+      "typeId":6
+   },
+   {
+      "id":32,
+      "verse":"Santiago 1:2-3",
+      "version":{
+         "dhh":"Hermanos míos, tened por sumo gozo cuando os halléis en diversas pruebas, sabiendo que la prueba de vuestra fe produce paciencia.",
+         "rvv1960":""
+      },
+      "occasion":"alegría",
+      "typeId":6
+   },
+   {
+      "id":33,
+      "verse":"Filipenses 4:13",
+      "version":{
+         "dhh":"Todo lo puedo en Cristo que me fortalece.",
+         "rvv1960":""
+      },
+      "occasion":"motivación",
+      "typeId":7
+   },
+   {
+      "id":34,
+      "verse":"Isaías 40:31",
+      "version":{
+         "dhh":"Pero los que esperan a Jehová tendrán nuevas fuerzas; levantarán alas como las águilas; correrán, y no se cansarán; caminarán, y no se fatigarán.",
+         "rvv1960":""
+      },
+      "occasion":"motivación",
+      "typeId":7
+   },
+   {
+      "id":35,
+      "verse":"Josué 1:9",
+      "version":{
+         "dhh":"Mira que te mando que te esfuerces y seas valiente; no temas ni desmayes, porque Jehová tu Dios estará contigo en dondequiera que vayas.",
+         "rvv1960":""
+      },
+      "occasion":"motivación",
+      "typeId":7
+   },
+   {
+      "id":36,
+      "verse":"Filipenses 3:14",
+      "version":{
+         "dhh":"Prosigo a la meta, al premio del supremo llamamiento de Dios en Cristo Jesús.",
+         "rvv1960":""
+      },
+      "occasion":"motivación",
+      "typeId":7
+   },
+   {
+      "id":37,
+      "verse":"Hebreos 12:1-2",
+      "version":{
+         "dhh":"Por tanto, nosotros también, teniendo en derredor nuestro tan grande nube de testigos, despojémonos de todo peso y del pecado que nos asedia, y corramos con paciencia la carrera que tenemos por delante, puestos los ojos en Jesús, el autor y consumador de la fe, el cual por el gozo puesto delante de él sufrió la cruz, menospreciando el oprobio, y se sentó a la diestra del trono de Dios.",
+         "rvv1960":""
+      },
+      "occasion":"motivación",
+      "typeId":7
+   },
+   {
+      "id":37,
+      "verse":"Hebreos 11:1",
+      "version":{
+         "dhh":"Es, pues, la fe la certeza de lo que se espera, la convicción de lo que no se ve.",
+         "rvv1960":""
+      },
+      "occasion":"fe",
+      "typeId":8
+   },
+   {
+      "id":38,
+      "verse":"Romanos 10:17",
+      "version":{
+         "dhh":"Así que la fe es por el oír, y el oír, por la palabra de Dios.",
+         "rvv1960":""
+      },
+      "occasion":"fe",
+      "typeId":8
+   },
+   {
+      "id":39,
+      "verse":"Marcos 9:23",
+      "version":{
+         "dhh":"Jesús le dijo: Si puedes creer, al que cree todo le es posible.",
+         "rvv1960":""
+      },
+      "occasion":"fe",
+      "typeId":8
+   },
+   {
+      "id":40,
+      "verse":"Gálatas 2:20",
+      "version":{
+         "dhh":"Con Cristo estoy juntamente crucificado, y ya no vivo yo, mas vive Cristo en mí; y lo que ahora vivo en la carne, lo vivo en la fe del Hijo de Dios, el cual me amó y se entregó a sí mismo por mí.",
+         "rvv1960":""
+      },
+      "occasion":"fe",
+      "typeId":8
+   },
+   {
+      "id":41,
+      "verse":"Hebreos 11:6",
+      "version":{
+         "dhh":"Pero sin fe es imposible agradar a Dios; porque es necesario que el que se acerca a Dios crea que le hay, y que es galardonador de los que le buscan.",
+         "rvv1960":""
+      },
+      "occasion":"fe",
+      "typeId":8
+   },
+   {
+      "id":42,
+      "verse":"Salmo 56:3-4",
+      "version":{
+         "dhh":"Cuando tenga miedo, en ti confiaré. En Dios, cuya palabra alabo, en Dios confío y no temo. ¿Qué puede hacerme el hombre?",
+         "rvv1960":""
+      },
+      "occasion":"confianza",
+      "typeId":9
+   },
+   {
+      "id":43,
+      "verse":"Proverbios 3:5-6",
+      "version":{
+         "dhh":"Confía en Jehová con todo tu corazón, y no te apoyes en tu propia prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas.",
+         "rvv1960":""
+      },
+      "occasion":"confianza",
+      "typeId":9
+   },
+   {
+      "id":44,
+      "verse":"Salmo 37:5",
+      "version":{
+         "dhh":"Encomienda a Jehová tu camino, y confía en él; y él hará.",
+         "rvv1960":""
+      },
+      "occasion":"confianza",
+      "typeId":9
+   },
+   {
+      "id":45,
+      "verse":"Isaías 41:10",
+      "version":{
+         "dhh":"No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo; siempre te ayudaré, siempre te sustentaré con la diestra de mi justicia.",
+         "rvv1960":""
+      },
+      "occasion":"confianza",
+      "typeId":9
+   },
+   {
+      "id":46,
+      "verse":"Salmo 62:8",
+      "version":{
+         "dhh":"Confía en él en todo tiempo, oh pueblo; derrama delante de él vuestro corazón; Dios es nuestro refugio.",
+         "rvv1960":""
+      },
+      "occasion":"confianza",
+      "typeId":9
+   },
+   {
+      "id":46,
+      "verse":"Juan 3:16",
+      "version":{
+         "dhh":"Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna.",
+         "rvv1960":""
+      },
+      "occasion":"amor",
+      "typeId":10
+   },
+   {
+      "id":47,
+      "verse":"1 Corintios 13:4-7",
+      "version":{
+         "dhh":"El amor es sufrido, es benigno; el amor no tiene envidia, el amor no es jactancioso, no se envanece; no hace nada indebido, no busca lo suyo, no se irrita, no guarda rencor; no se goza de la injusticia, mas se goza de la verdad. Todo lo sufre, todo lo cree, todo lo espera, todo lo soporta.",
+         "rvv1960":""
+      },
+      "occasion":"amor",
+      "typeId":10
+   },
+   {
+      "id":48,
+      "verse":"Juan 15:13",
+      "version":{
+         "dhh":"Nadie tiene mayor amor que este, que uno ponga su vida por sus amigos.",
+         "rvv1960":""
+      },
+      "occasion":"amor",
+      "typeId":10
+   },
+   {
+      "id":49,
+      "verse":"Efesios 5:2",
+      "version":{
+         "dhh":"Y andad en amor, como también Cristo nos amó, y se entregó a sí mismo por nosotros, ofrenda y sacrificio a Dios en olor fragante.",
+         "rvv1960":""
+      },
+      "occasion":"amor",
+      "typeId":10
+   },
+   {
+      "id":50,
+      "verse":"Romanos 13:10",
+      "version":{
+         "dhh":"El amor no hace mal al prójimo; así que el cumplimiento de la ley es el amor.",
+         "rvv1960":""
+      },
+      "occasion":"amor",
+      "typeId":10
+   },
+   {
+      "id":51,
+      "verse":"Santiago 1:3-4",
+      "version":{
+         "dhh":"Sabiendo que la prueba de vuestra fe produce paciencia. Mas tenga la paciencia su obra completa, para que seáis perfectos y cabales, sin que os falte cosa alguna.",
+         "rvv1960":""
+      },
+      "occasion":"paciencia",
+      "typeId":11
+   },
+   {
+      "id":52,
+      "verse":"Romanos 12:12",
+      "version":{
+         "dhh":"Gozosos en la esperanza; sufridos en la tribulación; constantes en la oración.",
+         "rvv1960":""
+      },
+      "occasion":"paciencia",
+      "typeId":11
+   },
+   {
+      "id":53,
+      "verse":"Gálatas 6:9",
+      "version":{
+         "dhh":"No nos cansemos, pues, de hacer bien; porque a su tiempo segaremos, si no desmayamos.",
+         "rvv1960":""
+      },
+      "occasion":"paciencia",
+      "typeId":11
+   },
+   {
+      "id":54,
+      "verse":"Proverbios 14:29",
+      "version":{
+         "dhh":"El que tarda en airarse es grande de entendimiento; mas el que es impaciente de espíritu enaltece la necedad.",
+         "rvv1960":""
+      },
+      "occasion":"paciencia",
+      "typeId":11
+   },
+   {
+      "id":55,
+      "verse":"1 Corintios 13:4",
+      "version":{
+         "dhh":"El amor es sufrido, es benigno; el amor no tiene envidia, el amor no es jactancioso, no se envanece.",
+         "rvv1960":""
+      },
+      "occasion":"paciencia",
+      "typeId":11
+   },
+   {
+      "id":55,
+      "verse":"Salmo 23:4",
+      "version":{
+         "dhh":"Aunque ande en valle de sombra de muerte, no temeré mal alguno, porque tú estarás conmigo; tu vara y tu cayado me infundirán aliento.",
+         "rvv1960":""
+      },
+      "occasion":"muerte",
+      "typeId":12
+   },
+   {
+      "id":56,
+      "verse":"1 Corintios 15:55",
+      "version":{
+         "dhh":"¿Dónde está, oh muerte, tu aguijón? ¿Dónde, oh sepulcro, tu victoria?",
+         "rvv1960":""
+      },
+      "occasion":"muerte",
+      "typeId":12
+   },
+   {
+      "id":57,
+      "verse":"Apocalipsis 21:4",
+      "version":{
+         "dhh":"Enjugará Dios toda lágrima de los ojos de ellos; y ya no habrá muerte, ni habrá más llanto, ni clamor, ni dolor; porque las primeras cosas pasaron.",
+         "rvv1960":""
+      },
+      "occasion":"muerte",
+      "typeId":12
+   },
+   {
+      "id":58,
+      "verse":"1 Tesalonicenses 4:13",
+      "version":{
+         "dhh":"Tampoco queremos, hermanos, que ignoréis acerca de los que duermen, para que no os entristezcáis como los otros que no tienen esperanza.",
+         "rvv1960":""
+      },
+      "occasion":"muerte",
+      "typeId":12
+   },
+   {
+      "id":59,
+      "verse":"Juan 11:25-26",
+      "version":{
+         "dhh":"Le dijo Jesús: Yo soy la resurrección y la vida; el que cree en mí, aunque esté muerto, vivirá. Y todo aquel que vive y cree en mí, no morirá eternamente. ¿Crees esto?",
+         "rvv1960":""
+      },
+      "occasion":"muerte",
+      "typeId":12
+   },
+   {
+      "id":60,
+      "verse":"Proverbios 16:9",
+      "version":{
+         "dhh":"El corazón del hombre piensa su camino; mas Jehová endereza sus pasos.",
+         "rvv1960":""
+      },
+      "occasion":"Plan de Dios",
+      "typeId":13
+   },
+   {
+      "id":61,
+      "verse":"Jeremías 29:11",
+      "version":{
+         "dhh":"Porque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová, pensamientos de paz, y no de mal, para daros el fin que esperáis.",
+         "rvv1960":""
+      },
+      "occasion":"Plan de Dios",
+      "typeId":13
+   },
+   {
+      "id":62,
+      "verse":"Romanos 8:28",
+      "version":{
+         "dhh":"Y sabemos que a los que aman a Dios, todas las cosas les ayudan a bien, esto es, a los que conforme a su propósito son llamados.",
+         "rvv1960":""
+      },
+      "occasion":"Plan de Dios",
+      "typeId":13
+   },
+   {
+      "id":63,
+      "verse":"Proverbios 19:21",
+      "version":{
+         "dhh":"Muchos son los planes en el corazón del hombre, pero el consejo de Jehová permanecerá.",
+         "rvv1960":""
+      },
+      "occasion":"Plan de Dios",
+      "typeId":13
+   },
+   {
+      "id":64,
+      "verse":"Isaías 55:8-9",
+      "version":{
+         "dhh":"Porque mis pensamientos no son vuestros pensamientos, ni vuestros caminos mis caminos, dijo Jehová. Como son más altos los cielos que la tierra, así son mis caminos más altos que vuestros caminos, y mis pensamientos más que vuestros pensamientos.",
+         "rvv1960":""
+      },
+      "occasion":"Plan de Dios",
+      "typeId":13
+   }
 ]
