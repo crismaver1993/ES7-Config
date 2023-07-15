@@ -115,6 +115,12 @@
           "versionCode": 10
         }
       ],
+"helpLesson":{
+            "title":"",
+            "id":1,
+            "msg":"",
+            "youtubeUrl":"https://youtu.be/ChR_NeaZu3k"
+         },
       "appHasAlert": false,
       "color": "#ba0052",
       "egwHasAlert": false,
