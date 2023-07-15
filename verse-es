@@ -16,7 +16,8 @@
          "dhh":"El amor es paciente y bondadoso; no tiene envidia, ni orgullo, ni arrogancia. No es grosero, ni egoísta; no se enoja fácilmente, no guarda rencor. El amor no se alegra de la injusticia, sino que se goza de la verdad. Todo lo sufre, todo lo cree, todo lo espera, todo lo soporta.",
          "rvv1960":""
       },
-      "occasion":"boda"
+      "occasion":"boda",
+      "typeId":1
    },
    {
       "id":3,

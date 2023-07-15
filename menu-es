@@ -270,6 +270,19 @@
       }
    ],
    "tools":[
+       {
+         "id":5,
+         "title":"Versiculos de ocasión",
+         "url":"",
+         "creator":"",
+         "visible":true,
+         "typeId":5,
+         "img":"https://cldup.com/RuxHYzdIrw.webp",
+         "description":"",
+         "featured":false,
+         "app_flow_id":14,
+         "is_web":false
+      },
       {
          "id":1,
          "title":"Encuentra tu iglesia",
