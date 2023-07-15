@@ -1,0 +1,672 @@
+[
+   {
+      "id":1,
+      "verse":"Genesis 2:24",
+      "version":{
+         "dhh":"",
+         "nkjv":"Therefore a man shall leave his father and mother and be joined to his wife, and they shall become one flesh."
+      },
+      "occasion":"wedding",
+      "typeId":1
+   },
+   {
+      "id":2,
+      "verse":"1 Corinthians 13:4-7",
+      "version":{
+         "dhh":"",
+         "nkjv":"Love suffers long and is kind; love does not envy; love does not parade itself, is not puffed up; does not behave rudely, does not seek its own, is not provoked, thinks no evil; does not rejoice in iniquity, but rejoices in the truth; bears all things, believes all things, hopes all things, endures all things."
+      },
+      "occasion":"wedding",
+      "typeId":1
+   },
+   {
+      "id":3,
+      "verse":"Ephesians 5:25",
+      "version":{
+         "dhh":"",
+         "nkjv":"Husbands, love your wives, just as Christ also loved the church and gave Himself for her,"
+      },
+      "occasion":"wedding",
+      "typeId":1
+   },
+   {
+      "id":4,
+      "verse":"1 John 4:19",
+      "version":{
+         "dhh":"",
+         "nkjv":"We love Him because He first loved us."
+      },
+      "occasion":"wedding",
+      "typeId":1
+   },
+   {
+      "id":5,
+      "verse":"Proverbs 18:22",
+      "version":{
+         "dhh":"",
+         "nkjv":"He who finds a wife finds a good thing, And obtains favor from the LORD."
+      },
+      "occasion":"wedding",
+      "typeId":1
+   },
+   {
+      "id":6,
+      "verse":"Ecclesiastes 4:9-12",
+      "version":{
+         "dhh":"",
+         "nkjv":"Two are better than one, Because they have a good reward for their labor. For if they fall, one will lift up his companion. But woe to him who is alone when he falls, For he has no one to help him up. Again, if two lie down together, they will keep warm; But how can one be warm alone? Though one may be overpowered by another, two can withstand him. And a threefold cord is not quickly broken."
+      },
+      "occasion":"wedding",
+      "typeId":1
+   },
+   {
+      "id":7,
+      "verse":"Matthew 19:6",
+      "version":{
+         "dhh":"",
+         "nkjv":"So then, they are no longer two but one flesh. Therefore what God has joined together, let not man separate."
+      },
+      "occasion":"wedding",
+      "typeId":1
+   },
+   {
+      "id":8,
+      "verse":"Matthew 28:19-20",
+      "version":{
+         "dhh":"Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all things that I have commanded you; and lo, I am with you always, even to the end of the age.",
+         "rvv1960":""
+      },
+      "occasion":"baptism",
+      "typeId":2
+   },
+   {
+      "id":9,
+      "verse":"Acts 2:38",
+      "version":{
+         "dhh":"Then Peter said to them, 'Repent, and let every one of you be baptized in the name of Jesus Christ for the remission of sins; and you shall receive the gift of the Holy Spirit.'",
+         "rvv1960":""
+      },
+      "occasion":"baptism",
+      "typeId":2
+   },
+   {
+      "id":10,
+      "verse":"Galatians 3:27",
+      "version":{
+         "dhh":"For as many of you as were baptized into Christ have put on Christ.",
+         "rvv1960":""
+      },
+      "occasion":"baptism",
+      "typeId":2
+   },
+   {
+      "id":11,
+      "verse":"Romans 6:4",
+      "version":{
+         "dhh":"Therefore we were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life.",
+         "rvv1960":""
+      },
+      "occasion":"baptism",
+      "typeId":2
+   },
+   {
+      "id":12,
+      "verse":"Colossians 2:12",
+      "version":{
+         "dhh":"buried with Him in baptism, in which you also were raised with Him through faith in the working of God, who raised Him from the dead.",
+         "rvv1960":""
+      },
+      "occasion":"baptism",
+      "typeId":2
+   },
+   {
+      "id":13,
+      "verse":"Psalm 90:12",
+      "version":{
+         "dhh":"So teach us to number our days, that we may gain a heart of wisdom.",
+         "rvv1960":""
+      },
+      "occasion":"birthday",
+      "typeId":3
+   },
+   {
+      "id":14,
+      "verse":"Psalm 118:24",
+      "version":{
+         "dhh":"This is the day the Lord has made; we will rejoice and be glad in it.",
+         "rvv1960":""
+      },
+      "occasion":"birthday",
+      "typeId":3
+   },
+   {
+      "id":15,
+      "verse":"Jeremiah 29:11",
+      "version":{
+         "dhh":"For I know the thoughts that I think toward you, says the Lord, thoughts of peace and not of evil, to give you a future and a hope.",
+         "rvv1960":""
+      },
+      "occasion":"birthday",
+      "typeId":3
+   },
+   {
+      "id":16,
+      "verse":"Proverbs 16:9",
+      "version":{
+         "dhh":"A man's heart plans his way, but the Lord directs his steps.",
+         "rvv1960":""
+      },
+      "occasion":"birthday",
+      "typeId":3
+   },
+   {
+      "id":17,
+      "verse":"Psalm 37:4",
+      "version":{
+         "dhh":"Delight yourself also in the Lord, and He shall give you the desires of your heart.",
+         "rvv1960":""
+      },
+      "occasion":"birthday",
+      "typeId":3
+   },
+   {
+      "id":18,
+      "verse":"Proverbs 3:5-6",
+      "version":{
+         "dhh":"Trust in the Lord with all your heart, and lean not on your own understanding; in all your ways acknowledge Him, and He shall direct your paths.",
+         "rvv1960":""
+      },
+      "occasion":"graduation",
+      "typeId":4
+   },
+   {
+      "id":19,
+      "verse":"Jeremiah 29:11",
+      "version":{
+         "dhh":"For I know the thoughts that I think toward you, says the Lord, thoughts of peace and not of evil, to give you a future and a hope.",
+         "rvv1960":""
+      },
+      "occasion":"graduation",
+      "typeId":4
+   },
+   {
+      "id":20,
+      "verse":"Philippians 1:6",
+      "version":{
+         "dhh":"Being confident of this very thing, that He who has begun a good work in you will complete it until the day of Jesus Christ.",
+         "rvv1960":""
+      },
+      "occasion":"graduation",
+      "typeId":4
+   },
+   {
+      "id":21,
+      "verse":"2 Timothy 2:15",
+      "version":{
+         "dhh":"Be diligent to present yourself approved to God, a worker who does not need to be ashamed, rightly dividing the word of truth.",
+         "rvv1960":""
+      },
+      "occasion":"graduation",
+      "typeId":4
+   },
+   {
+      "id":22,
+      "verse":"Proverbs 16:3",
+      "version":{
+         "dhh":"Commit your works to the Lord, and your thoughts will be established.",
+         "rvv1960":""
+      },
+      "occasion":"graduation",
+      "typeId":4
+   },
+   {
+      "id":23,
+      "verse":"Psalm 34:18",
+      "version":{
+         "dhh":"The Lord is near to those who have a broken heart, and saves such as have a contrite spirit.",
+         "rvv1960":""
+      },
+      "occasion":"sadness",
+      "typeId":5
+   },
+   {
+      "id":24,
+      "verse":"Matthew 5:4",
+      "version":{
+         "dhh":"Blessed are those who mourn, for they shall be comforted.",
+         "rvv1960":""
+      },
+      "occasion":"sadness",
+      "typeId":5
+   },
+   {
+      "id":25,
+      "verse":"Psalm 147:3",
+      "version":{
+         "dhh":"He heals the brokenhearted and binds up their wounds.",
+         "rvv1960":""
+      },
+      "occasion":"sadness",
+      "typeId":5
+   },
+   {
+      "id":26,
+      "verse":"John 14:1-3",
+      "version":{
+         "dhh":"Let not your heart be troubled; you believe in God, believe also in Me. In My Father's house are many mansions; if it were not so, I would have told you. I go to prepare a place for you. And if I go and prepare a place for you, I will come again and receive you to Myself; that where I am, there you may be also.",
+         "rvv1960":""
+      },
+      "occasion":"sadness",
+      "typeId":5
+   },
+   {
+      "id":27,
+      "verse":"Psalm 23:4",
+      "version":{
+         "dhh":"Yea, though I walk through the valley of the shadow of death, I will fear no evil; for You are with me; Your rod and Your staff, they comfort me.",
+         "rvv1960":""
+      },
+      "occasion":"sadness",
+      "typeId":5
+   },
+   {
+      "id":28,
+      "verse":"Psalm 118:24",
+      "version":{
+         "dhh":"This is the day the Lord has made; we will rejoice and be glad in it.",
+         "rvv1960":""
+      },
+      "occasion":"joy",
+      "typeId":6
+   },
+   {
+      "id":29,
+      "verse":"Philippians 4:4",
+      "version":{
+         "dhh":"Rejoice in the Lord always. Again I will say, rejoice!",
+         "rvv1960":""
+      },
+      "occasion":"joy",
+      "typeId":6
+   },
+   {
+      "id":30,
+      "verse":"Nehemiah 8:10",
+      "version":{
+         "dhh":"Do not sorrow, for the joy of the Lord is your strength.",
+         "rvv1960":""
+      },
+      "occasion":"joy",
+      "typeId":6
+   },
+   {
+      "id":31,
+      "verse":"Psalm 30:5",
+      "version":{
+         "dhh":"For His anger is but for a moment, His favor is for life; weeping may endure for a night, but joy comes in the morning.",
+         "rvv1960":""
+      },
+      "occasion":"joy",
+      "typeId":6
+   },
+   {
+      "id":32,
+      "verse":"James 1:2-3",
+      "version":{
+         "dhh":"My brethren, count it all joy when you fall into various trials, knowing that the testing of your faith produces patience.",
+         "rvv1960":""
+      },
+      "occasion":"joy",
+      "typeId":6
+   },
+   {
+      "id":33,
+      "verse":"Philippians 4:13",
+      "version":{
+         "dhh":"I can do all things through Christ who strengthens me.",
+         "rvv1960":""
+      },
+      "occasion":"motivation",
+      "typeId":7
+   },
+   {
+      "id":34,
+      "verse":"Isaiah 40:31",
+      "version":{
+         "dhh":"But those who wait on the Lord shall renew their strength; they shall mount up with wings like eagles, they shall run and not be weary, they shall walk and not faint.",
+         "rvv1960":""
+      },
+      "occasion":"motivation",
+      "typeId":7
+   },
+   {
+      "id":35,
+      "verse":"Joshua 1:9",
+      "version":{
+         "dhh":"Have I not commanded you? Be strong and of good courage; do not be afraid, nor be dismayed, for the Lord your God is with you wherever you go.",
+         "rvv1960":""
+      },
+      "occasion":"motivation",
+      "typeId":7
+   },
+   {
+      "id":36,
+      "verse":"Philippians 3:14",
+      "version":{
+         "dhh":"I press toward the goal for the prize of the upward call of God in Christ Jesus.",
+         "rvv1960":""
+      },
+      "occasion":"motivation",
+      "typeId":7
+   },
+   {
+      "id":37,
+      "verse":"Hebrews 12:1-2",
+      "version":{
+         "dhh":"Therefore we also, since we are surrounded by so great a cloud of witnesses, let us lay aside every weight, and the sin which so easily ensnares us, and let us run with endurance the race that is set before us, looking unto Jesus, the author and finisher of our faith, who for the joy that was set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God.",
+         "rvv1960":""
+      },
+      "occasion":"motivation",
+      "typeId":7
+   },
+   {
+      "id":37,
+      "verse":"Hebrews 11:1",
+      "version":{
+         "dhh":"Now faith is the substance of things hoped for, the evidence of things not seen.",
+         "rvv1960":""
+      },
+      "occasion":"faith",
+      "typeId":8
+   },
+   {
+      "id":38,
+      "verse":"Romans 10:17",
+      "version":{
+         "dhh":"So then faith comes by hearing, and hearing by the word of God.",
+         "rvv1960":""
+      },
+      "occasion":"faith",
+      "typeId":8
+   },
+   {
+      "id":39,
+      "verse":"Mark 9:23",
+      "version":{
+         "dhh":"Jesus said to him, 'If you can believe, all things are possible to him who believes.'",
+         "rvv1960":""
+      },
+      "occasion":"faith",
+      "typeId":8
+   },
+   {
+      "id":40,
+      "verse":"Galatians 2:20",
+      "version":{
+         "dhh":"I have been crucified with Christ; it is no longer I who live, but Christ lives in me; and the life which I now live in the flesh I live by faith in the Son of God, who loved me and gave Himself for me.",
+         "rvv1960":""
+      },
+      "occasion":"faith",
+      "typeId":8
+   },
+   {
+      "id":41,
+      "verse":"Hebrews 11:6",
+      "version":{
+         "dhh":"But without faith it is impossible to please Him, for he who comes to God must believe that He is, and that He is a rewarder of those who diligently seek Him.",
+         "rvv1960":""
+      },
+      "occasion":"faith",
+      "typeId":8
+   },
+   {
+      "id":42,
+      "verse":"Psalm 56:3-4",
+      "version":{
+         "dhh":"Whenever I am afraid, I will trust in You. In God (I will praise His word), in God I have put my trust; I will not fear. What can flesh do to me?",
+         "rvv1960":""
+      },
+      "occasion":"trust",
+      "typeId":9
+   },
+   {
+      "id":43,
+      "verse":"Proverbs 3:5-6",
+      "version":{
+         "dhh":"Trust in the Lord with all your heart, and lean not on your own understanding; in all your ways acknowledge Him, and He shall direct your paths.",
+         "rvv1960":""
+      },
+      "occasion":"trust",
+      "typeId":9
+   },
+   {
+      "id":44,
+      "verse":"Psalm 37:5",
+      "version":{
+         "dhh":"Commit your way to the Lord, trust also in Him, and He shall bring it to pass.",
+         "rvv1960":""
+      },
+      "occasion":"trust",
+      "typeId":9
+   },
+   {
+      "id":45,
+      "verse":"Isaiah 41:10",
+      "version":{
+         "dhh":"Fear not, for I am with you; be not dismayed, for I am your God. I will strengthen you, yes, I will help you, I will uphold you with My righteous right hand.",
+         "rvv1960":""
+      },
+      "occasion":"trust",
+      "typeId":9
+   },
+   {
+      "id":46,
+      "verse":"Psalm 62:8",
+      "version":{
+         "dhh":"Trust in Him at all times, you people; pour out your heart before Him; God is a refuge for us.",
+         "rvv1960":""
+      },
+      "occasion":"trust",
+      "typeId":9
+   },
+   {
+      "id":46,
+      "verse":"John 3:16",
+      "version":{
+         "dhh":"For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life.",
+         "rvv1960":""
+      },
+      "occasion":"love",
+      "typeId":10
+   },
+   {
+      "id":47,
+      "verse":"1 Corinthians 13:4-7",
+      "version":{
+         "dhh":"Love suffers long and is kind; love does not envy; love does not parade itself, is not puffed up; does not behave rudely, does not seek its own, is not provoked, thinks no evil; does not rejoice in iniquity, but rejoices in the truth; bears all things, believes all things, hopes all things, endures all things.",
+         "rvv1960":""
+      },
+      "occasion":"love",
+      "typeId":10
+   },
+   {
+      "id":48,
+      "verse":"John 15:13",
+      "version":{
+         "dhh":"Greater love has no one than this, than to lay down one's life for his friends.",
+         "rvv1960":""
+      },
+      "occasion":"love",
+      "typeId":10
+   },
+   {
+      "id":49,
+      "verse":"Ephesians 5:2",
+      "version":{
+         "dhh":"And walk in love, as Christ also has loved us and given Himself for us, an offering and a sacrifice to God for a sweet-smelling aroma.",
+         "rvv1960":""
+      },
+      "occasion":"love",
+      "typeId":10
+   },
+   {
+      "id":50,
+      "verse":"Romans 13:10",
+      "version":{
+         "dhh":"Love does no harm to a neighbor; therefore love is the fulfillment of the law.",
+         "rvv1960":""
+      },
+      "occasion":"love",
+      "typeId":10
+   },
+   {
+      "id":51,
+      "verse":"James 1:3-4",
+      "version":{
+         "dhh":"Knowing that the testing of your faith produces patience. But let patience have its perfect work, that you may be perfect and complete, lacking nothing.",
+         "rvv1960":""
+      },
+      "occasion":"patience",
+      "typeId":11
+   },
+   {
+      "id":52,
+      "verse":"Romans 12:12",
+      "version":{
+         "dhh":"Rejoicing in hope, patient in tribulation, continuing steadfastly in prayer.",
+         "rvv1960":""
+      },
+      "occasion":"patience",
+      "typeId":11
+   },
+   {
+      "id":53,
+      "verse":"Galatians 6:9",
+      "version":{
+         "dhh":"And let us not grow weary while doing good, for in due season we shall reap if we do not lose heart.",
+         "rvv1960":""
+      },
+      "occasion":"patience",
+      "typeId":11
+   },
+   {
+      "id":54,
+      "verse":"Proverbs 14:29",
+      "version":{
+         "dhh":"He who is slow to wrath has great understanding, but he who is impulsive exalts folly.",
+         "rvv1960":""
+      },
+      "occasion":"patience",
+      "typeId":11
+   },
+   {
+      "id":55,
+      "verse":"1 Corinthians 13:4",
+      "version":{
+         "dhh":"Love suffers long and is kind; love does not envy; love does not parade itself, is not puffed up.",
+         "rvv1960":""
+      },
+      "occasion":"patience",
+      "typeId":11
+   },
+   {
+      "id":55,
+      "verse":"Psalm 23:4",
+      "version":{
+         "dhh":"Yea, though I walk through the valley of the shadow of death, I will fear no evil; for You are with me; Your rod and Your staff, they comfort me.",
+         "rvv1960":""
+      },
+      "occasion":"death",
+      "typeId":12
+   },
+   {
+      "id":56,
+      "verse":"1 Corinthians 15:55",
+      "version":{
+         "dhh":"O Death, where is your sting? O Hades, where is your victory?",
+         "rvv1960":""
+      },
+      "occasion":"death",
+      "typeId":12
+   },
+   {
+      "id":57,
+      "verse":"Revelation 21:4",
+      "version":{
+         "dhh":"And God will wipe away every tear from their eyes; there shall be no more death, nor sorrow, nor crying. There shall be no more pain, for the former things have passed away.",
+         "rvv1960":""
+      },
+      "occasion":"death",
+      "typeId":12
+   },
+   {
+      "id":58,
+      "verse":"1 Thessalonians 4:13",
+      "version":{
+         "dhh":"But I do not want you to be ignorant, brethren, concerning those who have fallen asleep, lest you sorrow as others who have no hope.",
+         "rvv1960":""
+      },
+      "occasion":"death",
+      "typeId":12
+   },
+   {
+      "id":59,
+      "verse":"John 11:25-26",
+      "version":{
+         "dhh":"Jesus said to her, 'I am the resurrection and the life. He who believes in Me, though he may die, he shall live. And whoever lives and believes in Me shall never die. Do you believe this?'",
+         "rvv1960":""
+      },
+      "occasion":"death",
+      "typeId":12
+   },
+   {
+      "id":60,
+      "verse":"Proverbs 16:9",
+      "version":{
+         "dhh":"A man's heart plans his way, but the Lord directs his steps.",
+         "rvv1960":""
+      },
+      "occasion":"God's plans",
+      "typeId":13
+   },
+   {
+      "id":61,
+      "verse":"Jeremiah 29:11",
+      "version":{
+         "dhh":"For I know the thoughts that I think toward you, says the Lord, thoughts of peace and not of evil, to give you a future and a hope.",
+         "rvv1960":""
+      },
+      "occasion":"God's plans",
+      "typeId":13
+   },
+   {
+      "id":62,
+      "verse":"Romans 8:28",
+      "version":{
+         "dhh":"And we know that all things work together for good to those who love God, to those who are the called according to His purpose.",
+         "rvv1960":""
+      },
+      "occasion":"God's plans",
+      "typeId":13
+   },
+   {
+      "id":63,
+      "verse":"Proverbs 19:21",
+      "version":{
+         "dhh":"There are many plans in a man's heart, nevertheless the Lord's counsel—that will stand.",
+         "rvv1960":""
+      },
+      "occasion":"God's plans",
+      "typeId":13
+   },
+   {
+      "id":64,
+      "verse":"Isaiah 55:8-9",
+      "version":{
+         "dhh":"'For My thoughts are not your thoughts, nor are your ways My ways,' says the Lord. 'For as the heavens are higher than the earth, so are My ways higher than your ways, and My thoughts than your thoughts.'",
+         "rvv1960":""
+      },
+      "occasion":"God's plans",
+      "typeId":13
+   }
+]
