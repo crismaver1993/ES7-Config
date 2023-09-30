@@ -1,148 +1,174 @@
 {
-  "data": [
-    {
-      "adultLessons": [
-        {
-          "date": "June 24–30",
-          "id": 327,
-          "lessonNumber": "1",
-          "remoteColor": "#2a9d8f",
-          "title": "<p>Paul and the Ephesians<br></p>",
-          "versionCode": 10
-        },
-        {
-          "date": "July 1–7",
-          "id": 328,
-          "lessonNumber": "2",
-          "remoteColor": "#e9c46a",
-          "title": "<p>God’s Grand, Christ-Centered Plan<br></p>",
-          "versionCode": 10
-        },
-        {
-          "date": "July 8–14",
-          "id": 329,
-          "lessonNumber": "3",
-          "remoteColor": "#f4a261",
-          "title": "<p>The Power of the Exalted Jesus<br></p>",
-          "versionCode": 10
-        },
-        {
-          "date": "July 15-22",
-          "id": 326,
-          "lessonNumber": "4",
-          "remoteColor": "#ff006e",
-          "title": "<p>How God Rescues Us</p>",
-          "versionCode": 10
-        },
-        {
-          "date": "July 22-28",
-          "id": 331,
-          "lessonNumber": "5",
-          "remoteColor": "#2ec4b6",
-          "title": "<p>Horizontal Atonement: The Cross and the Church</p>",
-          "versionCode": 10
-        },
-        {
-          "date": "July 29-August 5",
-          "id": 321,
-          "lessonNumber": "6",
-          "remoteColor": "#7678ed",
-          "title": "<p>The Mystery of the Gospel</p>",
-          "versionCode": 10
-        },
-        {
-          "date": "August 5–11",
-          "id": 335,
-          "lessonNumber": "7",
-          "remoteColor": "#7cb518",
-          "title": "<p>The Unified Body of Christ</p>",
-          "versionCode": 10
-        },
-        {
-          "date": "August 12–18",
-          "id": 339,
-          "lessonNumber": "8",
-          "remoteColor": "#CDDC39",
-          "title": "<p>Christ-Shaped Lives and Spirit-Inspired Speech<br></p>",
-          "versionCode": 10
-        },
-        {
-          "date": "August 19-25",
-          "id": 334,
-          "lessonNumber": "9",
-          "remoteColor": "#33658a",
-          "title": "<p>Living Wisely</p>",
-          "versionCode": 10
-        },
-        {
-          "date": "August 26–September 1",
-          "id": 330,
-          "lessonNumber": "10",
-          "remoteColor": "#FF9800",
-          "title": "<p>Husbands and Wives: Together at the Cross<br></p>",
-          "versionCode": 10
-        },
-        {
-          "date": "September 2-8",
-          "id": 337,
-          "lessonNumber": "11",
-          "remoteColor": "#985277",
-          "title": "<p>Practicing Supreme Loyalty to Christ</p>",
-          "versionCode": 10
-        },
-        {
-          "date": "September 9–15",
-          "id": 332,
-          "lessonNumber": "12",
-          "remoteColor": "#9e0059",
-          "title": "<p>The Call to Stand<br></p>",
-          "versionCode": 10
-        },
-        {
-          "date": "September 16-22",
-          "id": 333,
-          "lessonNumber": "13",
-          "remoteColor": "#512da8",
-          "title": "<p>Waging Peace</p>",
-          "versionCode": 10
-        },
-        {
-          "date": "September 23-29",
-          "id": 338,
-          "lessonNumber": "14",
-          "remoteColor": "#fdd835",
-          "title": "<p>Ephesians in the Heart</p>",
-          "versionCode": 10
-        }
-      ],
-"helpLesson":{
-            "title":"",
-            "id":1,
-            "msg":"",
-            "youtubeUrl":"https://youtu.be/ChR_NeaZu3k"
+   "data":[
+      {
+         "adultLessons":[
+            {
+               "date":"September 30- October 6",
+               "id":357,
+               "lessonNumber":"1",
+               "remoteColor":"#22bd9e",
+               "title":"<p>God’s Mission to Us: Part 1<br></p>",
+               "versionCode":30
+            },
+            {
+               "date":"October 7–13",
+               "id":358,
+               "lessonNumber":"2",
+               "remoteColor":"#228ebd",
+               "title":"<p>God’s Mission to Us: Part 2</p>",
+               "versionCode":30
+            },
+            {
+               "date":"October 14–20",
+               "id":359,
+               "lessonNumber":"3",
+               "remoteColor":"#bd227a",
+               "title":"<p>God’s Call to Mission<br></p>",
+               "versionCode":30
+            },
+            {
+               "date":"October 21-27",
+               "id":354,
+               "lessonNumber":"4",
+               "remoteColor":"#A45C40",
+               "title":"<p>Sharing God’s Mission</p>",
+               "versionCode":30
+            },
+            {
+               "date":"October 28–November 3",
+               "id":350,
+               "lessonNumber":"5",
+               "remoteColor":"#6e5314",
+               "title":"<p>Excuses to Avoid Mission<br></p>",
+               "versionCode":30
+            },
+            {
+               "date":"November 4–10",
+               "id":361,
+               "lessonNumber":"6",
+               "remoteColor":"#09c3cf",
+               "title":"<p>Motivation and Preparation for Mission<br></p>",
+               "versionCode":30
+            },
+            {
+               "date":"November 11–17",
+               "id":362,
+               "lessonNumber":"7",
+               "remoteColor":"#86c900",
+               "title":"<p>Mission to My Neighbor<br></p>",
+               "versionCode":30
+            },
+            {
+               "date":"November 18–24",
+               "id":363,
+               "lessonNumber":"8",
+               "remoteColor":"#34dbe6",
+               "title":"<p>Mission to the Needy<br></p>",
+               "versionCode":30
+            },
+            {
+               "date":"November 25–December 1",
+               "id":364,
+               "lessonNumber":"9",
+               "remoteColor":"#e66d34",
+               "title":"<p>Mission to the Powerful<br></p>",
+               "versionCode":30
+            },
+            {
+               "date":"December 2-8",
+               "id":352,
+               "lessonNumber":"10",
+               "remoteColor":"#38146e",
+               "title":"<p>Mission to the Unreached: Part 1<br></p>",
+               "versionCode":30
+            },
+            {
+               "date":"December 9–15",
+               "id":365,
+               "lessonNumber":"11",
+               "remoteColor":"#105ed0",
+               "title":"<p>Mission to the Unreached: Part 2<br></p>",
+               "versionCode":30
+            },
+            {
+               "date":"December 16–22",
+               "id":367,
+               "lessonNumber":"12",
+               "remoteColor":"#d01081",
+               "title":"<p>Esther and Mordecai<br></p>",
+               "versionCode":30
+            },
+            {
+               "date":"December 23–29",
+               "id":368,
+               "lessonNumber":"13",
+               "remoteColor":"#4710d0",
+               "title":"<p>The End of God’s Mission<br></p>",
+               "versionCode":30
+            }
+         ],
+         "appHasAlert":false,
+         "color":"#670c03",
+         "egwHasAlert":false,
+         "egwLessons":[
+            
+         ],
+         "flexibleUpdate":false,
+         "forceUpdate":false,
+         "googleUpdate":false,
+         "helpVideos":"https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
+         "id":3,
+         "idEs":24,
+         "language":"en",
+         "latestVersionCode":233,
+         "latestVersionName":"2.14.3",
+         "mission":"https://cldup.com/ZXmG9EC4bj.pdf",
+         "published":true,
+         "quarter":"4T2023",
+         "quarterNumber":4,
+         "quarterText":"4 Quarter 2023",
+         "title":"God's Mission My Mission",
+         "year":2023
+      }
+   ],
+   "helpLesson":{
+      "title":"",
+      "id":1,
+      "msg":"",
+      "youtubeUrl":"https://youtu.be/ChR_NeaZu3k"
+   },
+   "menu":{
+      "devotionals":[
+         {
+            "id":290,
+            "menuId":703,
+            "language":"en",
+            "isWebLink":false,
+            "url":"",
+            "img":"https://cldup.com/tQ8ciBgINx.webp",
+            "title":"Adult Devotional",
+            "description":"",
+            "creator":"",
+            "featured":false,
+            "visible":true,
+            "year":"2023"
          },
-      "appHasAlert": false,
-      "color": "#ba0052",
-      "egwHasAlert": false,
-      "egwLessons": [],
-      "flexibleUpdate": false,
-      "forceUpdate": false,
-      "googleUpdate": false,
-      "helpVideos": "https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
-      "id": 3,
-      "idEs": 21,
-      "language": "en",
-      "latestVersionCode": 233,
-      "latestVersionName": "2.14.3",
-      "mission": "https://cldup.com/OmwAtaqmoJ.pdf",
-      "published": true,
-      "quarter": "3T2023",
-      "quarterNumber": 3,
-      "quarterText": "3 Quarter 2023",
-      "title": "Ephesians",
-      "year": 2023
-    }
-  ],
-  "message": "Consulta con éxito",
-  "success": true
+         {
+            "id":287,
+            "menuId":703,
+            "language":"en",
+            "isWebLink":false,
+            "url":"",
+            "img":"https://cldup.com/cbAg_JLMF0.webp",
+            "title":"Women Devotional",
+            "description":"",
+            "creator":"",
+            "featured":false,
+            "visible":true,
+            "year":"2023"
+         }
+      ]
+   },
+   "message":"Consulta con éxito",
+   "success":true
 }
