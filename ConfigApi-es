@@ -3,259 +3,243 @@
       {
          "adultLessons":[
             {
-               "date":"24 de junio-1 de julio",
-               "id":298,
+               "date":"30 de septiembre - 6 de octubre",
+               "id":340,
                "lessonNumber":"1",
-               "remoteColor":"#FF5700",
-               "title":"<p>PABLO Y LOS EFESIOS</p>",
-               "versionCode":10
+               "remoteColor":"#ff5b33",
+               "title":"LA MISIÓN DE DIOS EN FAVOR DE NOSOTROS: PRIMERA PARTE<br>",
+               "versionCode":30
             },
             {
-               "date":"1-7 de julio",
-               "id":317,
+               "date":"7-13 de octubre",
+               "id":346,
                "lessonNumber":"2",
-               "remoteColor":"#f90f7d",
-               "title":"<p>EL GRAN PLAN CRISTOCÉNTRICO DE DIOS<br></p>",
-               "versionCode":10
+               "remoteColor":"#3377ff",
+               "title":"<p>LA MISIÓN DE DIOS EN FAVOR DE NOSOTROS: SEGUNDA PARTE<br></p>",
+               "versionCode":30
             },
             {
-               "date":"8 Julio - 14 julio",
-               "id":319,
+               "date":"14-20 de octubre",
+               "id":349,
                "lessonNumber":"3",
-               "remoteColor":"#ffbe0b",
-               "title":"<p>EL PODER DEL JESÚS EXALTADO</p>",
-               "versionCode":10
+               "remoteColor":"#0AAD9B",
+               "title":"<p>EL LLAMADO DE DIOS A LA MISIÓN</p>",
+               "versionCode":30
             },
             {
-               "date":"15-22 de julio",
-               "id":316,
+               "date":"21-28 de octubre",
+               "id":341,
                "lessonNumber":"4",
-               "remoteColor":"#274472",
-               "title":"<p>CÓMO NOS RESCATA DIOS</p>",
-               "versionCode":10
+               "remoteColor":"#5885AF",
+               "title":"<p>COMPARTIR LA MISIÓN DE&nbsp;DIOS</p>",
+               "versionCode":30
             },
             {
-               "date":"22-29 de julio",
-               "id":299,
+               "date":"28 de octubre - 4 de noviembre",
+               "id":345,
                "lessonNumber":"5",
-               "remoteColor":"#0fa7f9",
-               "title":"<p>EXPIACIÓN HORIZONTAL: LA CRUZ Y LA IGLESIA<br></p>",
-               "versionCode":10
+               "remoteColor":"#ff9033",
+               "title":"<p>EXCUSAS PARA ELUDIR LA MISIÓN</p>",
+               "versionCode":30
             },
             {
-               "date":"29 julio-5 agosto",
-               "id":300,
+               "date":"4-11 de Noviembre",
+               "id":344,
                "lessonNumber":"6",
                "remoteColor":"#F5B44C",
-               "title":"<p>EL MISTERIO DEL EVANGELIO</p>",
-               "versionCode":10
+               "title":"<p>MOTIVACIÓN Y PREPARACIÓN PARA LA MISIÓN<br></p>",
+               "versionCode":30
             },
             {
-               "date":"5-12 de agosto",
-               "id":315,
+               "date":"11-18 de noviembre",
+               "id":343,
                "lessonNumber":"7",
-               "remoteColor":"#147BFA",
-               "title":"<p>EL CUERPO UNIFICADO DE CRISTO</p>",
-               "versionCode":10
+               "remoteColor":"#6AEBFC",
+               "title":"<p>MISIÓN EN FAVOR DEL PRÓJIMO</p>",
+               "versionCode":30
             },
             {
-               "date":"12-19 agosto",
-               "id":324,
+               "date":"18-24 de noviembre",
+               "id":348,
                "lessonNumber":"8",
-               "remoteColor":"#3BC473",
-               "title":"<p>VIDAS MOLDEADAS POR CRISTO Y PALABRAS INSPIRADAS POR EL ESPÍRITU</p>",
-               "versionCode":10
+               "remoteColor":" #3498db",
+               "title":"<p>MISIÓN EN FAVOR DE LOS NECESITADOS <br></p>",
+               "versionCode":30
             },
             {
-               "date":"19-25 de agosto",
-               "id":318,
+               "date":"25 de noviembre - 1 de diciembre",
+               "id":347,
                "lessonNumber":"9",
-               "remoteColor":"#ff0054",
-               "title":"<p style=\"text-align: left;\">ANDEN COMO SABIOS</p>",
-               "versionCode":10
+               "remoteColor":"#146e23",
+               "title":"<p>MISIÓN EN FAVOR DE LOS PODEROSOS</p>",
+               "versionCode":30
             },
             {
-               "date":"26 de agosto - 1 de septiembre",
-               "id":320,
+               "date":"2-9 de diciembre",
+               "id":342,
                "lessonNumber":"10",
-               "remoteColor":"#ff006e",
-               "title":"<p>CÓNYUGES: JUNTOS EN LA CRUZ</p>",
-               "versionCode":10
+               "remoteColor":"#0ba3c4",
+               "title":"<p>MISIÓN EN FAVOR DE LOS NO ALCANZADOS: PRIMERA PARTE</p>",
+               "versionCode":30
             },
             {
-               "date":"2-9 de septiempre",
-               "id":322,
+               "date":"9-16 Diciembre",
+               "id":366,
                "lessonNumber":"11",
-               "remoteColor":"#00aba2",
-               "title":"<p>PRACTIQUEMOS LA LEALTAD SUPREMA A CRISTO</p>",
-               "versionCode":10
+               "remoteColor":"#B8B825",
+               "title":"<p>MISIÓN EN FAVOR DE LOS NO ALCANZADOS: SEGUNDA PARTE</p>",
+               "versionCode":30
             },
             {
-               "date":"9-15 de septiembre",
-               "id":323,
+               "date":"16-22 de diciembre",
+               "id":356,
                "lessonNumber":"12",
-               "remoteColor":"#90be6d",
-               "title":"<p>EL LLAMADO A ESTAR FIRMES</p>",
-               "versionCode":10
+               "remoteColor":"#38146e",
+               "title":"<p>ESTER Y MARDOQUEO</p>",
+               "versionCode":30
             },
             {
-               "date":"16-23 septiembre",
-               "id":325,
+               "date":"23 - 29 de diciembre",
+               "id":360,
                "lessonNumber":"13",
-               "remoteColor":"#392f5a",
-               "title":"<p>“HACIENDO LA PAZ”</p>",
-               "versionCode":10
-            },
-            {
-               "date":"23-30 de septiembre",
-               "id":297,
-               "lessonNumber":"14",
-               "remoteColor":"#8ecae6",
-               "title":"<p>EFESIOS EN EL CORAZÓN</p>",
-               "versionCode":10
+               "remoteColor":"#ff5b33",
+               "title":"<p>EL FIN DE LA MISIÓN DE DIOS</p>",
+               "versionCode":30
             }
          ],
          "appHasAlert":false,
-         "color":"#0478a4",
+         "color":"#ba0052",
          "egwHasAlert":false,
          "egwLessons":[
             {
-               "date":"24-30 de junio",
-               "id":301,
+               "date":"30 de septiembre - 6 de octubre",
+               "id":369,
                "lessonNumber":"1",
-               "remoteColor":"#FF6B33",
-               "title":"<p>PABLO Y LOS EFESIOS</p>",
-               "versionCode":10
+               "remoteColor":"#478a00",
+               "title":"<p>LA MISIÓN DE DIOS EN FAVOR DE NOSOTROS: PRIMERA PARTE<br></p>",
+               "versionCode":30
             },
             {
-               "date":"1-7 de julio",
-               "id":302,
+               "date":"7-13 de octubre",
+               "id":370,
                "lessonNumber":"2",
-               "remoteColor":"#F05E27",
-               "title":"<p>EL GRAN PLAN CRISTOCÉNTRICO DE DIOS</p>",
-               "versionCode":10
+               "remoteColor":"#478a00",
+               "title":"<p>LA MISIÓN DE DIOS EN FAVOR DE NOSOTROS: SEGUNDA PARTE<br></p>",
+               "versionCode":30
             },
+{
+          "date": "14-20 de octubre",
+          "id": 378,
+          "lessonNumber": "3",
+          "remoteColor": "#478a00",
+          "title": "<p>EL LLAMADO DE DIOS A LA MISIÓN<br></p>",
+          "versionCode": 30
+        },
             {
-               "date":"8-14 de Julio",
-               "id":303,
-               "lessonNumber":"3",
-               "remoteColor":"#F94F0F",
-               "title":"<p>EL PODER DEL JESÚS EXALTADO</p>",
-               "versionCode":10
-            },
-            {
-               "date":"15-21 de julio",
-               "id":304,
+               "date":"21-28 de octubre",
+               "id":355,
                "lessonNumber":"4",
-               "remoteColor":"#F94F0F",
-               "title":"<p>CÓMO NOS RESCATA DIOS<br></p>",
-               "versionCode":10
+               "remoteColor":"#478a00",
+               "title":"<p>COMPARTIR LA MISIÓN DE DIOS</p>",
+               "versionCode":30
             },
             {
-               "date":"22-28 de julio",
-               "id":305,
+               "date":"28 de octubre - 4 de noviembre\t",
+               "id":351,
                "lessonNumber":"5",
-               "remoteColor":"#F94F0F",
-               "title":"<p>EXPIACIÓN HORIZONTAL: LA CRUZ Y LA IGLESIA<br><br></p>",
-               "versionCode":10
+               "remoteColor":"#478a00",
+               "title":"<p>EXCUSAS PARA ELUDIR LA MISIÓN<br></p>",
+               "versionCode":30
             },
             {
-               "date":"29 de julio - 4 de agosto",
-               "id":306,
+               "date":"4-11 de Noviembre",
+               "id":371,
                "lessonNumber":"6",
-               "remoteColor":"#f94f0f",
-               "title":"<p>EL MISTERIO DEL EVANGELIO<br></p>",
-               "versionCode":10
+               "remoteColor":"#478a00",
+               "title":"<p>MOTIVACIÓN Y PREPARACIÓN PARA LA MISIÓN<br></p>",
+               "versionCode":30
             },
             {
-               "date":"5-11 de agosto",
-               "id":307,
+               "date":"11-18 de noviembre",
+               "id":372,
                "lessonNumber":"7",
-               "remoteColor":"#f94f0f",
-               "title":"<p>EL CUERPO UNIFICADO DE CRISTO<br></p>",
-               "versionCode":10
+               "remoteColor":"#478a00",
+               "title":"<p>MISIÓN EN FAVOR DEL PRÓJIMO<br></p>",
+               "versionCode":30
             },
             {
-               "date":"12-18 de agosto",
-               "id":308,
+               "date":"18-24 de noviembre",
+               "id":373,
                "lessonNumber":"8",
-               "remoteColor":"#f94f0f",
-               "title":"<p>VIDAS MOLDEADAS POR CRISTO Y PALABRAS INSPIRADAS POR EL ESPÍRITU<br><br></p>",
-               "versionCode":10
+               "remoteColor":"#478a00",
+               "title":"<p>MISIÓN EN FAVOR DE LOS NECESITADOS <br></p>",
+               "versionCode":30
             },
             {
-               "date":"19-25 de agosto",
-               "id":309,
+               "date":"25 de noviembre - 1 de diciembre",
+               "id":374,
                "lessonNumber":"9",
-               "remoteColor":"#f94f0f",
-               "title":"<p>ANDEN COMO SABIOS<br></p>",
-               "versionCode":10
+               "remoteColor":"#478a00",
+               "title":"<p>MISIÓN EN FAVOR DE LOS PODEROSOS<br></p>",
+               "versionCode":30
             },
             {
-               "date":"26 de agosto - 1 de septiembre",
-               "id":310,
+               "date":"2-8 de diciembre ",
+               "id":353,
                "lessonNumber":"10",
-               "remoteColor":"#7cb518",
-               "title":"<p>CÓNYUGES: JUNTOS ANTE LA CRUZ<br></p>",
-               "versionCode":10
+               "remoteColor":"#478a00",
+               "title":"<p>MISIÓN EN FAVOR DE LOS NO ALCANZADOS: PRIMERA PARTE<br></p>",
+               "versionCode":30
             },
             {
-               "date":"2-8 de septiembre",
-               "id":311,
+               "date":"9-16 Diciembre",
+               "id":375,
                "lessonNumber":"11",
-               "remoteColor":"#f79824",
-               "title":"<p>PRACTIQUEMOS LA LEALTAD SUPREMA A CRISTO<br></p>",
-               "versionCode":10
+               "remoteColor":"#478a00",
+               "title":"<p>MISIÓN EN FAVOR DE LOS NO ALCANZADOS: SEGUNDA PARTE<br></p>",
+               "versionCode":30
             },
             {
-               "date":"9-15 de septiembre",
-               "id":312,
+               "date":"16-22 de diciembre",
+               "id":376,
                "lessonNumber":"12",
-               "remoteColor":"#985277",
-               "title":"<p>EL LLAMADO A ESTAR FIRMES<br><br></p>",
-               "versionCode":10
+               "remoteColor":"#478a00",
+               "title":"<p>ESTER Y MARDOQUEO<br></p>",
+               "versionCode":30
             },
             {
-               "date":"16-22 de septiembre",
-               "id":313,
+               "date":"23 - 29 de diciembre",
+               "id":377,
                "lessonNumber":"13",
-               "remoteColor":"#f94f0f",
-               "title":"<p>\"HACIENDO LA PAZ\"<br></p>",
-               "versionCode":10
-            },
-            {
-               "date":"23-29 de septiembre",
-               "id":314,
-               "lessonNumber":"14",
-               "remoteColor":"#f94f0f",
-               "title":"<p>EFESIOS EN EL CORAZÓN<br></p>",
-               "versionCode":10
+               "remoteColor":"#478a00",
+               "title":"<p>EL FIN DE LA MISIÓN DE DIOS<br></p>",
+               "versionCode":30
             }
          ],
-         "helpLesson":{
-            "title":"",
-            "id":1,
-            "msg":"",
-            "youtubeUrl":"https://youtu.be/ChR_NeaZu3k"
-         },
          "flexibleUpdate":false,
          "forceUpdate":false,
          "googleUpdate":false,
          "helpVideos":"https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
          "id":3,
-         "idEs":20,
+         "idEs":22,
          "language":"es",
-         "latestVersionCode":232,
-         "latestVersionName":"2.14.2",
-         "mission":"https://cldup.com/6-drU3Ixxj.pdf",
+         "latestVersionCode":233,
+         "latestVersionName":"2.14.3",
+         "mission":"https://cldup.com/ZXmG9EC4bj.pdf",
          "published":true,
-         "quarter":"3T2023",
-         "quarterNumber":3,
-         "quarterText":"3 Trimestre 2023",
-         "title":"EFESIOS",
+         "quarter":"4T2023",
+         "quarterNumber":4,
+         "quarterText":"4 Trimestre 2023",
+         "title":"LA MISIÓN DE DIOS: MI MISIÓN",
          "year":2023
       }
    ],
+   "helpLesson":{
+      "title":"",
+      "id":1,
+      "msg":"",
+      "youtubeUrl":"https://youtu.be/ChR_NeaZu3k"
+   },
    "menu":{
       "devotionals":[
          {
