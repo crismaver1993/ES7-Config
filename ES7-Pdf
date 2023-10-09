@@ -4,10 +4,10 @@
       "name":"Lección de Infantes-Alumno",
       "age":"3 a 5 Años",
       "type":"",
-      "quarter":"3T2023",
+      "quarter":"4T2023",
       "isCurrentQuarter":true,
       "quarterDate":"",
-      "pdfUrl":"https://cldup.com/Nfqy3Jqw9l.pdf",
+      "pdfUrl":"https://cldup.com/TgMubaxr6P.pdf",
       "language":"es",
       "image":"https://cldup.com/StbcDhtA1I.png",
       "author":"DIA"
@@ -17,10 +17,10 @@
       "name":"Lección Fe Real - Alumno",
       "age":"13-14 años",
       "type":"",
-      "quarter":"3T2023",
+      "quarter":"4T2023",
       "isCurrentQuarter":true,
       "quarterDate":"",
-      "pdfUrl":"https://cldup.com/ereyQdyhkq.pdf",
+      "pdfUrl":"https://cldup.com/Yvj4j6somS.pdf",
       "language":"es",
       "image":"https://cldup.com/0J-B2A7sj3.png",
       "author":"DIA"
@@ -30,10 +30,10 @@
       "name":"Lección de Primarios-Alumno",
       "age":"(6-9 años)",
       "type":"",
-      "quarter":"3T2023",
+      "quarter":"4T2023",
       "isCurrentQuarter":true,
       "quarterDate":"",
-      "pdfUrl":"https://cldup.com/rIrs45kqEM.pdf",
+      "pdfUrl":"https://cldup.com/ZA4zuGvmpQ.pdf",
       "language":"es",
       "image":"https://cldup.com/MentmQNPJ4.png",
       "author":"DIA"
@@ -43,10 +43,10 @@
       "name":"Lección de Menores",
       "age":"10-12 años",
       "type":"",
-      "quarter":"3T2023",
-      "isCurrentQuarter":true,
+      "quarter":"4T2023",
+      "isCurrentQuarter":false,
       "quarterDate":"",
-      "pdfUrl":"https://cldup.com/2je3BRkCrL.pdf",
+      "pdfUrl":"https://cldup.com/Rvbkmaji75.pdf",
       "language":"es",
       "image":"https://cldup.com/qd6JbBB19t.png",
       "author":"DIA"
@@ -56,10 +56,10 @@
       "name":"Lección de Intermediarios",
       "age":"10-12 años",
       "type":"",
-      "quarter":"3T2023",
+      "quarter":"4T2023",
       "isCurrentQuarter":true,
       "quarterDate":"",
-      "pdfUrl":"https://cldup.com/r6kCXFIf2M.pdf",
+      "pdfUrl":"https://cldup.com/Ipqv44dImA.pdf",
       "language":"es",
       "image":"https://cldup.com/qd6JbBB19t.png",
       "author":"DIA"
@@ -69,28 +69,38 @@
       "name":"Juveniles",
       "age":"13-16 años",
       "type":"",
-      "quarter":"3T2023",
+      "quarter":"4T2023",
       "isCurrentQuarter":true,
       "quarterDate":"",
-      "pdfUrl":"https://cldup.com/j6H1p5oFCU.pdf",
+      "pdfUrl":"https://cldup.com/hYM4LYu4Ki.pdf",
       "language":"es",
       "image":"https://cldup.com/yya87aaTH0.png",
       "author":"DIA"
    },
- 
-    {
+   {
       "id":7,
       "name":"Libro de Adoración",
       "age":"0-12 años",
       "type":"",
-      "quarter":"3T2023",
+      "quarter":"4T2023",
       "isCurrentQuarter":true,
       "quarterDate":"",
       "pdfUrl":"https://cldup.com/9fSWfehr1h.pdf",
       "language":"es",
       "image":"https://cldup.com/JHToIEgXFL.jpg",
       "author":"DIA"
+   },
+   {
+      "id":8,
+      "name":"Cuna",
+      "age":"0-2 años",
+      "type":"",
+      "quarter":"4T2023",
+      "isCurrentQuarter":true,
+      "quarterDate":"",
+      "pdfUrl":"https://cldup.com/IcwAzcYNlM.pdf",
+      "language":"es",
+      "image":"https://1.bp.blogspot.com/-ZK5T8ILX8CI/X2AK_sGmXCI/AAAAAAAAPuQ/RxwkHqjVW2UeF7E9qQUDyAI4tVo1bOPqwCLcBGAsYHQ/s1600/leccion-cuna-a-4to-trimestre.jpg",
+      "author":"DIA"
    }
-   
-   
 ]
