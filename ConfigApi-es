@@ -3,217 +3,217 @@
       {
          "adultLessons":[
             {
-               "date":"30 de septiembre - 6 de octubre",
-               "id":340,
+               "date":"30 de diciembre - 5 de enero",
+               "id":379,
                "lessonNumber":"1",
-               "remoteColor":"#ff5b33",
-               "title":"LA MISIÓN DE DIOS EN FAVOR DE NOSOTROS: PRIMERA PARTE<br>",
-               "versionCode":32
+               "remoteColor":"#0298A4",
+               "title":"<p><strong>CÓMO LEER SALMOS</strong></p>",
+               "versionCode":100
             },
             {
-               "date":"7-13 de octubre",
-               "id":346,
+               "date":"6-12 de enero",
+               "id":380,
                "lessonNumber":"2",
-               "remoteColor":"#3377ff",
-               "title":"<p>LA MISIÓN DE DIOS EN FAVOR DE NOSOTROS: SEGUNDA PARTE<br></p>",
-               "versionCode":30
+               "remoteColor":"#02A4A2",
+               "title":"<p><strong>ENSÉÑANOS A ORAR</strong></p>",
+               "versionCode":100
             },
             {
-               "date":"14-20 de octubre",
-               "id":349,
+               "date":"13-19 de enero",
+               "id":382,
                "lessonNumber":"3",
-               "remoteColor":"#0AAD9B",
-               "title":"<p>EL LLAMADO DE DIOS A LA MISIÓN</p>",
-               "versionCode":30
+               "remoteColor":"#9F02A4",
+               "title":"<p><strong>EL SEÑOR REINA</strong></p>",
+               "versionCode":100
             },
             {
-               "date":"21-28 de octubre",
-               "id":341,
+               "date":"20-26 de enero",
+               "id":389,
                "lessonNumber":"4",
-               "remoteColor":"#5885AF",
-               "title":"<p>COMPARTIR LA MISIÓN DE&nbsp;DIOS</p>",
-               "versionCode":30
+               "remoteColor":"#e4c5c4",
+               "title":"<p><strong>EL SEÑOR OYE Y SALVA</strong></p>",
+               "versionCode":100
             },
             {
-               "date":"28 de octubre - 4 de noviembre",
-               "id":345,
+               "date":"27 de enero - 2 de febrero",
+               "id":385,
                "lessonNumber":"5",
-               "remoteColor":"#ff9033",
-               "title":"<p>EXCUSAS PARA ELUDIR LA MISIÓN</p>",
-               "versionCode":30
+               "remoteColor":"#1D8C65",
+               "title":"<p><strong>CÓMO CANTAR LA CANCIÓN DEL SEÑOR EN TIERRA EXTRAÑA</strong><br></p>",
+               "versionCode":100
             },
             {
-               "date":"4-11 de Noviembre",
-               "id":344,
+               "date":"3-9 de febrero",
+               "id":381,
                "lessonNumber":"6",
-               "remoteColor":"#F5B44C",
-               "title":"<p>MOTIVACIÓN Y PREPARACIÓN PARA LA MISIÓN<br></p>",
-               "versionCode":30
+               "remoteColor":"#02A41B",
+               "title":"<p><strong>ME LEVANTARÉ</strong></p>",
+               "versionCode":100
             },
             {
-               "date":"11-18 de noviembre",
-               "id":343,
+               "date":"10-16 de febrero",
+               "id":414,
                "lessonNumber":"7",
-               "remoteColor":"#6AEBFC",
-               "title":"<p>MISIÓN EN FAVOR DEL PRÓJIMO</p>",
-               "versionCode":30
+               "remoteColor":"#00A376",
+               "title":"<p><strong>TU AMOR ES GRANDE HASTA LOS CIELOS</strong></p>",
+               "versionCode":100
             },
             {
-               "date":"18-24 de noviembre",
-               "id":348,
+               "date":"17-23 de febrero",
+               "id":383,
                "lessonNumber":"8",
-               "remoteColor":" #3498db",
-               "title":"<p>MISIÓN EN FAVOR DE LOS NECESITADOS <br></p>",
-               "versionCode":30
+               "remoteColor":"#E38E02",
+               "title":"<p><strong>SABIDURÍA PARA VIVIR CON RECTITUD</strong></p>",
+               "versionCode":100
             },
             {
-               "date":"25 de noviembre - 1 de diciembre",
-               "id":347,
+               "date":"24 de febrero - 1 de marzo",
+               "id":392,
                "lessonNumber":"9",
-               "remoteColor":"#146e23",
-               "title":"<p>MISIÓN EN FAVOR DE LOS PODEROSOS</p>",
-               "versionCode":30
+               "remoteColor":"#665916",
+               "title":"<p><strong>¡BENDITO EL QUE VIENE EN EL NOMBRE DEL SEÑOR!</strong></p>",
+               "versionCode":100
             },
             {
-               "date":"2-9 de diciembre",
-               "id":342,
+               "date":"2-8 de marzo",
+               "id":415,
                "lessonNumber":"10",
-               "remoteColor":"#0ba3c4",
-               "title":"<p>MISIÓN EN FAVOR DE LOS NO ALCANZADOS: PRIMERA PARTE</p>",
-               "versionCode":30
+               "remoteColor":"#34676D",
+               "title":"<p><strong>LECCIONES DEL PASADO</strong></p>",
+               "versionCode":100
             },
             {
-               "date":"9-16 Diciembre",
-               "id":366,
+               "date":"9-15 de marzo",
+               "id":384,
                "lessonNumber":"11",
-               "remoteColor":"#B8B825",
-               "title":"<p>MISIÓN EN FAVOR DE LOS NO ALCANZADOS: SEGUNDA PARTE</p>",
-               "versionCode":30
+               "remoteColor":"#02A45A",
+               "title":"<p><strong>EL ANHELO DE DIOS EN SION</strong></p>",
+               "versionCode":100
             },
             {
-               "date":"16-22 de diciembre",
-               "id":356,
+               "date":"16-22 de marzo",
+               "id":416,
                "lessonNumber":"12",
-               "remoteColor":"#38146e",
-               "title":"<p>ESTER Y MARDOQUEO</p>",
-               "versionCode":30
+               "remoteColor":"#048F00",
+               "title":"<p><strong>ADORACIÓN SIN FIN</strong></p>",
+               "versionCode":100
             },
             {
-               "date":"23 - 29 de diciembre",
-               "id":360,
+               "date":"23-29 de marzo",
+               "id":417,
                "lessonNumber":"13",
-               "remoteColor":"#ff5b33",
-               "title":"<p>EL FIN DE LA MISIÓN DE DIOS</p>",
-               "versionCode":30
+               "remoteColor":"#64008F",
+               "title":"<p>¡ESPERA EN EL SEÑOR!</p>",
+               "versionCode":100
             }
          ],
          "appHasAlert":false,
-         "color":"#ba0052",
+         "color":"#33A402",
          "egwHasAlert":false,
          "egwLessons":[
             {
-               "date":"30 de septiembre - 6 de octubre",
-               "id":369,
+               "date":"30 de diciembre - 5 de enero",
+               "id":401,
                "lessonNumber":"1",
-               "remoteColor":"#478a00",
-               "title":"<p>LA MISIÓN DE DIOS EN FAVOR DE NOSOTROS: PRIMERA PARTE<br></p>",
-               "versionCode":30
+               "remoteColor":"#1A8CFF",
+               "title":"<p>CÓMO LEER SALMOS</p>",
+               "versionCode":100
             },
             {
-               "date":"7-13 de octubre",
-               "id":370,
+               "date":"6-12 de enero",
+               "id":402,
                "lessonNumber":"2",
-               "remoteColor":"#478a00",
-               "title":"<p>LA MISIÓN DE DIOS EN FAVOR DE NOSOTROS: SEGUNDA PARTE<br></p>",
-               "versionCode":30
+               "remoteColor":"#1A8CFF",
+               "title":"<p>ENSÉÑANOS A ORAR</p>",
+               "versionCode":100
             },
-{
-          "date": "14-20 de octubre",
-          "id": 378,
-          "lessonNumber": "3",
-          "remoteColor": "#478a00",
-          "title": "<p>EL LLAMADO DE DIOS A LA MISIÓN<br></p>",
-          "versionCode": 30
-        },
             {
-               "date":"21-28 de octubre",
-               "id":355,
+               "date":"13-19 de enero",
+               "id":403,
+               "lessonNumber":"3",
+               "remoteColor":"#1A8CFF",
+               "title":"<p>EL SEÑOR REINA</p>",
+               "versionCode":100
+            },
+            {
+               "date":"20-26 de enero",
+               "id":404,
                "lessonNumber":"4",
-               "remoteColor":"#478a00",
-               "title":"<p>COMPARTIR LA MISIÓN DE DIOS</p>",
-               "versionCode":30
+               "remoteColor":"#1A8CFF",
+               "title":"<p>EL SEÑOR OYE Y SALVA</p>",
+               "versionCode":100
             },
             {
-               "date":"28 de octubre - 4 de noviembre\t",
-               "id":351,
+               "date":"27 de enero - 2 de febrero",
+               "id":405,
                "lessonNumber":"5",
-               "remoteColor":"#478a00",
-               "title":"<p>EXCUSAS PARA ELUDIR LA MISIÓN<br></p>",
-               "versionCode":30
+               "remoteColor":"#1A8CFF",
+               "title":"<p>CÓMO CANTAR LA CANCIÓN DEL SEÑOR EN TIERRA EXTRAÑA</p>",
+               "versionCode":100
             },
             {
-               "date":"4-11 de Noviembre",
-               "id":371,
+               "date":"3-9 de febrero",
+               "id":406,
                "lessonNumber":"6",
-               "remoteColor":"#478a00",
-               "title":"<p>MOTIVACIÓN Y PREPARACIÓN PARA LA MISIÓN<br></p>",
-               "versionCode":30
+               "remoteColor":"#1A8CFF",
+               "title":"<p>ME LEVANTARÉ</p>",
+               "versionCode":100
             },
             {
-               "date":"11-18 de noviembre",
-               "id":372,
+               "date":"10-16 de febrero",
+               "id":407,
                "lessonNumber":"7",
-               "remoteColor":"#478a00",
-               "title":"<p>MISIÓN EN FAVOR DEL PRÓJIMO<br></p>",
-               "versionCode":30
+               "remoteColor":"#1A8CFF",
+               "title":"<p>TU AMOR ES GRANDE HASTA LOS CIELOS</p>",
+               "versionCode":100
             },
             {
-               "date":"18-24 de noviembre",
-               "id":373,
+               "date":"17-23 de febrero",
+               "id":408,
                "lessonNumber":"8",
-               "remoteColor":"#478a00",
-               "title":"<p>MISIÓN EN FAVOR DE LOS NECESITADOS <br></p>",
-               "versionCode":30
+               "remoteColor":"#1A8CFF",
+               "title":"<p>SABIDURÍA PARA VIVIR CON RECTITUD</p>",
+               "versionCode":100
             },
             {
-               "date":"25 de noviembre - 1 de diciembre",
-               "id":374,
+               "date":"24 de febrero - 1 de marzo",
+               "id":409,
                "lessonNumber":"9",
-               "remoteColor":"#478a00",
-               "title":"<p>MISIÓN EN FAVOR DE LOS PODEROSOS<br></p>",
-               "versionCode":30
+               "remoteColor":"#1A8CFF",
+               "title":"<p>¡BENDITO EL QUE VIENE EN EL NOMBRE DEL SEÑOR!</p>",
+               "versionCode":100
             },
             {
-               "date":"2-8 de diciembre ",
-               "id":353,
+               "date":"2-8 de marzo",
+               "id":410,
                "lessonNumber":"10",
-               "remoteColor":"#478a00",
-               "title":"<p>MISIÓN EN FAVOR DE LOS NO ALCANZADOS: PRIMERA PARTE<br></p>",
-               "versionCode":30
+               "remoteColor":"#1A8CFF",
+               "title":"<p>LECCIONES DEL PASADO</p>",
+               "versionCode":100
             },
             {
-               "date":"9-16 Diciembre",
-               "id":375,
+               "date":"9-15 de marzo",
+               "id":411,
                "lessonNumber":"11",
-               "remoteColor":"#478a00",
-               "title":"<p>MISIÓN EN FAVOR DE LOS NO ALCANZADOS: SEGUNDA PARTE<br></p>",
-               "versionCode":30
+               "remoteColor":"#1A8CFF",
+               "title":"<p>EL ANHELO DE DIOS EN SION</p>",
+               "versionCode":100
             },
             {
-               "date":"16-22 de diciembre",
-               "id":376,
+               "date":"16-22 de marzo",
+               "id":412,
                "lessonNumber":"12",
-               "remoteColor":"#478a00",
-               "title":"<p>ESTER Y MARDOQUEO<br></p>",
-               "versionCode":30
+               "remoteColor":"#1A8CFF",
+               "title":"<p>ADORACIÓN SIN FIN</p>",
+               "versionCode":100
             },
             {
-               "date":"23 - 29 de diciembre",
-               "id":377,
+               "date":"23-29 de marzo",
+               "id":413,
                "lessonNumber":"13",
-               "remoteColor":"#478a00",
-               "title":"<p>EL FIN DE LA MISIÓN DE DIOS<br></p>",
-               "versionCode":30
+               "remoteColor":"#1A8CFF",
+               "title":"<p>¡ESPERA EN EL SEÑOR!</p>",
+               "versionCode":100
             }
          ],
          "flexibleUpdate":false,
@@ -221,17 +221,17 @@
          "googleUpdate":false,
          "helpVideos":"https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
          "id":3,
-         "idEs":22,
+         "idEs":25,
          "language":"es",
-         "latestVersionCode":233,
-         "latestVersionName":"2.14.3",
-         "mission":"https://cldup.com/tEsriojd6Q.pdf",
+         "latestVersionCode":240,
+         "latestVersionName":"2.15.1",
+         "mission":"https://cldup.com/ZXmG9EC4bj.pdf",
          "published":true,
-         "quarter":"4T2023",
-         "quarterNumber":4,
-         "quarterText":"4 Trimestre 2023",
-         "title":"LA MISIÓN DE DIOS: MI MISIÓN",
-         "year":2023
+         "quarter":"1T2024",
+         "quarterNumber":1,
+         "quarterText":"1 Trimestre 2024",
+         "title":"EL LIBRO DE SALMOS",
+         "year":2024
       }
    ],
    "helpLesson":{

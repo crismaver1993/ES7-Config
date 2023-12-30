@@ -3,112 +3,112 @@
       {
          "adultLessons":[
             {
-               "date":"September 30- October 6",
-               "id":357,
+               "date":"December 30—January 5",
+               "id":386,
                "lessonNumber":"1",
-               "remoteColor":"#22bd9e",
-               "title":"<p>God’s Mission to Us: Part 1<br></p>",
-               "versionCode":30
+               "remoteColor":"#051a61",
+               "title":"<p><strong>How to Read the Psalms</strong><br></p>",
+               "versionCode":100
             },
             {
-               "date":"October 7–13",
-               "id":358,
+               "date":"January 6–12",
+               "id":387,
                "lessonNumber":"2",
-               "remoteColor":"#228ebd",
-               "title":"<p>God’s Mission to Us: Part 2</p>",
-               "versionCode":30
+               "remoteColor":"#306105",
+               "title":"<p><strong>Teach us to Pray</strong></p>",
+               "versionCode":100
             },
             {
-               "date":"October 14–20",
-               "id":359,
+               "date":"January 13–19",
+               "id":395,
                "lessonNumber":"3",
-               "remoteColor":"#bd227a",
-               "title":"<p>God’s Call to Mission<br></p>",
-               "versionCode":30
+               "remoteColor":"#A41602",
+               "title":"<p><strong>The Lord Reigns</strong></p>",
+               "versionCode":100
             },
             {
-               "date":"October 21-27",
-               "id":354,
+               "date":"January 20 - 26",
+               "id":390,
                "lessonNumber":"4",
-               "remoteColor":"#A45C40",
-               "title":"<p>Sharing God’s Mission</p>",
-               "versionCode":30
+               "remoteColor":"#e4c5c4",
+               "title":"<p><strong>The Lord Hears and&nbsp;Delivers</strong></p>",
+               "versionCode":100
             },
             {
-               "date":"October 28–November 3",
-               "id":350,
+               "date":"January 27–February 2",
+               "id":393,
                "lessonNumber":"5",
-               "remoteColor":"#6e5314",
-               "title":"<p>Excuses to Avoid Mission<br></p>",
-               "versionCode":30
+               "remoteColor":"#B0D000",
+               "title":"<p><strong>Singing the Lord’s Song in a Strange Land</strong><br></p>",
+               "versionCode":100
             },
             {
-               "date":"November 4–10",
-               "id":361,
+               "date":"February 3–9",
+               "id":394,
                "lessonNumber":"6",
-               "remoteColor":"#09c3cf",
-               "title":"<p>Motivation and Preparation for Mission<br></p>",
-               "versionCode":30
+               "remoteColor":"#02A41B",
+               "title":"<p><strong>I Will Arise</strong><br></p>",
+               "versionCode":100
             },
             {
-               "date":"November 11–17",
-               "id":362,
+               "date":"February 10–16",
+               "id":397,
                "lessonNumber":"7",
-               "remoteColor":"#86c900",
-               "title":"<p>Mission to My Neighbor<br></p>",
-               "versionCode":30
+               "remoteColor":"#18A402",
+               "title":"<p><strong>Your Mercy Reaches Unto the Heavens</strong></p>",
+               "versionCode":100
             },
             {
-               "date":"November 18–24",
-               "id":363,
+               "date":"February 17-23",
+               "id":388,
                "lessonNumber":"8",
-               "remoteColor":"#34dbe6",
-               "title":"<p>Mission to the Needy<br></p>",
-               "versionCode":30
+               "remoteColor":"#935898",
+               "title":"<p><strong>Wisdom for Righteous Living</strong></p>",
+               "versionCode":100
             },
             {
-               "date":"November 25–December 1",
-               "id":364,
+               "date":"February 24–March 1",
+               "id":396,
                "lessonNumber":"9",
-               "remoteColor":"#e66d34",
-               "title":"<p>Mission to the Powerful<br></p>",
-               "versionCode":30
+               "remoteColor":"#985861",
+               "title":"<p><strong>Blessed Is He Who Comes in the Name of theLord</strong></p>",
+               "versionCode":100
             },
             {
-               "date":"December 2-8",
-               "id":352,
+               "date":"March 2-8",
+               "id":399,
                "lessonNumber":"10",
-               "remoteColor":"#38146e",
-               "title":"<p>Mission to the Unreached: Part 1<br></p>",
-               "versionCode":30
+               "remoteColor":"#B8B825",
+               "title":"<p><strong>Lessons of the Past</strong></p>",
+               "versionCode":100
             },
             {
-               "date":"December 9–15",
-               "id":365,
+               "date":"March 9–15",
+               "id":391,
                "lessonNumber":"11",
-               "remoteColor":"#105ed0",
-               "title":"<p>Mission to the Unreached: Part 2<br></p>",
-               "versionCode":30
+               "remoteColor":"#20B2AA",
+               "title":"<p><strong>Longing for God in Zion</strong></p>",
+               "versionCode":100
             },
             {
-               "date":"December 16–22",
-               "id":367,
+               "date":"March 16–22",
+               "id":398,
                "lessonNumber":"12",
-               "remoteColor":"#d01081",
-               "title":"<p>Esther and Mordecai<br></p>",
-               "versionCode":30
+               "remoteColor":"#025DA4",
+               "title":"<p><strong>Worship That Never Ends</strong></p>",
+               "versionCode":100
             },
             {
-               "date":"December 23–29",
-               "id":368,
+               "date":"March 23–29",
+               "id":400,
                "lessonNumber":"13",
-               "remoteColor":"#4710d0",
-               "title":"<p>The End of God’s Mission<br></p>",
-               "versionCode":30
+               "remoteColor":"#00A28C",
+               "title":"<p><strong>Wait on the Lord</strong></p>",
+               "versionCode":100
             }
          ],
          "appHasAlert":false,
-         "color":"#670c03",
+         "color":"#394f5a",
          "egwHasAlert":false,
          "egwLessons":[
             
@@ -118,17 +118,17 @@
          "googleUpdate":false,
          "helpVideos":"https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
          "id":3,
-         "idEs":24,
+         "idEs":26,
          "language":"en",
-         "latestVersionCode":233,
-         "latestVersionName":"2.14.3",
-         "mission":"https://cldup.com/DahqtIa2oN.pdf",
+         "latestVersionCode":240,
+         "latestVersionName":"2.15.1",
+         "mission":"https://cldup.com/ZXmG9EC4bj.pdf",
          "published":true,
-         "quarter":"4T2023",
-         "quarterNumber":4,
-         "quarterText":"4 Quarter 2023",
-         "title":"God's Mission My Mission",
-         "year":2023
+         "quarter":"1T2024",
+         "quarterNumber":1,
+         "quarterText":"1 Quarter 2024",
+         "title":"Psalms",
+         "year":2024
       }
    ],
    "helpLesson":{
