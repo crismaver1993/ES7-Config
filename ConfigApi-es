@@ -225,7 +225,7 @@
          "language":"es",
          "latestVersionCode":240,
          "latestVersionName":"2.15.1",
-         "mission":"https://cldup.com/ZXmG9EC4bj.pdf",
+         "mission":"https://cldup.com/0hE_iLFXUa.pdf",
          "published":true,
          "quarter":"1T2024",
          "quarterNumber":1,
@@ -244,7 +244,7 @@
       "devotionals":[
          {
             "id":1,
-            "meditationId":300,
+            "meditationId":435,
             "menuId":14,
             "language":"es",
             "isWebLink":false,
@@ -255,26 +255,26 @@
             "creator":"",
             "featured":false,
             "visible":true,
-            "year":"2023"
+            "year":"2024"
          },
          {
             "id":2,
-            "meditation_id":301,
+            "meditation_id":438,
             "menuId":14,
             "language":"es",
             "isWebLink":false,
             "url":"",
             "img":"https://cldup.com/5UIESuAoyd.webp",
-            "title":"Matutina Niños",
+            "title":"Matutina Menores",
             "description":"",
             "creator":"",
             "featured":false,
             "visible":true,
-            "year":"2023"
+            "year":"2024"
          },
          {
             "id":3,
-            "meditation_id":299,
+            "meditation_id":437,
             "menuId":14,
             "language":"es",
             "isWebLink":false,
@@ -285,11 +285,11 @@
             "creator":"",
             "featured":false,
             "visible":true,
-            "year":"2023"
+            "year":"2024"
          },
          {
             "id":4,
-            "meditation_id":288,
+            "meditation_id":444,
             "menuId":14,
             "language":"es",
             "isWebLink":false,
@@ -300,11 +300,11 @@
             "creator":"",
             "featured":false,
             "visible":true,
-            "year":"2023"
+            "year":"2024"
          },
          {
             "id":5,
-            "meditation_id":302,
+            "meditation_id":439,
             "menuId":14,
             "language":"es",
             "isWebLink":false,
@@ -315,7 +315,7 @@
             "creator":"",
             "featured":false,
             "visible":true,
-            "year":"2023"
+            "year":"2024"
          }
       ]
    },
