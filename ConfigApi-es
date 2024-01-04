@@ -289,7 +289,7 @@
          },
          {
             "id":4,
-            "meditation_id":288,
+            "meditation_id":444,
             "menuId":14,
             "language":"es",
             "isWebLink":false,
@@ -299,12 +299,12 @@
             "description":"",
             "creator":"",
             "featured":false,
-            "visible":false,
-            "year":"2023"
+            "visible":true,
+            "year":"2024"
          },
          {
             "id":5,
-            "meditation_id":302,
+            "meditation_id":439,
             "menuId":14,
             "language":"es",
             "isWebLink":false,
@@ -314,8 +314,8 @@
             "description":"",
             "creator":"",
             "featured":false,
-            "visible":false,
-            "year":"2023"
+            "visible":true,
+            "year":"2024"
          }
       ]
    },
