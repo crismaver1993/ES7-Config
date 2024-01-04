@@ -244,7 +244,7 @@
       "devotionals":[
          {
             "id":1,
-            "meditationId":300,
+            "meditationId":435,
             "menuId":14,
             "language":"es",
             "isWebLink":false,
@@ -255,26 +255,26 @@
             "creator":"",
             "featured":false,
             "visible":true,
-            "year":"2023"
+            "year":"2024"
          },
          {
             "id":2,
-            "meditation_id":301,
+            "meditation_id":438,
             "menuId":14,
             "language":"es",
             "isWebLink":false,
             "url":"",
             "img":"https://cldup.com/5UIESuAoyd.webp",
-            "title":"Matutina Niños",
+            "title":"Matutina Menores",
             "description":"",
             "creator":"",
             "featured":false,
             "visible":true,
-            "year":"2023"
+            "year":"2024"
          },
          {
             "id":3,
-            "meditation_id":299,
+            "meditation_id":437,
             "menuId":14,
             "language":"es",
             "isWebLink":false,
@@ -285,7 +285,7 @@
             "creator":"",
             "featured":false,
             "visible":true,
-            "year":"2023"
+            "year":"2024"
          },
          {
             "id":4,
@@ -299,7 +299,7 @@
             "description":"",
             "creator":"",
             "featured":false,
-            "visible":true,
+            "visible":false,
             "year":"2023"
          },
          {
@@ -314,7 +314,7 @@
             "description":"",
             "creator":"",
             "featured":false,
-            "visible":true,
+            "visible":false,
             "year":"2023"
          }
       ]
