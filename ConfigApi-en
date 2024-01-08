@@ -122,7 +122,7 @@
          "language":"en",
          "latestVersionCode":240,
          "latestVersionName":"2.15.1",
-         "mission":"https://cldup.com/ZXmG9EC4bj.pdf",
+         "mission":"https://cldup.com/CQCS8NCyMK.pdf",
          "published":true,
          "quarter":"1T2024",
          "quarterNumber":1,
@@ -150,7 +150,7 @@
             "description":"",
             "creator":"",
             "featured":false,
-            "visible":true,
+            "visible":false,
             "year":"2023"
          },
          {
@@ -164,7 +164,7 @@
             "description":"",
             "creator":"",
             "featured":false,
-            "visible":true,
+            "visible":false,
             "year":"2023"
          }
       ]
