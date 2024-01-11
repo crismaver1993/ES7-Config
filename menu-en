@@ -240,7 +240,7 @@
          "title":"Donations",
          "url":"",
          "creator":"",
-         "visible":true,
+         "visible":false,
          "typeId":6,
          "img":"https://cldup.com/1RT0QPGKuB.jpg",
          "description":"",
