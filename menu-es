@@ -17,7 +17,7 @@
       },
       {
          "id":2,
-         "title":"Adventech",
+         "title":"Material Extra",
          "url":"https://sabbath-school.adventech.io/es/",
          "creator":"Adventech",
          "visible":true,
@@ -28,9 +28,23 @@
          "app_flow_id":0,
          "is_web":true
       },
-      {
+   
+     {
          "id":3,
-         "title":"Podcast: Diosidencias",
+         "title":"Sabbath.School",
+         "url":"https://www.sabbath.school/es",
+         "creator":"CM",
+         "visible":true,
+         "typeId":7,
+         "img":"https://cldup.com/3nt1iGF70F.jpeg",
+         "description":"Lecciones en PDF online",
+         "featured":true,
+         "app_flow_id":9,
+         "is_web":true
+      },
+{
+         "id":4,
+         "title":"Nuestro podcast",
          "url":"https://open.spotify.com/show/02aiCgoriTOc7qytomP8fv?si=00a1d69472a245ac",
          "creator":"CM",
          "visible":true,
