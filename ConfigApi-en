@@ -3,108 +3,108 @@
       {
          "adultLessons":[
             {
-               "date":"December 30—January 5",
-               "id":386,
+               "date":"March 30 –April 5",
+               "id":431,
                "lessonNumber":"1",
-               "remoteColor":"#051a61",
-               "title":"<p><strong>How to Read the Psalms</strong><br></p>",
-               "versionCode":100
+               "remoteColor":"#FF6767",
+               "title":"<p>The War Behind All Wars</p>",
+               "versionCode":60
             },
             {
-               "date":"January 6–12",
-               "id":387,
+               "date":"April 6–12",
+               "id":439,
                "lessonNumber":"2",
-               "remoteColor":"#306105",
-               "title":"<p><strong>Teach us to Pray</strong></p>",
-               "versionCode":100
+               "remoteColor":"#FF8367",
+               "title":"<p>The Central Issue: Love or Selfishness?</p>",
+               "versionCode":60
             },
             {
-               "date":"January 13–19",
-               "id":395,
+               "date":"April 13–19",
+               "id":440,
                "lessonNumber":"3",
-               "remoteColor":"#A41602",
-               "title":"<p><strong>The Lord Reigns</strong></p>",
-               "versionCode":100
+               "remoteColor":"#FFA167",
+               "title":"<p>Light Shines in the Darkness</p>",
+               "versionCode":60
             },
             {
-               "date":"January 20 - 26",
-               "id":390,
+               "date":"April 20–26",
+               "id":441,
                "lessonNumber":"4",
-               "remoteColor":"#e4c5c4",
-               "title":"<p><strong>The Lord Hears and&nbsp;Delivers</strong></p>",
-               "versionCode":100
+               "remoteColor":"#FFB167",
+               "title":"<p>Standing for the Truth</p>",
+               "versionCode":60
             },
             {
-               "date":"January 27–February 2",
-               "id":393,
+               "date":"April 27–May 3",
+               "id":435,
                "lessonNumber":"5",
-               "remoteColor":"#B0D000",
-               "title":"<p><strong>Singing the Lord’s Song in a Strange Land</strong><br></p>",
-               "versionCode":100
+               "remoteColor":"#BAFF67",
+               "title":"<p>Faith Against All Odds</p>",
+               "versionCode":60
             },
             {
-               "date":"February 3–9",
-               "id":394,
+               "date":"May 4–10",
+               "id":436,
                "lessonNumber":"6",
-               "remoteColor":"#02A41B",
-               "title":"<p><strong>I Will Arise</strong><br></p>",
-               "versionCode":100
+               "remoteColor":"#67FF77",
+               "title":"<p>The Two Witnesses</p>",
+               "versionCode":60
             },
             {
-               "date":"February 10–16",
-               "id":397,
+               "date":"May 11–17",
+               "id":438,
                "lessonNumber":"7",
-               "remoteColor":"#18A402",
-               "title":"<p><strong>Your Mercy Reaches Unto the Heavens</strong></p>",
-               "versionCode":100
+               "remoteColor":"#67FFCA",
+               "title":"<p>Motivated by Hope</p>",
+               "versionCode":60
             },
             {
-               "date":"February 17-23",
-               "id":388,
+               "date":"May 18–24",
+               "id":437,
                "lessonNumber":"8",
-               "remoteColor":"#935898",
-               "title":"<p><strong>Wisdom for Righteous Living</strong></p>",
-               "versionCode":100
+               "remoteColor":"#67F3FF",
+               "title":"<p>Light From the Sanctuary<br></p>",
+               "versionCode":60
             },
             {
-               "date":"February 24–March 1",
-               "id":396,
+               "date":"May 25 -31",
+               "id":433,
                "lessonNumber":"9",
-               "remoteColor":"#985861",
-               "title":"<p><strong>Blessed Is He Who Comes in the Name of theLord</strong></p>",
-               "versionCode":100
+               "remoteColor":"#67C8FF",
+               "title":"<p>The Foundation of God’s Government</p>",
+               "versionCode":60
             },
             {
-               "date":"March 2-8",
-               "id":399,
+               "date":"June 1-7",
+               "id":432,
                "lessonNumber":"10",
-               "remoteColor":"#B8B825",
-               "title":"<p><strong>Lessons of the Past</strong></p>",
-               "versionCode":100
+               "remoteColor":"#67A1FF",
+               "title":"<p>Spiritualism Exposed</p><p></p>",
+               "versionCode":60
             },
             {
-               "date":"March 9–15",
-               "id":391,
+               "date":"June 8–14",
+               "id":442,
                "lessonNumber":"11",
-               "remoteColor":"#20B2AA",
-               "title":"<p><strong>Longing for God in Zion</strong></p>",
-               "versionCode":100
+               "remoteColor":"#6773FF",
+               "title":"<p>The Impending Conflict</p>",
+               "versionCode":60
             },
             {
-               "date":"March 16–22",
-               "id":398,
+               "date":"June 15–21",
+               "id":456,
                "lessonNumber":"12",
-               "remoteColor":"#025DA4",
-               "title":"<p><strong>Worship That Never Ends</strong></p>",
-               "versionCode":100
+               "remoteColor":"#9767FF",
+               "title":"<p>Earth’s Closing Events</p>",
+               "versionCode":60
             },
             {
-               "date":"March 23–29",
-               "id":400,
+               "date":"June 22–28",
+               "id":457,
                "lessonNumber":"13",
-               "remoteColor":"#00A28C",
-               "title":"<p><strong>Wait on the Lord</strong></p>",
-               "versionCode":100
+               "remoteColor":"#FF67B1",
+               "title":"<p>The Triumph of God’s Love</p>",
+               "versionCode":60
             }
          ],
          "appHasAlert":false,
@@ -118,16 +118,16 @@
          "googleUpdate":false,
          "helpVideos":"https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
          "id":3,
-         "idEs":26,
+         "idEs":28,
          "language":"en",
          "latestVersionCode":240,
          "latestVersionName":"2.15.1",
-         "mission":"https://cldup.com/CQCS8NCyMK.pdf",
+         "mission":"https://cldup.com/ZXmG9EC4bj.pdf",
          "published":true,
-         "quarter":"1T2024",
-         "quarterNumber":1,
-         "quarterText":"1 Quarter 2024",
-         "title":"Psalms",
+         "quarter":"2T2024",
+         "quarterNumber":2,
+         "quarterText":"2 Quarter 2024",
+         "title":"The Great Controversy",
          "year":2024
       }
    ],
