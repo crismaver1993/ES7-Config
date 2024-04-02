@@ -6,7 +6,7 @@
          "id":1,
          "title":"Escuela Sabática Universitaria",
          "url":"https://www.youtube.com/playlist?list=PLnEWn_yzEqTvxZB-2PxQqorbdJpka7ABr",
-         "creator":"Fusteros",
+         "creator":"UM",
          "visible":true,
          "typeId":"0",
          "img":"https://cldup.com/HKvBaUhqdq.webp",
@@ -17,6 +17,32 @@
       },
       {
          "id":2,
+         "title":"Lecciones Infantiles & Juveniles",
+         "url":"https://mirecursoadventista.com/lecciones-jovenes/",
+         "creator":"Mi recurso adventista",
+         "visible":true,
+         "typeId":"0",
+         "img":"https://cldup.com/EyhxtVnSmN.png",
+         "description":"",
+         "featured":"",
+         "app_flow_id":0,
+         "is_web":true
+      },
+      {
+         "id":3,
+         "title":"Nuestro podcast",
+         "url":"https://open.spotify.com/show/02aiCgoriTOc7qytomP8fv?si=00a1d69472a245ac",
+         "creator":"CM",
+         "visible":true,
+         "typeId":7,
+         "img":"https://cldup.com/UWX7RYNcs1.png",
+         "description":"Un lugar para compartir experiencias de vida, donde Dios estuvo al control.",
+         "featured":true,
+         "app_flow_id":9,
+         "is_web":true
+      },
+      {
+         "id":4,
          "title":"Material Extra",
          "url":"https://sabbath-school.adventech.io/es/",
          "creator":"Adventech",
@@ -28,9 +54,8 @@
          "app_flow_id":0,
          "is_web":true
       },
-   
-     {
-         "id":3,
+      {
+         "id":5,
          "title":"Sabbath.School",
          "url":"https://www.sabbath.school/es",
          "creator":"CM",
@@ -38,19 +63,6 @@
          "typeId":7,
          "img":"https://cldup.com/3nt1iGF70F.jpeg",
          "description":"Lecciones en PDF online",
-         "featured":true,
-         "app_flow_id":9,
-         "is_web":true
-      },
-{
-         "id":4,
-         "title":"Nuestro podcast",
-         "url":"https://open.spotify.com/show/02aiCgoriTOc7qytomP8fv?si=00a1d69472a245ac",
-         "creator":"CM",
-         "visible":true,
-         "typeId":7,
-         "img":"https://cldup.com/UWX7RYNcs1.png",
-         "description":"Un lugar para compartir experiencias de vida, donde Dios estuvo al control.",
          "featured":true,
          "app_flow_id":9,
          "is_web":true
@@ -284,7 +296,7 @@
       }
    ],
    "tools":[
-       {
+      {
          "id":5,
          "title":"Versiculos de ocasión",
          "url":"",
@@ -377,7 +389,7 @@
          "app_flow_id":0,
          "is_web":true
       },
-       {
+      {
          "id":3,
          "title":"Repaso diario",
          "url":"https://www.tiktok.com/@elkingh_r",
@@ -485,7 +497,6 @@
          "app_flow_id":9,
          "is_web":true
       }
-      
    ],
    "apps":[
       {
