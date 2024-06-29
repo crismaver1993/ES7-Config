@@ -3,112 +3,112 @@
       {
          "adultLessons":[
             {
-               "date":"March 30 –April 5",
-               "id":431,
+               "date":"June 29-July 5",
+               "id":484,
                "lessonNumber":"1",
-               "remoteColor":"#FF6767",
-               "title":"<p>The War Behind All Wars</p>",
-               "versionCode":60
+               "remoteColor":"#2196f3",
+               "title":"<p>The Beginning of the Gospel<br></p>",
+               "versionCode":40
             },
             {
-               "date":"April 6–12",
-               "id":439,
+               "date":"July 6-12",
+               "id":485,
                "lessonNumber":"2",
-               "remoteColor":"#FF8367",
-               "title":"<p>The Central Issue: Love or Selfishness?</p>",
-               "versionCode":60
+               "remoteColor":"#03a9f4",
+               "title":"<p>A Day in the Ministry of Jesus<br></p>",
+               "versionCode":40
             },
             {
-               "date":"April 13–19",
-               "id":440,
+               "date":"July 13-19",
+               "id":486,
                "lessonNumber":"3",
-               "remoteColor":"#FFA167",
-               "title":"<p>Light Shines in the Darkness</p>",
-               "versionCode":60
+               "remoteColor":"#00bcd4",
+               "title":"<p>Controversies<br></p>",
+               "versionCode":39
             },
             {
-               "date":"April 20–26",
-               "id":441,
+               "date":"July 20-26",
+               "id":487,
                "lessonNumber":"4",
-               "remoteColor":"#FFB167",
-               "title":"<p>Standing for the Truth</p>",
-               "versionCode":60
+               "remoteColor":"#009688",
+               "title":"<p>Parables</p>",
+               "versionCode":40
             },
             {
-               "date":"April 27–May 3",
-               "id":435,
+               "date":"July 27-August 2",
+               "id":488,
                "lessonNumber":"5",
-               "remoteColor":"#BAFF67",
-               "title":"<p>Faith Against All Odds</p>",
-               "versionCode":60
+               "remoteColor":"#4caf50",
+               "title":"<p>Miracles Around the Lake<br></p>",
+               "versionCode":40
             },
             {
-               "date":"May 4–10",
-               "id":436,
+               "date":"August 3–9",
+               "id":496,
                "lessonNumber":"6",
-               "remoteColor":"#67FF77",
-               "title":"<p>The Two Witnesses</p>",
-               "versionCode":60
+               "remoteColor":"#8bc34a",
+               "title":"<p><strong>Inside Out</strong></p>",
+               "versionCode":40
             },
             {
-               "date":"May 11–17",
-               "id":438,
+               "date":"August 10–16",
+               "id":495,
                "lessonNumber":"7",
-               "remoteColor":"#67FFCA",
-               "title":"<p>Motivated by Hope</p>",
-               "versionCode":60
+               "remoteColor":"#cddc39",
+               "title":"<p>Teaching Disciples: Part I</p>",
+               "versionCode":40
             },
             {
-               "date":"May 18–24",
-               "id":437,
+               "date":"August 17–23",
+               "id":492,
                "lessonNumber":"8",
-               "remoteColor":"#67F3FF",
-               "title":"<p>Light From the Sanctuary<br></p>",
-               "versionCode":60
+               "remoteColor":"#ffeb3b",
+               "title":"<p>Teaching Disciples: Part II<br></p>",
+               "versionCode":40
             },
             {
-               "date":"May 25 -31",
-               "id":433,
+               "date":"August 24-30",
+               "id":493,
                "lessonNumber":"9",
-               "remoteColor":"#67C8FF",
-               "title":"<p>The Foundation of God’s Government</p>",
-               "versionCode":60
+               "remoteColor":"#ffc107",
+               "title":"<p>Jerusalem Controversies</p>",
+               "versionCode":40
             },
             {
-               "date":"June 1-7",
-               "id":432,
+               "date":"August 31-September 6 ",
+               "id":491,
                "lessonNumber":"10",
-               "remoteColor":"#67A1FF",
-               "title":"<p>Spiritualism Exposed</p><p></p>",
-               "versionCode":60
+               "remoteColor":"#ff9800",
+               "title":"<p>The Last Days</p>",
+               "versionCode":40
             },
             {
-               "date":"June 8–14",
-               "id":442,
+               "date":"September 7-13",
+               "id":489,
                "lessonNumber":"11",
-               "remoteColor":"#6773FF",
-               "title":"<p>The Impending Conflict</p>",
-               "versionCode":60
+               "remoteColor":"#ff5722",
+               "title":"<p>Taken and Tried</p>",
+               "versionCode":40
             },
             {
-               "date":"June 15–21",
-               "id":456,
+               "date":"September 14-21",
+               "id":494,
                "lessonNumber":"12",
-               "remoteColor":"#9767FF",
-               "title":"<p>Earth’s Closing Events</p>",
-               "versionCode":60
+               "remoteColor":"#795548",
+               "title":"<p>Tried and Crucified</p>",
+               "versionCode":40
             },
             {
-               "date":"June 22–28",
-               "id":457,
+               "date":"September 21-27",
+               "id":490,
                "lessonNumber":"13",
-               "remoteColor":"#FF67B1",
-               "title":"<p>The Triumph of God’s Love</p>",
-               "versionCode":60
+               "remoteColor":"#9e9e9e",
+               "title":"<p>The Risen Lord</p>",
+               "versionCode":40
             }
          ],
          "appHasAlert":false,
-         "color":"#394f5a",
+         "color":"#01c181",
          "egwHasAlert":false,
          "egwLessons":[
             
@@ -118,57 +118,19 @@
          "googleUpdate":false,
          "helpVideos":"https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
          "id":3,
-         "idEs":28,
+         "idEs":31,
          "language":"en",
-         "latestVersionCode":240,
-         "latestVersionName":"2.15.1",
-         "mission":"https://am.adventistmission.org/mqa24q2.pdf",
+         "latestVersionCode":244,
+         "latestVersionName":"2.15.3",
+         "mission":"https://cldup.com/ZXmG9EC4bj.pdf",
          "published":true,
-         "quarter":"2T2024",
-         "quarterNumber":2,
-         "quarterText":"2 Quarter 2024",
-         "title":"The Great Controversy",
+         "quarter":"3T2024",
+         "quarterNumber":3,
+         "quarterText":"3 Quarter 2024",
+         "title":"The Book of Mark",
          "year":2024
       }
    ],
-   "helpLesson":{
-      "title":"",
-      "id":1,
-      "msg":"",
-      "youtubeUrl":"https://youtu.be/ChR_NeaZu3k"
-   },
-   "menu":{
-      "devotionals":[
-         {
-            "id":290,
-            "menuId":703,
-            "language":"en",
-            "isWebLink":false,
-            "url":"",
-            "img":"https://cldup.com/tQ8ciBgINx.webp",
-            "title":"Adult Devotional",
-            "description":"",
-            "creator":"",
-            "featured":false,
-            "visible":false,
-            "year":"2023"
-         },
-         {
-            "id":287,
-            "menuId":703,
-            "language":"en",
-            "isWebLink":false,
-            "url":"",
-            "img":"https://cldup.com/cbAg_JLMF0.webp",
-            "title":"Women Devotional",
-            "description":"",
-            "creator":"",
-            "featured":false,
-            "visible":false,
-            "year":"2023"
-         }
-      ]
-   },
    "message":"Consulta con éxito",
    "success":true
 }
