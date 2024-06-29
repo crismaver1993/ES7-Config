@@ -3,217 +3,217 @@
       {
          "adultLessons":[
             {
-               "date":"30 de marzo - 5 de abril",
-               "id":420,
+               "date":"29 de junio - 5 de julio",
+               "id":461,
                "lessonNumber":"1",
-               "remoteColor":"#FF6767",
-               "title":"<p>LA GUERRA DETRÁS DE TODAS LAS GUERRAS</p>",
-               "versionCode":60
+               "remoteColor":"#1A8CFF",
+               "title":"<p>EL COMIENZO DEL EVANGELIO</p>",
+               "versionCode":40
             },
             {
-               "date":"6-12 de abril",
-               "id":421,
+               "date":"6-12 de julio",
+               "id":462,
                "lessonNumber":"2",
-               "remoteColor":"#FF9A67",
-               "title":"<p>¿AMOR O EGOÍSMO? ESA ES LA CUESTIÓN</p>",
-               "versionCode":60
+               "remoteColor":"#0298A4",
+               "title":"<p>UN DÍA EN EL MINISTERIO DE JESÚS</p>",
+               "versionCode":40
             },
             {
-               "date":"13 -19 de abril",
-               "id":424,
+               "date":"13-20 de julio",
+               "id":463,
                "lessonNumber":"3",
-               "remoteColor":"#FFB367",
-               "title":"<p>LA LUZ BRILLA EN LA OSCURIDAD<br></p>",
-               "versionCode":60
+               "remoteColor":"#008F27",
+               "title":"<p>CONTROVERSIAS</p>",
+               "versionCode":40
             },
             {
-               "date":"20-26 de abril",
-               "id":425,
+               "date":"20-26 de julio",
+               "id":464,
                "lessonNumber":"4",
-               "remoteColor":"#67FF6E",
-               "title":"<p>DEFENDAMOS LA VERDAD</p>",
-               "versionCode":60
+               "remoteColor":"#02A41B",
+               "title":"<p>PARÁBOLAS</p>",
+               "versionCode":40
             },
             {
-               "date":"27 de abril - 3 de mayo",
-               "id":428,
+               "date":"27 de julio - 2 de agosto",
+               "id":460,
                "lessonNumber":"5",
-               "remoteColor":"#67FFB3",
-               "title":"<p>FE CONTRA TODO PRONÓSTICO</p>",
-               "versionCode":60
+               "remoteColor":"#0298A4",
+               "title":"<p>MILAGROS ALREDEDOR DEL LAGO</p>",
+               "versionCode":40
             },
             {
-               "date":"4-10 de mayo",
-               "id":427,
+               "date":"3-9 de agosto",
+               "id":465,
                "lessonNumber":"6",
-               "remoteColor":"#67FFE3",
-               "title":"<p>LOS DOS TESTIGOS</p>",
-               "versionCode":60
+               "remoteColor":"#E38E02",
+               "title":"<p>DE ADENTRO HACIA AFUERA</p>",
+               "versionCode":40
             },
             {
-               "date":"11-17 de mayo",
-               "id":426,
+               "date":"10 -16 de Agosto",
+               "id":473,
                "lessonNumber":"7",
-               "remoteColor":"#67D8FF",
-               "title":"<p>MOTIVADOS POR LA ESPERANZA</p>",
-               "versionCode":60
+               "remoteColor":"#C13B59",
+               "title":"<p style=\"text-align: center; \">INSTRUYENDO A LOS&nbsp;<span style=\"background-color: initial;\">DISCÍPULOS: PARTE 1</span></p>",
+               "versionCode":40
             },
             {
-               "date":"18-24 de mayo",
-               "id":418,
+               "date":"17-24 de agosto",
+               "id":458,
                "lessonNumber":"8",
-               "remoteColor":"#67AAFF",
-               "title":"<p>LUZ DESDE EL SANTUARIO<br></p>",
-               "versionCode":60
+               "remoteColor":"#008F27",
+               "title":"<p>INSTRUYENDO A LOS DISCÍPULOS: PARTE 2</p>",
+               "versionCode":40
             },
             {
-               "date":"25-31 de mayo",
-               "id":430,
+               "date":"24 -31 agosto",
+               "id":468,
                "lessonNumber":"9",
-               "remoteColor":"#676CFF",
-               "title":"<p>EL FUNDAMENTO DEL&nbsp;GOBIERNO DE DIOS</p>",
-               "versionCode":60
+               "remoteColor":"#5885AF",
+               "title":"<p>CONTROVERSIAS EN&nbsp;JERUSALÉN</p>",
+               "versionCode":40
             },
             {
-               "date":"1-7 de junio",
-               "id":422,
+               "date":"31 de agosto - 7 de septiembre",
+               "id":470,
                "lessonNumber":"10",
-               "remoteColor":"#CC67FF",
-               "title":"<p>EL ESPIRITISMO DESENMASCARADO<br></p>",
-               "versionCode":60
+               "remoteColor":"#16F2BB",
+               "title":"<p>LOS ÚLTIMOS DÍAS<br></p>",
+               "versionCode":40
             },
             {
-               "date":"8-14 de junio",
-               "id":429,
+               "date":"7-13 de septiembre",
+               "id":467,
                "lessonNumber":"11",
-               "remoteColor":"#FF67FD",
-               "title":"<p>EL CONFLICTO IMINENTE</p>",
-               "versionCode":60
+               "remoteColor":"#008F27",
+               "title":"<p>APRESADO Y JUZGADO</p>",
+               "versionCode":40
             },
             {
-               "date":"15-21 de junio",
-               "id":434,
+               "date":"14 - 21 de septiembre",
+               "id":472,
                "lessonNumber":"12",
-               "remoteColor":"#FF67B3",
-               "title":"<p>LOS ACONTECIMIENTOS FINALES DE LA TIERRA</p>",
-               "versionCode":60
+               "remoteColor":"#9b7d5c",
+               "title":"<p>JUZGADO Y CRUCIFICADO</p>",
+               "versionCode":40
             },
             {
-               "date":"22-28 de junio",
-               "id":419,
+               "date":"21-27 de septiembre",
+               "id":482,
                "lessonNumber":"13",
-               "remoteColor":"#FF6769",
-               "title":"<p>EL TRIUNFO DEL AMOR DE DIOS</p>",
-               "versionCode":60
+               "remoteColor":"#67C3FF",
+               "title":"<p>EL SEÑOR RESUCITADO<br></p>",
+               "versionCode":40
             }
          ],
          "appHasAlert":false,
-         "color":"#009bb3",
+         "color":"#816505",
          "egwHasAlert":false,
          "egwLessons":[
             {
-               "date":"30 de marzo - 5 de abril",
-               "id":443,
+               "date":"29 de junio - 5 de julio",
+               "id":474,
                "lessonNumber":"1",
-               "remoteColor":"#C13B59",
-               "title":"<p>LA GUERRA DETRÁS DE TODAS LAS GUERRAS<br></p>",
-               "versionCode":60
+               "remoteColor":"#FFB367",
+               "title":"<p>EL COMIENZO DEL EVANGELIO</p>",
+               "versionCode":40
             },
             {
-               "date":"6-12 de abril",
-               "id":444,
+               "date":"6-12 de julio",
+               "id":475,
                "lessonNumber":"2",
-               "remoteColor":"#C13B59",
-               "title":"<p>¿AMOR O EGOÍSMO? ESA ES LA CUESTIÓN<br></p>",
-               "versionCode":60
+               "remoteColor":"#FFB367",
+               "title":"<p>UN DÍA EN EL MINISTERIO DE JESÚS</p>",
+               "versionCode":40
             },
             {
-               "date":"13 -19 de abril\t",
-               "id":445,
+               "date":"13-20 de julio",
+               "id":476,
                "lessonNumber":"3",
-               "remoteColor":"#C13B59",
-               "title":"<p>LA LUZ BRILLA EN LA OSCURIDAD<br></p>",
-               "versionCode":60
+               "remoteColor":"#FFB367",
+               "title":"<p>CONTROVERSIAS</p>",
+               "versionCode":40
             },
             {
-               "date":"20-26 de abril",
-               "id":446,
+               "date":"20-26 de julio",
+               "id":477,
                "lessonNumber":"4",
-               "remoteColor":"#C13B59",
-               "title":"<p>DEFENDAMOS LA VERDAD<br></p>",
-               "versionCode":60
+               "remoteColor":"#FFB367",
+               "title":"<p>PARÁBOLAS</p>",
+               "versionCode":40
             },
             {
-               "date":"4-10 de mayo",
-               "id":447,
+               "date":"27 de julio - 2 de agosto",
+               "id":478,
                "lessonNumber":"5",
-               "remoteColor":"#C13B59",
-               "title":"<p>LOS DOS TESTIGOS<br></p>",
-               "versionCode":60
+               "remoteColor":"#FFB367",
+               "title":"<p>MILAGROS ALREDEDOR DEL LAGO</p>",
+               "versionCode":40
             },
             {
-               "date":"4-10 de mayo",
-               "id":448,
+               "date":"3-9 de agosto",
+               "id":466,
                "lessonNumber":"6",
-               "remoteColor":"#C13B59",
-               "title":"<p>LOS DOS TESTIGOS<br></p>",
-               "versionCode":60
+               "remoteColor":"#FFB367",
+               "title":"<p>DE ADENTRO HACIA AFUERA</p>",
+               "versionCode":40
             },
             {
-               "date":"11 Mayo -17 Mayo",
-               "id":449,
+               "date":"10 -16 de Agosto",
+               "id":479,
                "lessonNumber":"7",
-               "remoteColor":"#C13B59",
-               "title":"<p>MOTIVADOS POR LA ESPERANZA<br></p>",
-               "versionCode":60
+               "remoteColor":"#FFB367",
+               "title":"<p>INSTRUYENDO A LOS DISCÍPULOS: PARTE 1</p>",
+               "versionCode":40
             },
             {
-               "date":"18-24 de mayo",
-               "id":450,
+               "date":"17-24 de agosto",
+               "id":459,
                "lessonNumber":"8",
-               "remoteColor":"#C13B59",
-               "title":"<p>LUZ DESDE EL SANTUARIO</p>",
-               "versionCode":60
+               "remoteColor":"#FFB367",
+               "title":"<p>INSTRUYENDO A LOS DISCÍPULOS: PARTE 2<br></p>",
+               "versionCode":40
             },
             {
-               "date":"25-31 d emayo",
-               "id":451,
+               "date":"24 - 31 agosto",
+               "id":469,
                "lessonNumber":"9",
-               "remoteColor":"#C13B59",
-               "title":"<p>EL FUNDAMENTO DEL GOBIERNO DE DIOS<br></p>",
-               "versionCode":60
+               "remoteColor":"#FFB367",
+               "title":"<p>CONTROVERSIAS EN&nbsp;JERUSALÉN</p>",
+               "versionCode":40
             },
             {
-               "date":"1-7 de junio",
-               "id":452,
+               "date":"31 de agosto - 7 de septiembre",
+               "id":471,
                "lessonNumber":"10",
-               "remoteColor":"#C13B59",
-               "title":"<p>EL ESPIRITISMO DESENMASCARADO<br></p>",
-               "versionCode":60
+               "remoteColor":"#FFB367",
+               "title":"<p>LOS ÚLTIMOS DÍAS<br></p>",
+               "versionCode":40
             },
             {
-               "date":"8-14 de junio",
-               "id":453,
+               "date":"7-13 de septiembre",
+               "id":480,
                "lessonNumber":"11",
-               "remoteColor":"#C13B59",
-               "title":"<p>EL CONFLICTO IMINENTE</p>",
-               "versionCode":60
+               "remoteColor":"#FFB367",
+               "title":"<p>APRESADO Y JUZGADO</p>",
+               "versionCode":40
             },
             {
-               "date":"15-21 de junio",
-               "id":454,
+               "date":"14 - 21 de septiembre",
+               "id":481,
                "lessonNumber":"12",
-               "remoteColor":"#C13B59",
-               "title":"<p>LOS ACONTECIMIENTOS FINALES DE LA TIERRA</p>",
-               "versionCode":60
+               "remoteColor":"#FFB367",
+               "title":"<p>JUZGADO Y CRUCIFICADO</p>",
+               "versionCode":40
             },
             {
-               "date":"22-28 de junio",
-               "id":455,
+               "date":"21-27 de septiembre",
+               "id":483,
                "lessonNumber":"13",
-               "remoteColor":"#C13B59",
-               "title":"<p>EL TRIUNFO DEL AMOR DE DIOS<br></p>",
-               "versionCode":60
+               "remoteColor":"#FFB367",
+               "title":"<p>EL SEÑOR RESUCITADO</p>",
+               "versionCode":40
             }
          ],
          "flexibleUpdate":false,
@@ -221,16 +221,16 @@
          "googleUpdate":false,
          "helpVideos":"https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
          "id":3,
-         "idEs":27,
+         "idEs":30,
          "language":"es",
-         "latestVersionCode":240,
-         "latestVersionName":"2.15.1",
-         "mission":"https://cldup.com/4YhMvAdYdk.pdf",
+         "latestVersionCode":244,
+         "latestVersionName":"2.15.3",
+         "mission":"https://cldup.com/ZXmG9EC4bj.pdf",
          "published":true,
-         "quarter":"2T2024",
-         "quarterNumber":2,
-         "quarterText":"2 Trimestre 2024",
-         "title":"EL GRAN CONFLICTO",
+         "quarter":"3T2024",
+         "quarterNumber":3,
+         "quarterText":"3 Trimestre 2024",
+         "title":"EL LIBRO DE MARCOS",
          "year":2024
       }
    ],
