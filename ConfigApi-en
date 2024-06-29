@@ -131,6 +131,44 @@
          "year":2024
       }
    ],
+   "helpLesson":{
+      "title":"",
+      "id":1,
+      "msg":"",
+      "youtubeUrl":"https://youtu.be/ChR_NeaZu3k"
+   },
+   "menu":{
+      "devotionals":[
+         {
+            "id":290,
+            "menuId":703,
+            "language":"en",
+            "isWebLink":false,
+            "url":"",
+            "img":"https://cldup.com/tQ8ciBgINx.webp",
+            "title":"Adult Devotional",
+            "description":"",
+            "creator":"",
+            "featured":false,
+            "visible":false,
+            "year":"2023"
+         },
+         {
+            "id":287,
+            "menuId":703,
+            "language":"en",
+            "isWebLink":false,
+            "url":"",
+            "img":"https://cldup.com/cbAg_JLMF0.webp",
+            "title":"Women Devotional",
+            "description":"",
+            "creator":"",
+            "featured":false,
+            "visible":false,
+            "year":"2023"
+         }
+      ]
+   },
    "message":"Consulta con éxito",
    "success":true
 }
