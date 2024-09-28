@@ -1,240 +1,240 @@
 {
-   "data":[
-      {
-         "adultLessons":[
-            {
-               "date":"29 de junio - 5 de julio",
-               "id":461,
-               "lessonNumber":"1",
-               "remoteColor":"#1A8CFF",
-               "title":"<p>EL COMIENZO DEL EVANGELIO</p>",
-               "versionCode":40
-            },
-            {
-               "date":"6-12 de julio",
-               "id":462,
-               "lessonNumber":"2",
-               "remoteColor":"#0298A4",
-               "title":"<p>UN DÍA EN EL MINISTERIO DE JESÚS</p>",
-               "versionCode":40
-            },
-            {
-               "date":"13-20 de julio",
-               "id":463,
-               "lessonNumber":"3",
-               "remoteColor":"#008F27",
-               "title":"<p>CONTROVERSIAS</p>",
-               "versionCode":40
-            },
-            {
-               "date":"20-26 de julio",
-               "id":464,
-               "lessonNumber":"4",
-               "remoteColor":"#02A41B",
-               "title":"<p>PARÁBOLAS</p>",
-               "versionCode":40
-            },
-            {
-               "date":"27 de julio - 2 de agosto",
-               "id":460,
-               "lessonNumber":"5",
-               "remoteColor":"#0298A4",
-               "title":"<p>MILAGROS ALREDEDOR DEL LAGO</p>",
-               "versionCode":40
-            },
-            {
-               "date":"3-9 de agosto",
-               "id":465,
-               "lessonNumber":"6",
-               "remoteColor":"#E38E02",
-               "title":"<p>DE ADENTRO HACIA AFUERA</p>",
-               "versionCode":40
-            },
-            {
-               "date":"10 -16 de Agosto",
-               "id":473,
-               "lessonNumber":"7",
-               "remoteColor":"#C13B59",
-               "title":"<p style=\"text-align: center; \">INSTRUYENDO A LOS&nbsp;<span style=\"background-color: initial;\">DISCÍPULOS: PARTE 1</span></p>",
-               "versionCode":40
-            },
-            {
-               "date":"17-24 de agosto",
-               "id":458,
-               "lessonNumber":"8",
-               "remoteColor":"#008F27",
-               "title":"<p>INSTRUYENDO A LOS DISCÍPULOS: PARTE 2</p>",
-               "versionCode":40
-            },
-            {
-               "date":"24 -31 agosto",
-               "id":468,
-               "lessonNumber":"9",
-               "remoteColor":"#5885AF",
-               "title":"<p>CONTROVERSIAS EN&nbsp;JERUSALÉN</p>",
-               "versionCode":40
-            },
-            {
-               "date":"31 de agosto - 7 de septiembre",
-               "id":470,
-               "lessonNumber":"10",
-               "remoteColor":"#16F2BB",
-               "title":"<p>LOS ÚLTIMOS DÍAS<br></p>",
-               "versionCode":40
-            },
-            {
-               "date":"7-13 de septiembre",
-               "id":467,
-               "lessonNumber":"11",
-               "remoteColor":"#008F27",
-               "title":"<p>APRESADO Y JUZGADO</p>",
-               "versionCode":40
-            },
-            {
-               "date":"14 - 21 de septiembre",
-               "id":472,
-               "lessonNumber":"12",
-               "remoteColor":"#9b7d5c",
-               "title":"<p>JUZGADO Y CRUCIFICADO</p>",
-               "versionCode":40
-            },
-            {
-               "date":"21-27 de septiembre",
-               "id":482,
-               "lessonNumber":"13",
-               "remoteColor":"#67C3FF",
-               "title":"<p>EL SEÑOR RESUCITADO<br></p>",
-               "versionCode":40
-            }
-         ],
-         "appHasAlert":false,
-         "color":"#816505",
-         "egwHasAlert":false,
-         "egwLessons":[
-            {
-               "date":"29 de junio - 5 de julio",
-               "id":474,
-               "lessonNumber":"1",
-               "remoteColor":"#FFB367",
-               "title":"<p>EL COMIENZO DEL EVANGELIO</p>",
-               "versionCode":40
-            },
-            {
-               "date":"6-12 de julio",
-               "id":475,
-               "lessonNumber":"2",
-               "remoteColor":"#FFB367",
-               "title":"<p>UN DÍA EN EL MINISTERIO DE JESÚS</p>",
-               "versionCode":40
-            },
-            {
-               "date":"13-20 de julio",
-               "id":476,
-               "lessonNumber":"3",
-               "remoteColor":"#FFB367",
-               "title":"<p>CONTROVERSIAS</p>",
-               "versionCode":40
-            },
-            {
-               "date":"20-26 de julio",
-               "id":477,
-               "lessonNumber":"4",
-               "remoteColor":"#FFB367",
-               "title":"<p>PARÁBOLAS</p>",
-               "versionCode":40
-            },
-            {
-               "date":"27 de julio - 2 de agosto",
-               "id":478,
-               "lessonNumber":"5",
-               "remoteColor":"#FFB367",
-               "title":"<p>MILAGROS ALREDEDOR DEL LAGO</p>",
-               "versionCode":40
-            },
-            {
-               "date":"3-9 de agosto",
-               "id":466,
-               "lessonNumber":"6",
-               "remoteColor":"#FFB367",
-               "title":"<p>DE ADENTRO HACIA AFUERA</p>",
-               "versionCode":40
-            },
-            {
-               "date":"10 -16 de Agosto",
-               "id":479,
-               "lessonNumber":"7",
-               "remoteColor":"#FFB367",
-               "title":"<p>INSTRUYENDO A LOS DISCÍPULOS: PARTE 1</p>",
-               "versionCode":40
-            },
-            {
-               "date":"17-24 de agosto",
-               "id":459,
-               "lessonNumber":"8",
-               "remoteColor":"#FFB367",
-               "title":"<p>INSTRUYENDO A LOS DISCÍPULOS: PARTE 2<br></p>",
-               "versionCode":40
-            },
-            {
-               "date":"24 - 31 agosto",
-               "id":469,
-               "lessonNumber":"9",
-               "remoteColor":"#FFB367",
-               "title":"<p>CONTROVERSIAS EN&nbsp;JERUSALÉN</p>",
-               "versionCode":40
-            },
-            {
-               "date":"31 de agosto - 7 de septiembre",
-               "id":471,
-               "lessonNumber":"10",
-               "remoteColor":"#FFB367",
-               "title":"<p>LOS ÚLTIMOS DÍAS<br></p>",
-               "versionCode":40
-            },
-            {
-               "date":"7-13 de septiembre",
-               "id":480,
-               "lessonNumber":"11",
-               "remoteColor":"#FFB367",
-               "title":"<p>APRESADO Y JUZGADO</p>",
-               "versionCode":40
-            },
-            {
-               "date":"14 - 21 de septiembre",
-               "id":481,
-               "lessonNumber":"12",
-               "remoteColor":"#FFB367",
-               "title":"<p>JUZGADO Y CRUCIFICADO</p>",
-               "versionCode":40
-            },
-            {
-               "date":"21-27 de septiembre",
-               "id":483,
-               "lessonNumber":"13",
-               "remoteColor":"#FFB367",
-               "title":"<p>EL SEÑOR RESUCITADO</p>",
-               "versionCode":40
-            }
-         ],
-         "flexibleUpdate":false,
-         "forceUpdate":false,
-         "googleUpdate":false,
-         "helpVideos":"https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
-         "id":3,
-         "idEs":30,
-         "language":"es",
-         "latestVersionCode":244,
-         "latestVersionName":"2.15.3",
-         "mission":"https://cldup.com/xzG1qrfWPR.pdf",
-         "published":true,
-         "quarter":"3T2024",
-         "quarterNumber":3,
-         "quarterText":"3 Trimestre 2024",
-         "title":"EL LIBRO DE MARCOS",
-         "year":2024
-      }
-   ],
-   "helpLesson":{
+  "data": [
+    {
+      "adultLessons": [
+        {
+          "date": "28 de septiembre- 4 de octubre",
+          "id": 500,
+          "lessonNumber": "1",
+          "remoteColor": "#d9ed92",
+          "title": "<p>SEÑALES QUE INDICAN EL CAMINO</p>",
+          "versionCode": 7
+        },
+        {
+          "date": "5-11 de octubre",
+          "id": 504,
+          "lessonNumber": "2",
+          "remoteColor": "#b5e48c",
+          "title": "<p>SIGNOS DE DIVINIDAD<br></p>",
+          "versionCode": 7
+        },
+        {
+          "date": "12-18 de octubre",
+          "id": 505,
+          "lessonNumber": "3",
+          "remoteColor": "#99d98c",
+          "title": "<p>LA HISTORIA DE FONDO: EL PRÓLOGO<br></p>",
+          "versionCode": 7
+        },
+        {
+          "date": "19-26 de octubre",
+          "id": 503,
+          "lessonNumber": "4",
+          "remoteColor": "#76c893",
+          "title": "<p>TESTIGOS DE CRISTO COMO MESÍAS</p>",
+          "versionCode": 7
+        },
+        {
+          "date": "26 de octubre - 2 de noviembre",
+          "id": 502,
+          "lessonNumber": "5",
+          "remoteColor": "#52b69a",
+          "title": "<p>EL TESTIMONIO DE LOS SAMARITANOS<br></p>",
+          "versionCode": 7
+        },
+        {
+          "date": "2-9 de noviembre",
+          "id": 501,
+          "lessonNumber": "6",
+          "remoteColor": "#34a0a4",
+          "title": "<p>MÁS TESTIMONIOS ACERCA DE JESÚS</p>",
+          "versionCode": 7
+        },
+        {
+          "date": "9-15 de noviembre",
+          "id": 508,
+          "lessonNumber": "7",
+          "remoteColor": "#168aad",
+          "title": "<p>BIENAVENTURADOS LOS QUE CREEN</p>",
+          "versionCode": 7
+        },
+        {
+          "date": " 16-23 de noviembre",
+          "id": 497,
+          "lessonNumber": "8",
+          "remoteColor": "#1a759f",
+          "title": "<p>EL CUMPLIMIENTO DE LAS PROFECÍAS DEL ANTIGUO TESTAMENTO<br></p>",
+          "versionCode": 7
+        },
+        {
+          "date": "23-29 de noviembre",
+          "id": 498,
+          "lessonNumber": "9",
+          "remoteColor": "#1e6091",
+          "title": "<p>LA FUENTE DE LA VIDA</p>",
+          "versionCode": 7
+        },
+        {
+          "date": "30 de noviembre - 7 de diciembre",
+          "id": 499,
+          "lessonNumber": "10",
+          "remoteColor": "#184e77",
+          "title": "<p>EL CAMINO, LA VERDAD Y LA VIDA</p>",
+          "versionCode": 7
+        },
+        {
+          "date": "7-13 de diciembre",
+          "id": 506,
+          "lessonNumber": "11",
+          "remoteColor": "#00b4d8",
+          "title": "<p>EL PADRE, EL HIJO Y EL ESPÍRITU<br></p>",
+          "versionCode": 7
+        },
+        {
+          "date": "14-20 de diciembre",
+          "id": 507,
+          "lessonNumber": "12",
+          "remoteColor": "#90e0ef",
+          "title": "<p>LA HORA DE LA GLORIA: LA CRUZ Y LA RESURRECCIÓN<br></p>",
+          "versionCode": 7
+        },
+        {
+          "date": "21-27 de diciembre",
+          "id": 509,
+          "lessonNumber": "13",
+          "remoteColor": "#caf0f8",
+          "title": "<p>EPÍLOGO: CONOCER A JESÚS Y SU PALABRA<br></p>",
+          "versionCode": 7
+        }
+      ],
+      "appHasAlert": false,
+      "color": "#afe035",
+      "egwHasAlert": false,
+      "egwLessons": [
+        {
+          "date": "28 septiembre - 4 de octubre",
+          "id": 517,
+          "lessonNumber": "1",
+          "remoteColor": "#91b7c7",
+          "title": "<p>SEÑALES QUE INDICAN EL CAMINO</p>",
+          "versionCode": 7
+        },
+        {
+          "date": "5-11 de octubre",
+          "id": 518,
+          "lessonNumber": "2",
+          "remoteColor": "#91b7c7",
+          "title": "<p>SIGNOS DE DIVINIDAD</p>",
+          "versionCode": 7
+        },
+        {
+          "date": "12-18 de octubre",
+          "id": 519,
+          "lessonNumber": "3",
+          "remoteColor": "#91b7c7",
+          "title": "<p>LA HISTORIA DE FONDO: EL PRÓLOGO</p>",
+          "versionCode": 7
+        },
+        {
+          "date": "19-25 de octubre",
+          "id": 520,
+          "lessonNumber": "4",
+          "remoteColor": "#91b7c7",
+          "title": "<p>TESTIGOS DE CRISTO COMO MESÍAS</p>",
+          "versionCode": 7
+        },
+        {
+          "date": "26 de octubre - 1 de noviembre",
+          "id": 521,
+          "lessonNumber": "5",
+          "remoteColor": "#91b7c7",
+          "title": "<p>EL TESTIMONIO DE LOS SAMARITANOS</p>",
+          "versionCode": 7
+        },
+        {
+          "date": "2-8 de noviembre",
+          "id": 522,
+          "lessonNumber": "6",
+          "remoteColor": "#91b7c7",
+          "title": "<p>MÁS TESTIMONIOS ACERCA DE JESÚS</p>",
+          "versionCode": 7
+        },
+        {
+          "date": "9- 15 de noviembre",
+          "id": 523,
+          "lessonNumber": "7",
+          "remoteColor": "#91b7c7",
+          "title": "<p>BIENAVENTURADOS LOS QUE CREEN</p>",
+          "versionCode": 7
+        },
+        {
+          "date": "16-22 de noviembre",
+          "id": 524,
+          "lessonNumber": "8",
+          "remoteColor": "#91b7c7",
+          "title": "<p>EL CUMPLIMIENTO DE LAS PROFECÍAS DEL ANTIGUO TESTAMENTO</p>",
+          "versionCode": 7
+        },
+        {
+          "date": "23-29 de noviembre",
+          "id": 525,
+          "lessonNumber": "9",
+          "remoteColor": "#91b7c7",
+          "title": "<p>LA FUENTE DE LA VIDA</p>",
+          "versionCode": 7
+        },
+        {
+          "date": "30 de noviembre - 6 de diciembre",
+          "id": 526,
+          "lessonNumber": "10",
+          "remoteColor": "#91b7c7",
+          "title": "<p>EL CAMINO, LA VERDAD Y LA VIDA</p>",
+          "versionCode": 7
+        },
+        {
+          "date": "7-13 de diciembre",
+          "id": 527,
+          "lessonNumber": "11",
+          "remoteColor": "#91b7c7",
+          "title": "<p>EL PADRE, EL HIJO Y EL ESPÍRITU</p>",
+          "versionCode": 7
+        },
+        {
+          "date": "14-20 de diciembre",
+          "id": 528,
+          "lessonNumber": "12",
+          "remoteColor": "#91b7c7",
+          "title": "<p>LA HORA DE LA GLORIA: LA CRUZ Y LA RESURRECCIÓN</p>",
+          "versionCode": 7
+        },
+        {
+          "date": "21- 27 de diciembre",
+          "id": 529,
+          "lessonNumber": "13",
+          "remoteColor": "#91b7c7",
+          "title": "<p>EPÍLOGO: CONOCER A JESÚS Y SU PALABRA</p>",
+          "versionCode": 7
+        }
+      ],
+      "flexibleUpdate": false,
+      "forceUpdate": false,
+      "googleUpdate": false,
+      "helpVideos": "https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
+      "id": 3,
+      "idEs": 33,
+      "language": "es",
+      "latestVersionCode": 244,
+      "latestVersionName": "2.15.3",
+      "mission": "https://cldup.com/ZXmG9EC4bj.pdf",
+      "published": true,
+      "quarter": "4T2024",
+      "quarterNumber": 4,
+      "quarterText": "4 Trimestre 2024",
+      "title": "TEMAS EN EL EVANGELIO DE JUAN",
+      "year": 2024
+    }
+  ],
+"helpLesson":{
       "title":"",
       "id":1,
       "msg":"",
@@ -319,6 +319,6 @@
          }
       ]
    },
-   "message":"Consulta con éxito",
-   "success":true
+  "message": "Consulta con éxito",
+  "success": true
 }
