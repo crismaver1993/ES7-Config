@@ -113,7 +113,7 @@
          "egwLessons":[
             {
                "date":"28 de diciembre - 3 de enero",
-               "id":536,
+               "id":601,
                "lessonNumber":"1",
                "remoteColor":"#A46537",
                "title":"En edición",
@@ -121,7 +121,7 @@
             },
             {
                "date":"4-10 de enero",
-               "id":537,
+               "id":602,
                "lessonNumber":"2",
                "remoteColor":"#A46537",
                "title":"En edición",
@@ -129,7 +129,7 @@
             },
             {
                "date":"11-17 de enero",
-               "id":543,
+               "id":603,
                "lessonNumber":"3",
                "remoteColor":"#A46537",
                "title":"En edición",
@@ -137,7 +137,7 @@
             },
             {
                "date":"18-24 de enero",
-               "id":545,
+               "id":604,
                "lessonNumber":"4",
                "remoteColor":"#A46537",
                "title":"En edición",
@@ -145,7 +145,7 @@
             },
             {
                "date":"25-31 de enero",
-               "id":546,
+               "id":605,
                "lessonNumber":"5",
                "remoteColor":"#A46537",
                "title":"En edición",
@@ -153,7 +153,7 @@
             },
             {
                "date":"1-7 de febrero",
-               "id":539,
+               "id":606,
                "lessonNumber":"6",
                "remoteColor":"#A46537",
                "title":"En edición",
@@ -161,7 +161,7 @@
             },
             {
                "date":"8-14 de febrero",
-               "id":541,
+               "id":607,
                "lessonNumber":"7",
                "remoteColor":"#A46537",
                "title":"En edición",
@@ -169,7 +169,7 @@
             },
             {
                "date":"15-21 de febrero",
-               "id":540,
+               "id":608,
                "lessonNumber":"8",
                "remoteColor":"#A46537",
                "title":"En edición",
@@ -177,7 +177,7 @@
             },
             {
                "date":"22-28 de febrero",
-               "id":542,
+               "id":609,
                "lessonNumber":"9",
                "remoteColor":"#A46537",
                "title":"En edición",
@@ -185,7 +185,7 @@
             },
             {
                "date":"1-7 de marzo",
-               "id":547,
+               "id":610,
                "lessonNumber":"10",
                "remoteColor":"#A46537",
                "title":"En edición",
@@ -193,7 +193,7 @@
             },
             {
                "date":"8-14 de marzo",
-               "id":562,
+               "id":611,
                "lessonNumber":"11",
                "remoteColor":"#A46537",
                "title":"En edición",
@@ -201,7 +201,7 @@
             },
             {
                "date":"15- 21 marzo 2025",
-               "id":548,
+               "id":612,
                "lessonNumber":"12",
                "remoteColor":"#A46537",
                "title":"En edición",
@@ -209,7 +209,7 @@
             },
             {
                "date":"22-28 de marzo",
-               "id":544,
+               "id":613,
                "lessonNumber":"13",
                "remoteColor":"#A46537",
                "title":"En edición",
