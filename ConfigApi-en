@@ -3,112 +3,112 @@
       {
          "adultLessons":[
             {
-               "date":"December 28–January 3",
-               "id":549,
+               "date":"March 29–April 4",
+               "id":590,
                "lessonNumber":"1",
-               "remoteColor":"#548A2E",
-               "title":"<p>God Loves Freely<br></p>",
-               "versionCode":80
+               "remoteColor":"#ff4444",
+               "title":"<p>Some Principles of Prophecy</p>",
+               "versionCode":10
             },
             {
-               "date":"January 4–10",
-               "id":550,
+               "date":"April 5–11",
+               "id":591,
                "lessonNumber":"2",
-               "remoteColor":"#9BD581",
-               "title":"<p>Covenantal Love<br></p>",
-               "versionCode":80
+               "remoteColor":"#ff5d44",
+               "title":"<p>The Genesis Foundation</p>",
+               "versionCode":10
             },
             {
-               "date":"January 11–17",
-               "id":551,
+               "date":"April 12–18",
+               "id":592,
                "lessonNumber":"3",
-               "remoteColor":"#7DD4B7",
-               "title":"<p>To Be Pleasing to God<br></p>",
-               "versionCode":80
+               "remoteColor":"#ff8b44",
+               "title":"<p>Images From Marriage</p>",
+               "versionCode":10
             },
             {
-               "date":"January 18–24",
-               "id":552,
+               "date":"April 19–25",
+               "id":593,
                "lessonNumber":"4",
-               "remoteColor":"#7DB4D4",
-               "title":"<p>God Is Passionate and Compassionate<br></p>",
-               "versionCode":80
+               "remoteColor":"#ffc344",
+               "title":"<p>The Nations: Part 1</p>",
+               "versionCode":10
             },
             {
-               "date":"January 25–31",
-               "id":554,
+               "date":"April 26–May 2",
+               "id":594,
                "lessonNumber":"5",
-               "remoteColor":"#71D079",
-               "title":"<p>The Wrath of Divine Love</p>",
-               "versionCode":80
+               "remoteColor":"#ffff44",
+               "title":"<p>The Nations: Part 2</p>",
+               "versionCode":10
             },
             {
-               "date":"February 1–7",
-               "id":555,
+               "date":"May 3–9",
+               "id":595,
                "lessonNumber":"6",
-               "remoteColor":"#B0D47D",
-               "title":"<p>God’s Love of Justice</p>",
-               "versionCode":80
+               "remoteColor":"#daff44",
+               "title":"<p>Understanding Sacrifice</p>",
+               "versionCode":10
             },
             {
-               "date":"February 8–14",
-               "id":558,
+               "date":"May 10–16",
+               "id":597,
                "lessonNumber":"7",
-               "remoteColor":"#D1DE9C",
-               "title":"<p>The Problem of Evil<br></p>",
-               "versionCode":80
+               "remoteColor":"#a2ff44",
+               "title":"<p>Foundations for Prophecy\n</p>",
+               "versionCode":10
             },
             {
-               "date":"February 15–21",
-               "id":561,
+               "date":"May 17–23",
+               "id":598,
                "lessonNumber":"8",
-               "remoteColor":"#DADD98",
-               "title":"<p>Free Will, Love, and Divine Providence<br></p>",
-               "versionCode":80
+               "remoteColor":"#44ff47",
+               "title":"<p>In the Psalms: Part 1</p>",
+               "versionCode":10
             },
             {
-               "date":"February 22-28 ",
-               "id":553,
+               "date":"May 24–30",
+               "id":599,
                "lessonNumber":"9",
-               "remoteColor":"#D6EBC2",
-               "title":"<p><strong>The Cosmic Conflict</strong></p>",
-               "versionCode":80
+               "remoteColor":"#44ff88",
+               "title":"<p>In the Psalms: Part 2</p>",
+               "versionCode":10
             },
             {
-               "date":"March 1–7",
-               "id":557,
+               "date":"May 31–June 6",
+               "id":596,
                "lessonNumber":"10",
-               "remoteColor":"#FEFEFB",
-               "title":"<p>Rules of Engagement</p>",
-               "versionCode":80
+               "remoteColor":"#028090",
+               "title":"<p>Upon Whom the Ends Have Come</p>",
+               "versionCode":10
             },
             {
-               "date":"March 8 -14",
-               "id":556,
+               "date":"June 7 - 13",
+               "id":587,
                "lessonNumber":"11",
-               "remoteColor":"#EEF7E8",
-               "title":"<p>What More Could I Have Done?</p>",
-               "versionCode":80
+               "remoteColor":"#44ffb3",
+               "title":"<p>Ruth and Esther</p>",
+               "versionCode":10
             },
             {
-               "date":"March 15-21",
-               "id":559,
+               "date":"June 14–20",
+               "id":601,
                "lessonNumber":"12",
-               "remoteColor":"#F5E0E7",
-               "title":"<p>Love and Justice: The Two Greatest Commandments<br></p>",
-               "versionCode":80
+               "remoteColor":"#44f1ff",
+               "title":"<p>Precursors</p>",
+               "versionCode":10
             },
             {
-               "date":"March 22–28",
-               "id":560,
+               "date":"June 21–27",
+               "id":600,
                "lessonNumber":"13",
-               "remoteColor":"#FAC7FF",
-               "title":"<p>Love Is the Fulfillment of the Law<br></p>",
-               "versionCode":80
+               "remoteColor":"#44a7ff",
+               "title":"<p>Images of the End</p>",
+               "versionCode":10
             }
          ],
          "appHasAlert":false,
-         "color":"#51d6d8",
+         "color":"#a351bf",
          "egwHasAlert":false,
          "egwLessons":[
             
@@ -118,20 +118,20 @@
          "googleUpdate":false,
          "helpVideos":"https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
          "id":3,
-         "idEs":35,
+         "idEs":37,
          "language":"en",
          "latestVersionCode":244,
          "latestVersionName":"2.15.3",
-         "mission":"https://cldup.com/AhHEtGne_7.pdf",
+         "mission":"https://cldup.com/ZXmG9EC4bj.pdf",
          "published":true,
-         "quarter":"1T2025",
-         "quarterNumber":1,
-         "quarterText":"1 Quarter 2025",
-         "title":"God’s Love and Justice by John Peckham",
+         "quarter":"2T2025",
+         "quarterNumber":2,
+         "quarterText":"2 Quarter 2025",
+         "title":"Allusions, Images, Symbols: How to Study Bible Prophecy",
          "year":2025
       }
    ],
-   "helpLesson":{
+ "helpLesson":{
       "title":"",
       "id":1,
       "msg":"",

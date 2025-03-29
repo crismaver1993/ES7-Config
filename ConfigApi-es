@@ -3,217 +3,217 @@
       {
          "adultLessons":[
             {
-               "date":"28 de diciembre - 3 de enero",
-               "id":536,
+               "date":"29 de marzo - 4 abril",
+               "id":563,
                "lessonNumber":"1",
-               "remoteColor":"#A46537",
-               "title":"<p>DIOS AMA DE PURA GRACIA<br></p>",
-               "versionCode":80
+               "remoteColor":"#5d28df",
+               "title":"<p>ALGUNOS PRINCIPIOS DE INTERPRETACIÓN PROFÉTICA</p>",
+               "versionCode":10
             },
             {
-               "date":"4-10 de enero",
-               "id":537,
+               "date":"5-11 de abril",
+               "id":564,
                "lessonNumber":"2",
-               "remoteColor":"#A13736",
-               "title":"<p>AMOR PACTUAL<br></p>",
-               "versionCode":80
+               "remoteColor":"#3028df",
+               "title":"<p>EL GÉNESIS COMO FUNDAMENTO</p>",
+               "versionCode":10
             },
             {
-               "date":"11-17 de enero",
-               "id":543,
+               "date":"12-18 de abril",
+               "id":568,
                "lessonNumber":"3",
-               "remoteColor":"#954932",
-               "title":"<p>PARA AGRADAR A DIOS<br></p>",
-               "versionCode":80
+               "remoteColor":"#2886df",
+               "title":"<p>IMÁGENES TOMADAS DEL MATRIMONIO</p>",
+               "versionCode":10
             },
             {
-               "date":"18-24 de enero",
-               "id":545,
+               "date":"19-25 de abril",
+               "id":569,
                "lessonNumber":"4",
-               "remoteColor":"#309135",
-               "title":"<p>DIOS ES APASIONADO Y COMPASIVO<br></p>",
-               "versionCode":80
+               "remoteColor":"#28c6df",
+               "title":"<p>LAS NACIONES - PRIMERA PARTE</p>",
+               "versionCode":10
             },
             {
-               "date":"25-31 de enero",
-               "id":546,
+               "date":"26 de abril - 2 de mayo",
+               "id":570,
                "lessonNumber":"5",
-               "remoteColor":"#30917B",
-               "title":"<p>LA IRA DEL AMOR DIVINO</p>",
-               "versionCode":80
+               "remoteColor":"#28dfc0",
+               "title":"<p>LAS NACIONES - SEGUNDA PARTE</p>",
+               "versionCode":10
             },
             {
-               "date":"1-7 de febrero",
-               "id":539,
+               "date":"3-9 de mayo",
+               "id":585,
                "lessonNumber":"6",
-               "remoteColor":"#326F95",
-               "title":"<p>EL AMOR DE DIOS POR LA&nbsp;JUSTICIA</p>",
-               "versionCode":80
+               "remoteColor":"#28df89",
+               "title":"<p>ENTENDIENDO EL&nbsp;SACRIFICIO</p>",
+               "versionCode":10
             },
             {
-               "date":"8-14 de febrero",
-               "id":541,
+               "date":"10-16 de mayo",
+               "id":586,
                "lessonNumber":"7",
-               "remoteColor":"#324695",
-               "title":"<p>EL PROBLEMA DEL MAL<br></p>",
-               "versionCode":80
+               "remoteColor":"#28df57",
+               "title":"<p>FUNDAMENTOS DE LA PROFECÍA</p>",
+               "versionCode":10
             },
             {
-               "date":"15-21 de febrero",
-               "id":540,
+               "date":"17-23 de mayo",
+               "id":565,
                "lessonNumber":"8",
-               "remoteColor":"#3D3399",
-               "title":"<p>LIBRE ALBEDRÍO, AMOR Y PROVIDENCIA DIVINA</p>",
-               "versionCode":80
+               "remoteColor":"#3bdf28",
+               "title":"<p>EN LOS SALMOS - PRIMERA PARTE</p>",
+               "versionCode":10
             },
             {
-               "date":"22-28 de febrero",
-               "id":542,
+               "date":"24-30 de mayo ",
+               "id":571,
                "lessonNumber":"9",
-               "remoteColor":"#5A3399",
-               "title":"<p>EL CONFLICTO CÓSMICO<br></p>",
-               "versionCode":80
+               "remoteColor":"#7edf28",
+               "title":"<p>EN LOS SALMOS - SEGUNDA PARTE</p>",
+               "versionCode":10
             },
             {
-               "date":"1-7 de marzo",
-               "id":547,
+               "date":"31 de mayo - 6 de junio",
+               "id":589,
                "lessonNumber":"10",
-               "remoteColor":"#7F36A1",
-               "title":"<p>LAS REGLAS DEL CONFLICTO<br></p>",
-               "versionCode":80
+               "remoteColor":"#c1df28",
+               "title":"<p>SOBRE QUIENES HA LLEGADO EL FIN</p>",
+               "versionCode":10
             },
             {
-               "date":"8-14 de marzo",
-               "id":562,
+               "date":"7-13 de junio",
+               "id":588,
                "lessonNumber":"11",
-               "remoteColor":"#A93EBB",
-               "title":"<p>¿QUÉ MÁS PUDE HACER?</p>",
-               "versionCode":80
+               "remoteColor":"#dcdf28",
+               "title":"<p>RUT Y ESTER</p>",
+               "versionCode":10
             },
             {
-               "date":"15- 21 marzo 2025",
-               "id":548,
+               "date":"14-20 de junio",
+               "id":566,
                "lessonNumber":"12",
-               "remoteColor":"#B34BC3",
-               "title":"<p style=\"text-align: center; \">AMOR Y JUSTICIA: LOS DOS MANDAMIENTOS MÁS IMPORTANTES</p>",
-               "versionCode":80
+               "remoteColor":"#dfbe28",
+               "title":"<p>PRECURSORES</p>",
+               "versionCode":10
             },
             {
-               "date":"22-28 de marzo",
-               "id":544,
+               "date":"21-27 de junio",
+               "id":567,
                "lessonNumber":"13",
-               "remoteColor":"#B966CC",
-               "title":"<p>EL AMOR ES EL CUMPLIMIENTO DE LA LEY</p>",
-               "versionCode":80
+               "remoteColor":"#df5728",
+               "title":"<p>IMÁGENES DEL FIN</p>",
+               "versionCode":10
             }
          ],
          "appHasAlert":false,
-         "color":"#d851bf",
+         "color":"#1e4b9b",
          "egwHasAlert":false,
          "egwLessons":[
             {
-               "date":"28 de diciembre - 3 de enero",
-               "id":536,
+               "date":"29 de marzo - 4 de abril",
+               "id":572,
                "lessonNumber":"1",
-               "remoteColor":"#A46537",
-               "title":"En edición",
-               "versionCode":80
+               "remoteColor":"#339fff",
+               "title":"<p>ALGUNOS PRINCIPIOS DE INTERPRETACIÓN PROFÉTICA</p>",
+               "versionCode":10
             },
             {
-               "date":"4-10 de enero",
-               "id":537,
+               "date":"5-11 de abril",
+               "id":573,
                "lessonNumber":"2",
-               "remoteColor":"#A46537",
-               "title":"En edición",
-               "versionCode":80
+               "remoteColor":"#339fff",
+               "title":"<p>EL GÉNESIS COMO FUNDAMENTO</p>",
+               "versionCode":10
             },
             {
-               "date":"11-17 de enero",
-               "id":543,
+               "date":"12-18 de abril",
+               "id":574,
                "lessonNumber":"3",
-               "remoteColor":"#A46537",
-               "title":"En edición",
-               "versionCode":80
+               "remoteColor":"#339fff",
+               "title":"<p>IMÁGENES TOMADAS DEL MATRIMONIO</p>",
+               "versionCode":10
             },
             {
-               "date":"18-24 de enero",
-               "id":545,
+               "date":"19-25 de abril",
+               "id":575,
                "lessonNumber":"4",
-               "remoteColor":"#A46537",
-               "title":"En edición",
-               "versionCode":80
+               "remoteColor":"#339fff",
+               "title":"<p>LAS NACIONES - PRIMERA PARTE</p>",
+               "versionCode":10
             },
             {
-               "date":"25-31 de enero",
-               "id":546,
+               "date":"26 de abril - 2 de mayo",
+               "id":576,
                "lessonNumber":"5",
-               "remoteColor":"#A46537",
-               "title":"En edición",
-               "versionCode":80
+               "remoteColor":"#339fff",
+               "title":"<p>LAS NACIONES - SEGUNDA PARTE</p>",
+               "versionCode":10
             },
             {
-               "date":"1-7 de febrero",
-               "id":539,
+               "date":"3-9 de mayo",
+               "id":577,
                "lessonNumber":"6",
-               "remoteColor":"#A46537",
-               "title":"En edición",
-               "versionCode":80
+               "remoteColor":"#339fff",
+               "title":"<p>ENTENDIENDO EL SACRIFICIO</p>",
+               "versionCode":10
             },
             {
-               "date":"8-14 de febrero",
-               "id":541,
+               "date":"10-16 de mayo",
+               "id":578,
                "lessonNumber":"7",
-               "remoteColor":"#A46537",
-               "title":"En edición",
-               "versionCode":80
+               "remoteColor":"#339fff",
+               "title":"<p>FUNDAMENTOS DE LA PROFECÍA</p>",
+               "versionCode":10
             },
             {
-               "date":"15-21 de febrero",
-               "id":540,
+               "date":"17-24 de mayo",
+               "id":579,
                "lessonNumber":"8",
-               "remoteColor":"#A46537",
-               "title":"En edición",
-               "versionCode":80
+               "remoteColor":"#339fff",
+               "title":"<p>EN LOS SALMOS - PRIMERA PARTE</p>",
+               "versionCode":10
             },
             {
-               "date":"22-28 de febrero",
-               "id":542,
+               "date":"24-30 de mayo",
+               "id":580,
                "lessonNumber":"9",
-               "remoteColor":"#A46537",
-               "title":"En edición",
-               "versionCode":80
+               "remoteColor":"#339fff",
+               "title":"<p>EN LOS SALMOS - SEGUNDA PARTE</p>",
+               "versionCode":10
             },
             {
-               "date":"1-7 de marzo",
-               "id":547,
+               "date":"31 de mayo - 6 de junio",
+               "id":581,
                "lessonNumber":"10",
-               "remoteColor":"#A46537",
-               "title":"En edición",
-               "versionCode":80
+               "remoteColor":"#339fff",
+               "title":"<p>SOBRE QUIENES HA LLEGADO EL FIN</p>",
+               "versionCode":10
             },
             {
-               "date":"8-14 de marzo",
-               "id":562,
+               "date":"7-13 de junio",
+               "id":582,
                "lessonNumber":"11",
-               "remoteColor":"#A46537",
-               "title":"En edición",
-               "versionCode":80
+               "remoteColor":"#339fff",
+               "title":"<p>RUT Y ESTER</p>",
+               "versionCode":10
             },
             {
-               "date":"15- 21 marzo 2025",
-               "id":548,
+               "date":"14-20 de junio",
+               "id":583,
                "lessonNumber":"12",
-               "remoteColor":"#A46537",
-               "title":"En edición",
-               "versionCode":80
+               "remoteColor":"#339fff",
+               "title":"<p>PRECURSORES</p>",
+               "versionCode":10
             },
             {
-               "date":"22-28 de marzo",
-               "id":544,
+               "date":"21-28 de junio",
+               "id":584,
                "lessonNumber":"13",
-               "remoteColor":"#A46537",
-               "title":"En edición",
-               "versionCode":80
+               "remoteColor":"#339fff",
+               "title":"<p>IMÁGENES DEL FIN</p>",
+               "versionCode":10
             }
          ],
          "flexibleUpdate":false,
@@ -221,16 +221,16 @@
          "googleUpdate":false,
          "helpVideos":"https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
          "id":3,
-         "idEs":34,
+         "idEs":36,
          "language":"es",
          "latestVersionCode":244,
          "latestVersionName":"2.15.3",
-         "mission":"https://cldup.com/jnJM90bTw7.pdf",
+         "mission":"https://cldup.com/ZXmG9EC4bj.pdf",
          "published":true,
-         "quarter":"1T2025",
-         "quarterNumber":1,
-         "quarterText":"1 Trimestre 2025",
-         "title":"EL AMOR DE DIOS Y SU JUSTICIA",
+         "quarter":"2T2025",
+         "quarterNumber":2,
+         "quarterText":"2 Trimestre 2025",
+         "title":"ALUSIONES, IMÁGENES Y SÍMBOLOS: CÓMO ESTUDIAR LA PROFECÍA BÍBLICA",
          "year":2025
       }
    ],
