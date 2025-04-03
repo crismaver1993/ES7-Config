@@ -120,9 +120,10 @@
          "id":3,
          "idEs":37,
          "language":"en",
-         "latestVersionCode":244,
-         "latestVersionName":"2.15.3",
+         "latestVersionCode":251,
+         "latestVersionName":"2.15.9",
          "mission":"https://cldup.com/BMF-PgnxyV.pdf",
+
          "published":true,
          "quarter":"2T2025",
          "quarterNumber":2,
