@@ -1,12 +1,12 @@
 {
    "versionCode":2,
-   "quarter":"4T2024",
+   "quarter":"2T2025",
    "language":"es",
    "sketchList":[
       {
          "lessonId":"1",
          "title": "01. ",
-         "url":"https://www.fustero.es/2025t101.pdf",
+         "url":"https://www.fustero.es/2025t201.pdf",
          "creator":"Fusteros",
          "updated":true,
          "type":"Presentación",
@@ -15,7 +15,7 @@
       {
          "lessonId":"2",
          "title": "02.",
-         "url":"https://www.fustero.es/2025t102.pdf",
+         "url":"https://www.fustero.es/2025t202.pdf",
          "creator":"Fusteros",
          "updated":true,
          "type":"Presentación",
@@ -24,7 +24,7 @@
       {
          "lessonId":"3",
          "title": "03.",
-         "url":"https://www.fustero.es/2025t103.pdf",
+         "url":"https://www.fustero.es/2025t203.pdf",
          "creator":"Fusteros",
          "updated":true,
          "type":"Presentación",
@@ -33,7 +33,7 @@
       {
          "lessonId":"4",
          "title": "04. ",
-         "url":"https://www.fustero.es/2025t104.pdf",
+         "url":"https://www.fustero.es/2025t204.pdf",
          "creator":"Fusteros",
          "updated":true,
          "type":"Presentación",
@@ -42,7 +42,7 @@
       {
          "lessonId":"5",
          "title": "05.",
-         "url":"https://www.fustero.es/2025t105.pdf",
+         "url":"https://www.fustero.es/2025t205.pdf",
          "creator":"Fusteros",
          "updated":true,
          "type":"Presentación",
@@ -51,7 +51,7 @@
       {
          "lessonId":"6",
          "title": "06. ",
-         "url":"https://www.fustero.es/2025t106.pdf",
+         "url":"https://www.fustero.es/2025t206.pdf",
          "creator":"Fusteros",
          "updated":true,
          "type":"Presentación",
@@ -60,7 +60,7 @@
       {
          "lessonId":"7",
          "title": "07. ",
-         "url":"https://www.fustero.es/2025t107.pdf",
+         "url":"https://www.fustero.es/2025t207.pdf",
          "creator":"Fusteros",
          "updated":true,
          "type":"Presentación",
@@ -69,7 +69,7 @@
       {
          "lessonId":"8",
          "title": "08. ",
-         "url":"https://www.fustero.es/2025t108.pdf",
+         "url":"https://www.fustero.es/2025t208.pdf",
          "creator":"Fusteros",
          "updated":true,
          "type":"Presentación",
@@ -78,7 +78,7 @@
       {
          "lessonId":"9",
          "title": "09.",
-         "url":"https://www.fustero.es/2025t109.pdf",
+         "url":"https://www.fustero.es/2025t209.pdf",
          "creator":"Fusteros",
          "updated":true,
          "type":"Presentación",
@@ -87,7 +87,7 @@
       {
          "lessonId":"10",
          "title": "10. ",
-         "url":"https://www.fustero.es/2025t110.pdf",
+         "url":"https://www.fustero.es/2025t210.pdf",
          "creator":"Fusteros",
          "updated":true,
          "type":"Presentación",
@@ -96,7 +96,7 @@
       {
          "lessonId":"11",
          "title": "11. ",
-         "url":"https://www.fustero.es/2025t111.pdf",
+         "url":"https://www.fustero.es/2025t211.pdf",
          "creator":"Fusteros",
          "updated":true,
          "type":"Presentación",
@@ -105,7 +105,7 @@
       {
          "lessonId":"12",
          "title": "12. ",
-         "url":"https://www.fustero.es/2025t112.pdf",
+         "url":"https://www.fustero.es/2025t212.pdf",
          "creator":"Fusteros",
          "updated":true,
          "type":"Presentación",
@@ -114,7 +114,7 @@
       {
          "lessonId":"13",
          "title": "13. ",
-         "url":"https://www.fustero.es/2025t113.pdf",
+         "url":"https://www.fustero.es/2025t213.pdf",
          "creator":"Fusteros",
          "updated":true,
          "type":"Presentación",
