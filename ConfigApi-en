@@ -114,14 +114,14 @@
             
          ],
          "flexibleUpdate":false,
-         "forceUpdate":false,
-         "googleUpdate":false,
+         "forceUpdate":true,
+         "googleUpdate":true,
          "helpVideos":"https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
          "id":3,
          "idEs":37,
          "language":"en",
-         "latestVersionCode":251,
-         "latestVersionName":"2.15.9",
+         "latestVersionCode":252,
+         "latestVersionName":"2.15.10",
          "mission":"https://cldup.com/BMF-PgnxyV.pdf",
 
          "published":true,
