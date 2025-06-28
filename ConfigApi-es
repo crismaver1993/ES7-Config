@@ -3,234 +3,131 @@
       {
          "adultLessons":[
             {
-               "date":"29 de marzo - 4 abril",
-               "id":563,
+               "date":"28 de junio- 4 de julio",
+               "id":602,
                "lessonNumber":"1",
-               "remoteColor":"#5d28df",
-               "title":"<p>ALGUNOS PRINCIPIOS DE INTERPRETACIÓN PROFÉTICA</p>",
-               "versionCode":10
+               "remoteColor":"#1180a9",
+               "title":"<p>OPRESIÓN: EL TRASFONDO Y EL NACIMIENTO DE MOISÉS</p>",
+               "versionCode":25
             },
             {
-               "date":"5-11 de abril",
-               "id":564,
+               "date":"5-11 de julio",
+               "id":604,
                "lessonNumber":"2",
-               "remoteColor":"#3028df",
-               "title":"<p>EL GÉNESIS COMO FUNDAMENTO</p>",
-               "versionCode":10
+               "remoteColor":"#ffb533",
+               "title":"<p>LA ZARZA ARDIENTE</p>",
+               "versionCode":25
             },
             {
-               "date":"12-18 de abril",
-               "id":568,
+               "date":"12-18 de julio",
+               "id":605,
                "lessonNumber":"3",
-               "remoteColor":"#2886df",
-               "title":"<p>IMÁGENES TOMADAS DEL MATRIMONIO</p>",
-               "versionCode":10
+               "remoteColor":"#e66133",
+               "title":"<p>UN COMIENZO DIFÍCIL</p>",
+               "versionCode":25
             },
             {
-               "date":"19-25 de abril",
-               "id":569,
+               "date":"19-25 de julio",
+               "id":603,
                "lessonNumber":"4",
-               "remoteColor":"#28c6df",
-               "title":"<p>LAS NACIONES - PRIMERA PARTE</p>",
-               "versionCode":10
+               "remoteColor":"#5885AF",
+               "title":"<p>LAS PLAGAS</p>",
+               "versionCode":25
             },
             {
-               "date":"26 de abril - 2 de mayo",
-               "id":570,
+               "date":"26 de Julio - 1 de agosto",
+               "id":621,
                "lessonNumber":"5",
-               "remoteColor":"#28dfc0",
-               "title":"<p>LAS NACIONES - SEGUNDA PARTE</p>",
-               "versionCode":10
+               "remoteColor":"#B2ED60",
+               "title":"<p>LA PASCUA</p>",
+               "versionCode":25
             },
             {
-               "date":"3-9 de mayo",
-               "id":585,
+               "date":"2-8 de agosto",
+               "id":613,
                "lessonNumber":"6",
-               "remoteColor":"#28df89",
-               "title":"<p>ENTENDIENDO EL&nbsp;SACRIFICIO</p>",
-               "versionCode":10
+               "remoteColor":"#67bf7c",
+               "title":"<p>A TRAVÉS DEL MAR ROJO</p>",
+               "versionCode":25
             },
             {
-               "date":"10-16 de mayo",
-               "id":586,
+               "date":"9-15 de agosto",
+               "id":609,
                "lessonNumber":"7",
-               "remoteColor":"#28df57",
-               "title":"<p>FUNDAMENTOS DE LA PROFECÍA</p>",
-               "versionCode":10
+               "remoteColor":"#67b4bf",
+               "title":"<p>EL PAN Y EL AGUA DE VIDA</p>",
+               "versionCode":25
             },
             {
-               "date":"17-23 de mayo",
-               "id":565,
+               "date":" 16-22 de agosto",
+               "id":610,
                "lessonNumber":"8",
-               "remoteColor":"#3bdf28",
-               "title":"<p>EN LOS SALMOS - PRIMERA PARTE</p>",
-               "versionCode":10
+               "remoteColor":"#1d71b8",
+               "title":"<p>EL PACTO EN EL SINAÍ</p>",
+               "versionCode":25
             },
             {
-               "date":"24-30 de mayo ",
-               "id":571,
+               "date":"23-29 de agosto",
+               "id":615,
                "lessonNumber":"9",
-               "remoteColor":"#7edf28",
-               "title":"<p>EN LOS SALMOS - SEGUNDA PARTE</p>",
-               "versionCode":10
+               "remoteColor":"#6774bf",
+               "title":"<p>CÓMO VIVIR LA LEY</p>",
+               "versionCode":25
             },
             {
-               "date":"31 de mayo - 6 de junio",
-               "id":589,
+               "date":"Agosto 30 – Septembre 5",
+               "id":618,
                "lessonNumber":"10",
-               "remoteColor":"#c1df28",
-               "title":"<p>SOBRE QUIENES HA LLEGADO EL FIN</p>",
-               "versionCode":10
+               "remoteColor":"#1180a9",
+               "title":"<p>EL PACTO Y EL MODELO</p>",
+               "versionCode":25
             },
             {
-               "date":"7-13 de junio",
-               "id":588,
+               "date":"6-12 de setiembre",
+               "id":612,
                "lessonNumber":"11",
-               "remoteColor":"#dcdf28",
-               "title":"<p>RUT Y ESTER</p>",
-               "versionCode":10
+               "remoteColor":"#bfb367",
+               "title":"<p>APOSTASÍA E INTERCESIÓN</p>",
+               "versionCode":25
             },
             {
-               "date":"14-20 de junio",
-               "id":566,
+               "date":"13-19 de septiembre",
+               "id":623,
                "lessonNumber":"12",
-               "remoteColor":"#dfbe28",
-               "title":"<p>PRECURSORES</p>",
-               "versionCode":10
+               "remoteColor":"#b45d8e",
+               "title":"<p>&nbsp;“TE RUEGO QUE MEMUESTRES TU GLORIA”</p>",
+               "versionCode":25
             },
             {
-               "date":"21-27 de junio",
-               "id":567,
+               "date":"20-26 de septiembre",
+               "id":616,
                "lessonNumber":"13",
-               "remoteColor":"#df5728",
-               "title":"<p>IMÁGENES DEL FIN</p>",
-               "versionCode":10
+               "remoteColor":"#bf6b67",
+               "title":"<p>EL TABERNÁCULO</p>",
+               "versionCode":25
             }
          ],
          "appHasAlert":false,
          "color":"#1e4b9b",
          "egwHasAlert":false,
          "egwLessons":[
-            {
-               "date":"29 de marzo - 4 de abril",
-               "id":572,
-               "lessonNumber":"1",
-               "remoteColor":"#339fff",
-               "title":"<p>ALGUNOS PRINCIPIOS DE INTERPRETACIÓN PROFÉTICA</p>",
-               "versionCode":10
-            },
-            {
-               "date":"5-11 de abril",
-               "id":573,
-               "lessonNumber":"2",
-               "remoteColor":"#339fff",
-               "title":"<p>EL GÉNESIS COMO FUNDAMENTO</p>",
-               "versionCode":10
-            },
-            {
-               "date":"12-18 de abril",
-               "id":574,
-               "lessonNumber":"3",
-               "remoteColor":"#339fff",
-               "title":"<p>IMÁGENES TOMADAS DEL MATRIMONIO</p>",
-               "versionCode":10
-            },
-            {
-               "date":"19-25 de abril",
-               "id":575,
-               "lessonNumber":"4",
-               "remoteColor":"#339fff",
-               "title":"<p>LAS NACIONES - PRIMERA PARTE</p>",
-               "versionCode":10
-            },
-            {
-               "date":"26 de abril - 2 de mayo",
-               "id":576,
-               "lessonNumber":"5",
-               "remoteColor":"#339fff",
-               "title":"<p>LAS NACIONES - SEGUNDA PARTE</p>",
-               "versionCode":10
-            },
-            {
-               "date":"3-9 de mayo",
-               "id":577,
-               "lessonNumber":"6",
-               "remoteColor":"#339fff",
-               "title":"<p>ENTENDIENDO EL SACRIFICIO</p>",
-               "versionCode":10
-            },
-            {
-               "date":"10-16 de mayo",
-               "id":578,
-               "lessonNumber":"7",
-               "remoteColor":"#339fff",
-               "title":"<p>FUNDAMENTOS DE LA PROFECÍA</p>",
-               "versionCode":10
-            },
-            {
-               "date":"17-24 de mayo",
-               "id":579,
-               "lessonNumber":"8",
-               "remoteColor":"#339fff",
-               "title":"<p>EN LOS SALMOS - PRIMERA PARTE</p>",
-               "versionCode":10
-            },
-            {
-               "date":"24-30 de mayo",
-               "id":580,
-               "lessonNumber":"9",
-               "remoteColor":"#339fff",
-               "title":"<p>EN LOS SALMOS - SEGUNDA PARTE</p>",
-               "versionCode":10
-            },
-            {
-               "date":"31 de mayo - 6 de junio",
-               "id":581,
-               "lessonNumber":"10",
-               "remoteColor":"#339fff",
-               "title":"<p>SOBRE QUIENES HA LLEGADO EL FIN</p>",
-               "versionCode":10
-            },
-            {
-               "date":"7-13 de junio",
-               "id":582,
-               "lessonNumber":"11",
-               "remoteColor":"#339fff",
-               "title":"<p>RUT Y ESTER</p>",
-               "versionCode":10
-            },
-            {
-               "date":"14-20 de junio",
-               "id":583,
-               "lessonNumber":"12",
-               "remoteColor":"#339fff",
-               "title":"<p>PRECURSORES</p>",
-               "versionCode":10
-            },
-            {
-               "date":"21-28 de junio",
-               "id":584,
-               "lessonNumber":"13",
-               "remoteColor":"#339fff",
-               "title":"<p>IMÁGENES DEL FIN</p>",
-               "versionCode":10
-            }
+            
          ],
-         "flexibleUpdate":false,
+         "flexibleUpdate":true,
          "forceUpdate":true,
          "googleUpdate":true,
          "helpVideos":"https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
          "id":3,
-         "idEs":36,
+         "idEs":38,
          "language":"es",
+         "latestVersionCode":253,
+         "latestVersionName":"2.15.11",
          "mission":"https://cldup.com/8HF5E8sJlN.pdf",
-         "latestVersionCode":252,
-         "latestVersionName":"2.15.10",
          "published":true,
-         "quarter":"2T2025",
-         "quarterNumber":2,
-         "quarterText":"2 Trimestre 2025",
-         "title":"ALUSIONES, IMÁGENES Y SÍMBOLOS: CÓMO ESTUDIAR LA PROFECÍA BÍBLICA",
+         "quarter":"3T2025",
+         "quarterNumber":3,
+         "quarterText":"3 Trimestre 2025",
+         "title":"EL ÉXODO: VIAJE A LA TIERRA PROMETIDA",
          "year":2025
       }
    ],
@@ -255,7 +152,7 @@
             "creator":"",
             "featured":false,
             "visible":true,
-            "year":"2024"
+            "year":"2025"
          },
          {
             "id":2,
@@ -270,7 +167,7 @@
             "creator":"",
             "featured":false,
             "visible":true,
-            "year":"2024"
+            "year":"2025"
          },
          {
             "id":3,
@@ -285,7 +182,7 @@
             "creator":"",
             "featured":false,
             "visible":true,
-            "year":"2024"
+            "year":"2025"
          },
          {
             "id":4,
@@ -300,7 +197,7 @@
             "creator":"",
             "featured":false,
             "visible":true,
-            "year":"2024"
+            "year":"2025"
          },
          {
             "id":5,
@@ -315,7 +212,7 @@
             "creator":"",
             "featured":false,
             "visible":true,
-            "year":"2024"
+            "year":"2025"
          }
       ]
    },
