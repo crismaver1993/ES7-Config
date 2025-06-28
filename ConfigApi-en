@@ -3,136 +3,135 @@
       {
          "adultLessons":[
             {
-               "date":"March 29–April 4",
-               "id":590,
+               "date":"June 28-July 4",
+               "id":606,
                "lessonNumber":"1",
-               "remoteColor":"#ff4444",
-               "title":"<p>Some Principles of Prophecy</p>",
-               "versionCode":10
+               "remoteColor":"#bf9767",
+               "title":"<p>Oppression: The Background and the Birth of Moses</p>",
+               "versionCode":25
             },
             {
-               "date":"April 5–11",
-               "id":591,
+               "date":"July 5–11",
+               "id":607,
                "lessonNumber":"2",
-               "remoteColor":"#ff5d44",
-               "title":"<p>The Genesis Foundation</p>",
-               "versionCode":10
+               "remoteColor":"#67abbf",
+               "title":"<p>The Burning Bush</p>",
+               "versionCode":25
             },
             {
-               "date":"April 12–18",
-               "id":592,
+               "date":"July 12–18",
+               "id":619,
                "lessonNumber":"3",
-               "remoteColor":"#ff8b44",
-               "title":"<p>Images From Marriage</p>",
-               "versionCode":10
+               "remoteColor":"#67abbf",
+               "title":"<p>Rough Start</p>",
+               "versionCode":25
             },
             {
-               "date":"April 19–25",
-               "id":593,
+               "date":"July 19–25",
+               "id":624,
                "lessonNumber":"4",
-               "remoteColor":"#ffc344",
-               "title":"<p>The Nations: Part 1</p>",
-               "versionCode":10
+               "remoteColor":"#5da2b4",
+               "title":"<p>The Plagues</p>",
+               "versionCode":25
             },
             {
-               "date":"April 26–May 2",
-               "id":594,
+               "date":"July 26 –August 1",
+               "id":622,
                "lessonNumber":"5",
-               "remoteColor":"#ffff44",
-               "title":"<p>The Nations: Part 2</p>",
-               "versionCode":10
+               "remoteColor":"#ED4811",
+               "title":"<p>&nbsp;Passover</p>",
+               "versionCode":25
             },
             {
-               "date":"May 3–9",
-               "id":595,
+               "date":"August 2–8",
+               "id":614,
                "lessonNumber":"6",
-               "remoteColor":"#daff44",
-               "title":"<p>Understanding Sacrifice</p>",
-               "versionCode":10
+               "remoteColor":"#04b912",
+               "title":"<p>Through the Red Sea</p>",
+               "versionCode":25
             },
             {
-               "date":"May 10–16",
-               "id":597,
+               "date":"August 9-15",
+               "id":608,
                "lessonNumber":"7",
-               "remoteColor":"#a2ff44",
-               "title":"<p>Foundations for Prophecy\n</p>",
-               "versionCode":10
+               "remoteColor":"#04b9b9",
+               "title":"<p>The Bread and Water of Life</p>",
+               "versionCode":25
             },
             {
-               "date":"May 17–23",
-               "id":598,
+               "date":"August 16–22",
+               "id":611,
                "lessonNumber":"8",
-               "remoteColor":"#44ff47",
-               "title":"<p>In the Psalms: Part 1</p>",
-               "versionCode":10
+               "remoteColor":"#1d71b8",
+               "title":"<p>Covenant at Sinai\n</p>",
+               "versionCode":25
             },
             {
-               "date":"May 24–30",
-               "id":599,
+               "date":"August 23–29",
+               "id":625,
                "lessonNumber":"9",
-               "remoteColor":"#44ff88",
-               "title":"<p>In the Psalms: Part 2</p>",
-               "versionCode":10
+               "remoteColor":"#965caa",
+               "title":"<p>Living the Law</p>",
+               "versionCode":25
             },
             {
-               "date":"May 31–June 6",
-               "id":596,
+               "date":"August 30–September 5",
+               "id":617,
                "lessonNumber":"10",
-               "remoteColor":"#028090",
-               "title":"<p>Upon Whom the Ends Have Come</p>",
-               "versionCode":10
+               "remoteColor":"#bf9767",
+               "title":"<p>The Covenant and the Blueprint</p>",
+               "versionCode":25
             },
             {
-               "date":"June 7 - 13",
-               "id":587,
+               "date":"September 6–12",
+               "id":620,
                "lessonNumber":"11",
-               "remoteColor":"#44ffb3",
-               "title":"<p>Ruth and Esther</p>",
-               "versionCode":10
+               "remoteColor":"#494bb6",
+               "title":"<p>Apostasy and Intercession</p>",
+               "versionCode":25
             },
             {
-               "date":"June 14–20",
-               "id":601,
+               "date":"September 13–19",
+               "id":627,
                "lessonNumber":"12",
-               "remoteColor":"#44f1ff",
-               "title":"<p>Precursors</p>",
-               "versionCode":10
+               "remoteColor":"#1f863e",
+               "title":"<p>“Please, Show Me Your Glory”</p>",
+               "versionCode":25
             },
             {
-               "date":"June 21–27",
-               "id":600,
+               "date":"September 20–26",
+               "id":628,
                "lessonNumber":"13",
-               "remoteColor":"#44a7ff",
-               "title":"<p>Images of the End</p>",
-               "versionCode":10
+               "remoteColor":"#93781f",
+               "title":"<p>The Tabernacle</p>",
+               "versionCode":25
             }
          ],
          "appHasAlert":false,
-         "color":"#a351bf",
+         "color":"#ae480e",
          "egwHasAlert":false,
          "egwLessons":[
             
          ],
-         "flexibleUpdate":false,
+         "flexibleUpdate":true,
          "forceUpdate":true,
          "googleUpdate":true,
          "helpVideos":"https://youtube.com/playlist?list=PL_n6OyUJzn1SgPjHszIsxhkLs_vfil3nO",
          "id":3,
-         "idEs":37,
+         "idEs":39,
          "language":"en",
-         "latestVersionCode":252,
-         "latestVersionName":"2.15.10",
-         "mission":"https://cldup.com/BMF-PgnxyV.pdf",
-
+         "latestVersionCode":253,
+         "latestVersionName":"2.15.11",
+         "mission":"https://cldup.com/8HF5E8sJlN.pdf",
          "published":true,
-         "quarter":"2T2025",
-         "quarterNumber":2,
-         "quarterText":"2 Quarter 2025",
-         "title":"Allusions, Images, Symbols: How to Study Bible Prophecy",
+         "quarter":"3T2025",
+         "quarterNumber":3,
+         "quarterText":"3 Quarter 2025",
+         "title":"EXODUS",
          "year":2025
       }
    ],
- "helpLesson":{
+   "helpLesson":{
       "title":"",
       "id":1,
       "msg":"",
