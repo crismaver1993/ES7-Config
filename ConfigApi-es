@@ -111,7 +111,110 @@
          "color":"#1e4b9b",
          "egwHasAlert":false,
          "egwLessons":[
-            
+            {
+               "date":"28 de junio- 4 de julio",
+               "id":629,
+               "lessonNumber":"1",
+               "remoteColor":"#6c3184",
+               "title":"<p>OPRESIÓN: EL TRASFONDO Y EL NACIMIENTO DE MOISÉS</p>",
+               "versionCode":25
+            },
+            {
+               "date":"5-11 de julio",
+               "id":630,
+               "lessonNumber":"2",
+               "remoteColor":"#6c3184",
+               "title":"<p>LA ZARZA ARDIENTE</p>",
+               "versionCode":25
+            },
+            {
+               "date":"12-18 de julio\t",
+               "id":631,
+               "lessonNumber":"3",
+               "remoteColor":"#6c3184",
+               "title":"<p>UN COMIENZO DIFÍCIL</p><p>\n</p>",
+               "versionCode":25
+            },
+            {
+               "date":"19-25 de julio",
+               "id":632,
+               "lessonNumber":"4",
+               "remoteColor":"#6c3184",
+               "title":"<p>LAS PLAGAS</p><p>\n</p>",
+               "versionCode":25
+            },
+            {
+               "date":"26 de Julio - 1 de agosto",
+               "id":633,
+               "lessonNumber":"5",
+               "remoteColor":"#6c3184",
+               "title":"<p>LA PASCUA</p><p>\n</p>",
+               "versionCode":25
+            },
+            {
+               "date":"2-8 de agosto",
+               "id":634,
+               "lessonNumber":"6",
+               "remoteColor":"#6c3184",
+               "title":"<p>A TRAVÉS DEL MAR ROJO</p><p>\n</p>",
+               "versionCode":25
+            },
+            {
+               "date":"9-15 de agosto",
+               "id":635,
+               "lessonNumber":"7",
+               "remoteColor":"#6c3184",
+               "title":"<p>EL PAN Y EL AGUA DE VIDA</p><p>\n</p>",
+               "versionCode":25
+            },
+            {
+               "date":"16-22 de agosto",
+               "id":636,
+               "lessonNumber":"8",
+               "remoteColor":"#6c3184",
+               "title":"<p>EL PACTO EN EL SINAÍ</p><p>\n</p>",
+               "versionCode":25
+            },
+            {
+               "date":"23-29 de agosto",
+               "id":637,
+               "lessonNumber":"9",
+               "remoteColor":"#6c3184",
+               "title":"<p>CÓMO VIVIR LA LEY</p><p>\n</p>",
+               "versionCode":25
+            },
+            {
+               "date":"Agosto 30 – Septembre 5",
+               "id":638,
+               "lessonNumber":"10",
+               "remoteColor":"#6c3184",
+               "title":"<p>EL PACTO Y EL MODELO\n</p><p><br></p><p>\n</p>",
+               "versionCode":25
+            },
+            {
+               "date":"6-12 de setiembre",
+               "id":639,
+               "lessonNumber":"11",
+               "remoteColor":"#6c3184",
+               "title":"<p>APOSTASÍA E INTERCESIÓN</p><p>\n</p>",
+               "versionCode":25
+            },
+            {
+               "date":"13-19 de septiembre",
+               "id":640,
+               "lessonNumber":"12",
+               "remoteColor":"#6c3184",
+               "title":"<p>&nbsp;“TE RUEGO QUE MEMUESTRES TU GLORIA”</p><p>\n</p>",
+               "versionCode":25
+            },
+            {
+               "date":"20-26 de septiembre\t",
+               "id":641,
+               "lessonNumber":"13",
+               "remoteColor":"#6c3184",
+               "title":"<p>EL TABERNÁCULO</p><p>\n</p>",
+               "versionCode":25
+            }
          ],
          "flexibleUpdate":true,
          "forceUpdate":true,
