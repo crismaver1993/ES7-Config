@@ -11,7 +11,7 @@
          "typeId":"0",
          "img":"https://cldup.com/HKvBaUhqdq.webp",
          "description":"",
-         "featured":"",
+         "featured":false,
          "app_flow_id":0,
          "is_web":true
       },
@@ -24,7 +24,7 @@
          "typeId":"0",
          "img":"https://cldup.com/EyhxtVnSmN.png",
          "description":"",
-         "featured":"",
+         "featured":false,
          "app_flow_id":0,
          "is_web":true
       },
@@ -50,7 +50,7 @@
          "typeId":"0",
          "img":"https://cldup.com/6efGVFMx_R.png",
          "description":"",
-         "featured":"",
+         "featured":false,
          "app_flow_id":0,
          "is_web":true
       },
