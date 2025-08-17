@@ -11,11 +11,11 @@
          "typeId":"0",
          "img":"https://cldup.com/6efGVFMx_R.png",
          "description":"",
-         "featured":"",
+         "featured":false,
          "app_flow_id":0,
          "is_web":true
       },
- {
+      {
          "id":2,
          "title":"Occasion verses",
          "url":"",
@@ -112,7 +112,7 @@
          "app_flow_id":0,
          "is_web":true
       },
-       {
+      {
          "id":4,
          "title":"Amazing Facts",
          "url":"https://www.amazingfacts.org/media-library/watch/archives/sq/25/o/4/t/sabbath-school-study-hour",
@@ -194,7 +194,7 @@
          "app_flow_id":0,
          "is_web":true
       },
-{
+      {
          "id":2,
          "title":"Sabath School: Quizz",
          "url":"https://create.kahoot.it/profiles/f107cca1-42db-40d7-8070-0b020a66cc27",
