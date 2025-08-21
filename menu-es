@@ -11,7 +11,7 @@
          "typeId":100,
          "img":"https://cldup.com/HKvBaUhqdq.webp",
          "description":"",
-         "featured":false,
+         "featured":true,
          "app_flow_id":0,
          "is_web":true
       },
@@ -32,7 +32,7 @@
          "id":3,
          "title":"Nuestro podcast",
          "url":"https://open.spotify.com/show/02aiCgoriTOc7qytomP8fv?si=00a1d69472a245ac",
-         "creator":"CM",
+         "creator":"Cristofer M.",
          "visible":true,
          "typeId":7,
          "img":"https://cldup.com/UWX7RYNcs1.png",
@@ -275,7 +275,7 @@
          "title":"Pedidos de oración",
          "url":"",
          "creator":"",
-         "visible":true,
+         "visible":false,
          "typeId":5,
          "img":"https://cldup.com/pQ4g0_lDqS.webp",
          "description":"",
@@ -288,7 +288,7 @@
          "title":"Anuncios",
          "url":"",
          "creator":"",
-         "visible":true,
+         "visible":false,
          "typeId":5,
          "img":"https://cldup.com/rJYA-DH48n.webp",
          "description":"",
@@ -404,7 +404,7 @@
          "description":"",
          "featured":false,
          "app_flow_id":9,
-         "is_web":false
+         "is_web":true
       },
       {
          "id":2,
@@ -415,7 +415,7 @@
          "typeId":7,
          "img":"https://cldup.com/UWX7RYNcs1.png",
          "description":"Un lugar para compartir experiencias de vida, donde Dios estuvo al control.",
-         "featured":true,
+         "featured":false,
          "app_flow_id":9,
          "is_web":true
       }
