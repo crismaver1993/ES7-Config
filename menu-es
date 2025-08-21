@@ -8,7 +8,7 @@
          "url":"https://www.youtube.com/playlist?list=PLnEWn_yzEqTvxZB-2PxQqorbdJpka7ABr",
          "creator":"UM",
          "visible":true,
-         "typeId":"0",
+         "typeId":100,
          "img":"https://cldup.com/HKvBaUhqdq.webp",
          "description":"",
          "featured":false,
@@ -21,7 +21,7 @@
          "url":"https://mirecursoadventista.com/lecciones-jovenes/",
          "creator":"Mi recurso adventista",
          "visible":false,
-         "typeId":"0",
+         "typeId":100,
          "img":"https://cldup.com/EyhxtVnSmN.png",
          "description":"",
          "featured":false,
@@ -47,7 +47,7 @@
          "url":"https://sabbath-school.adventech.io/es/",
          "creator":"Adventech",
          "visible":true,
-         "typeId":"0",
+         "typeId":100,
          "img":"https://cldup.com/6efGVFMx_R.png",
          "description":"",
          "featured":false,
@@ -82,8 +82,6 @@
          "app_flow_id":1,
          "is_web":false
       },
-     
-     
       {
          "id":2,
          "title":"Lecciones de Escuela Sabática",
@@ -164,7 +162,6 @@
          "app_flow_id":0,
          "is_web":true
       },
-     
       {
          "id":6,
          "title":"Advenz",
@@ -180,8 +177,7 @@
       }
    ],
    "videos":[
-
- {
+      {
          "id":1,
          "title":"Lección GP",
          "url":"https://www.youtube.com/channel/UColCSnd93kJGZCuV4UgfkgA/videos",
@@ -220,7 +216,6 @@
          "app_flow_id":0,
          "is_web":true
       },
-     
       {
          "id":4,
          "title":"GP Joven",
