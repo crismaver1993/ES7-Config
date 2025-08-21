@@ -71,9 +71,9 @@
    "audios":[
       {
          "id":1,
-         "title":"Repaso: Alejandro Bullón",
+         "title":"Repaso en audio",
          "url":"",
-         "creator":"Alejrandro B.",
+         "creator":"Ptr. Alejandro B.",
          "visible":true,
          "typeId":2,
          "img":"https://cldup.com/lbsvid-78j.jpg",
