@@ -18,11 +18,11 @@
  {
          "id":2,
          "title":"Misionero",
-         "url":"https://cldup.com/Gow-ar-kGo.pdf",
+         "url":"https://cldup.com/vMnHRKc_qB.pdf",
          "creator":"IASD",
          "visible":true,
          "typeId":100,
-         "img":"https://cldup.com/NdSme1Bwey.png",
+         "img":"https://cldup.com/g19MdqwdFn.png",
          "description":"",
          "featured":true,
          "app_flow_id":0,
@@ -67,6 +67,7 @@
          "app_flow_id":0,
          "is_web":true
       },
+
       {
          "id":6,
          "title":"Sabbath.School",
@@ -78,6 +79,19 @@
          "description":"Lecciones en PDF online",
          "featured":true,
          "app_flow_id":9,
+         "is_web":true
+      },
+{
+         "id":7,
+         "title":"Conferencia",
+         "url":"https://absg.sspmadventist.org/lang/es",
+         "creator":"Conferencia General",
+         "visible":true,
+         "typeId":100,
+         "img":"https://cldup.com/jb0cgMkZXU.png",
+         "description":"",
+         "featured":false,
+         "app_flow_id":0,
          "is_web":true
       }
    ],
@@ -320,7 +334,7 @@
          "creator":"IASD",
          "visible":true,
          "typeId":6,
-         "img":"https://cldup.com/A1TZGaoZV0.webp",
+         "img":"https://cldup.com/94CENLHRAi.png",
          "description":"",
          "featured":false,
          "app_flow_id":0,
@@ -333,7 +347,7 @@
          "creator":"IASD",
          "visible":true,
          "typeId":6,
-         "img":"https://cldup.com/AnVgMi6asB.jpeg",
+         "img":"https://cldup.com/Q-kg0v050O.png",
          "description":"",
          "featured":false,
          "app_flow_id":0,
