@@ -5,11 +5,11 @@
  {
          "id":1,
          "title":"Misionero",
-         "url":"https://cldup.com/g1_o4es91Q.pdf",
+         "url":"https://cldup.com/co7_xZ5WEg.pdf",
          "creator":"IASD",
          "visible":true,
          "typeId":100,
-         "img":"https://cldup.com/L9xShRImFh.png",
+         "img":"https://cldup.com/jcuYiAw5G8.png",
          "description":"",
          "featured":true,
          "app_flow_id":0,
@@ -29,7 +29,7 @@
          "is_web":true
       },
       {
-         "id":2,
+         "id":3,
          "title":"Occasion verses",
          "url":"",
          "creator":"",
@@ -40,6 +40,45 @@
          "featured":false,
          "app_flow_id":14,
          "is_web":false
+      },
+ {
+         "id":4,
+         "title":"General Conference",
+         "url":"https://absg.sspmadventist.org/en/2025-04/02/videos",
+         "creator":"",
+         "visible":true,
+         "typeId":100,
+         "img":"https://cldup.com/Btsh1LNmO2.png",
+         "description":"",
+         "featured":false,
+         "app_flow_id":0,
+         "is_web":true
+      },
+{
+         "id":5,
+         "title":"Inverse",
+         "url":"https://inverse.sspmadventist.org/",
+         "creator":"",
+         "visible":true,
+         "typeId":100,
+         "img":"https://cldup.com/19SH3qfSd2.png",
+         "description":"",
+         "featured":false,
+         "app_flow_id":0,
+         "is_web":true
+      },
+{
+         "id":6,
+         "title":"Children and Youth",
+         "url":"https://sspmadventist.org/sabbathschool/childrenandyouth",
+         "creator":"",
+         "visible":true,
+         "typeId":100,
+         "img":"https://cldup.com/_i2wi9aHYN.png",
+         "description":"",
+         "featured":false,
+         "app_flow_id":0,
+         "is_web":true
       }
    ],
    "audios":[
