@@ -201,6 +201,19 @@
          "featured":false,
          "app_flow_id":0,
          "is_web":true
+      },
+  {
+         "id":7,
+         "title":"Matutina Adventista",
+         "url":"https://matutinaadventista.com/",
+         "creator":"",
+         "visible":true,
+         "typeId":3,
+         "img":"https://cldup.com/Da86i-2iHD.png",
+         "description":"",
+         "featured":true,
+         "app_flow_id":0,
+         "is_web":true
       }
    ],
    "videos":[
