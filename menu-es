@@ -15,7 +15,7 @@
          "app_flow_id":0,
          "is_web":true
       },
- {
+      {
          "id":2,
          "title":"Misionero",
          "url":"https://cldup.com/vMnHRKc_qB.pdf",
@@ -67,7 +67,6 @@
          "app_flow_id":0,
          "is_web":true
       },
-
       {
          "id":6,
          "title":"Sabbath.School",
@@ -81,7 +80,7 @@
          "app_flow_id":9,
          "is_web":true
       },
-{
+      {
          "id":7,
          "title":"Conferencia",
          "url":"https://absg.sspmadventist.org/lang/es",
@@ -202,7 +201,7 @@
          "app_flow_id":0,
          "is_web":true
       },
-  {
+      {
          "id":7,
          "title":"Matutina Adventista",
          "url":"https://matutinaadventista.com/",
@@ -217,6 +216,19 @@
       }
    ],
    "videos":[
+      {
+         "id":5,
+         "title":"JOSUE - Ptr. Daniel Araujo",
+         "url":"https://www.youtube.com/watch?v=5CTAjNYGqM8&list=PLYVKissBrXX0QodJkhJf1KEVGnitozuKk",
+         "creator":"Ptr. Daniel Araujo",
+         "visible":true,
+         "typeId":1,
+         "img":"https://cldup.com/eirxfibP7R.png",
+         "description":"",
+         "featured":true,
+         "app_flow_id":0,
+         "is_web":true
+      },
       {
          "id":1,
          "title":"Lección GP",
