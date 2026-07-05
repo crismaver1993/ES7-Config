@@ -2,6 +2,20 @@
    "id":1,
    "language":"es",
    "features":[
+
+  {
+         "id":8,
+         "title":"Eternity Kids: Aventuras de Fe",
+         "url":"https://www.youtube.com/@eternityKidsAF",
+         "creator":"eternityKidsAF",
+         "visible":true,
+         "typeId":100,
+         "img":"https://cldup.com/bOCpuntpTr.jpeg",
+         "description":"",
+         "featured":true,
+         "app_flow_id":0,
+         "is_web":true
+      },
       {
          "id":1,
          "title":"Escuela Sabática Universitaria",
